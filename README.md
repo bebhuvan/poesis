@@ -5,10 +5,10 @@ A comprehensive system for scraping, validating, and curating public domain poet
 ## Features
 
 ### 🔍 **Multi-Source Scraping**
-- Wikisource API integration (primary source)
+- **Wikisource API** - Comprehensive poetry database (fully implemented)
+- **Poets.org** - Public domain anthology with explicit PD markers (fully implemented)
 - Poetry Foundation support (planned)
-- Poets.org support (planned)
-- Wikipedia for poet metadata
+- Wikipedia and Wikidata for poet metadata
 
 ### ✅ **Link Verification**
 - **Zero hallucination guarantee**: All URLs verified with actual HTTP requests
@@ -48,20 +48,33 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-### Dry Run (Test Mode)
-See what the system would do without saving any files:
+### Scraping from Poets.org (Recommended for Public Domain)
+
+Poets.org explicitly marks poems with "This poem is in the public domain" - making it the most reliable source:
 
 ```bash
+# Dry run to see what would be scraped
+python main_poets_org.py --dry-run --target 10
+
+# Collect 50 public domain poems from poets.org
+python main_poets_org.py --target 50
+
+# Collect with verbose logging
+python main_poets_org.py --target 100 --verbose
+```
+
+### Scraping from Wikisource
+
+Wikisource provides comprehensive coverage with metadata:
+
+```bash
+# Dry run (Test Mode)
 python main.py --dry-run
-```
 
-### Collect 50 Poems (Phase 1)
-```bash
+# Collect 50 Poems
 python main.py --target 50
-```
 
-### Collect 100 Poems with Verbose Logging
-```bash
+# Collect 100 Poems with Verbose Logging
 python main.py --target 100 --verbose
 ```
 
@@ -108,9 +121,11 @@ Over many a quaint and curious volume of forgotten lore—
 
 ```
 poesis/
-├── main.py                    # Main orchestrator
+├── main.py                    # Main orchestrator for Wikisource
+├── main_poets_org.py          # Main orchestrator for Poets.org
 ├── config.py                  # Configuration settings
 ├── wikisource_scraper.py      # Wikisource API scraper
+├── poets_org_scraper.py       # Poets.org scraper (with explicit PD markers)
 ├── link_verifier.py           # Link verification with HTTP checks
 ├── public_domain.py           # Public domain validator
 ├── markdown_generator.py      # Markdown file generator
@@ -237,13 +252,16 @@ This is a personal project for building a poetry collection. Feel free to fork a
 
 ## Roadmap
 
+- [x] Add Poets.org scraper with explicit PD marker detection
 - [ ] Add Poetry Foundation scraper
-- [ ] Add Poets.org scraper
 - [ ] Multi-language Wikisource support (French, Spanish, German, etc.)
+- [ ] Improve poem text extraction (remove HTML artifacts)
+- [ ] Enhanced author date extraction from poets.org
 - [ ] Genre/form classification
 - [ ] Emotional/thematic tagging
 - [ ] Export to website-ready format
 - [ ] Duplicate detection across sources
+- [ ] Merge results from multiple sources into one curated collection
 
 ## Questions?
 
