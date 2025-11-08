@@ -103,6 +103,35 @@ class WikisourceScraper:
         Returns:
             Author name if found in path
         """
+        # Well-known poetry collections and their authors
+        known_collections = {
+            "A Diversity of Creatures": "Rudyard Kipling",
+            "Alice in Wonderland": "Lewis Carroll",
+            "Alice's Adventures in Wonderland": "Lewis Carroll",
+            "Nonsense Songs, Stories, Botany, and Alphabets": "Edward Lear",
+            "The Wanderings of Oisin and Other Poems": "William Butler Yeats",
+            "Sword Blades and Poppy Seed": "Amy Lowell",
+            "Mountain Interval": "Robert Frost",
+            "The Temple: Sacred Poems and Private Ejaculations": "George Herbert",
+            "The Bad Child's Book Of Beasts": "Hilaire Belloc",
+            "The Ballad of St. Barbara and other verses": "G. K. Chesterton",
+            "Bells and Pomegranates": "Robert Browning",
+            "The Black Riders & Other Lines": "Stephen Crane",
+            "The Black Riders and Other Lines": "Stephen Crane",
+            "The Children of the Night": "Edwin Arlington Robinson",
+            "Enamels and Cameos": "Théophile Gautier",
+            "The Inn of Dreams": "Zoe Akins",
+            "Prometheus Bound, and other poems": "Elizabeth Barrett Browning",
+            "The Book of the Duchess": "Geoffrey Chaucer",
+            "In the Days When the World was Wide and Other Verses": "A. B. Paterson",
+            "Rudyard Kipling's Verse, Inclusive Edition, 1885-1918": "Rudyard Kipling",
+        }
+
+        # Check if title starts with a known collection
+        for collection, author in known_collections.items():
+            if title.startswith(collection + "/") or title == collection:
+                return author
+
         # Common collection path patterns
         patterns = [
             r'^The Complete Poems of ([^/]+)/',
