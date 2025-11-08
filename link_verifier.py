@@ -110,6 +110,11 @@ class LinkVerifier:
         Returns:
             Dictionary with verified links
         """
+        # Skip link verification for Unknown authors
+        if not poet_name or poet_name == 'Unknown' or poet_name.lower() == 'unknown':
+            logger.debug(f"Skipping link verification for Unknown author")
+            return {}
+
         # Generate potential URLs
         name_slug = poet_name.lower().replace(" ", "-")
         name_wiki = poet_name.replace(" ", "_")

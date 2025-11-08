@@ -93,6 +93,75 @@ class WikisourceScraper:
             logger.error(f"Error searching Wikisource: {str(e)}")
             return []
 
+    def extract_author_from_path(self, title: str) -> Optional[str]:
+        """
+        Extract author from collection path like "The Complete Poems of Paul Laurence Dunbar/The Crisis".
+
+        Args:
+            title: Page title
+
+        Returns:
+            Author name if found in path
+        """
+        # Common collection path patterns
+        patterns = [
+            r'^The Complete Poems of ([^/]+)/',
+            r'^Poems \(([^)]+)\)/',
+            r'^Works of ([^/]+)/',
+            r'^The Poems of ([^/]+)/',
+            r'^([^/]+)\'s Poems/',
+        ]
+
+        for pattern in patterns:
+            match = re.search(pattern, title)
+            if match:
+                author = match.group(1).strip()
+                # Remove year ranges from collection names
+                author = re.sub(r'\s*\d{4}(?:-\d{4})?\s*', '', author)
+                return author
+
+        return None
+
+    def validate_author_name(self, author: str) -> bool:
+        """
+        Validate that an extracted author name is reasonable.
+
+        Args:
+            author: Potential author name
+
+        Returns:
+            True if name seems valid, False otherwise
+        """
+        if not author or len(author) < 2:
+            return False
+
+        # Reject obvious non-names
+        invalid_patterns = [
+            r'^\d+$',                           # Just numbers like "1", "2"
+            r'^(1st|2nd|3rd|\d+th)\s+',        # Version indicators
+            r'version',                         # Contains "version"
+            r'^(here|there|i |we |you |he |she |it |they )',  # Starts like poem text
+            r'buried|lies|died',                # Poem text
+            r'^notebook$',                      # "Notebook" alone
+            r'shorter|longer|revised',          # Editorial terms
+        ]
+
+        author_lower = author.lower()
+        for pattern in invalid_patterns:
+            if re.search(pattern, author_lower):
+                logger.debug(f"Rejected invalid author name: {author}")
+                return False
+
+        # Must contain at least one letter
+        if not re.search(r'[a-zA-Z]', author):
+            return False
+
+        # Reject if too long (likely first line of poem)
+        if len(author) > 80:
+            return False
+
+        return True
+
     def extract_author_from_title(self, title: str) -> Optional[str]:
         """
         Extract author from title if present in parentheses.
@@ -109,7 +178,9 @@ class WikisourceScraper:
             potential_author = match.group(1)
             # Filter out things that aren't likely author names
             if not any(word in potential_author.lower() for word in ['poem', 'song', 'verse', 'excerpt']):
-                return potential_author
+                # Validate the name
+                if self.validate_author_name(potential_author):
+                    return potential_author
         return None
 
     def get_page_content(self, title: str) -> Optional[Dict]:
@@ -501,20 +572,37 @@ class WikisourceScraper:
         # Try multiple strategies to extract author
         author = None
 
-        # Strategy 1: Extract from categories
-        author = self.extract_author_from_categories(content['categories'])
+        # Strategy 1: Extract from collection path (highest priority for anthology poems)
+        author = self.extract_author_from_path(title)
 
-        # Strategy 2: Extract from title (e.g., "Poem Title (Author Name)")
+        # Strategy 2: Extract from categories
+        if not author:
+            author_candidate = self.extract_author_from_categories(content['categories'])
+            if author_candidate and self.validate_author_name(author_candidate):
+                author = author_candidate
+
+        # Strategy 3: Extract from title (e.g., "Poem Title (Author Name)")
         if not author:
             author = self.extract_author_from_title(title)
 
-        # Strategy 3: Look for author in page properties (if available)
+        # Strategy 4: Look for author in page properties (if available)
         if not author and 'properties' in content:
             # Some Wikisource pages have author properties
             for prop in content.get('properties', []):
                 if 'author' in prop.get('name', '').lower():
-                    author = prop.get('*')
-                    break
+                    author_candidate = prop.get('*')
+                    if author_candidate and self.validate_author_name(author_candidate):
+                        author = author_candidate
+                        break
+
+        # Special case handling for known patterns
+        if author:
+            # Fix "Blake's Notebook" → "William Blake"
+            if 'blake' in author.lower() and 'notebook' in author.lower():
+                author = "William Blake"
+            # Remove trailing descriptors
+            author = re.sub(r',\s*(Notebook|tr\.|trans\.).*$', '', author, flags=re.IGNORECASE)
+            author = author.strip()
 
         # Get poet information
         poet_info = None
