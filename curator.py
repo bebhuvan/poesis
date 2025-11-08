@@ -104,8 +104,8 @@ class PoemCurator:
             'reject': score < 0
         }
 
-    def should_select(self, poem: Dict, max_per_author: int = 3,
-                     max_per_century: int = 20) -> Dict:
+    def should_select(self, poem: Dict, max_per_author: int = 5,
+                     max_per_century: int = 60) -> Dict:
         """
         Determine if poem should be selected for collection.
 

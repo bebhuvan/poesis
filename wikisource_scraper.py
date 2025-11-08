@@ -105,26 +105,63 @@ class WikisourceScraper:
         """
         # Well-known poetry collections and their authors
         known_collections = {
+            # Kipling
             "A Diversity of Creatures": "Rudyard Kipling",
+            "Rudyard Kipling's Verse, Inclusive Edition, 1885-1918": "Rudyard Kipling",
+
+            # Carroll
             "Alice in Wonderland": "Lewis Carroll",
             "Alice's Adventures in Wonderland": "Lewis Carroll",
+            "Through the Looking-Glass": "Lewis Carroll",
+
+            # Lear
             "Nonsense Songs, Stories, Botany, and Alphabets": "Edward Lear",
+            "A Book of Nonsense": "Edward Lear",
+
+            # Yeats
             "The Wanderings of Oisin and Other Poems": "William Butler Yeats",
+            "The Wind Among the Reeds": "William Butler Yeats",
+            "Crossways": "William Butler Yeats",
+
+            # American poets
             "Sword Blades and Poppy Seed": "Amy Lowell",
             "Mountain Interval": "Robert Frost",
+            "North of Boston": "Robert Frost",
+            "A Boy's Will": "Robert Frost",
+            "The Black Riders & Other Lines": "Stephen Crane",
+            "The Black Riders and Other Lines": "Stephen Crane",
+            "The Children of the Night": "Edwin Arlington Robinson",
+            "The Inn of Dreams": "Zoe Akins",
+
+            # British poets
             "The Temple: Sacred Poems and Private Ejaculations": "George Herbert",
             "The Bad Child's Book Of Beasts": "Hilaire Belloc",
             "The Ballad of St. Barbara and other verses": "G. K. Chesterton",
             "Bells and Pomegranates": "Robert Browning",
-            "The Black Riders & Other Lines": "Stephen Crane",
-            "The Black Riders and Other Lines": "Stephen Crane",
-            "The Children of the Night": "Edwin Arlington Robinson",
-            "Enamels and Cameos": "Théophile Gautier",
-            "The Inn of Dreams": "Zoe Akins",
+            "Bells and Pomegranates, First Series": "Robert Browning",
+            "Bells and Pomegranates, Second Series": "Robert Browning",
             "Prometheus Bound, and other poems": "Elizabeth Barrett Browning",
+            "Enamels and Cameos": "Théophile Gautier",
+
+            # Medieval
             "The Book of the Duchess": "Geoffrey Chaucer",
+            "The Canterbury Tales": "Geoffrey Chaucer",
+
+            # Australian poets
             "In the Days When the World was Wide and Other Verses": "A. B. Paterson",
-            "Rudyard Kipling's Verse, Inclusive Edition, 1885-1918": "Rudyard Kipling",
+
+            # Blake - multiple notebooks and collections
+            "Blake's Notebook": "William Blake",
+            "Songs of Innocence and of Experience": "William Blake",
+            "Songs of Innocence": "William Blake",
+            "Songs of Experience": "William Blake",
+
+            # Paul Laurence Dunbar
+            "The Complete Poems of Paul Laurence Dunbar": "Paul Laurence Dunbar",
+            "Lyrics of Lowly Life": "Paul Laurence Dunbar",
+            "Lyrics of the Hearthside": "Paul Laurence Dunbar",
+            "Lyrics of Love and Laughter": "Paul Laurence Dunbar",
+            "Lyrics of Sunshine and Shadow": "Paul Laurence Dunbar",
         }
 
         # Check if title starts with a known collection
@@ -383,7 +420,14 @@ class WikisourceScraper:
                 author = cat_name.replace('Category:', '').replace('Works by', '').strip()
                 return author
 
-            # Look for author categories
+            # Look for "Poetry by", "Poems by", "Verse by" patterns
+            for pattern in ['Poetry by', 'Poems by', 'Verse by', 'Works of']:
+                if pattern in cat_name:
+                    author = cat_name.replace('Category:', '').replace(pattern, '').strip()
+                    if author:
+                        return author
+
+            # Look for author categories with roles
             if 'Category:' in cat_name and any(word in cat_name for word in ['Poet', 'Author', 'Writer']):
                 author = cat_name.replace('Category:', '').strip()
                 for word in ['Poet', 'Author', 'Writer']:
