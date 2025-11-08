@@ -23,23 +23,24 @@ class PoetsOrgScraper:
         self.session.headers.update({'User-Agent': USER_AGENT})
         self.base_url = "https://poets.org"
 
-    def search_public_domain_poems(self, limit: int = 100, max_pages: int = 50) -> List[Dict]:
+    def search_public_domain_poems(self, limit: int = 100, max_pages: int = 50, start_page: int = 0) -> List[Dict]:
         """
         Search for public domain poems on poets.org by browsing the poems section.
 
         Args:
             limit: Maximum number of poem links to collect
             max_pages: Maximum number of pages to browse
+            start_page: Page number to start browsing from (default: 0)
 
         Returns:
             List of poem metadata dictionaries
         """
-        logger.info(f"Searching poets.org poems section (limit: {limit}, max pages: {max_pages})")
+        logger.info(f"Searching poets.org poems section (limit: {limit}, max pages: {max_pages}, starting from page: {start_page})")
 
         poem_links = []
 
         # Browse the main poems section with pagination
-        for page_num in range(max_pages):
+        for page_num in range(start_page, start_page + max_pages):
             if len(poem_links) >= limit:
                 break
 
@@ -47,7 +48,7 @@ class PoetsOrgScraper:
             browse_url = f"{self.base_url}/poems?page={page_num}"
 
             try:
-                logger.info(f"Browsing page {page_num + 1}/{max_pages}...")
+                logger.info(f"Browsing page {page_num + 1}/{start_page + max_pages}...")
                 response = self.session.get(browse_url, timeout=HTTP_TIMEOUT)
                 response.raise_for_status()
 
@@ -254,13 +255,14 @@ class PoetsOrgScraper:
             logger.error(f"Error fetching poem from {poem_url}: {str(e)}")
             return None
 
-    def get_poems(self, limit: int = 50, max_browse_pages: int = 50) -> List[Dict]:
+    def get_poems(self, limit: int = 50, max_browse_pages: int = 50, start_page: int = 0) -> List[Dict]:
         """
         Get a collection of public domain poems from poets.org.
 
         Args:
             limit: Maximum number of PUBLIC DOMAIN poems to collect
             max_browse_pages: Maximum pages to browse looking for PD poems
+            start_page: Page number to start browsing from (default: 0)
 
         Returns:
             List of poem dictionaries with full content and metadata (only public domain)
@@ -268,7 +270,7 @@ class PoetsOrgScraper:
         # Step 1: Browse many pages to find poem links
         # We'll check way more than limit since most won't be public domain
         browse_limit = limit * 20  # Check 20x as many poems to find enough PD ones
-        poem_links = self.search_public_domain_poems(limit=browse_limit, max_pages=max_browse_pages)
+        poem_links = self.search_public_domain_poems(limit=browse_limit, max_pages=max_browse_pages, start_page=start_page)
 
         if not poem_links:
             logger.warning("No poem links found on poets.org")
