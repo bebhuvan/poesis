@@ -17,7 +17,7 @@ HTTP_TIMEOUT = 10
 PUBLIC_DOMAIN_THRESHOLD = 70
 
 # Target collection size
-TARGET_POEMS = 50  # Phase 1
+TARGET_POEMS = 200  # Phase 2: Building substantial collection
 
 # User agent for requests
 USER_AGENT = "PoesisScraper/1.0 (Educational poetry collection; respecting robots.txt)"
