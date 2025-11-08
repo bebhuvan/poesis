@@ -100,8 +100,13 @@ class PublicDomainValidator:
         result['publication_year'] = publication_year
 
         # Additional check: if publication date is very old, likely public domain
-        if publication_year and publication_year < 1928:  # Pre-1928 works generally public domain in US
-            result['additional_note'] = f'Published in {publication_year} (pre-1928) - likely public domain in US'
+        if publication_year:
+            try:
+                pub_year_int = int(publication_year)
+                if pub_year_int < 1928:  # Pre-1928 works generally public domain in US
+                    result['additional_note'] = f'Published in {pub_year_int} (pre-1928) - likely public domain in US'
+            except (ValueError, TypeError):
+                pass  # Skip if publication_year is not a valid number
 
         # Log validation result
         if result['is_public_domain']:
