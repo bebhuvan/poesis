@@ -148,7 +148,8 @@ def main(target_count: int = TARGET_POEMS, dry_run: bool = False):
             pd_result = pd_validator.validate_poem(
                 author=poem.get('author', 'Unknown'),
                 death_year=poem.get('poet_death_year'),
-                publication_year=None  # Could extract from Wikisource if available
+                publication_year=None,  # Could extract from Wikisource if available
+                source_url=poem.get('source_url')  # For Wikisource trust validation
             )
             public_domain_results[poem['title']] = pd_result
 

@@ -64,7 +64,8 @@ class PublicDomainValidator:
             }
 
     def validate_poem(self, author: str, death_year: Optional[int],
-                     publication_year: Optional[int] = None) -> Dict:
+                     publication_year: Optional[int] = None,
+                     source_url: Optional[str] = None) -> Dict:
         """
         Comprehensive public domain validation for a poem.
 
@@ -72,11 +73,28 @@ class PublicDomainValidator:
             author: Author name
             death_year: Year author died
             publication_year: Year poem was published (optional, for additional checks)
+            source_url: Source URL (for Wikisource trust validation)
 
         Returns:
             Validation results dictionary
         """
-        result = self.is_public_domain(death_year)
+        # Trust Wikisource - all content there is public domain or freely licensed
+        if source_url and 'wikisource.org' in source_url:
+            if death_year:
+                # We have death date - validate normally for best metadata
+                result = self.is_public_domain(death_year)
+            else:
+                # No death date but from Wikisource - trust it
+                result = {
+                    'is_public_domain': True,
+                    'confidence': 'medium',
+                    'years_since_death': None,
+                    'reason': 'From Wikisource (trusted public domain source)'
+                }
+        else:
+            # Not from Wikisource - require death date validation
+            result = self.is_public_domain(death_year)
+
         result['author'] = author
         result['death_year'] = death_year
         result['publication_year'] = publication_year
