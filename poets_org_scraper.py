@@ -23,50 +23,76 @@ class PoetsOrgScraper:
         self.session.headers.update({'User-Agent': USER_AGENT})
         self.base_url = "https://poets.org"
 
-    def search_public_domain_poems(self, limit: int = 100) -> List[Dict]:
+    def search_public_domain_poems(self, limit: int = 100, max_pages: int = 50) -> List[Dict]:
         """
-        Search for public domain poems on poets.org.
+        Search for public domain poems on poets.org by browsing the poems section.
 
         Args:
-            limit: Maximum number of poems to fetch
+            limit: Maximum number of poem links to collect
+            max_pages: Maximum number of pages to browse
 
         Returns:
             List of poem metadata dictionaries
         """
-        logger.info(f"Searching poets.org for public domain poems (limit: {limit})")
+        logger.info(f"Searching poets.org poems section (limit: {limit}, max pages: {max_pages})")
 
-        # The main public domain anthology page
-        anthology_url = f"{self.base_url}/anthology/poems-public-domain"
+        poem_links = []
 
-        try:
-            response = self.session.get(anthology_url, timeout=HTTP_TIMEOUT)
-            response.raise_for_status()
+        # Browse the main poems section with pagination
+        for page_num in range(max_pages):
+            if len(poem_links) >= limit:
+                break
 
-            soup = BeautifulSoup(response.content, 'html.parser')
+            # poets.org uses ?page=N for pagination
+            browse_url = f"{self.base_url}/poems?page={page_num}"
 
-            # Find all poem entries
-            # Poems are typically in article or div containers with specific classes
-            poem_links = []
+            try:
+                logger.info(f"Browsing page {page_num + 1}/{max_pages}...")
+                response = self.session.get(browse_url, timeout=HTTP_TIMEOUT)
+                response.raise_for_status()
 
-            # Strategy 1: Find poem title links
-            for link in soup.find_all('a', href=re.compile(r'^/poem/')):
-                poem_url = link.get('href')
-                if poem_url and poem_url not in [p['url'] for p in poem_links]:
-                    poem_links.append({
-                        'title': link.get_text(strip=True),
-                        'url': poem_url if poem_url.startswith('http') else f"{self.base_url}{poem_url}"
-                    })
+                soup = BeautifulSoup(response.content, 'html.parser')
 
-                    if len(poem_links) >= limit:
-                        break
+                # Find all poem title links on this page
+                page_links = []
+                for link in soup.find_all('a', href=re.compile(r'^/poem/')):
+                    poem_url = link.get('href')
+                    title = link.get_text(strip=True)
 
-            logger.info(f"Found {len(poem_links)} poem links on poets.org")
-            time.sleep(REQUEST_DELAY)
-            return poem_links
+                    # Skip if empty or already found
+                    if not title or not poem_url:
+                        continue
 
-        except Exception as e:
-            logger.error(f"Error searching poets.org: {str(e)}")
-            return []
+                    full_url = poem_url if poem_url.startswith('http') else f"{self.base_url}{poem_url}"
+
+                    # Check if we already have this URL
+                    if full_url not in [p['url'] for p in poem_links]:
+                        page_links.append({
+                            'title': title,
+                            'url': full_url
+                        })
+
+                logger.info(f"  Found {len(page_links)} poem links on page {page_num + 1}")
+                poem_links.extend(page_links)
+
+                # Stop if we've reached the limit
+                if len(poem_links) >= limit:
+                    poem_links = poem_links[:limit]
+                    break
+
+                # If no poems found on this page, we've probably reached the end
+                if not page_links:
+                    logger.info(f"No poems found on page {page_num + 1} - stopping")
+                    break
+
+                time.sleep(REQUEST_DELAY)
+
+            except Exception as e:
+                logger.error(f"Error browsing page {page_num + 1}: {str(e)}")
+                break
+
+        logger.info(f"Collected {len(poem_links)} total poem links from poets.org")
+        return poem_links
 
     def extract_lifespan(self, text: str) -> tuple[Optional[int], Optional[int]]:
         """
@@ -228,33 +254,52 @@ class PoetsOrgScraper:
             logger.error(f"Error fetching poem from {poem_url}: {str(e)}")
             return None
 
-    def get_poems(self, limit: int = 50) -> List[Dict]:
+    def get_poems(self, limit: int = 50, max_browse_pages: int = 50) -> List[Dict]:
         """
         Get a collection of public domain poems from poets.org.
 
         Args:
-            limit: Maximum number of poems to collect
+            limit: Maximum number of PUBLIC DOMAIN poems to collect
+            max_browse_pages: Maximum pages to browse looking for PD poems
 
         Returns:
-            List of poem dictionaries with full content and metadata
+            List of poem dictionaries with full content and metadata (only public domain)
         """
-        # Step 1: Find poem links
-        poem_links = self.search_public_domain_poems(limit=limit)
+        # Step 1: Browse many pages to find poem links
+        # We'll check way more than limit since most won't be public domain
+        browse_limit = limit * 20  # Check 20x as many poems to find enough PD ones
+        poem_links = self.search_public_domain_poems(limit=browse_limit, max_pages=max_browse_pages)
 
         if not poem_links:
             logger.warning("No poem links found on poets.org")
             return []
 
-        # Step 2: Fetch each poem's content
-        poems = []
-        for i, link in enumerate(poem_links[:limit], 1):
-            logger.info(f"[{i}/{min(len(poem_links), limit)}] Fetching: {link['title']}")
+        logger.info(f"Found {len(poem_links)} poem links to check for public domain status")
+
+        # Step 2: Fetch each poem and filter for public domain
+        public_domain_poems = []
+        checked_count = 0
+
+        for i, link in enumerate(poem_links, 1):
+            # Stop if we've found enough public domain poems
+            if len(public_domain_poems) >= limit:
+                logger.info(f"Reached target of {limit} public domain poems")
+                break
+
+            checked_count += 1
+            logger.info(f"[{i}/{len(poem_links)}] Checking: {link['title']} (Found {len(public_domain_poems)} PD poems so far)")
 
             poem = self.get_poem_content(link['url'])
-            if poem:
-                poems.append(poem)
-            else:
-                logger.warning(f"Failed to fetch: {link['title']}")
 
-        logger.info(f"Successfully fetched {len(poems)} poems from poets.org")
-        return poems
+            if poem:
+                # Only keep poems that are explicitly marked as public domain
+                if poem.get('public_domain_confirmed'):
+                    public_domain_poems.append(poem)
+                    logger.info(f"  ✓ PUBLIC DOMAIN - Added to collection ({len(public_domain_poems)}/{limit})")
+                else:
+                    logger.info(f"  ✗ Not public domain - skipping")
+            else:
+                logger.warning(f"  Failed to fetch")
+
+        logger.info(f"Successfully found {len(public_domain_poems)} public domain poems after checking {checked_count} poems")
+        return public_domain_poems
