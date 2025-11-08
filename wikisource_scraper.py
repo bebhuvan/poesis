@@ -59,14 +59,33 @@ class WikisourceScraper:
             data = response.json()
 
             poems = []
+            skip_patterns = [
+                r'/Index$',          # Index pages
+                r'/Versions$',       # Version pages
+                r'^Index:',          # Index namespace
+                r'^Portal:',         # Portal pages
+                r'^Category:',       # Category pages
+            ]
+
             if 'query' in data and 'categorymembers' in data['query']:
                 for item in data['query']['categorymembers']:
-                    poems.append({
-                        'title': item['title'],
-                        'pageid': item['pageid']
-                    })
+                    title = item['title']
 
-            logger.info(f"Found {len(poems)} poems in Wikisource")
+                    # Skip obvious index/metadata pages
+                    skip = False
+                    for pattern in skip_patterns:
+                        if re.search(pattern, title):
+                            skip = True
+                            logger.debug(f"Skipping index/meta page: {title}")
+                            break
+
+                    if not skip:
+                        poems.append({
+                            'title': title,
+                            'pageid': item['pageid']
+                        })
+
+            logger.info(f"Found {len(poems)} poems in Wikisource (after filtering)")
             time.sleep(REQUEST_DELAY)
             return poems
 
@@ -131,17 +150,89 @@ class WikisourceScraper:
             html_content = parse_data.get('text', {}).get('*', '')
             soup = BeautifulSoup(html_content, 'html.parser')
 
-            # Remove unwanted elements
-            for element in soup.find_all(['script', 'style', 'table']):
+            # Remove Wikisource-specific navigation and metadata elements
+            unwanted_selectors = [
+                'script', 'style', 'table',
+                '.mw-editsection',           # Edit links
+                '.ws-noexport',              # Non-exportable content
+                '.headertemplate',           # Header templates
+                '.footertemplate',           # Footer templates
+                '.navigation',               # Navigation boxes
+                '.sister-wikipedia',         # Sister project links
+                '.sister-projects',          # Sister project boxes
+                '.portal',                   # Portal links
+                '.noprint',                  # Non-printable elements
+                '.printfooter',              # Print footer
+                '.catlinks',                 # Category links
+                '#toc',                      # Table of contents
+            ]
+
+            for selector in unwanted_selectors:
+                for element in soup.select(selector):
+                    element.decompose()
+
+            # Also remove elements by tag
+            for element in soup.find_all(['script', 'style', 'table', 'sup']):
                 element.decompose()
 
-            # Get text content
-            text_content = soup.get_text()
+            # Try to find the poem content in specific containers
+            # Wikisource often puts poems in divs with class "poem" or in the main content area
+            poem_container = None
 
-            # Clean up the text
-            lines = [line.strip() for line in text_content.split('\n')]
-            clean_lines = [line for line in lines if line]
-            poem_text = '\n'.join(clean_lines)
+            # Strategy 1: Look for poem-specific containers
+            for selector in ['.poem', '.mw-parser-output > p', '.mw-parser-output']:
+                candidates = soup.select(selector)
+                if candidates:
+                    # Take the largest text block as the poem
+                    poem_container = max(candidates, key=lambda x: len(x.get_text()))
+                    if len(poem_container.get_text().strip()) > 100:  # Minimum length
+                        break
+
+            # Get text content from poem container or full soup
+            if poem_container:
+                text_content = poem_container.get_text()
+            else:
+                text_content = soup.get_text()
+
+            # Clean up the text - remove common Wikisource artifacts
+            lines = []
+            skip_patterns = [
+                r'^←.*→$',                      # Navigation arrows
+                r'^For works with similar',    # Similar works notice
+                r'^Versions of',                # Versions notice
+                r'versions? of\s+\w+\s+include', # Version lists
+                r'^\d+$',                       # Standalone numbers (page numbers)
+                r'^This work',                  # Copyright notices at end
+                r'^Public domain',              # Public domain notices
+                r'^\s*false\s*$',               # Boolean artifacts
+                r'^See also',                   # See also sections
+                r'^\[edit\]$',                  # Edit links
+                r'^Retrieved from',             # Source attribution
+                r'^Categories?:',               # Category listings
+                r'in\s+.+\s*\(\d{4}\)\s*$',    # Publication info like "in Poems (1830)"
+            ]
+
+            for line in text_content.split('\n'):
+                line = line.strip()
+                if not line:
+                    continue
+
+                # Skip lines matching unwanted patterns
+                skip = False
+                for pattern in skip_patterns:
+                    if re.search(pattern, line, re.IGNORECASE):
+                        skip = True
+                        break
+
+                if not skip and len(line) > 1:  # Skip single characters
+                    lines.append(line)
+
+            poem_text = '\n'.join(lines)
+
+            # If poem is suspiciously short, it might be an index page
+            if len(poem_text) < 50:
+                logger.warning(f"Poem text very short ({len(poem_text)} chars), might be index page: {title}")
+
 
             # Get categories
             categories = [cat for cat in parse_data.get('categories', [])]

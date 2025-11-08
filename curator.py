@@ -75,7 +75,7 @@ class PoemCurator:
             score += 10
             details.append('+10: Has Wikipedia link')
 
-        # Text length (prefer substantial poems, not fragments)
+        # Text length (prefer substantial poems, not fragments or index pages)
         text_length = len(poem.get('text', ''))
         if text_length > 500:
             score += 15
@@ -83,9 +83,12 @@ class PoemCurator:
         elif text_length > 200:
             score += 10
             details.append('+10: Moderate length')
-        elif text_length < 50:
-            score -= 20
-            details.append('-20: Too short (likely fragment)')
+        elif text_length < 100:
+            score -= 50
+            details.append(f'-50: Too short ({text_length} chars - likely index page or fragment)')
+        elif text_length < 150:
+            score -= 10
+            details.append('-10: Very short')
 
         # Source URL (critical for non-hallucination)
         if poem.get('source_url'):
