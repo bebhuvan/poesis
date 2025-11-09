@@ -12,7 +12,7 @@ class PoemCurator:
 
     def __init__(self):
         """Initialize curator."""
-        self.selected_authors = set()
+        self.selected_authors = defaultdict(int)  # Changed from set to defaultdict(int) to count poems per author
         self.selected_centuries = defaultdict(int)
         self.stats = {
             'total_processed': 0,
@@ -124,7 +124,7 @@ class PoemCurator:
         reasons = []
 
         # Check author diversity
-        author_count = sum(1 for a in self.selected_authors if a == author)
+        author_count = self.selected_authors[author]  # Get count from defaultdict
         if author_count >= max_per_author:
             return {
                 'select': False,
@@ -141,7 +141,7 @@ class PoemCurator:
             reasons.append(f'Century {century}th: {self.selected_centuries[century]}/{max_per_century}')
 
         # Prefer new authors
-        if author not in self.selected_authors:
+        if self.selected_authors[author] == 0:
             reasons.append('NEW AUTHOR - preferred')
 
         return {
@@ -160,7 +160,7 @@ class PoemCurator:
         death_year = poem.get('poet_death_year')
         century = self.get_century(death_year) if death_year else None
 
-        self.selected_authors.add(author)
+        self.selected_authors[author] += 1  # Increment counter instead of adding to set
         if century:
             self.selected_centuries[century] += 1
 
