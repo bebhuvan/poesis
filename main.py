@@ -103,7 +103,8 @@ def main(target_count: int = TARGET_POEMS, dry_run: bool = False):
         logger.info(f"{'='*60}")
 
         # Search for more than target to account for filtering
-        search_limit = target_count * 5
+        # With pagination support, we can search 1500+ poems to ensure diversity
+        search_limit = target_count * 8
         poem_candidates = scraper.search_poems(limit=search_limit)
 
         logger.info(f"Found {len(poem_candidates)} poem candidates")

@@ -30,60 +30,83 @@ class WikisourceScraper:
 
     def search_poems(self, limit: int = 100) -> List[Dict]:
         """
-        Search for poems in Wikisource.
+        Search for poems in Wikisource with pagination support.
 
         Args:
-            limit: Maximum number of results
+            limit: Maximum number of results (can exceed 500 with pagination)
 
         Returns:
             List of poem metadata dictionaries
         """
         logger.info(f"Searching Wikisource for poems (limit: {limit})")
 
-        # Search in Category:Poems to find poetry pages
-        params = {
-            'action': 'query',
-            'list': 'categorymembers',
-            'cmtitle': 'Category:Poems',
-            'cmlimit': limit,
-            'format': 'json'
-        }
+        poems = []
+        skip_patterns = [
+            r'/Index$',          # Index pages
+            r'/Versions$',       # Version pages
+            r'^Index:',          # Index namespace
+            r'^Portal:',         # Portal pages
+            r'^Category:',       # Category pages
+        ]
+
+        # MediaWiki API max limit per request is 500
+        # Use pagination to fetch more
+        continue_token = None
+        batch_size = min(500, limit)
 
         try:
-            response = self.session.get(
-                self.api_base,
-                params=params,
-                timeout=HTTP_TIMEOUT
-            )
-            response.raise_for_status()
-            data = response.json()
+            while len(poems) < limit:
+                # Search in Category:Poems to find poetry pages
+                params = {
+                    'action': 'query',
+                    'list': 'categorymembers',
+                    'cmtitle': 'Category:Poems',
+                    'cmlimit': batch_size,
+                    'format': 'json'
+                }
 
-            poems = []
-            skip_patterns = [
-                r'/Index$',          # Index pages
-                r'/Versions$',       # Version pages
-                r'^Index:',          # Index namespace
-                r'^Portal:',         # Portal pages
-                r'^Category:',       # Category pages
-            ]
+                # Add continuation token if we have one
+                if continue_token:
+                    params['cmcontinue'] = continue_token
 
-            if 'query' in data and 'categorymembers' in data['query']:
-                for item in data['query']['categorymembers']:
-                    title = item['title']
+                response = self.session.get(
+                    self.api_base,
+                    params=params,
+                    timeout=HTTP_TIMEOUT
+                )
+                response.raise_for_status()
+                data = response.json()
 
-                    # Skip obvious index/metadata pages
-                    skip = False
-                    for pattern in skip_patterns:
-                        if re.search(pattern, title):
-                            skip = True
-                            logger.debug(f"Skipping index/meta page: {title}")
-                            break
+                if 'query' in data and 'categorymembers' in data['query']:
+                    for item in data['query']['categorymembers']:
+                        title = item['title']
 
-                    if not skip:
-                        poems.append({
-                            'title': title,
-                            'pageid': item['pageid']
-                        })
+                        # Skip obvious index/metadata pages
+                        skip = False
+                        for pattern in skip_patterns:
+                            if re.search(pattern, title):
+                                skip = True
+                                logger.debug(f"Skipping index/meta page: {title}")
+                                break
+
+                        if not skip:
+                            poems.append({
+                                'title': title,
+                                'pageid': item['pageid']
+                            })
+
+                            # Stop if we've reached the limit
+                            if len(poems) >= limit:
+                                break
+
+                # Check if there are more results
+                if 'continue' in data and 'cmcontinue' in data['continue']:
+                    continue_token = data['continue']['cmcontinue']
+                    logger.info(f"Fetched {len(poems)} poems so far, continuing pagination...")
+                    time.sleep(REQUEST_DELAY)
+                else:
+                    # No more results
+                    break
 
             logger.info(f"Found {len(poems)} poems in Wikisource (after filtering)")
             time.sleep(REQUEST_DELAY)
@@ -91,7 +114,7 @@ class WikisourceScraper:
 
         except Exception as e:
             logger.error(f"Error searching Wikisource: {str(e)}")
-            return []
+            return poems  # Return what we have so far
 
     def extract_author_from_path(self, title: str) -> Optional[str]:
         """
