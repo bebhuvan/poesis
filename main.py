@@ -132,7 +132,9 @@ def main(target_count: int = TARGET_POEMS, dry_run: bool = False):
                 audit_data['errors'].append(error)
 
             # Stop if we have enough candidates
-            if len(poems_with_metadata) >= target_count * 2:
+            # With diversity limits, we need more candidates to reach target
+            # (e.g., if one author dominates with 200+ poems but is limited to 5)
+            if len(poems_with_metadata) >= target_count * 4:
                 logger.info(f"Collected {len(poems_with_metadata)} poems, moving to validation...")
                 break
 
