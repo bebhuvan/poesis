@@ -1,0 +1,2198 @@
+{
+  "extraction_date": "2025-11-18T03:01:09.898166",
+  "sources_used": [
+    "abbyy",
+    "full_text",
+    "pdf"
+  ],
+  "total_letters": 242,
+  "statistics": {
+    "avg_verification_score": 0.0,
+    "perfect_matches": 0,
+    "needs_review": 242,
+    "by_sender": {
+      "Schiller": 16,
+      "Goethe": 13
+    }
+  },
+  "letters": [
+    {
+      "number": 1,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "June  19,  1794",
+      "location": "Jena",
+      "verification_score": 0.0,
+      "word_count": 2401
+    },
+    {
+      "number": 2,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "June  24,  1794",
+      "location": "Weimar",
+      "verification_score": 0.0,
+      "word_count": 168
+    },
+    {
+      "number": 3,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "July  25,  1794",
+      "location": "Weimar",
+      "verification_score": 0.0,
+      "word_count": 99
+    },
+    {
+      "number": 4,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1285
+    },
+    {
+      "number": 5,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 483
+    },
+    {
+      "number": 6,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 63
+    },
+    {
+      "number": 7,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 872
+    },
+    {
+      "number": 8,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 360
+    },
+    {
+      "number": 9,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 705
+    },
+    {
+      "number": 10,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "September  10,  1794",
+      "location": "Weimar",
+      "verification_score": 0.0,
+      "word_count": 103
+    },
+    {
+      "number": 11,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 236
+    },
+    {
+      "number": 12,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 421
+    },
+    {
+      "number": 13,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 47
+    },
+    {
+      "number": 14,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 167
+    },
+    {
+      "number": 15,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 71
+    },
+    {
+      "number": 16,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 201
+    },
+    {
+      "number": 17,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 123
+    },
+    {
+      "number": 18,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 104
+    },
+    {
+      "number": 19,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 459
+    },
+    {
+      "number": 20,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 429
+    },
+    {
+      "number": 21,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 978
+    },
+    {
+      "number": 22,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 136
+    },
+    {
+      "number": 23,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 21
+    },
+    {
+      "number": 24,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 215
+    },
+    {
+      "number": 25,
+      "sender": "Goethe",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 206
+    },
+    {
+      "number": 26,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 645
+    },
+    {
+      "number": 27,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 469
+    },
+    {
+      "number": 28,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 550
+    },
+    {
+      "number": 29,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 194
+    },
+    {
+      "number": 30,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 215
+    },
+    {
+      "number": 31,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 114
+    },
+    {
+      "number": 32,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 81
+    },
+    {
+      "number": 33,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 455
+    },
+    {
+      "number": 34,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 136
+    },
+    {
+      "number": 35,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 102
+    },
+    {
+      "number": 36,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 457
+    },
+    {
+      "number": 37,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 63
+    },
+    {
+      "number": 38,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 178
+    },
+    {
+      "number": 39,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 111
+    },
+    {
+      "number": 40,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 223
+    },
+    {
+      "number": 41,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 831
+    },
+    {
+      "number": 42,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 69
+    },
+    {
+      "number": 43,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 456
+    },
+    {
+      "number": 44,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 523
+    },
+    {
+      "number": 45,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 213
+    },
+    {
+      "number": 46,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 196
+    },
+    {
+      "number": 47,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1088
+    },
+    {
+      "number": 48,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 57
+    },
+    {
+      "number": 49,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 104
+    },
+    {
+      "number": 50,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 103
+    },
+    {
+      "number": 51,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 329
+    },
+    {
+      "number": 52,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 126
+    },
+    {
+      "number": 53,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 443
+    },
+    {
+      "number": 54,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 565
+    },
+    {
+      "number": 55,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 245
+    },
+    {
+      "number": 56,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 78
+    },
+    {
+      "number": 57,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 193
+    },
+    {
+      "number": 58,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 147
+    },
+    {
+      "number": 59,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 278
+    },
+    {
+      "number": 60,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 124
+    },
+    {
+      "number": 61,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1114
+    },
+    {
+      "number": 62,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 129
+    },
+    {
+      "number": 63,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 106
+    },
+    {
+      "number": 64,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 402
+    },
+    {
+      "number": 65,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 314
+    },
+    {
+      "number": 66,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 301
+    },
+    {
+      "number": 67,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 409
+    },
+    {
+      "number": 68,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 224
+    },
+    {
+      "number": 69,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1399
+    },
+    {
+      "number": 70,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 323
+    },
+    {
+      "number": 71,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 284
+    },
+    {
+      "number": 72,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 475
+    },
+    {
+      "number": 73,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 693
+    },
+    {
+      "number": 74,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 658
+    },
+    {
+      "number": 75,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 281
+    },
+    {
+      "number": 76,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 810
+    },
+    {
+      "number": 77,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 613
+    },
+    {
+      "number": 78,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 202
+    },
+    {
+      "number": 79,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 78
+    },
+    {
+      "number": 80,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 761
+    },
+    {
+      "number": 81,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 144
+    },
+    {
+      "number": 82,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 795
+    },
+    {
+      "number": 83,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 290
+    },
+    {
+      "number": 84,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 725
+    },
+    {
+      "number": 85,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 589
+    },
+    {
+      "number": 86,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 410
+    },
+    {
+      "number": 87,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 223
+    },
+    {
+      "number": 88,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 652
+    },
+    {
+      "number": 89,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 321
+    },
+    {
+      "number": 90,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 772
+    },
+    {
+      "number": 91,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 448
+    },
+    {
+      "number": 92,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 229
+    },
+    {
+      "number": 93,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 489
+    },
+    {
+      "number": 94,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 168
+    },
+    {
+      "number": 95,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 129
+    },
+    {
+      "number": 96,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 449
+    },
+    {
+      "number": 97,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 356
+    },
+    {
+      "number": 98,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 400
+    },
+    {
+      "number": 99,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 273
+    },
+    {
+      "number": 100,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 231
+    },
+    {
+      "number": 101,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 206
+    },
+    {
+      "number": 102,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 441
+    },
+    {
+      "number": 103,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 99
+    },
+    {
+      "number": 104,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 189
+    },
+    {
+      "number": 105,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 299
+    },
+    {
+      "number": 106,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 538
+    },
+    {
+      "number": 107,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 190
+    },
+    {
+      "number": 108,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 920
+    },
+    {
+      "number": 109,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 234
+    },
+    {
+      "number": 110,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1838
+    },
+    {
+      "number": 111,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1196
+    },
+    {
+      "number": 112,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1189
+    },
+    {
+      "number": 113,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1756
+    },
+    {
+      "number": 114,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 647
+    },
+    {
+      "number": 115,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 150
+    },
+    {
+      "number": 116,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 211
+    },
+    {
+      "number": 117,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 118
+    },
+    {
+      "number": 118,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1853
+    },
+    {
+      "number": 119,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 253
+    },
+    {
+      "number": 120,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 343
+    },
+    {
+      "number": 121,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 191
+    },
+    {
+      "number": 122,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 525
+    },
+    {
+      "number": 123,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 134
+    },
+    {
+      "number": 124,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 483
+    },
+    {
+      "number": 125,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 570
+    },
+    {
+      "number": 126,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 462
+    },
+    {
+      "number": 127,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 405
+    },
+    {
+      "number": 128,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 162
+    },
+    {
+      "number": 129,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 614
+    },
+    {
+      "number": 130,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 289
+    },
+    {
+      "number": 131,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 269
+    },
+    {
+      "number": 132,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 254
+    },
+    {
+      "number": 133,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 593
+    },
+    {
+      "number": 134,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 626
+    },
+    {
+      "number": 135,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 186
+    },
+    {
+      "number": 136,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 166
+    },
+    {
+      "number": 137,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 755
+    },
+    {
+      "number": 138,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 104
+    },
+    {
+      "number": 139,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 356
+    },
+    {
+      "number": 140,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 529
+    },
+    {
+      "number": 141,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1101
+    },
+    {
+      "number": 142,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 229
+    },
+    {
+      "number": 143,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 77
+    },
+    {
+      "number": 144,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 96
+    },
+    {
+      "number": 145,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 365
+    },
+    {
+      "number": 146,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 237
+    },
+    {
+      "number": 147,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 353
+    },
+    {
+      "number": 148,
+      "sender": "Schiller",
+      "recipient": "Goethe",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 400
+    },
+    {
+      "number": 149,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 266
+    },
+    {
+      "number": 150,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 370
+    },
+    {
+      "number": 151,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 379
+    },
+    {
+      "number": 152,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 350
+    },
+    {
+      "number": 153,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 212
+    },
+    {
+      "number": 154,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 261
+    },
+    {
+      "number": 155,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 352
+    },
+    {
+      "number": 156,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 444
+    },
+    {
+      "number": 157,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 268
+    },
+    {
+      "number": 158,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 529
+    },
+    {
+      "number": 159,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 399
+    },
+    {
+      "number": 160,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 250
+    },
+    {
+      "number": 161,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 374
+    },
+    {
+      "number": 162,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 556
+    },
+    {
+      "number": 163,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1044
+    },
+    {
+      "number": 164,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 57
+    },
+    {
+      "number": 165,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 441
+    },
+    {
+      "number": 166,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 284
+    },
+    {
+      "number": 167,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 526
+    },
+    {
+      "number": 168,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 464
+    },
+    {
+      "number": 169,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 686
+    },
+    {
+      "number": 170,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 372
+    },
+    {
+      "number": 171,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1318
+    },
+    {
+      "number": 172,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 137
+    },
+    {
+      "number": 173,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 87
+    },
+    {
+      "number": 174,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1482
+    },
+    {
+      "number": 175,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 192
+    },
+    {
+      "number": 176,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 355
+    },
+    {
+      "number": 177,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 200
+    },
+    {
+      "number": 178,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 862
+    },
+    {
+      "number": 179,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 328
+    },
+    {
+      "number": 180,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 607
+    },
+    {
+      "number": 181,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 302
+    },
+    {
+      "number": 182,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 342
+    },
+    {
+      "number": 183,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 345
+    },
+    {
+      "number": 184,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1118
+    },
+    {
+      "number": 185,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 540
+    },
+    {
+      "number": 186,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 262
+    },
+    {
+      "number": 187,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 121
+    },
+    {
+      "number": 188,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 826
+    },
+    {
+      "number": 189,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 202
+    },
+    {
+      "number": 190,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 139
+    },
+    {
+      "number": 191,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 405
+    },
+    {
+      "number": 192,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 645
+    },
+    {
+      "number": 193,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 123
+    },
+    {
+      "number": 194,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 707
+    },
+    {
+      "number": 195,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 258
+    },
+    {
+      "number": 196,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 213
+    },
+    {
+      "number": 197,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 456
+    },
+    {
+      "number": 198,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 2048
+    },
+    {
+      "number": 199,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 531
+    },
+    {
+      "number": 200,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1025
+    },
+    {
+      "number": 201,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1198
+    },
+    {
+      "number": 202,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 564
+    },
+    {
+      "number": 203,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 177
+    },
+    {
+      "number": 204,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 388
+    },
+    {
+      "number": 205,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 298
+    },
+    {
+      "number": 206,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1746
+    },
+    {
+      "number": 207,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 348
+    },
+    {
+      "number": 208,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 573
+    },
+    {
+      "number": 209,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1086
+    },
+    {
+      "number": 210,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 613
+    },
+    {
+      "number": 211,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 518
+    },
+    {
+      "number": 212,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 2257
+    },
+    {
+      "number": 213,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 218
+    },
+    {
+      "number": 214,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 686
+    },
+    {
+      "number": 215,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 357
+    },
+    {
+      "number": 216,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1354
+    },
+    {
+      "number": 217,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 331
+    },
+    {
+      "number": 218,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 578
+    },
+    {
+      "number": 219,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 142
+    },
+    {
+      "number": 220,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 593
+    },
+    {
+      "number": 221,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 240
+    },
+    {
+      "number": 222,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 117
+    },
+    {
+      "number": 223,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 609
+    },
+    {
+      "number": 224,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 501
+    },
+    {
+      "number": 225,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 212
+    },
+    {
+      "number": 226,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 604
+    },
+    {
+      "number": 227,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 168
+    },
+    {
+      "number": 228,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 346
+    },
+    {
+      "number": 229,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 148
+    },
+    {
+      "number": 230,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 368
+    },
+    {
+      "number": 231,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 254
+    },
+    {
+      "number": 232,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 288
+    },
+    {
+      "number": 233,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 266
+    },
+    {
+      "number": 234,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 594
+    },
+    {
+      "number": 235,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 573
+    },
+    {
+      "number": 236,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 642
+    },
+    {
+      "number": 237,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 408
+    },
+    {
+      "number": 238,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 181
+    },
+    {
+      "number": 239,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 201
+    },
+    {
+      "number": 240,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 2080
+    },
+    {
+      "number": 241,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 912
+    },
+    {
+      "number": 242,
+      "sender": "Unknown",
+      "recipient": "Schiller",
+      "date": "",
+      "location": "",
+      "verification_score": 0.0,
+      "word_count": 1145
+    }
+  ]
+}

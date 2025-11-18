@@ -1,0 +1,20 @@
+# Ignore large raw OCR files
+*/raw_ocr/abbyy/abbyy
+*/raw_ocr/abbyy/abbyy.gz
+*/raw_ocr/pdf_text/book.pdf
+*/raw_ocr/abbyy/*.txt
+*/raw_ocr/pdf_text/*.txt
+
+# Keep structure but ignore large binaries
+*.gz
+*.pdf
+*_extracted.txt
+*_confidence_report.json
+
+# Keep these
+!README.md
+!*.md
+!*.py
+!*.json
+!index.json
+!extraction_report.json
