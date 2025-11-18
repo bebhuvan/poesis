@@ -1,0 +1,286 @@
+# Letter CCXV
+
+**Se  vagram**  
+_April  22,  1942_
+
+I  have  received  your  letter,  from  the  Maulana  s
+
+telegram  it  appears  as  if  you  will  have  to  go.  You  should
+
+take  a  firm  line.  If  an  unequivocal  resolution  about
+
+non-violent  non-cooperation  is  not  accepted  it  would
+
+be  your  duty  to  leave.  There  should  also  be  stiong
+
+opposition  to  the  proposals  about  scorched-earth  policy
+
+and  the  use  of  foreign  troops.  They  are  pressing  me  to
+
+LETTERS  TO  SARDAR  PATEL
+
+1 66
+
+attend  the  meeting  but  I  wrote  I  was  not  going.  I  have
+
+arranged  three  or  four  meetings  here  during  the  same
+
+period.  The  major  meeting  was  fixed  much  earlier  and
+
+cannot  now  be  postponed.
+
+When  you  return  from  Allahabad,  do  stop  over
+
+here,  if  only  for  a  day  or  two.  The  weather  here  is  a
+
+hundred  times  better  than  in  Allahabad.  Bring  Rajendra-
+
+babu  as  well  as  Deo  with  you.
+
+CGXVII
+
+Se  vagram
+
+May  23,  1942
+
+As  Frith visinh  has  now  lost  his  faith  in  me,  my
+
+relations  with  him  are  ended.  Gopalrao  will  resign  from
+
+his  organisation  and  I  think  Kishorlal  and  Nathji  will
+
+also  end  their  connection  with  it.  What  happens  to
+
+Prithvisinh  we  shall  only  know  later.
+
+I  have  suggested  to  Prithvisinh  that  he  should
+
+make  a  public  statement  about  his  loss  of  faith.  But  if
+
+ne  does  not  I  shall  have  to  say  something.  You  can  tell
+
+our  own  people  about  this  breach.
+
+I  suppose  I  must  not  say  anything  about  Liinbdi
+
+for  the  present.
+
+GCXVIII
+
+Sevagram
+
+May  27,  1942
+
+I  had  cordial  talks  with  Jawaharlai  all  day  long.
+
+We  came  to  understand  each  other  better.  Ghoithram
+
+casts  the  responsibility  for  Sindh  entirely  on  you.  You
+
+must  be  firm.  If  you  agree  with  me,  you  must  write  to
+
+him.  I  asked  Jawaharlai  about  it.  He  says  that  the
+
+Congress  members  must  go  out,  as  also  Allahbux.  That
+
+LIMBDI
+
+is  the  position.  However,  if  your  own  opinion  is  different,
+
+I  have  nothing  to  say.
+
+It  is  surprising  that  there  is  no  improvement  in
+
+your  health.  This  cold  must  go.  Do  you  clean  the  nose
+
+by  taking  in  water  with  salt  and  soda  bi-carb?  If  yon
+
+are  not  still  better,  you  must  come  and  stay  here.
+
+[This  was  sent  to  Bardoli.]
+
+GCXIX
+
+Sevagram
+
+June  3,  1942
+
+I  have  had  full  discussions  with  Dhebarbhai.  I  feel
+
+that  Limbdi  State  never  intended  to  settle  the  dispute
+
+though  Bhagavandas  thought  it  did.  When  those  who
+
+had  left  the  State  returned,  they  found  that  there  were
+
+no  signs  of  a  settlement  having  been  effected.  There¬
+
+fore  your  statement  must  be  corrected  in  this  respect.
+
+However  I  think  something  is  yet  to  be  done  before
+
+your  statement  is  issued.  Dhebarbhai  s  impression  is
+
+that  Fatehsinhji  wishes  to  see  you.  If  that  is  so  and  if  he
+
+wants  to  end  the  dispute,  you  must  be  ready  to  meet
+
+him.  We  shall  think  about  your  statement  after  this
+
+stage  has  passed.
+
+The  situation  at  present  is  quite  good.  The  mal¬
+
+contents  are  out.  Let  them  be  where  they  are.  A  boycott
+
+has  been  called  against  the  local  cotton  and  that  must
+
+continue.  Therefore  you  need  not  issue  your  statement
+
+just  yet.  If  you  think  I  should  say  something,  let  me
+
+know  by  telegram  and  I  will  do  it.  There  will  still  be
+
+time  for  next  week’s  Han j an.
+
+Be  careful  about  one  thing  as  regards  your  health.
+
+You  should  be  in  the  lavatory  only  the  shortest  time
+
+LETTERS  TO  SARDAR  PATEL
+
+1 68
+
+possible  and  you  must  not  exert  any  strain.  Take  this
+
+as  an  inviolable  rule.
+
+[This  and  the  following  six  letters  were  sent  to
+
+Bombay.]
+
+GCXX
+
+Se  vagram
+
+June  io,  1942
+
+I  do  not  think  there  is  anything  to  be  gained  by
+
+seeing  the  Limbdi  prince.  There  is  no  sense  in  his  wanting
+
+to  see  you  as  an  old  friend  but  not  as  a  Congressman,
+
+nor  as  a  representative  of  the  People’s  Association.
+
+You  should  issue  no  statement.  We  should  not  get
+
+involved  in  the  argument  whether  or  not  an  agreement
+
+was  made.  Those  who  can  stand  on  their  own  legs  should
+
+carry  on  the  struggle.  If  the  princes  think  of  trading
+
+among  themselves  let  them.  But  the  Boycott  Committee
+
+must  continue  to  function  and  maintain  the  boycott,
+
+mv  )i  if  one  man  stands  his  ground  he  will  be  a  represen¬
+
+tative  of  the  popular  struggle;  and  one  can  say  that  the
+
+struggle  is  still  on,  even  if  its  market  value  is  not  even
+
+a  copper.
+
+I  am  going  to  Wardha  to  see  Maulana  Saheb.  He
+
+has  definitely  grown  weak.  I  hope  you  are  well.
+
+CCXXI
+
+Se  vagram
+
+June  14,  1942
+
+Mahadev  will  write  to  you  about  the  talks  we  are
+
+having  here.
+
+Somebody  must  go  to  Jodhpur.  I  shall  see  if  I  can
+
+induce  Siipiakasa  to  go.  If  he  does  not  go,  Munshi
+
+should  provided  that  he  can  stand  the  Jodhpur  climate'
+
+Discuss  this  with  Jawaharlal.
+
+SUGGESTED  DIET
+
+My  purpose  in  writing  this  is  different.  Dacoities
+
+are  on  the  increase  in  Gujarat.  We  must  find  out  some
+
+method  of  dealing  with  them.  I  would  not  mind  if  the
+
+peasants  met  the  challenge  by  means  of  lathis.  But  meet
+
+it  they  must.  Do  think  over  it.
+
+CCXXII
+
+Panchgani
+
+June  15,  1945
+
+Slip  written  during  silence  when  the  Sardar  met  Gandhiji
+
+soon  after  release  from  Teravda  prison
+
+i  have  thought  it  out  about  your  diet.  I  think  that
+
+any  food  with  fibres  in  it  should  not  be  taken.  Therefore
+
+you  should  take  such  vegetables  as  the  marrow  in  which
+
+the  residuary  part  would  be  small.  The  main  items  should
+
+be  milk,  glucose,  honey,  and  if  you  can  digest  it,  butter.
+
+I  feel  that  even  vegetables  with  seeds  in  them  should
+
+be  given  up,  as  for  example  brinjals  and  tomatoes.
+
+The  millet  yeast  which  was  sent  to  me  from  Coimbatore
+
+may  perhaps  be  good  for  you.  The  idea  is  that  only  such
+
+food  should  be  eaten  as  is  not  likely  to  prove  a  strain
+
+on  the  intestines;  and  a  small  quantity  of  it  each  time
+
+although  this  means  eating  four  times  a  day.  The  hip  bath
+
+should  be  taken  both  in  cold  and  hot  water.  Lying  in  a
+
+full-length  tub  is  likely  to  do  you  good.  This  does  not
+
+mean  that  doctors  may  not  examine  you  or  make  sugges¬
+
+tions.  They  may,  but  they  do  not  make  a  study  of  dietetics.
+
+CCXXIII
+
+Se  vagram
+
+July  22,  1945
+
+Sushila  [Nayyar]  is  leaving  today.  Undergo  the
+
+operation  only  if  it  is  required.  If  the  observation  is  to
+
+1 70
+
+
+---
+_Source: Letters to Sardar Vallabhbhai Patel by M.K. Gandhi_

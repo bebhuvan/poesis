@@ -1,11 +1,11 @@
 # Gandhi-Patel Letters Collection
 
-A digital collection of letters written by Mahatma Gandhi to Sardar Vallabhbhai Patel (1921-1947).
+A digital collection of 237 letters written by Mahatma Gandhi to Sardar Vallabhbhai Patel (1921-1947).
 
 ## Statistics
 
-- **Letters Extracted:** 173 out of 293 total
-- **Coverage:** 59.0%
+- **Letters Extracted:** 237 out of 293 total
+- **Coverage:** 80.9%
 - **Years Covered:** 1921-1947
 - **Source:** [Archive.org](https://archive.org/details/letterstosardarv00gand)
 
@@ -33,7 +33,7 @@ output/
 ├── letter-002.html         # Letter 2 (HTML)
 ├── letter-002.md           # Letter 2 (Markdown)
 ...
-└── extraction_report.json  # Technical extraction report
+└── README.md               # This file
 ```
 
 ## Viewing the Collection
@@ -44,11 +44,7 @@ output/
 
 ## Missing Letters
 
-Approximately 120 letters (41%) still need to be extracted due to OCR errors and formatting complexities in the source material. These can be added manually by:
-
-1. Locating the letter in the source text (`gandhi-patel-letters.txt`)
-2. Creating a new letter file following the existing format
-3. Adding it to the index
+Approximately 56 letters (19.1%) remain to be extracted due to OCR errors and formatting complexities in the source material.
 
 ## Technical Details
 
@@ -69,15 +65,8 @@ The original letters are in the public domain. This digital collection is provid
 - Archive.org for digitizing and providing open access
 - The translators for their work in making these letters accessible in English
 
-## Contributing
-
-To add missing letters or improve the collection:
-
-1. Find the letter in the source material
-2. Extract and format it consistently with existing letters
-3. Add it to the collection
-4. Update the index
-
 ---
 
 *Part of the PaperLanterns.ink project - preserving important historical correspondence*
+
+Generated on November 18, 2025
