@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 4: Schiller to Goethe
@@ -38,10 +38,6 @@ have put me on the track of it. Your observing look,
 which rests so calmly and clearly on all things, keeps you
 
 * Die Anschauung Ihres Geistes.
-
-4
-
-CORRESPONDENCE BETWEEN
 
 from getting into the by-roads, into which speculation, as
 
@@ -99,10 +95,6 @@ combines in a beautiful unity the rich whole of its conceptions. You can never h
 
 * Sie suchen das Nothwendige der Natur.
 
-SCHILLER AND GOETHE.
-
-5
-
 suffice to complete a plan like tins, but to have struck into
 
 such a path is worth more than to reach the end of anyother ; and you have chosen, like Achilles in the Iliad,
@@ -152,10 +144,6 @@ Now this can only be efiected according to leading principles. But this logical 
 through which only can it create. Hence, you had one
 
 * By Nature is here meant the external world ; all that makes impressions from without upon the inward faculties of the mind.
-
-6
-
-CORRESPONDENCE BETWEEN
 
 labor more ; for, as you first passed from Perception to Abstraction, you were obliged now to retranslate ideas into intuitions, and to change thoughts into feelings, for only through
 
@@ -213,8 +201,6 @@ be allowed to keep a few days longer, I have read with
 
 SCHILLER AXD GUETIIE.
 
-7
-
 much interest, and am indebted to it for some important
 
 information. It is a real enjoyment, to give oneself a
@@ -255,6 +241,6 @@ Whether, however, you determine to do so or not, you will
 
 do me a great favor by letting me read it. My friends
 
----
+and my wife beg to be kindly remembered by you, and I
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+remain with high respect, your obedient servant,

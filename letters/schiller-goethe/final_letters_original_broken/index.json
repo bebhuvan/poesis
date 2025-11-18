@@ -1,0 +1,2422 @@
+[
+  {
+    "number": 1,
+    "filename": "0001_schiller_to_goethe_june__19___1794.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "June  19,  1794",
+    "location": "Jena",
+    "verification_score": 0.0,
+    "word_count": 2401
+  },
+  {
+    "number": 2,
+    "filename": "0002_goethe_to_schiller_june__24___1794.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "June  24,  1794",
+    "location": "Weimar",
+    "verification_score": 0.0,
+    "word_count": 168
+  },
+  {
+    "number": 3,
+    "filename": "0003_goethe_to_schiller_july__25___1794.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "July  25,  1794",
+    "location": "Weimar",
+    "verification_score": 0.0,
+    "word_count": 99
+  },
+  {
+    "number": 4,
+    "filename": "0004_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1285
+  },
+  {
+    "number": 5,
+    "filename": "0005_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 483
+  },
+  {
+    "number": 6,
+    "filename": "0006_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 63
+  },
+  {
+    "number": 7,
+    "filename": "0007_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 872
+  },
+  {
+    "number": 8,
+    "filename": "0008_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 360
+  },
+  {
+    "number": 9,
+    "filename": "0009_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 705
+  },
+  {
+    "number": 10,
+    "filename": "0010_goethe_to_schiller_september__10___1794.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "September  10,  1794",
+    "location": "Weimar",
+    "verification_score": 0.0,
+    "word_count": 103
+  },
+  {
+    "number": 11,
+    "filename": "0011_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 236
+  },
+  {
+    "number": 12,
+    "filename": "0012_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 421
+  },
+  {
+    "number": 13,
+    "filename": "0013_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 47
+  },
+  {
+    "number": 14,
+    "filename": "0014_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 167
+  },
+  {
+    "number": 15,
+    "filename": "0015_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 71
+  },
+  {
+    "number": 16,
+    "filename": "0016_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 201
+  },
+  {
+    "number": 17,
+    "filename": "0017_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 123
+  },
+  {
+    "number": 18,
+    "filename": "0018_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 104
+  },
+  {
+    "number": 19,
+    "filename": "0019_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 459
+  },
+  {
+    "number": 20,
+    "filename": "0020_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 429
+  },
+  {
+    "number": 21,
+    "filename": "0021_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 978
+  },
+  {
+    "number": 22,
+    "filename": "0022_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 136
+  },
+  {
+    "number": 23,
+    "filename": "0023_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 21
+  },
+  {
+    "number": 24,
+    "filename": "0024_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 215
+  },
+  {
+    "number": 25,
+    "filename": "0025_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 206
+  },
+  {
+    "number": 26,
+    "filename": "0026_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 645
+  },
+  {
+    "number": 27,
+    "filename": "0027_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 469
+  },
+  {
+    "number": 28,
+    "filename": "0028_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 550
+  },
+  {
+    "number": 29,
+    "filename": "0029_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 194
+  },
+  {
+    "number": 30,
+    "filename": "0030_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 215
+  },
+  {
+    "number": 31,
+    "filename": "0031_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 114
+  },
+  {
+    "number": 32,
+    "filename": "0032_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 81
+  },
+  {
+    "number": 33,
+    "filename": "0033_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 455
+  },
+  {
+    "number": 34,
+    "filename": "0034_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 136
+  },
+  {
+    "number": 35,
+    "filename": "0035_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 102
+  },
+  {
+    "number": 36,
+    "filename": "0036_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 457
+  },
+  {
+    "number": 37,
+    "filename": "0037_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 63
+  },
+  {
+    "number": 38,
+    "filename": "0038_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 178
+  },
+  {
+    "number": 39,
+    "filename": "0039_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 111
+  },
+  {
+    "number": 40,
+    "filename": "0040_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 223
+  },
+  {
+    "number": 41,
+    "filename": "0041_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 831
+  },
+  {
+    "number": 42,
+    "filename": "0042_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 69
+  },
+  {
+    "number": 43,
+    "filename": "0043_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 456
+  },
+  {
+    "number": 44,
+    "filename": "0044_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 523
+  },
+  {
+    "number": 45,
+    "filename": "0045_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 213
+  },
+  {
+    "number": 46,
+    "filename": "0046_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 196
+  },
+  {
+    "number": 47,
+    "filename": "0047_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1088
+  },
+  {
+    "number": 48,
+    "filename": "0048_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 57
+  },
+  {
+    "number": 49,
+    "filename": "0049_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 104
+  },
+  {
+    "number": 50,
+    "filename": "0050_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 103
+  },
+  {
+    "number": 51,
+    "filename": "0051_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 329
+  },
+  {
+    "number": 52,
+    "filename": "0052_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 126
+  },
+  {
+    "number": 53,
+    "filename": "0053_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 443
+  },
+  {
+    "number": 54,
+    "filename": "0054_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 565
+  },
+  {
+    "number": 55,
+    "filename": "0055_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 245
+  },
+  {
+    "number": 56,
+    "filename": "0056_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 78
+  },
+  {
+    "number": 57,
+    "filename": "0057_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 193
+  },
+  {
+    "number": 58,
+    "filename": "0058_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 147
+  },
+  {
+    "number": 59,
+    "filename": "0059_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 278
+  },
+  {
+    "number": 60,
+    "filename": "0060_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 124
+  },
+  {
+    "number": 61,
+    "filename": "0061_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1114
+  },
+  {
+    "number": 62,
+    "filename": "0062_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 129
+  },
+  {
+    "number": 63,
+    "filename": "0063_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 106
+  },
+  {
+    "number": 64,
+    "filename": "0064_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 402
+  },
+  {
+    "number": 65,
+    "filename": "0065_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 314
+  },
+  {
+    "number": 66,
+    "filename": "0066_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 301
+  },
+  {
+    "number": 67,
+    "filename": "0067_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 409
+  },
+  {
+    "number": 68,
+    "filename": "0068_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 224
+  },
+  {
+    "number": 69,
+    "filename": "0069_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1399
+  },
+  {
+    "number": 70,
+    "filename": "0070_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 323
+  },
+  {
+    "number": 71,
+    "filename": "0071_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 284
+  },
+  {
+    "number": 72,
+    "filename": "0072_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 475
+  },
+  {
+    "number": 73,
+    "filename": "0073_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 693
+  },
+  {
+    "number": 74,
+    "filename": "0074_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 658
+  },
+  {
+    "number": 75,
+    "filename": "0075_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 281
+  },
+  {
+    "number": 76,
+    "filename": "0076_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 810
+  },
+  {
+    "number": 77,
+    "filename": "0077_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 613
+  },
+  {
+    "number": 78,
+    "filename": "0078_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 202
+  },
+  {
+    "number": 79,
+    "filename": "0079_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 78
+  },
+  {
+    "number": 80,
+    "filename": "0080_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 761
+  },
+  {
+    "number": 81,
+    "filename": "0081_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 144
+  },
+  {
+    "number": 82,
+    "filename": "0082_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 795
+  },
+  {
+    "number": 83,
+    "filename": "0083_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 290
+  },
+  {
+    "number": 84,
+    "filename": "0084_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 725
+  },
+  {
+    "number": 85,
+    "filename": "0085_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 589
+  },
+  {
+    "number": 86,
+    "filename": "0086_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 410
+  },
+  {
+    "number": 87,
+    "filename": "0087_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 223
+  },
+  {
+    "number": 88,
+    "filename": "0088_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 652
+  },
+  {
+    "number": 89,
+    "filename": "0089_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 321
+  },
+  {
+    "number": 90,
+    "filename": "0090_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 772
+  },
+  {
+    "number": 91,
+    "filename": "0091_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 448
+  },
+  {
+    "number": 92,
+    "filename": "0092_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 229
+  },
+  {
+    "number": 93,
+    "filename": "0093_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 489
+  },
+  {
+    "number": 94,
+    "filename": "0094_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 168
+  },
+  {
+    "number": 95,
+    "filename": "0095_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 129
+  },
+  {
+    "number": 96,
+    "filename": "0096_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 449
+  },
+  {
+    "number": 97,
+    "filename": "0097_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 356
+  },
+  {
+    "number": 98,
+    "filename": "0098_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 400
+  },
+  {
+    "number": 99,
+    "filename": "0099_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 273
+  },
+  {
+    "number": 100,
+    "filename": "0100_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 231
+  },
+  {
+    "number": 101,
+    "filename": "0101_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 206
+  },
+  {
+    "number": 102,
+    "filename": "0102_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 441
+  },
+  {
+    "number": 103,
+    "filename": "0103_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 99
+  },
+  {
+    "number": 104,
+    "filename": "0104_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 189
+  },
+  {
+    "number": 105,
+    "filename": "0105_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 299
+  },
+  {
+    "number": 106,
+    "filename": "0106_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 538
+  },
+  {
+    "number": 107,
+    "filename": "0107_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 190
+  },
+  {
+    "number": 108,
+    "filename": "0108_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 920
+  },
+  {
+    "number": 109,
+    "filename": "0109_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 234
+  },
+  {
+    "number": 110,
+    "filename": "0110_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1838
+  },
+  {
+    "number": 111,
+    "filename": "0111_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1196
+  },
+  {
+    "number": 112,
+    "filename": "0112_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1189
+  },
+  {
+    "number": 113,
+    "filename": "0113_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1756
+  },
+  {
+    "number": 114,
+    "filename": "0114_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 647
+  },
+  {
+    "number": 115,
+    "filename": "0115_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 150
+  },
+  {
+    "number": 116,
+    "filename": "0116_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 211
+  },
+  {
+    "number": 117,
+    "filename": "0117_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 118
+  },
+  {
+    "number": 118,
+    "filename": "0118_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1853
+  },
+  {
+    "number": 119,
+    "filename": "0119_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 253
+  },
+  {
+    "number": 120,
+    "filename": "0120_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 343
+  },
+  {
+    "number": 121,
+    "filename": "0121_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 191
+  },
+  {
+    "number": 122,
+    "filename": "0122_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 525
+  },
+  {
+    "number": 123,
+    "filename": "0123_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 134
+  },
+  {
+    "number": 124,
+    "filename": "0124_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 483
+  },
+  {
+    "number": 125,
+    "filename": "0125_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 570
+  },
+  {
+    "number": 126,
+    "filename": "0126_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 462
+  },
+  {
+    "number": 127,
+    "filename": "0127_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 405
+  },
+  {
+    "number": 128,
+    "filename": "0128_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 162
+  },
+  {
+    "number": 129,
+    "filename": "0129_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 614
+  },
+  {
+    "number": 130,
+    "filename": "0130_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 289
+  },
+  {
+    "number": 131,
+    "filename": "0131_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 269
+  },
+  {
+    "number": 132,
+    "filename": "0132_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 254
+  },
+  {
+    "number": 133,
+    "filename": "0133_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 593
+  },
+  {
+    "number": 134,
+    "filename": "0134_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 626
+  },
+  {
+    "number": 135,
+    "filename": "0135_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 186
+  },
+  {
+    "number": 136,
+    "filename": "0136_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 166
+  },
+  {
+    "number": 137,
+    "filename": "0137_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 755
+  },
+  {
+    "number": 138,
+    "filename": "0138_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 104
+  },
+  {
+    "number": 139,
+    "filename": "0139_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 356
+  },
+  {
+    "number": 140,
+    "filename": "0140_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 529
+  },
+  {
+    "number": 141,
+    "filename": "0141_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1101
+  },
+  {
+    "number": 142,
+    "filename": "0142_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 229
+  },
+  {
+    "number": 143,
+    "filename": "0143_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 77
+  },
+  {
+    "number": 144,
+    "filename": "0144_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 96
+  },
+  {
+    "number": 145,
+    "filename": "0145_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 365
+  },
+  {
+    "number": 146,
+    "filename": "0146_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 237
+  },
+  {
+    "number": 147,
+    "filename": "0147_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 353
+  },
+  {
+    "number": 148,
+    "filename": "0148_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 400
+  },
+  {
+    "number": 149,
+    "filename": "0149_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 266
+  },
+  {
+    "number": 150,
+    "filename": "0150_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 370
+  },
+  {
+    "number": 151,
+    "filename": "0151_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 379
+  },
+  {
+    "number": 152,
+    "filename": "0152_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 350
+  },
+  {
+    "number": 153,
+    "filename": "0153_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 212
+  },
+  {
+    "number": 154,
+    "filename": "0154_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 261
+  },
+  {
+    "number": 155,
+    "filename": "0155_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 352
+  },
+  {
+    "number": 156,
+    "filename": "0156_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 444
+  },
+  {
+    "number": 157,
+    "filename": "0157_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 268
+  },
+  {
+    "number": 158,
+    "filename": "0158_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 529
+  },
+  {
+    "number": 159,
+    "filename": "0159_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 399
+  },
+  {
+    "number": 160,
+    "filename": "0160_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 250
+  },
+  {
+    "number": 161,
+    "filename": "0161_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 374
+  },
+  {
+    "number": 162,
+    "filename": "0162_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 556
+  },
+  {
+    "number": 163,
+    "filename": "0163_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1044
+  },
+  {
+    "number": 164,
+    "filename": "0164_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 57
+  },
+  {
+    "number": 165,
+    "filename": "0165_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 441
+  },
+  {
+    "number": 166,
+    "filename": "0166_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 284
+  },
+  {
+    "number": 167,
+    "filename": "0167_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 526
+  },
+  {
+    "number": 168,
+    "filename": "0168_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 464
+  },
+  {
+    "number": 169,
+    "filename": "0169_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 686
+  },
+  {
+    "number": 170,
+    "filename": "0170_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 372
+  },
+  {
+    "number": 171,
+    "filename": "0171_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1318
+  },
+  {
+    "number": 172,
+    "filename": "0172_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 137
+  },
+  {
+    "number": 173,
+    "filename": "0173_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 87
+  },
+  {
+    "number": 174,
+    "filename": "0174_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1482
+  },
+  {
+    "number": 175,
+    "filename": "0175_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 192
+  },
+  {
+    "number": 176,
+    "filename": "0176_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 355
+  },
+  {
+    "number": 177,
+    "filename": "0177_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 200
+  },
+  {
+    "number": 178,
+    "filename": "0178_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 862
+  },
+  {
+    "number": 179,
+    "filename": "0179_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 328
+  },
+  {
+    "number": 180,
+    "filename": "0180_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 607
+  },
+  {
+    "number": 181,
+    "filename": "0181_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 302
+  },
+  {
+    "number": 182,
+    "filename": "0182_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 342
+  },
+  {
+    "number": 183,
+    "filename": "0183_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 345
+  },
+  {
+    "number": 184,
+    "filename": "0184_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1118
+  },
+  {
+    "number": 185,
+    "filename": "0185_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 540
+  },
+  {
+    "number": 186,
+    "filename": "0186_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 262
+  },
+  {
+    "number": 187,
+    "filename": "0187_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 121
+  },
+  {
+    "number": 188,
+    "filename": "0188_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 826
+  },
+  {
+    "number": 189,
+    "filename": "0189_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 202
+  },
+  {
+    "number": 190,
+    "filename": "0190_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 139
+  },
+  {
+    "number": 191,
+    "filename": "0191_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 405
+  },
+  {
+    "number": 192,
+    "filename": "0192_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 645
+  },
+  {
+    "number": 193,
+    "filename": "0193_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 123
+  },
+  {
+    "number": 194,
+    "filename": "0194_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 707
+  },
+  {
+    "number": 195,
+    "filename": "0195_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 258
+  },
+  {
+    "number": 196,
+    "filename": "0196_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 213
+  },
+  {
+    "number": 197,
+    "filename": "0197_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 456
+  },
+  {
+    "number": 198,
+    "filename": "0198_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 2048
+  },
+  {
+    "number": 199,
+    "filename": "0199_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 531
+  },
+  {
+    "number": 200,
+    "filename": "0200_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1025
+  },
+  {
+    "number": 201,
+    "filename": "0201_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1198
+  },
+  {
+    "number": 202,
+    "filename": "0202_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 564
+  },
+  {
+    "number": 203,
+    "filename": "0203_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 177
+  },
+  {
+    "number": 204,
+    "filename": "0204_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 388
+  },
+  {
+    "number": 205,
+    "filename": "0205_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 298
+  },
+  {
+    "number": 206,
+    "filename": "0206_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1746
+  },
+  {
+    "number": 207,
+    "filename": "0207_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 348
+  },
+  {
+    "number": 208,
+    "filename": "0208_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 573
+  },
+  {
+    "number": 209,
+    "filename": "0209_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1086
+  },
+  {
+    "number": 210,
+    "filename": "0210_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 613
+  },
+  {
+    "number": 211,
+    "filename": "0211_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 518
+  },
+  {
+    "number": 212,
+    "filename": "0212_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 2257
+  },
+  {
+    "number": 213,
+    "filename": "0213_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 218
+  },
+  {
+    "number": 214,
+    "filename": "0214_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 686
+  },
+  {
+    "number": 215,
+    "filename": "0215_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 357
+  },
+  {
+    "number": 216,
+    "filename": "0216_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1354
+  },
+  {
+    "number": 217,
+    "filename": "0217_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 331
+  },
+  {
+    "number": 218,
+    "filename": "0218_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 578
+  },
+  {
+    "number": 219,
+    "filename": "0219_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 142
+  },
+  {
+    "number": 220,
+    "filename": "0220_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 593
+  },
+  {
+    "number": 221,
+    "filename": "0221_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 240
+  },
+  {
+    "number": 222,
+    "filename": "0222_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 117
+  },
+  {
+    "number": 223,
+    "filename": "0223_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 609
+  },
+  {
+    "number": 224,
+    "filename": "0224_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 501
+  },
+  {
+    "number": 225,
+    "filename": "0225_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 212
+  },
+  {
+    "number": 226,
+    "filename": "0226_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 604
+  },
+  {
+    "number": 227,
+    "filename": "0227_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 168
+  },
+  {
+    "number": 228,
+    "filename": "0228_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 346
+  },
+  {
+    "number": 229,
+    "filename": "0229_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 148
+  },
+  {
+    "number": 230,
+    "filename": "0230_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 368
+  },
+  {
+    "number": 231,
+    "filename": "0231_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 254
+  },
+  {
+    "number": 232,
+    "filename": "0232_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 288
+  },
+  {
+    "number": 233,
+    "filename": "0233_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 266
+  },
+  {
+    "number": 234,
+    "filename": "0234_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 594
+  },
+  {
+    "number": 235,
+    "filename": "0235_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 573
+  },
+  {
+    "number": 236,
+    "filename": "0236_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 642
+  },
+  {
+    "number": 237,
+    "filename": "0237_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 408
+  },
+  {
+    "number": 238,
+    "filename": "0238_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 181
+  },
+  {
+    "number": 239,
+    "filename": "0239_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 201
+  },
+  {
+    "number": 240,
+    "filename": "0240_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 2080
+  },
+  {
+    "number": 241,
+    "filename": "0241_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 912
+  },
+  {
+    "number": 242,
+    "filename": "0242_unknown_to_schiller_undated.md",
+    "sender": "Unknown",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "",
+    "verification_score": 0.0,
+    "word_count": 1145
+  }
+]

@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 9: Schiller to Goethe
@@ -20,10 +20,6 @@ earnest request, that in no particular of your household
 arrangements will you make any change with reference to
 
 me : for, alas ! my spasms oblige me commonly to devote
-
-14
-
-CORRESPONDENCE BETWEEN
 
 the whole morning to sleep, because they let me have no
 
@@ -89,10 +85,6 @@ and beauty, are most unsatisfactory ; but the practical
 
 portion of his book, where he speaks of the characteristics
 
-SCHILLER AND GOETHE.
-
-15
-
 of the different arts and assigns to each its sphere and
 
 boundaries, I have found very useful. You see here that
@@ -153,12 +145,8 @@ or he must (and that is not always agreeable) be both
 
 legislator and judge. In this review I have adopted the
 
-16
-
-CORRESPONDENCE BETWEEN
-
 latter course, and with what right or success, I should
 
----
+prefer to hear from you.
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+I have this moment received the review and send it.

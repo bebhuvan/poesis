@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 16: Schiller to Goethe
@@ -33,10 +33,6 @@ an essay on the Beautiful, to which Goethe replied. These letters
 
 are not published in their Correspondence.
 
-SCHILLER AND GOETHE.
-
-21
-
 have thought it necessary that at the outset we should distinctly unfold our ideas on the nature of the Beautiful.
 
 # * * * *
@@ -47,8 +43,6 @@ have given me. Schutz has proposed to me to review
 
 this part of it, and I am well inclined to gratify him, particularly as I do not wish to see it go into other hands.
 
-The Humboldts and my wife send you friendly greet-
+The Humboldts and my wife send you friendly greetings, and I am near to you through all by which I feel and
 
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+think.

@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 26: Schiller to Goethe
@@ -52,10 +52,6 @@ done in any other w^ay, I will myself provide for this
 seventh sheet, and briefly give out of the History of the
 
 The Horcn.
-
-32
-
-CORRESPONDENCE BETWEEN
 
 Netherlands a piece that by itself is interesting, viz. : the
 
@@ -115,10 +111,6 @@ that breathes in them.
 
 Mr. Humboldt, who sends his best regards to you, is
 
-SCHILLER AND GOETHE.
-
-33
-
 still full of the impression which your manner of expounding Homer made upon him, and has excited in us all such
 
 a curiosity about it, that the first time you come over, we
@@ -135,6 +127,6 @@ the little historical labor did not intervene, I could perhaps
 
 send you another parcel in eight or ten days.
 
----
+All with us recommend themselves to your friendly
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+remembrance.

@@ -3,11 +3,14 @@ letter_number: 22
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: false
 ---
 
 # Letter 22: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -20,10 +23,6 @@ my own mode of thinking, I read them a second time
 with a practical view, and observed narrowly, whether I
 
 discovered anything that might mislead me as an active
-
-SCHILLER AND GOETHE.
-
-29
 
 man ; but there also I found myself only strengthened and
 
@@ -39,6 +38,4 @@ the end of the year, and I hope a third epistle.
 
 The accompanying letter from Maimon, with the treatise, will interest you. Don't let it go out of your hands.
 
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+Perhaps I shall visit you soon with Meyer. Farewell.

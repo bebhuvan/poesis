@@ -3,11 +3,14 @@ letter_number: 8
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: false
 ---
 
 # Letter 8: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -30,10 +33,6 @@ grow out of the richness of the object and the corresponding manifoldness in the
 * Object and Stchject refer mostly, in German criticism, the former
 
 to the matter treated of, the latter to the person treating it.
-
-SCHILLER AND GOETHE.
-
-13
 
 to furnish me with all that you have written on this subject, in order that without loss of time we may bring up
 
@@ -75,6 +74,4 @@ sought to lay hold of the book, but as yet have not found a
 
 single page that I could get possession of.
 
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+Farewell, and greet your friends from me,

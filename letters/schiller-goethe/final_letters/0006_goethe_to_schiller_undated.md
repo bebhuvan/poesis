@@ -3,11 +3,14 @@ letter_number: 6
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: false
 ---
 
 # Letter 6: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -23,6 +26,4 @@ hand. I will take the liberty of sending you hereafter
 
 other such impromptus. They will excite, enliven, and
 
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+give a direction to our conversation. Farewell,

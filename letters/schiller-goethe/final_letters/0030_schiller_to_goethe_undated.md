@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 30: Schiller to Goethe
@@ -22,10 +22,6 @@ whereby the public gains more than we do. But hereafter
 we shall be able to change that, particularly in the poetic
 
 pieces, and spread ourselves over a larger surface. At
-
-38
-
-CORRESPONDENCE BETWEEN
 
 first Starting I do not dislike that the long articles apparently go together. I shall also provide that Cotta in some
 
@@ -57,6 +53,6 @@ wishes to see it, sheet by sheet. 1 have also requested a
 
 proof of the cover, and shall receive it in eight days.
 
----
+Heartily do I rejoice at your promised visit. Madame de
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+Kalb has been here some days.

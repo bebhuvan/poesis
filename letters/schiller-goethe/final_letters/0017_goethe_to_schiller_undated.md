@@ -3,11 +3,14 @@ letter_number: 17
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: true
 ---
 
 # Letter 17: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -39,10 +42,8 @@ a quarter of an hour to Mr. Gerning who will be the
 
 bearer of this.
 
-Weimar, 16th October, 1794.
-
-Goethe.
-
 ---
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+**P.S.**
+
+A drama that Schiller was planning.

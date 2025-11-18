@@ -3,11 +3,14 @@ letter_number: 20
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: true
 ---
 
 # Letter 20: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -69,10 +72,6 @@ The Epistle is nearly copied, and will follow soon, with
 
 several trifles ; then I must make a stop, for the third
 
-SCHILLER AND GOETHE.
-
-25
-
 book of the Novel requires my attention. I have not yet
 
 the proof-sheets of the first ; as soon as they arrive, you
@@ -95,10 +94,10 @@ time we meet.
 
 Farewell, and remember me in your circle.
 
-Weimar, 26th October, 1794.
-
-Goethe.
-
 ---
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+**P.S.**
+
+Write me what you wish from me next for the Hörem,
+
+and when you want it. The second epistle will be written in the first favorable mood.

@@ -1,0 +1,37 @@
+{
+  "statistics": {
+    "total_files": 242,
+    "index_entries": 242,
+    "missing_dates": 238,
+    "missing_locations": 238,
+    "unknown_senders": 213,
+    "sender_distribution": {
+      "Schiller": 16,
+      "Goethe": 13,
+      "Unknown": 213
+    },
+    "dated_letters": 4,
+    "valid_date_format": 4,
+    "avg_word_count": 460.02479338842977,
+    "empty_letters": 0,
+    "very_short": 0,
+    "very_long": 0,
+    "avg_verification_score": 0.0,
+    "zero_verification": 242,
+    "ocr_artifacts": {
+      "misplaced_punctuation": 1,
+      "double_spaces": 16,
+      "broken_words": 2
+    }
+  },
+  "warnings": [],
+  "issues": [
+    "Too many missing dates: 238",
+    "CRITICAL: 213 letters have unknown sender!",
+    "CRITICAL: More Unknown (213) than identified senders",
+    "CRITICAL: All letters have 0% verification score - verification failed!",
+    "Letter 1 contains title page content",
+    "Letter 1 contains preface content",
+    "Preface contamination in 2 letters: [(1, 'translator'), (9, 'published')]"
+  ]
+}

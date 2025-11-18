@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 7: Schiller to Goethe
@@ -20,10 +20,6 @@ meet my friend Körner, from Dresden, I received your
 letter of the 27th, the contents of which were doubly agreeable to me ; for 1 perceive from it that in the view I took
 
 1*
-
-10
-
-CORRESPONDENCE BETWEEN
 
 of your being I met your own feelings, and that the candor
 
@@ -83,8 +79,6 @@ The working of your mind is intuitive in an extraordinary degree, and all your t
 
 SCHILLER AXD GOETHE.
 
-11
-
 as it were, agreed to refer to your imagination as their
 
 common representative. At bottom, this is the highest
@@ -141,10 +135,6 @@ view, which at once gives to our communications on this
 
 subject the most profitable direction. My ownreoearches,
 
-12
-
-CORRESPONDENCE BETWEEN
-
 entered upon by a different route, have led me to a result
 
 very similar to that at which you have arrived, and in the
@@ -177,6 +167,6 @@ genius will gain doubly. In the number of the Thalia,
 
 which I send herewith, you will find some ideas of Körner on Declamation, which you will like. All with us
 
----
+request your friendly remembrance, and I am with the
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+warmest regard, yours,

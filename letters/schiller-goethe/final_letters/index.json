@@ -1,33 +1,36 @@
 [
   {
     "number": 1,
-    "filename": "0001_schiller_to_goethe_june__19___1794.md",
+    "filename": "0001_schiller_to_goethe_june_19_1794.md",
     "sender": "Schiller",
     "recipient": "Goethe",
-    "date": "June  19,  1794",
+    "date": "June 19, 1794",
     "location": "Jena",
-    "verification_score": 0.0,
-    "word_count": 2401
+    "word_count": 208,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 2,
-    "filename": "0002_goethe_to_schiller_june__24___1794.md",
+    "filename": "0002_goethe_to_schiller_june_24_1794.md",
     "sender": "Goethe",
     "recipient": "Schiller",
-    "date": "June  24,  1794",
+    "date": "June 24, 1794",
     "location": "Weimar",
-    "verification_score": 0.0,
-    "word_count": 168
+    "word_count": 164,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 3,
-    "filename": "0003_goethe_to_schiller_july__25___1794.md",
+    "filename": "0003_goethe_to_schiller_july_25_1794.md",
     "sender": "Goethe",
     "recipient": "Schiller",
-    "date": "July  25,  1794",
+    "date": "July 25, 1794",
     "location": "Weimar",
-    "verification_score": 0.0,
-    "word_count": 99
+    "word_count": 101,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 4,
@@ -36,18 +39,20 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1285
+    "word_count": 1293,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 5,
-    "filename": "0005_goethe_to_schiller_undated.md",
-    "sender": "Goethe",
-    "recipient": "Schiller",
+    "filename": "0005_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 483
+    "word_count": 488,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 6,
@@ -55,9 +60,10 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 63
+    "location": "Weimar",
+    "word_count": 70,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 7,
@@ -66,8 +72,9 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 872
+    "word_count": 877,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 8,
@@ -75,9 +82,10 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 360
+    "location": "Weimar",
+    "word_count": 363,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 9,
@@ -86,18 +94,20 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 705
+    "word_count": 710,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 10,
-    "filename": "0010_goethe_to_schiller_september__10___1794.md",
+    "filename": "0010_goethe_to_schiller_september_10_1794.md",
     "sender": "Goethe",
     "recipient": "Schiller",
-    "date": "September  10,  1794",
+    "date": "September 10, 1794",
     "location": "Weimar",
-    "verification_score": 0.0,
-    "word_count": 103
+    "word_count": 99,
+    "has_postscript": true,
+    "detection_method": "location"
   },
   {
     "number": 11,
@@ -106,8 +116,9 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 236
+    "word_count": 247,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 12,
@@ -116,8 +127,9 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 421
+    "word_count": 435,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 13,
@@ -125,19 +137,21 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 47
+    "location": "Weimar",
+    "word_count": 54,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 14,
-    "filename": "0014_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0014_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 167
+    "location": "Weimar",
+    "word_count": 136,
+    "has_postscript": true,
+    "detection_method": "location"
   },
   {
     "number": 15,
@@ -145,9 +159,10 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 71
+    "location": "Weimar",
+    "word_count": 80,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 16,
@@ -156,8 +171,9 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 201
+    "word_count": 211,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 17,
@@ -165,19 +181,21 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 123
+    "location": "Weimar",
+    "word_count": 118,
+    "has_postscript": true,
+    "detection_method": "location"
   },
   {
     "number": 18,
-    "filename": "0018_schiller_to_goethe_undated.md",
-    "sender": "Schiller",
-    "recipient": "Goethe",
+    "filename": "0018_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 104
+    "location": "Weimar",
+    "word_count": 24,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 19,
@@ -186,8 +204,9 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 459
+    "word_count": 455,
+    "has_postscript": true,
+    "detection_method": "signature"
   },
   {
     "number": 20,
@@ -195,9 +214,10 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 429
+    "location": "Weimar",
+    "word_count": 420,
+    "has_postscript": true,
+    "detection_method": "location"
   },
   {
     "number": 21,
@@ -206,8 +226,9 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 978
+    "word_count": 980,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 22,
@@ -215,9 +236,10 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 136
+    "location": "Weimar",
+    "word_count": 141,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 23,
@@ -225,9 +247,10 @@
     "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 21
+    "location": "Weimar",
+    "word_count": 28,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 24,
@@ -236,18 +259,20 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 215
+    "word_count": 222,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 25,
-    "filename": "0025_goethe_to_schiller_undated.md",
+    "filename": "0025_goethe_to_schiller_november_27th_1794.md",
     "sender": "Goethe",
     "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 206
+    "date": "November 27th, 1794",
+    "location": "Weimar",
+    "word_count": 205,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 26,
@@ -256,18 +281,20 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 645
+    "word_count": 647,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 27,
-    "filename": "0027_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0027_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 469
+    "location": "Weimar",
+    "word_count": 473,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 28,
@@ -276,18 +303,20 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 550
+    "word_count": 547,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 29,
-    "filename": "0029_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0029_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 194
+    "location": "Weimar",
+    "word_count": 199,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 30,
@@ -296,588 +325,647 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 215
+    "word_count": 228,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 31,
-    "filename": "0031_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0031_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 114
+    "location": "Weimar",
+    "word_count": 118,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 32,
-    "filename": "0032_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0032_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 81
+    "location": "Weimar",
+    "word_count": 94,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 33,
-    "filename": "0033_unknown_to_schiller_undated.md",
+    "filename": "0033_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 455
+    "word_count": 462,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 34,
-    "filename": "0034_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0034_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 136
+    "location": "Weimar",
+    "word_count": 137,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 35,
-    "filename": "0035_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0035_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 102
+    "location": "Weimar",
+    "word_count": 106,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 36,
-    "filename": "0036_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0036_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 457
+    "location": "Weimar",
+    "word_count": 411,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 37,
-    "filename": "0037_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0037_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 63
+    "location": "Weimar",
+    "word_count": 67,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 38,
-    "filename": "0038_unknown_to_schiller_undated.md",
+    "filename": "0038_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 178
+    "word_count": 179,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 39,
-    "filename": "0039_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0039_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 111
+    "location": "Weimar",
+    "word_count": 115,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 40,
-    "filename": "0040_unknown_to_schiller_undated.md",
+    "filename": "0040_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 223
+    "word_count": 233,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 41,
-    "filename": "0041_unknown_to_schiller_undated.md",
+    "filename": "0041_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 831
+    "word_count": 832,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 42,
-    "filename": "0042_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0042_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 69
+    "location": "Weimar",
+    "word_count": 71,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 43,
-    "filename": "0043_unknown_to_schiller_undated.md",
+    "filename": "0043_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 456
+    "word_count": 468,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 44,
-    "filename": "0044_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0044_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 523
+    "location": "Weimar",
+    "word_count": 527,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 45,
-    "filename": "0045_unknown_to_schiller_undated.md",
+    "filename": "0045_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 213
+    "word_count": 226,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 46,
-    "filename": "0046_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0046_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 196
+    "location": "Weimar",
+    "word_count": 122,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 47,
-    "filename": "0047_unknown_to_schiller_undated.md",
+    "filename": "0047_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1088
+    "word_count": 1093,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 48,
-    "filename": "0048_unknown_to_schiller_undated.md",
+    "filename": "0048_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 57
+    "word_count": 63,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 49,
-    "filename": "0049_unknown_to_schiller_undated.md",
+    "filename": "0049_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 104
+    "word_count": 105,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 50,
-    "filename": "0050_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0050_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 103
+    "location": "Weimar",
+    "word_count": 111,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 51,
-    "filename": "0051_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0051_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 329
+    "location": "Weimar",
+    "word_count": 332,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 52,
-    "filename": "0052_unknown_to_schiller_undated.md",
+    "filename": "0052_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 126
+    "word_count": 138,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 53,
-    "filename": "0053_unknown_to_schiller_undated.md",
+    "filename": "0053_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 443
+    "word_count": 444,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 54,
-    "filename": "0054_unknown_to_schiller_undated.md",
+    "filename": "0054_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 565
+    "word_count": 594,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 55,
-    "filename": "0055_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0055_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 245
+    "location": "Weimar",
+    "word_count": 241,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 56,
-    "filename": "0056_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0056_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 78
+    "location": "Weimar",
+    "word_count": 82,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 57,
-    "filename": "0057_unknown_to_schiller_undated.md",
+    "filename": "0057_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 193
+    "word_count": 206,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 58,
-    "filename": "0058_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0058_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 147
+    "location": "Weimar",
+    "word_count": 150,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 59,
-    "filename": "0059_unknown_to_schiller_undated.md",
+    "filename": "0059_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 278
+    "word_count": 294,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 60,
-    "filename": "0060_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0060_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 124
+    "location": "Weimar",
+    "word_count": 126,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 61,
-    "filename": "0061_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0061_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1114
+    "location": "Weimar",
+    "word_count": 1096,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 62,
-    "filename": "0062_unknown_to_schiller_undated.md",
+    "filename": "0062_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 129
+    "word_count": 145,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 63,
-    "filename": "0063_unknown_to_schiller_undated.md",
+    "filename": "0063_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 106
+    "word_count": 107,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 64,
-    "filename": "0064_unknown_to_schiller_undated.md",
+    "filename": "0064_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 402
+    "word_count": 414,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 65,
-    "filename": "0065_unknown_to_schiller_undated.md",
+    "filename": "0065_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 314
+    "word_count": 321,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 66,
-    "filename": "0066_unknown_to_schiller_undated.md",
+    "filename": "0066_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 301
+    "word_count": 309,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 67,
-    "filename": "0067_unknown_to_schiller_undated.md",
+    "filename": "0067_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 409
+    "word_count": 417,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 68,
-    "filename": "0068_unknown_to_schiller_undated.md",
+    "filename": "0068_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 224
+    "word_count": 233,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 69,
-    "filename": "0069_unknown_to_schiller_undated.md",
+    "filename": "0069_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1399
+    "word_count": 1390,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 70,
-    "filename": "0070_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0070_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 323
+    "location": "Weimar",
+    "word_count": 320,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 71,
-    "filename": "0071_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0071_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 284
+    "location": "Weimar",
+    "word_count": 287,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 72,
-    "filename": "0072_unknown_to_schiller_undated.md",
+    "filename": "0072_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 475
+    "word_count": 477,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 73,
-    "filename": "0073_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0073_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 693
+    "location": "Jena",
+    "word_count": 703,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 74,
-    "filename": "0074_unknown_to_schiller_undated.md",
+    "filename": "0074_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 658
+    "word_count": 662,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 75,
-    "filename": "0075_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0075_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 281
+    "location": "Weimar",
+    "word_count": 289,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 76,
-    "filename": "0076_unknown_to_schiller_undated.md",
+    "filename": "0076_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 810
+    "word_count": 809,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 77,
-    "filename": "0077_unknown_to_schiller_undated.md",
+    "filename": "0077_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 613
+    "word_count": 623,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 78,
-    "filename": "0078_unknown_to_schiller_undated.md",
+    "filename": "0078_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 202
+    "word_count": 214,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 79,
-    "filename": "0079_unknown_to_schiller_undated.md",
+    "filename": "0079_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 78
+    "word_count": 87,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 80,
-    "filename": "0080_unknown_to_schiller_undated.md",
+    "filename": "0080_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 761
+    "word_count": 760,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 81,
-    "filename": "0081_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0081_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 144
+    "location": "Weimar",
+    "word_count": 143,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 82,
-    "filename": "0082_unknown_to_schiller_undated.md",
+    "filename": "0082_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 795
+    "word_count": 801,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 83,
-    "filename": "0083_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0083_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 290
+    "location": "Weimar",
+    "word_count": 291,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 84,
-    "filename": "0084_unknown_to_schiller_undated.md",
+    "filename": "0084_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 725
+    "word_count": 737,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 85,
-    "filename": "0085_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0085_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 589
+    "location": "Weimar",
+    "word_count": 582,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 86,
-    "filename": "0086_unknown_to_schiller_undated.md",
+    "filename": "0086_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 410
+    "word_count": 421,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 87,
-    "filename": "0087_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0087_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 223
+    "location": "Weimar",
+    "word_count": 223,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 88,
-    "filename": "0088_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0088_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 652
+    "location": "Weimar",
+    "word_count": 656,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 89,
@@ -886,1537 +974,1691 @@
     "recipient": "Goethe",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 321
+    "word_count": 335,
+    "has_postscript": false,
+    "detection_method": "signature"
   },
   {
     "number": 90,
-    "filename": "0090_unknown_to_schiller_undated.md",
+    "filename": "0090_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 772
+    "word_count": 782,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 91,
-    "filename": "0091_unknown_to_schiller_undated.md",
+    "filename": "0091_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 448
+    "word_count": 455,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 92,
-    "filename": "0092_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0092_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 229
+    "location": "Weimar",
+    "word_count": 233,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 93,
-    "filename": "0093_unknown_to_schiller_undated.md",
+    "filename": "0093_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 489
+    "word_count": 503,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 94,
-    "filename": "0094_unknown_to_schiller_undated.md",
+    "filename": "0094_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 168
+    "word_count": 172,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 95,
-    "filename": "0095_unknown_to_schiller_undated.md",
+    "filename": "0095_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 129
+    "word_count": 145,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 96,
-    "filename": "0096_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0096_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 449
+    "location": "Weimar",
+    "word_count": 444,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 97,
-    "filename": "0097_unknown_to_schiller_undated.md",
+    "filename": "0097_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 356
+    "word_count": 369,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 98,
-    "filename": "0098_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0098_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 400
+    "location": "Weimar",
+    "word_count": 414,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 99,
-    "filename": "0099_unknown_to_schiller_undated.md",
+    "filename": "0099_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 273
+    "word_count": 290,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 100,
-    "filename": "0100_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0100_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 231
+    "location": "Weimar",
+    "word_count": 233,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 101,
-    "filename": "0101_unknown_to_schiller_undated.md",
+    "filename": "0101_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 206
+    "word_count": 219,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 102,
-    "filename": "0102_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0102_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 441
+    "location": "Weimar",
+    "word_count": 441,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 103,
-    "filename": "0103_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0103_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 99
+    "location": "Weimar",
+    "word_count": 44,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 104,
-    "filename": "0104_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0104_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 189
+    "location": "Weimar",
+    "word_count": 180,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 105,
-    "filename": "0105_unknown_to_schiller_undated.md",
+    "filename": "0105_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 299
+    "word_count": 310,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 106,
-    "filename": "0106_unknown_to_schiller_undated.md",
+    "filename": "0106_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 538
+    "word_count": 547,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 107,
-    "filename": "0107_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0107_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 190
+    "location": "Weimar",
+    "word_count": 195,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 108,
-    "filename": "0108_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 920
-  },
-  {
-    "number": 109,
-    "filename": "0109_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 234
-  },
-  {
-    "number": 110,
-    "filename": "0110_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1838
-  },
-  {
-    "number": 111,
-    "filename": "0111_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1196
-  },
-  {
-    "number": 112,
-    "filename": "0112_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1189
-  },
-  {
-    "number": 113,
-    "filename": "0113_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1756
-  },
-  {
-    "number": 114,
-    "filename": "0114_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 647
-  },
-  {
-    "number": 115,
-    "filename": "0115_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 150
-  },
-  {
-    "number": 116,
-    "filename": "0116_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 211
-  },
-  {
-    "number": 117,
-    "filename": "0117_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 118
-  },
-  {
-    "number": 118,
-    "filename": "0118_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1853
-  },
-  {
-    "number": 119,
-    "filename": "0119_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 253
-  },
-  {
-    "number": 120,
-    "filename": "0120_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 343
-  },
-  {
-    "number": 121,
-    "filename": "0121_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 191
-  },
-  {
-    "number": 122,
-    "filename": "0122_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 525
-  },
-  {
-    "number": 123,
-    "filename": "0123_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 134
-  },
-  {
-    "number": 124,
-    "filename": "0124_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 483
-  },
-  {
-    "number": 125,
-    "filename": "0125_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 570
-  },
-  {
-    "number": 126,
-    "filename": "0126_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 462
-  },
-  {
-    "number": 127,
-    "filename": "0127_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 405
-  },
-  {
-    "number": 128,
-    "filename": "0128_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 162
-  },
-  {
-    "number": 129,
-    "filename": "0129_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 614
-  },
-  {
-    "number": 130,
-    "filename": "0130_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 289
-  },
-  {
-    "number": 131,
-    "filename": "0131_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 269
-  },
-  {
-    "number": 132,
-    "filename": "0132_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 254
-  },
-  {
-    "number": 133,
-    "filename": "0133_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 593
-  },
-  {
-    "number": 134,
-    "filename": "0134_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 626
-  },
-  {
-    "number": 135,
-    "filename": "0135_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 186
-  },
-  {
-    "number": 136,
-    "filename": "0136_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 166
-  },
-  {
-    "number": 137,
-    "filename": "0137_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 755
-  },
-  {
-    "number": 138,
-    "filename": "0138_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 104
-  },
-  {
-    "number": 139,
-    "filename": "0139_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 356
-  },
-  {
-    "number": 140,
-    "filename": "0140_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 529
-  },
-  {
-    "number": 141,
-    "filename": "0141_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1101
-  },
-  {
-    "number": 142,
-    "filename": "0142_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 229
-  },
-  {
-    "number": 143,
-    "filename": "0143_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 77
-  },
-  {
-    "number": 144,
-    "filename": "0144_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 96
-  },
-  {
-    "number": 145,
-    "filename": "0145_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 365
-  },
-  {
-    "number": 146,
-    "filename": "0146_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 237
-  },
-  {
-    "number": 147,
-    "filename": "0147_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
-    "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 353
-  },
-  {
-    "number": 148,
-    "filename": "0148_schiller_to_goethe_undated.md",
+    "filename": "0108_schiller_to_goethe_undated.md",
     "sender": "Schiller",
     "recipient": "Goethe",
     "date": "",
+    "location": "Jena",
+    "word_count": 927,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 109,
+    "filename": "0109_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 231,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 110,
+    "filename": "0110_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 400
+    "word_count": 1840,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 111,
+    "filename": "0111_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 1204,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 112,
+    "filename": "0112_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 1186,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 113,
+    "filename": "0113_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 1759,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 114,
+    "filename": "0114_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 639,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 115,
+    "filename": "0115_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 156,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 116,
+    "filename": "0116_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 215,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 117,
+    "filename": "0117_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 122,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 118,
+    "filename": "0118_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 1849,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 119,
+    "filename": "0119_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 268,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 120,
+    "filename": "0120_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 341,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 121,
+    "filename": "0121_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
+    "date": "",
+    "location": "Jena",
+    "word_count": 190,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 122,
+    "filename": "0122_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 481,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 123,
+    "filename": "0123_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 150,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 124,
+    "filename": "0124_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 483,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 125,
+    "filename": "0125_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 573,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 126,
+    "filename": "0126_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 467,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 127,
+    "filename": "0127_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 402,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 128,
+    "filename": "0128_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 171,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 129,
+    "filename": "0129_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 615,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 130,
+    "filename": "0130_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 304,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 131,
+    "filename": "0131_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 276,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 132,
+    "filename": "0132_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 258,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 133,
+    "filename": "0133_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 598,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 134,
+    "filename": "0134_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 618,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 135,
+    "filename": "0135_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 205,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 136,
+    "filename": "0136_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 165,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 137,
+    "filename": "0137_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 752,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 138,
+    "filename": "0138_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 118,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 139,
+    "filename": "0139_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 358,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 140,
+    "filename": "0140_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 536,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 141,
+    "filename": "0141_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 1098,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 142,
+    "filename": "0142_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 233,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 143,
+    "filename": "0143_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 88,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 144,
+    "filename": "0144_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 102,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 145,
+    "filename": "0145_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 375,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 146,
+    "filename": "0146_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 248,
+    "has_postscript": false,
+    "detection_method": "unknown"
+  },
+  {
+    "number": 147,
+    "filename": "0147_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
+    "recipient": "Schiller",
+    "date": "",
+    "location": "Weimar",
+    "word_count": 356,
+    "has_postscript": false,
+    "detection_method": "location"
+  },
+  {
+    "number": 148,
+    "filename": "0148_unknown_to_unknown_undated.md",
+    "sender": "Unknown",
+    "recipient": "Unknown",
+    "date": "",
+    "location": "",
+    "word_count": 396,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 149,
-    "filename": "0149_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0149_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 266
+    "location": "Weimar",
+    "word_count": 179,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 150,
-    "filename": "0150_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0150_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 370
+    "location": "Jena",
+    "word_count": 372,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 151,
-    "filename": "0151_unknown_to_schiller_undated.md",
+    "filename": "0151_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 379
+    "word_count": 383,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 152,
-    "filename": "0152_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0152_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 350
+    "location": "Weimar",
+    "word_count": 356,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 153,
-    "filename": "0153_unknown_to_schiller_undated.md",
+    "filename": "0153_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 212
+    "word_count": 216,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 154,
-    "filename": "0154_unknown_to_schiller_undated.md",
+    "filename": "0154_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 261
+    "word_count": 269,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 155,
-    "filename": "0155_unknown_to_schiller_undated.md",
+    "filename": "0155_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 352
+    "word_count": 360,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 156,
-    "filename": "0156_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0156_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 444
+    "location": "Weimar",
+    "word_count": 445,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 157,
-    "filename": "0157_unknown_to_schiller_undated.md",
+    "filename": "0157_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 268
+    "word_count": 285,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 158,
-    "filename": "0158_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0158_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 529
+    "location": "Weimar",
+    "word_count": 526,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 159,
-    "filename": "0159_unknown_to_schiller_undated.md",
+    "filename": "0159_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 399
+    "word_count": 417,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 160,
-    "filename": "0160_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0160_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 250
+    "location": "Weimar",
+    "word_count": 250,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 161,
-    "filename": "0161_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0161_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 374
+    "location": "Weimar",
+    "word_count": 379,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 162,
-    "filename": "0162_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0162_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 556
+    "location": "Jena",
+    "word_count": 554,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 163,
-    "filename": "0163_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0163_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1044
+    "location": "Weimar",
+    "word_count": 1030,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 164,
-    "filename": "0164_unknown_to_schiller_undated.md",
+    "filename": "0164_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 57
+    "word_count": 71,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 165,
-    "filename": "0165_unknown_to_schiller_undated.md",
+    "filename": "0165_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 441
+    "word_count": 446,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 166,
-    "filename": "0166_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0166_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 284
+    "location": "Weimar",
+    "word_count": 293,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 167,
-    "filename": "0167_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0167_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 526
+    "location": "Weimar",
+    "word_count": 533,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 168,
-    "filename": "0168_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0168_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 464
+    "location": "Weimar",
+    "word_count": 464,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 169,
-    "filename": "0169_unknown_to_schiller_undated.md",
+    "filename": "0169_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 686
+    "word_count": 691,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 170,
-    "filename": "0170_unknown_to_schiller_undated.md",
+    "filename": "0170_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 372
+    "word_count": 395,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 171,
-    "filename": "0171_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0171_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1318
+    "location": "Jena",
+    "word_count": 1302,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 172,
-    "filename": "0172_unknown_to_schiller_undated.md",
+    "filename": "0172_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 137
+    "word_count": 155,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 173,
-    "filename": "0173_unknown_to_schiller_undated.md",
+    "filename": "0173_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 87
+    "word_count": 88,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 174,
-    "filename": "0174_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0174_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1482
+    "location": "Weimar",
+    "word_count": 1451,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 175,
-    "filename": "0175_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0175_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 192
+    "location": "Jena",
+    "word_count": 199,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 176,
-    "filename": "0176_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0176_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 355
+    "location": "Weimar",
+    "word_count": 308,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 177,
-    "filename": "0177_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0177_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 200
+    "location": "Jena",
+    "word_count": 199,
+    "has_postscript": true,
+    "detection_method": "location"
   },
   {
     "number": 178,
-    "filename": "0178_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0178_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 862
+    "location": "Weimar",
+    "word_count": 862,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 179,
-    "filename": "0179_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0179_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 328
+    "location": "Weimar",
+    "word_count": 331,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 180,
-    "filename": "0180_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
-    "recipient": "Schiller",
+    "filename": "0180_schiller_to_goethe_undated.md",
+    "sender": "Schiller",
+    "recipient": "Goethe",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 607
+    "location": "Jena",
+    "word_count": 527,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 181,
-    "filename": "0181_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0181_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 302
+    "location": "Weimar",
+    "word_count": 299,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 182,
-    "filename": "0182_unknown_to_schiller_undated.md",
+    "filename": "0182_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 342
+    "word_count": 339,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 183,
-    "filename": "0183_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0183_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 345
+    "location": "Weimar",
+    "word_count": 342,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 184,
-    "filename": "0184_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0184_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1118
+    "location": "Weimar",
+    "word_count": 1104,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 185,
-    "filename": "0185_unknown_to_schiller_undated.md",
+    "filename": "0185_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 540
+    "word_count": 565,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 186,
-    "filename": "0186_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0186_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 262
+    "location": "Weimar",
+    "word_count": 243,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 187,
-    "filename": "0187_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0187_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 121
+    "location": "Weimar",
+    "word_count": 125,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 188,
-    "filename": "0188_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0188_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 826
+    "location": "Weimar",
+    "word_count": 822,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 189,
-    "filename": "0189_unknown_to_schiller_undated.md",
+    "filename": "0189_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 202
+    "word_count": 203,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 190,
-    "filename": "0190_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0190_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 139
+    "location": "Weimar",
+    "word_count": 149,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 191,
-    "filename": "0191_unknown_to_schiller_undated.md",
+    "filename": "0191_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 405
+    "word_count": 403,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 192,
-    "filename": "0192_unknown_to_schiller_undated.md",
+    "filename": "0192_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 645
+    "word_count": 653,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 193,
-    "filename": "0193_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0193_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 123
+    "location": "Weimar",
+    "word_count": 131,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 194,
-    "filename": "0194_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0194_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 707
+    "location": "Weimar",
+    "word_count": 703,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 195,
-    "filename": "0195_unknown_to_schiller_undated.md",
+    "filename": "0195_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 258
+    "word_count": 270,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 196,
-    "filename": "0196_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0196_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 213
+    "location": "Weimar",
+    "word_count": 209,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 197,
-    "filename": "0197_unknown_to_schiller_undated.md",
+    "filename": "0197_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 456
+    "word_count": 473,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 198,
-    "filename": "0198_unknown_to_schiller_undated.md",
+    "filename": "0198_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 2048
+    "word_count": 2055,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 199,
-    "filename": "0199_unknown_to_schiller_undated.md",
+    "filename": "0199_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 531
+    "word_count": 529,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 200,
-    "filename": "0200_unknown_to_schiller_undated.md",
+    "filename": "0200_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1025
+    "word_count": 1028,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 201,
-    "filename": "0201_unknown_to_schiller_undated.md",
+    "filename": "0201_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1198
+    "word_count": 1204,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 202,
-    "filename": "0202_unknown_to_schiller_undated.md",
+    "filename": "0202_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 564
+    "word_count": 562,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 203,
-    "filename": "0203_unknown_to_schiller_undated.md",
+    "filename": "0203_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 177
+    "word_count": 197,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 204,
-    "filename": "0204_unknown_to_schiller_undated.md",
+    "filename": "0204_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 388
+    "word_count": 406,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 205,
-    "filename": "0205_unknown_to_schiller_undated.md",
+    "filename": "0205_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 298
+    "word_count": 310,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 206,
-    "filename": "0206_unknown_to_schiller_undated.md",
+    "filename": "0206_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1746
+    "word_count": 1762,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 207,
-    "filename": "0207_unknown_to_schiller_undated.md",
+    "filename": "0207_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 348
+    "word_count": 363,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 208,
-    "filename": "0208_unknown_to_schiller_undated.md",
+    "filename": "0208_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 573
+    "word_count": 588,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 209,
-    "filename": "0209_unknown_to_schiller_undated.md",
+    "filename": "0209_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1086
+    "word_count": 1094,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 210,
-    "filename": "0210_unknown_to_schiller_undated.md",
+    "filename": "0210_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 613
+    "word_count": 637,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 211,
-    "filename": "0211_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0211_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 518
+    "location": "Weimar",
+    "word_count": 442,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 212,
-    "filename": "0212_unknown_to_schiller_undated.md",
+    "filename": "0212_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 2257
+    "word_count": 2267,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 213,
-    "filename": "0213_unknown_to_schiller_undated.md",
+    "filename": "0213_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 218
+    "word_count": 236,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 214,
-    "filename": "0214_unknown_to_schiller_undated.md",
+    "filename": "0214_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 686
+    "word_count": 702,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 215,
-    "filename": "0215_unknown_to_schiller_undated.md",
+    "filename": "0215_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 357
+    "word_count": 354,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 216,
-    "filename": "0216_unknown_to_schiller_undated.md",
+    "filename": "0216_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 1354
+    "word_count": 1354,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 217,
-    "filename": "0217_unknown_to_schiller_undated.md",
+    "filename": "0217_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 331
+    "word_count": 349,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 218,
-    "filename": "0218_unknown_to_schiller_undated.md",
+    "filename": "0218_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 578
+    "word_count": 583,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 219,
-    "filename": "0219_unknown_to_schiller_undated.md",
+    "filename": "0219_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 142
+    "word_count": 154,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 220,
-    "filename": "0220_unknown_to_schiller_undated.md",
+    "filename": "0220_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 593
+    "word_count": 602,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 221,
-    "filename": "0221_unknown_to_schiller_undated.md",
+    "filename": "0221_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 240
+    "word_count": 256,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 222,
-    "filename": "0222_unknown_to_schiller_undated.md",
+    "filename": "0222_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 117
+    "word_count": 123,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 223,
-    "filename": "0223_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0223_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 609
+    "location": "Weimar",
+    "word_count": 604,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 224,
-    "filename": "0224_unknown_to_schiller_undated.md",
+    "filename": "0224_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 501
+    "word_count": 505,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 225,
-    "filename": "0225_unknown_to_schiller_undated.md",
+    "filename": "0225_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 212
+    "word_count": 228,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 226,
-    "filename": "0226_unknown_to_schiller_undated.md",
+    "filename": "0226_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 604
+    "word_count": 617,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 227,
-    "filename": "0227_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0227_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 168
+    "location": "Weimar",
+    "word_count": 169,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 228,
-    "filename": "0228_unknown_to_schiller_undated.md",
+    "filename": "0228_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 346
+    "word_count": 355,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 229,
-    "filename": "0229_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0229_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 148
+    "location": "Weimar",
+    "word_count": 148,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 230,
-    "filename": "0230_unknown_to_schiller_undated.md",
+    "filename": "0230_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 368
+    "word_count": 382,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 231,
-    "filename": "0231_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0231_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 254
+    "location": "Weimar",
+    "word_count": 257,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 232,
-    "filename": "0232_unknown_to_schiller_undated.md",
+    "filename": "0232_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 288
+    "word_count": 297,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 233,
-    "filename": "0233_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0233_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 266
+    "location": "Weimar",
+    "word_count": 268,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 234,
-    "filename": "0234_unknown_to_schiller_undated.md",
+    "filename": "0234_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 594
+    "word_count": 599,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 235,
-    "filename": "0235_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0235_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 573
+    "location": "Weimar",
+    "word_count": 569,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 236,
-    "filename": "0236_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0236_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 642
+    "location": "Weimar",
+    "word_count": 636,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 237,
-    "filename": "0237_unknown_to_schiller_undated.md",
+    "filename": "0237_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 408
+    "word_count": 406,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 238,
-    "filename": "0238_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0238_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 181
+    "location": "Weimar",
+    "word_count": 191,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 239,
-    "filename": "0239_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0239_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 201
+    "location": "Weimar",
+    "word_count": 200,
+    "has_postscript": false,
+    "detection_method": "location"
   },
   {
     "number": 240,
-    "filename": "0240_unknown_to_schiller_undated.md",
+    "filename": "0240_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 2080
+    "word_count": 2058,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 241,
-    "filename": "0241_unknown_to_schiller_undated.md",
+    "filename": "0241_unknown_to_unknown_undated.md",
     "sender": "Unknown",
-    "recipient": "Schiller",
+    "recipient": "Unknown",
     "date": "",
     "location": "",
-    "verification_score": 0.0,
-    "word_count": 912
+    "word_count": 912,
+    "has_postscript": false,
+    "detection_method": "unknown"
   },
   {
     "number": 242,
-    "filename": "0242_unknown_to_schiller_undated.md",
-    "sender": "Unknown",
+    "filename": "0242_goethe_to_schiller_undated.md",
+    "sender": "Goethe",
     "recipient": "Schiller",
     "date": "",
-    "location": "",
-    "verification_score": 0.0,
-    "word_count": 1145
+    "location": "Weimar",
+    "word_count": 1150,
+    "has_postscript": false,
+    "detection_method": "location"
   }
 ]

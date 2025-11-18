@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 28: Schiller to Goethe
@@ -54,10 +54,6 @@ I acknowledge I at first feared, that on account of the long
 interval that must have elapsed between the first writing
 
 of it and the giving to it the last finish, a little inequality
-
-36
-
-CORRESPONDENCE BETWEEN
 
 might be visible. But of this there is no trace. The bold
 
@@ -114,7 +110,3 @@ who generally knows something de rebus omnibus et quibusdam aliis, could give me
 All here commend themselves to you and rejoice at your
 
 promised visit.
-
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*

@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 21: Schiller to Goethe
@@ -36,10 +36,6 @@ a subjective sanction, which only the concurrence of
 unprejudiced minds can bestow. Meyer's opinion is here
 
 * The German annuals are so called.
-
-2
-
-26
 
 CORRESrOXDEN'CK BETWEEN'
 
@@ -101,10 +97,6 @@ from all I hear of him, has a capital philosophic head,
 
 thinks that he has already made a hole in his system, and
 
-SCHILLER AND GOETHE.
-
-27
-
 will write against him. According to oral utterances of
 
 Fichte, for nothing has been said of this yet in his book,
@@ -165,10 +157,6 @@ from Boccaccio, each of these numbers will be sure of its
 
 value.
 
-2
-
-CORRESPONDENCE BETWEEN
-
 Your kind offer respecting the epigrams is most advantageous for the Almanac. We will confer about the
 
 arrangement of them. Perhaps it may be possible to
@@ -205,6 +193,6 @@ the winter. I speak now as if I were a healthy active
 
 man.
 
----
+Keep us in your friendly remembrance : you live in
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+ours.

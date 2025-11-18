@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 24: Schiller to Goethe
@@ -37,10 +37,6 @@ As you request, I send back the Elegies together with
 
 the Stolbergs, with my best thanks. The first manuscript
 
-30
-
-CORRESPONDENCE BETWEEN
-
 of the Horen went off the day before yesterday to the
 
 bookseller. I have written to him that he may expect
@@ -59,6 +55,6 @@ I have anxiously expected a manuscript from Meyer
 
 this week. Will you recall me to his memory.
 
----
+Mr. Humboldt will commence his journey to Frankfort
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+next Saturday.

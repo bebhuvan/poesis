@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 12: Schiller to Goethe
@@ -26,8 +26,6 @@ days to the imbibing of as much from you as my receptivity would permit : time w
 seed will come up in me.
 
 * The Journal about to be established.
-
-18
 
 CORRESPONDEXCE BETWEEN
 
@@ -91,12 +89,8 @@ limit myself to editorial matters. I learn that Ramdohr
 
 has complained here of your reception of him in Dresden.
 
-SCHILLER AND GOETHE.
-
-19
-
 He is here so esteemed as a connoisseur, tliatK. took him
 
----
+to the joiner's to have the benefit of his judgment about a
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+very common bureau he is having made.

@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: true
 ---
 
 # Letter 19: Schiller to Goethe
@@ -36,10 +36,6 @@ of my mind. I hope that yon may be so too in the
 others, for I must acknowledge, that my real, earnest
 
 opinion, is expressed in these letters. I have never before written a line about political bemoaninga, and I have
-
-SCHILLER AND GOETHE.
-
-23
 
 said what I have in these letters, merely that I may never
 
@@ -97,4 +93,6 @@ promises me. We all beg to be remembered by you.
 
 ---
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+**P.S.**
+
+CORRESPOXDEXCE BETWEEN

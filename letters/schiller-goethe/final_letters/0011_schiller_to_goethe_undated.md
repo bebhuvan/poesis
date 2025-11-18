@@ -4,14 +4,14 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 11: Schiller to Goethe
 
 ---
 
-Jen- A, 12ih September, 1794.
+JenA, 12ih September, 1794.
 
 You have left it to me to fix a day after the 14th. With
 
@@ -24,10 +24,6 @@ gratified by your invitation, will accompany me, in order
 to spend some hours with you.
 
 * One of Goethe's dramas.
-
-SCHILLER AND GOETHE.
-
-17
 
 Ramdohr was here a few days ago, and probably called
 
@@ -63,6 +59,6 @@ is worth reading.
 
 My wife charges me with many friendly assurances for
 
----
+you. I am about to send her the English Iphigenia, which
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+will give her much pleasure.

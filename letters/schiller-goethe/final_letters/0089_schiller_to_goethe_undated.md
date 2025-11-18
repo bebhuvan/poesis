@@ -4,7 +4,7 @@ sender: "Schiller"
 recipient: "Goethe"
 date: ""
 location: ""
-verification_score: 0.0
+has_postscript: false
 ---
 
 # Letter 89: Schiller to Goethe
@@ -36,10 +36,6 @@ out of your own mouth were you to tell him he was on the
 wrong scent.
 
 That the Hundspostagc is at present all the rage in
-
-120
-
-CORRESPONDENCE BETWEEN
 
 Weimar, is to me pliysiologically remarkable ; for one
 
@@ -75,6 +71,6 @@ there is already a poetical one, would have laid us open to
 
 the attacks of the gentlemen.
 
----
+Farewell. My wife thanks you for your remembrance.
 
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+Not much has been yet done at the drawing.

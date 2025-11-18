@@ -3,11 +3,14 @@ letter_number: 15
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: false
 ---
 
 # Letter 15: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -25,6 +28,4 @@ edified by the representation, it would be an excellent
 
 opportunity for testing the talents of our actors for the
 
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+object we spoke of. Farewell, and think of me.

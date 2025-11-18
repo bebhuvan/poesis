@@ -3,11 +3,14 @@ letter_number: 13
 sender: "Goethe"
 recipient: "Schiller"
 date: ""
-location: ""
-verification_score: 0.0
+location: "Weimar"
+has_postscript: false
 ---
 
 # Letter 13: Goethe to Schiller
+
+**Metadata:**
+- **Location:** Weimar
 
 ---
 
@@ -17,6 +20,4 @@ Tübingen, into their association, and allow him a consultative voice in the aff
 
 It is to be understood, that this connection lasts only so
 
----
-
-*Verification: This letter has been cross-verified against 3 OCR sources. Match score: 0.0%*
+long as Mr. Cotta is the publisher.
