@@ -1,0 +1,11 @@
+# Large source files (can be re-downloaded)
+*.epub
+*.pdf
+*.xml
+tagore_letters_raw.txt
+epub_extracted/
+epub_extracted_text.txt
+
+# Intermediate extraction (keep only the final comprehensive version)
+extracted_letters/
+all_letters_combined.md
