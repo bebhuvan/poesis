@@ -1,13 +1,19 @@
 {
-  "total_extracted": 275,
+  "total_extracted": 269,
   "expected_total": 293,
   "missing_letters": [
+    "XLIX",
+    "CIX",
     "CLIII",
+    "CLVIII",
     "CLXIX",
+    "CLXXXI",
+    "CLXXXII",
     "CLXXXIV",
     "CXCIV",
     "CXCVIII",
     "CXCIX",
+    "CCIV",
     "CCXVII",
     "CCXVIII",
     "CCXIX",
@@ -21,6 +27,6 @@
     "CCLXXIX",
     "CCLXXXIV"
   ],
-  "coverage_percent": 93.9,
-  "generated_date": "2025-11-18T02:57:20.678429"
+  "coverage_percent": 91.8,
+  "generated_date": "2025-11-18T03:13:51.818404"
 }

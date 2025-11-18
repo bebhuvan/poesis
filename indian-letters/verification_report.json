@@ -1,0 +1,384 @@
+{
+  "total_letters": 275,
+  "unique_letters": 275,
+  "duplicates": [],
+  "missing": [
+    153,
+    169,
+    184,
+    194,
+    198,
+    199,
+    217,
+    218,
+    219,
+    224,
+    233,
+    248,
+    249,
+    253,
+    269,
+    274,
+    279,
+    284
+  ],
+  "quality_issues": {
+    "3": [
+      "Date without year: 'Sylhet, Assam'"
+    ],
+    "6": [
+      "Date without year: 'I  reach  Bombay  on  the  20th.  I  take  it  that  you  go'"
+    ],
+    "7": [
+      "Date without year: 'I reach Bombay on the 20th. I take it that you go'"
+    ],
+    "8": [
+      "Date without year: 'Bhai Amritlal Thakkar will perhaps refuse to'"
+    ],
+    "9": [
+      "Date without year: 'Sabarmati'"
+    ],
+    "13": [
+      "Date without year: 'I passed a good night. This place [Parnakuti] is'"
+    ],
+    "15": [
+      "Date without year: 'Not that I am too feeble to write with my own'"
+    ],
+    "20": [
+      "Date without year: 'have seen from the papers how I am progressing. There'"
+    ],
+    "22": [
+      "Date without year: '.am rltiw oh'"
+    ],
+    "25": [
+      "Date without year: 'feel this as much as you do. Therefore I imitate Eka\u00ac'"
+    ],
+    "40": [
+      "Date without year: '[Madras]'"
+    ],
+    "41": [
+      "Date without year: 'I am writing this in the steamer \u2018Dayavati5 on our'"
+    ],
+    "44": [
+      "Date without year: 'It is 9 a.m. on Wednesday morning. The Bihar'"
+    ],
+    "47": [
+      "Date without year: 'This is a day of *fasting. And we are all stretched'"
+    ],
+    "49": [
+      "Date without year: 'relief  in  XC,  GIX  etc.,  Haripura  Congress  arrange\u00ac'"
+    ],
+    "66": [
+      "Date without year: 'Satyagraha.'"
+    ],
+    "69": [
+      "Date without year: '... Kaka is down with fever. The temperature has'"
+    ],
+    "88": [
+      "Date without year: 'August  26,  1 947'"
+    ],
+    "92": [
+      "Date without year: 'APril  5.  r935'"
+    ],
+    "93": [
+      "Date without year: 'APril 5. r935'"
+    ],
+    "100": [
+      "Date without year: 'as  is  now  possible.'"
+    ],
+    "103": [
+      "Date without year: 'APril  5.  r935'"
+    ],
+    "109": [
+      "Date without year: 'the  day  for  the  national  government  in  CCLVIII,  the'"
+    ],
+    "137": [
+      "Very short body (49 chars)",
+      "Date without year: 'soon come to an end.'"
+    ],
+    "139": [
+      "Date without year: 'July *5> *937'"
+    ],
+    "149": [
+      "Date without year: '[Written between October i and 15]'"
+    ],
+    "150": [
+      "Date without year: 'day of silence'"
+    ],
+    "158": [
+      "Date without year: 'GGLX  et  seq.  and  CCLXXXVI  et  seq.  and  the  Delhi'"
+    ],
+    "166": [
+      "Date without year: 'Satyagraha.'"
+    ],
+    "176": [
+      "Date without year: 'Independence Day'"
+    ],
+    "178": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "181": [
+      "Date without year: 'the  day  for  the  national  government  in  CCLVIII,  the'"
+    ],
+    "182": [
+      "Date without year: 'the  day  for  the  national  government  in  CCLVIII,  the'"
+    ],
+    "188": [
+      "Date without year: 'August  26,  1 947'"
+    ],
+    "192": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "193": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "204": [
+      "Date without year: 'GGLX  et  seq.  and  CCLXXXVI  et  seq.  and  the  Delhi'"
+    ],
+    "227": [
+      "Date without year: 'August 9, 194.5'"
+    ],
+    "229": [
+      "Date without year: 'y refuse to give any secret help. It'"
+    ],
+    "256": [
+      "Date without year: 'Slip  New  Delhi'"
+    ],
+    "258": [
+      "Date without year: 'Slip New Delhi'"
+    ],
+    "259": [
+      "Date without year: 'The proposal [that I should broadcast to the nation]'"
+    ],
+    "275": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "276": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "278": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "287": [
+      "Date without year: 'August  26,  1 947'"
+    ],
+    "288": [
+      "Date without year: 'August  26,  1 947'"
+    ],
+    "292": [
+      "Date without year: 'New  Delhi'"
+    ],
+    "293": [
+      "Date without year: 'New Delhi'"
+    ]
+  },
+  "stats": {
+    "avg_length": 2411.683636363636,
+    "min_length": 49,
+    "max_length": 11409,
+    "short_letters": [
+      [
+        137,
+        "CXXXVII",
+        49
+      ],
+      [
+        200,
+        "CC",
+        89
+      ]
+    ],
+    "long_letters": [
+      [
+        48,
+        "XLVIII",
+        6294
+      ],
+      [
+        49,
+        "XLIX",
+        10317
+      ],
+      [
+        53,
+        "LIII",
+        11409
+      ],
+      [
+        75,
+        "LXXV",
+        7652
+      ],
+      [
+        89,
+        "LXXXIX",
+        9337
+      ],
+      [
+        90,
+        "XC",
+        5860
+      ],
+      [
+        91,
+        "XCI",
+        5860
+      ],
+      [
+        100,
+        "C",
+        7997
+      ],
+      [
+        103,
+        "CIII",
+        8431
+      ],
+      [
+        108,
+        "CVIII",
+        9088
+      ],
+      [
+        109,
+        "CIX",
+        10165
+      ],
+      [
+        111,
+        "CXI",
+        5767
+      ],
+      [
+        112,
+        "CXII",
+        5767
+      ],
+      [
+        115,
+        "CXV",
+        5861
+      ],
+      [
+        144,
+        "CXLIV",
+        5217
+      ],
+      [
+        158,
+        "CLVIII",
+        10073
+      ],
+      [
+        181,
+        "CLXXXI",
+        10165
+      ],
+      [
+        182,
+        "CLXXXII",
+        10165
+      ],
+      [
+        187,
+        "CLXXXVII",
+        9818
+      ],
+      [
+        190,
+        "CXC",
+        6629
+      ],
+      [
+        192,
+        "CXCII",
+        10511
+      ],
+      [
+        193,
+        "CXCIII",
+        10511
+      ],
+      [
+        195,
+        "CXCV",
+        6629
+      ],
+      [
+        204,
+        "CCIV",
+        10073
+      ],
+      [
+        210,
+        "CCX",
+        6906
+      ],
+      [
+        214,
+        "CCXIV",
+        5599
+      ],
+      [
+        215,
+        "CCXV",
+        6845
+      ],
+      [
+        220,
+        "CCXX",
+        6906
+      ],
+      [
+        230,
+        "CCXXX",
+        6585
+      ],
+      [
+        231,
+        "CCXXXI",
+        6585
+      ],
+      [
+        245,
+        "CCXLV",
+        7660
+      ],
+      [
+        246,
+        "CCXLVI",
+        7660
+      ],
+      [
+        261,
+        "CCLXI",
+        6465
+      ],
+      [
+        262,
+        "CCLXII",
+        5595
+      ],
+      [
+        263,
+        "CCLXIII",
+        5702
+      ],
+      [
+        275,
+        "CCLXXV",
+        7116
+      ],
+      [
+        286,
+        "CCLXXXVI",
+        5048
+      ],
+      [
+        292,
+        "CCXCII",
+        7409
+      ]
+    ]
+  }
+}
