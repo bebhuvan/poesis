@@ -1,0 +1,37 @@
+{
+  "identifier": "in.ernet.dli.2015.208999",
+  "extracted_at": "2025-11-18T03:11:16.583697",
+  "metadata": {
+    "title": "Famous Letters Of Mahatma Gandhi",
+    "creator": "Khipple .r. L",
+    "year": "Unknown",
+    "pages": "Unknown"
+  },
+  "extraction_methods": [
+    "txt"
+  ],
+  "comparison": {
+    "methods": {
+      "txt": {
+        "length": 183852,
+        "hash": "c5773b8472679345b2b295ad3495f32069ec8de326721005dd2af3b0321258b4",
+        "lines": 4478,
+        "words": 27656
+      }
+    },
+    "agreement": "perfect",
+    "recommended": "txt"
+  },
+  "files_available": [
+    "2015.208999.Famous-Letters.epub",
+    "2015.208999.Famous-Letters.gif",
+    "2015.208999.Famous-Letters.pdf",
+    "2015.208999.Famous-Letters_abbyy.gz",
+    "2015.208999.Famous-Letters_chocr.html.gz",
+    "2015.208999.Famous-Letters_cloth_detection.log",
+    "2015.208999.Famous-Letters_djvu.txt",
+    "2015.208999.Famous-Letters_djvu.xml",
+    "2015.208999.Famous-Letters_hocr.html",
+    "2015.208999.Famous-Letters_hocr_pageindex.json.gz"
+  ]
+}

@@ -1,0 +1,8 @@
+# Temporary download files
+**/temp/
+*.pdf
+*.djvu
+
+# Large binary files
+*.epub
+*.gif

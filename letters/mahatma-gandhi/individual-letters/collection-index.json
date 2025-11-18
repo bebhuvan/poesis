@@ -1,0 +1,183 @@
+{
+  "collection": "Famous Letters of Mahatma Gandhi",
+  "total_letters": 22,
+  "extracted_at": "2025-11-18T03:18:32.888380",
+  "letters": [
+    {
+      "number": 1,
+      "title": "Letter to Lord Chelmsford",
+      "recipient": "Lord Chelmsford",
+      "date": null,
+      "word_count": 1502,
+      "content_hash": "62dcfb2219cb7e17"
+    },
+    {
+      "number": 2,
+      "title": "Ultimatum to Lord Chelmsford",
+      "recipient": "Lord Chelmsford",
+      "date": null,
+      "word_count": 1233,
+      "content_hash": "9eb50e6f12b1c8a3"
+    },
+    {
+      "number": 3,
+      "title": "To Every Englishman Living in India - First Letter",
+      "recipient": "Every Englishman in India",
+      "date": null,
+      "word_count": 1306,
+      "content_hash": "a84bea88b196fa2e"
+    },
+    {
+      "number": 4,
+      "title": "To Every Englishman Living in India - Second Letter",
+      "recipient": "Every Englishman in India",
+      "date": null,
+      "word_count": 1191,
+      "content_hash": "42994810d499117d"
+    },
+    {
+      "number": 5,
+      "title": "To the Youngmen of Bengal",
+      "recipient": "The Youngmen of Bengal",
+      "date": null,
+      "word_count": 913,
+      "content_hash": "a41793a34fdec939"
+    },
+    {
+      "number": 6,
+      "title": "To His Royal Highness, The Duke of Connaught",
+      "recipient": "The Duke of Connaught",
+      "date": null,
+      "word_count": 974,
+      "content_hash": "2758ffcd165854cb"
+    },
+    {
+      "number": 7,
+      "title": "Ultimatum to Lord Reading",
+      "recipient": "Lord Reading",
+      "date": null,
+      "word_count": 1231,
+      "content_hash": "426c8d786a5444e8"
+    },
+    {
+      "number": 8,
+      "title": "Letters to Lord Irwin - First Letter",
+      "recipient": "Lord Irwin",
+      "date": null,
+      "word_count": 2537,
+      "content_hash": "1ac5edc834dd672d"
+    },
+    {
+      "number": 9,
+      "title": "Letters to Lord Irwin - Second Letter",
+      "recipient": "Lord Irwin",
+      "date": null,
+      "word_count": 1546,
+      "content_hash": "c56e447b38d31a5a"
+    },
+    {
+      "number": 10,
+      "title": "To the Inmates of Sabarmati Ashram",
+      "recipient": "Inmates of Sabarmati Ashram",
+      "date": null,
+      "word_count": 963,
+      "content_hash": "d12d2d20861b05f4"
+    },
+    {
+      "number": 11,
+      "title": "Letters to Lord Willingdon - First Rejoinder",
+      "recipient": "Lord Willingdon",
+      "date": null,
+      "word_count": 1457,
+      "content_hash": "feb70ffa5548d754"
+    },
+    {
+      "number": 12,
+      "title": "Letters to Lord Willingdon - Second Rejoinder",
+      "recipient": "Lord Willingdon",
+      "date": "December 28, 1931",
+      "word_count": 416,
+      "content_hash": "debda98594012cc3"
+    },
+    {
+      "number": 13,
+      "title": "To the Nation",
+      "recipient": "The Nation",
+      "date": null,
+      "word_count": 669,
+      "content_hash": "7f6f027d5e31227a"
+    },
+    {
+      "number": 14,
+      "title": "To Sir Samuel Hoare - Secretary of State for India",
+      "recipient": "Sir Samuel Hoare",
+      "date": null,
+      "word_count": 1307,
+      "content_hash": "ebb1dc350cb88116"
+    },
+    {
+      "number": 15,
+      "title": "To Ramsay MacDonald - British Prime Minister",
+      "recipient": "Ramsay MacDonald",
+      "date": null,
+      "word_count": 602,
+      "content_hash": "01b9440b819b2018"
+    },
+    {
+      "number": 16,
+      "title": "To Mr. M.A. Jinnah",
+      "recipient": "M.A. Jinnah",
+      "date": null,
+      "word_count": 535,
+      "content_hash": "472e1e751ab8da64"
+    },
+    {
+      "number": 17,
+      "title": "To Generalissimo Chiang Kai-shek",
+      "recipient": "Chiang Kai-shek",
+      "date": null,
+      "word_count": 1381,
+      "content_hash": "7dd4316fbb26b54b"
+    },
+    {
+      "number": 18,
+      "title": "To the People of America",
+      "recipient": "The People of America",
+      "date": "August 3, 1942",
+      "word_count": 498,
+      "content_hash": "6fd4c61144c7b9a7"
+    },
+    {
+      "number": 19,
+      "title": "Letters to Lord Linlithgow - First Letter",
+      "recipient": "Lord Linlithgow",
+      "date": null,
+      "word_count": 2783,
+      "content_hash": "d2ae9c450f5d6085"
+    },
+    {
+      "number": 20,
+      "title": "To Lord Linlithgow - On New Year's Eve",
+      "recipient": "Lord Linlithgow",
+      "date": null,
+      "word_count": 885,
+      "content_hash": "996122cc210f62dc"
+    },
+    {
+      "number": 21,
+      "title": "To Lord Linlithgow - Personal",
+      "recipient": "Lord Linlithgow",
+      "date": null,
+      "word_count": 634,
+      "content_hash": "47145a2236a8b43b"
+    },
+    {
+      "number": 22,
+      "title": "To Lord Linlithgow - Last Letter",
+      "recipient": "Lord Linlithgow",
+      "date": null,
+      "word_count": 1231,
+      "content_hash": "de2b623836657edd"
+    }
+  ]
+}
