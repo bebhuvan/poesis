@@ -1,0 +1,166 @@
+{
+  "collection": "Letters from a Father to his Daughter (1929)",
+  "author": "Jawaharlal Nehru",
+  "recipient": "Indira Gandhi",
+  "year_written": 1928,
+  "year_published": 1929,
+  "total_letters": 26,
+  "letters": [
+    {
+      "number": 1,
+      "title": "The Book of Nature",
+      "length_chars": 5121,
+      "filename": "letter-01-the-book-of-nature.md"
+    },
+    {
+      "number": 2,
+      "title": "How Early History was Written",
+      "length_chars": 5240,
+      "filename": "letter-02-how-early-history-was-written.md"
+    },
+    {
+      "number": 3,
+      "title": "The Making of the Earth",
+      "length_chars": 4323,
+      "filename": "letter-03-the-making-of-the-earth.md"
+    },
+    {
+      "number": 4,
+      "title": "The First Living Things",
+      "length_chars": 6430,
+      "filename": "letter-04-the-first-living-things.md"
+    },
+    {
+      "number": 5,
+      "title": "The Animals Appear",
+      "length_chars": 4537,
+      "filename": "letter-05-the-animals-appear.md"
+    },
+    {
+      "number": 6,
+      "title": "The Coming of Man",
+      "length_chars": 6051,
+      "filename": "letter-06-the-coming-of-man.md"
+    },
+    {
+      "number": 7,
+      "title": "The Early Men",
+      "length_chars": 7287,
+      "filename": "letter-07-the-early-men.md"
+    },
+    {
+      "number": 8,
+      "title": "How Different Races were Formed",
+      "length_chars": 5219,
+      "filename": "letter-08-how-different-races-were-formed.md"
+    },
+    {
+      "number": 9,
+      "title": "The Races and Languages of Mankind",
+      "length_chars": 5639,
+      "filename": "letter-09-the-races-and-languages-of-mankind.md"
+    },
+    {
+      "number": 10,
+      "title": "The Relationships of Languages",
+      "length_chars": 7403,
+      "filename": "letter-10-the-relationships-of-languages.md"
+    },
+    {
+      "number": 12,
+      "title": "The Formation of Tribes",
+      "length_chars": 3748,
+      "filename": "letter-12-the-formation-of-tribes.md"
+    },
+    {
+      "number": 13,
+      "title": "How Religion Began and Division of Labour",
+      "length_chars": 4333,
+      "filename": "letter-13-how-religion-began-and-division-of-labour.md"
+    },
+    {
+      "number": 14,
+      "title": "The Changes brought about by Agriculture",
+      "length_chars": 10157,
+      "filename": "letter-14-the-changes-brought-about-by-agriculture.md"
+    },
+    {
+      "number": 17,
+      "title": "The Patriarch becomes a King",
+      "length_chars": 4002,
+      "filename": "letter-17-the-patriarch-becomes-a-king.md"
+    },
+    {
+      "number": 18,
+      "title": "The Early Civilisations",
+      "length_chars": 4006,
+      "filename": "letter-18-the-early-civilisations.md"
+    },
+    {
+      "number": 19,
+      "title": "The Great Cities of the Ancient World",
+      "length_chars": 3409,
+      "filename": "letter-19-the-great-cities-of-the-ancient-world.md"
+    },
+    {
+      "number": 20,
+      "title": "Egypt and Crete",
+      "length_chars": 4218,
+      "filename": "letter-20-egypt-and-crete.md"
+    },
+    {
+      "number": 21,
+      "title": "China and India",
+      "length_chars": 3461,
+      "filename": "letter-21-china-and-india.md"
+    },
+    {
+      "number": 22,
+      "title": "Sea Voyages and Trade",
+      "length_chars": 5492,
+      "filename": "letter-22-sea-voyages-and-trade.md"
+    },
+    {
+      "number": 23,
+      "title": "Language, Writing and Numerals",
+      "length_chars": 3546,
+      "filename": "letter-23-language-writing-and-numerals.md"
+    },
+    {
+      "number": 24,
+      "title": "Different Classes of People",
+      "length_chars": 3291,
+      "filename": "letter-24-different-classes-of-people.md"
+    },
+    {
+      "number": 25,
+      "title": "Kings and Temples and Priests",
+      "length_chars": 4528,
+      "filename": "letter-25-kings-and-temples-and-priests.md"
+    },
+    {
+      "number": 26,
+      "title": "A Look Back",
+      "length_chars": 2446,
+      "filename": "letter-26-a-look-back.md"
+    },
+    {
+      "number": 27,
+      "title": "Pictures of Fossil Fishes",
+      "length_chars": 1423,
+      "filename": "letter-27-pictures-of-fossil-fishes.md"
+    },
+    {
+      "number": 28,
+      "title": "Fossils and Ruins",
+      "length_chars": 2444,
+      "filename": "letter-28-fossils-and-ruins.md"
+    },
+    {
+      "number": 29,
+      "title": "The Aryans come to India",
+      "length_chars": 9771,
+      "filename": "letter-29-the-aryans-come-to-india.md"
+    }
+  ]
+}

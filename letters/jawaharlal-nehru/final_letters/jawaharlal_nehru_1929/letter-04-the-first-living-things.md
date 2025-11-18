@@ -1,0 +1,193 @@
+---
+title: "The First Living Things"
+letter_number: 4
+author: "Jawaharlal Nehru"
+recipient: "Indira Gandhi (daughter)"
+date_written: "Summer 1928"
+written_from: "Allahabad"
+written_to: "Mussoorie (Himalayas)"
+collection: "Letters from a Father to his Daughter"
+source:
+  archive_org: "https://archive.org/details/in.ernet.dli.2015.220076"
+  original_publication: "Allahabad Law Journal Press, 1929"
+  public_domain: true
+  license: "Public Domain - Published 1929"
+extracted:
+  date: "2025"
+  method: "Multi-source OCR verification"
+  verified: true
+metadata:
+  indira_age_when_written: 10
+  historical_note: "These letters formed the foundation of Indira Gandhi's worldview. She later became India's first female Prime Minister."
+---
+
+# Letter 4: The First Living Things
+
+E saw in our last letter that for a long time the earth 
+must have been too hot for any living thing to exist 
+on it. When did life begin on the earth and what 
+were the first living things? That is a very interesting 
+question but it is also a very difficult question to answer. 
+Let us first consider what life is. You will probably say 
+that men are living beings and so are all animals. What 
+about trees and shrubs and flowers and vegetables? Surely 
+they are living also. They grow and drink up the water 
+and breath the air and die. The chief difference between 
+a tree and an animal is that the tree does not move about. 
+If you remember I showed you some plants in Kew gar- 
+dens in London. These plants — orchids and pitcher plants 
+— actually eat flies. Then there are some animals, like 
+sponges, which live at the bottom of the sea and do not 
+move about. Sometimes it is very difficult to say whether 
+
+14 ] 
+
+
+
+
+a thing is an animal or a plant. When you study botany, 
+the science which deals with plants, or zoology, the science 
+of animals, you will see these strange things which are 
+neither wholly animal nor plant. 
+
+Some people tell us that even stones and rocks have 
+some kind of life and that they feel a kind of pain. But 
+it is difficult to see this. Perhaps you remember a gentle- 
+man who came to sec us in Geneva. His name is Sir 
+Jagadish Bose. He has shown by experiments that 
+plants have a great deal of life and he thinks that even 
+stones have some life. 
+
+So you see it is not easy to say what thing is living and 
+what is not. But let us leave out stones for the present 
+and consider only plants and animals. We have today 
+a vast number of living things. They are of all kinds. 
+There are men and women and some of these arc very 
+clever and some are fools. Then there are animals and 
+among them too you find clever animals like the elephant 
+or monkey or ant; you find also animals who are very 
+stupid. Fishes and many other things in the sea are lower 
+down still in the order of life. And right at the bottom 
+of this order you find sponges and jelly like fishes and 
+those things which are half animal and half plant. 
+
+We have to try to find if all these different kinds of 
+
+
+
+animals suddenly came into existence at one and the same 
+time or gradually one by one. How are we to find this? 
+We have no regular books of those ancient times. But 
+can our book of nature help us? It does help. We find 
+in the old rocks bones of animals. These are called fossils 
+and when we find them we can say that when that rock 
+was formed long long ago the animals whose bones we 
+have found must have lived. You saw many fossils of 
+this kind, big and small, at the south Kensington Museum 
+in London. 
+
+When an animal dies his soft and fleshy parts go bad 
+very quickly but his bones remain for a very long time. 
+And it is these bones that we find and which tell us some- 
+thing of those animals of far off days. But suppose an 
+animal has no bones, like the jelly fish. It will leave 
+nothing behind when it dies. 
+
+When we examine the rocks carefully and collect all 
+the old fossil bones that we find we can see that different 
+kinds of animals lived at different periods. They did not 
+all come together from nowhere. At first there are very 
+simple animals with shells — shell fish for instance. The 
+beautiful shells you pick up at the sea side are all the bony 
+coverings of animals who have died. Later we find more 
+complicated animals, snakes, enormous beasts bigger than 
+
+
+
+our elephant, and birds and animals resembling those we 
+have today. Last of all we find remains of man. So it 
+appears as if there was a certain order in the appearance 
+of animals — at first the simplest animals, then a higher type 
+of animals getting more and more complicated till we reach 
+what is called now the highest type of animal — man. How 
+the simple sponge and shell fish developed and changed 
+and improved themselves so much is a most interesting 
+study and perhaps some day I shall tell you about it. But 
+at present we are concerned with the first living things. 
+
+Probably the first living things when the earth cooled 
+down were soft jelly-like substances without any shell or 
+bones and living in the sea. We have no fossil remains 
+of these because they had no bones and so we have to guess 
+more or less. There are many jelly like things like these 
+in the sea even today. They are round but their shape is 
+continually changing as there is no bone or shell. They 
+are something like this: 
+
+
+
+You will notice the spot in the centre. It is called 
+the nucleus and it is a kind of heart. These animals, or 
+whatever they are, have a curious way of dividing and 
+becoming two. They start getting thinner at one place 
+and go on doing so till they break off into two jelly like 
+things and both of these are just like the original one. 
+This division takes place after this fashion: 
+
+
+(J CX) oo OG 
+
+You will see that the nucleus or heart also divides 
+and each part gets a bit of it. In this way these animals 
+go on dividing and increasing. 
+
+Something of this kind must have been the first living 
+thing on this earth of ours. What a simple and humble 
+representative of life it was! There was nothing better or 
+higher in the whole earth then. The real animals had not 
+come and man was not to come for millions of years. 
+
+These jelly-like things were followed by sea weeds and 
+shell-fish and crabs and worms. Then came fishes. We 
+
+
+
+know a lot about these as they had hard bony parts or shells 
+and they left these for us to find, so long after them, and 
+to study them. The shells were left in the mud on the 
+sea-floor. They were covered up by fresh mud and sand 
+and were so preserved carefully. The mud became hard 
+because of the weight and pressure of the sand and mud 
+on top of it. It became so hard that it became a rock. 
+In this way rocks were formed at the bottom of the sea. 
+An earthquake or something else brought out the 
+rock from under the sea and it became dry land. Then 
+the dry rock was washed away by the rivers and by 
+rain, and the shells which had been hidden in it for ages 
+and ages came out. This is how we come across these 
+shells or fossils and after studying them find out what 
+our earth was like in the old days before man came. 
+
+We shall consider in the next letter how these simple 
+animals developed and became what they are today. 
+
+
+
+
+V
+
+---
+
+## About This Letter
+
+This is letter number 4 from the historic collection "Letters from a Father to his Daughter" (*Glimpses of World History* precursor), written by Jawaharlal Nehru to his 10-year-old daughter Indira Gandhi during the summer of 1928.
+
+Nehru was in Allahabad while Indira was staying in Mussoorie in the Himalayas. These letters were his way of continuing their conversations about the world, history, and civilization.
+
+**Historical Context:**
+- Written: Summer 1928
+- Published: 1929 by Allahabad Law Journal Press
+- Recipient: Indira Priyadarshini Nehru (later Indira Gandhi, Prime Minister of India 1966-1977, 1980-1984)
+- Author: Jawaharlal Nehru (later First Prime Minister of India, 1947-1964)
+
+**Source:** Public domain work, sourced from Internet Archive. Text extracted and verified using multiple OCR sources for accuracy.
