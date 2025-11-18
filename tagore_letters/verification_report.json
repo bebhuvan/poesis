@@ -1,0 +1,1286 @@
+{
+  "summary": {
+    "total_letters": 65,
+    "found_in_djvu": 60,
+    "found_in_epub": 58,
+    "avg_djvu_similarity": 0.7633043326345216,
+    "avg_epub_similarity": 0.764556206173643,
+    "issues_count": 7
+  },
+  "results": [
+    {
+      "letter_num": 1,
+      "date": "August 16th, 1913",
+      "location": "London",
+      "extracted_length": 669,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 2,
+      "date": "October 11th 1913",
+      "location": "Calcutta",
+      "extracted_length": 1239,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.784,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 3,
+      "date": "October 11th, 1913",
+      "location": "Santiniketan",
+      "extracted_length": 809,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 4,
+      "date": "February 1914",
+      "location": "Santiniketan",
+      "extracted_length": 1271,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 5,
+      "date": "March 5th 1914",
+      "location": "Santiniketan",
+      "extracted_length": 491,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 6,
+      "date": "May 10th 1914",
+      "location": "Santiniketan",
+      "extracted_length": 545,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 7,
+      "date": "May 14th, 1914",
+      "location": "Ramgarh",
+      "extracted_length": 691,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 8,
+      "date": "May 18th 1914",
+      "location": "Ramgarh",
+      "extracted_length": 648,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 9,
+      "date": "May 1914",
+      "location": "Ramgarh",
+      "extracted_length": 773,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.776,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 10,
+      "date": "May 21st, 1914",
+      "location": "Ramgarh",
+      "extracted_length": 1065,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.774,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.774,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 11,
+      "date": "May 22nd 1914",
+      "location": "Ramgarh",
+      "extracted_length": 1010,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 12,
+      "date": "May 22nd, 1914",
+      "location": "Ramgarh",
+      "extracted_length": 949,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 13,
+      "date": "May 1914",
+      "location": "Ramgarh",
+      "extracted_length": 611,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 14,
+      "date": "May 1914",
+      "location": "Ramgarh",
+      "extracted_length": 2506,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 15,
+      "date": "October 1914",
+      "location": "Santiniketan",
+      "extracted_length": 454,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.7882599580712788,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.7882599580712788,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 16,
+      "date": "1914",
+      "location": "Santiniketan, October th",
+      "extracted_length": 583,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.778,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 17,
+      "date": "November 11th 1914",
+      "location": "Darjeeling",
+      "extracted_length": 1073,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.782,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 18,
+      "date": "November 1914",
+      "location": "Calcutta",
+      "extracted_length": 693,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 19,
+      "date": "November 1914",
+      "location": "Calcutta",
+      "extracted_length": 1491,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.742,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.742,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 20,
+      "date": "December 5th 1914",
+      "location": "Agra",
+      "extracted_length": 1311,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.778,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.778,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 21,
+      "date": "December 15th, 1914",
+      "location": "Allahabad",
+      "extracted_length": 5986,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.678,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.678,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 22,
+      "date": "January 1915",
+      "location": "Calcutta",
+      "extracted_length": 2416,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.776,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.776,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 23,
+      "date": "February 18th, 1915",
+      "location": "Calcutta",
+      "extracted_length": 6716,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.728,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.728,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 24,
+      "date": "1915",
+      "location": "Calcutta",
+      "extracted_length": 1949,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.784,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.784,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 25,
+      "date": "10th, 1915",
+      "location": "Calcutta",
+      "extracted_length": 3453,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 26,
+      "date": "16th, 1915",
+      "location": "Shileida",
+      "extracted_length": 5904,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.682,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.682,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 27,
+      "date": "September 1915",
+      "location": "Santiniketan",
+      "extracted_length": 7341,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.734,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.734,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 28,
+      "date": "February 3, 1916",
+      "location": "Shileida",
+      "extracted_length": 2965,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 29,
+      "date": "1917",
+      "location": "Santiniketan",
+      "extracted_length": 2070,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 30,
+      "date": "20th, 1917",
+      "location": "Shileida",
+      "extracted_length": 1960,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.764,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.764,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 31,
+      "date": "1918",
+      "location": "Santiniketan, March loth",
+      "extracted_length": 6381,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.778,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.778,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 32,
+      "date": "December 11th, 1918",
+      "location": "Santiniketan",
+      "extracted_length": 6327,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 33,
+      "date": "May 1920",
+      "location": "Red Sea",
+      "extracted_length": 2174,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.664,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.664,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 34,
+      "date": "July 8th, 1920",
+      "location": "London",
+      "extracted_length": 1267,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.738,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.736,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 35,
+      "date": "July 12th 1920",
+      "location": "London",
+      "extracted_length": 1943,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.65,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.65,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 36,
+      "date": "July 22nd 1920",
+      "location": "London",
+      "extracted_length": 1913,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.674,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.674,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 37,
+      "date": "August 1st, 1920",
+      "location": "London",
+      "extracted_length": 799,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 38,
+      "date": "August 1920",
+      "location": "London",
+      "extracted_length": 1162,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 39,
+      "date": "August 13th, 1920",
+      "location": "Paris",
+      "extracted_length": 763,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 40,
+      "date": "August 20th, 1920",
+      "location": "Near Paris",
+      "extracted_length": 1612,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 41,
+      "date": "August 21st, 1920",
+      "location": "Ardennes",
+      "extracted_length": 8415,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 42,
+      "date": "September 18th, 1920",
+      "location": "Paris",
+      "extracted_length": 1173,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.784,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 43,
+      "date": "October 1920",
+      "location": "Antwerp",
+      "extracted_length": 1097,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 44,
+      "date": "October 1920",
+      "location": "London",
+      "extracted_length": 8410,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 45,
+      "date": "October 25th 1920",
+      "location": "New York",
+      "extracted_length": 3434,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 46,
+      "date": "November 30th 1920",
+      "location": "New York",
+      "extracted_length": 1396,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 47,
+      "date": "December 10th 1920",
+      "location": "New York",
+      "extracted_length": 4852,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.764,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.764,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 48,
+      "date": "December 19th, 1920",
+      "location": "New York",
+      "extracted_length": 11416,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 49,
+      "date": "January 8th, 1921",
+      "location": "New York",
+      "extracted_length": 6606,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 50,
+      "date": "January 23rd, 1921",
+      "location": "New York",
+      "extracted_length": 1703,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 51,
+      "date": "February 2nd 1921",
+      "location": "New York",
+      "extracted_length": 6124,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 52,
+      "date": "February 5th 1921",
+      "location": "New York",
+      "extracted_length": 2430,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.784,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 53,
+      "date": "February 1921",
+      "location": "Houston, Texas",
+      "extracted_length": 1070,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 54,
+      "date": "February 1921",
+      "location": "Chicago",
+      "extracted_length": 1098,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.62,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.622,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 55,
+      "date": "February 20th, 1921",
+      "location": "Chicago",
+      "extracted_length": 2651,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.754,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.754,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 56,
+      "date": "March 2nd, 1921",
+      "location": "Chicago",
+      "extracted_length": 3152,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.79,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 57,
+      "date": "March 5th 1921",
+      "location": "Chicago",
+      "extracted_length": 16765,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.668,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.668,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 58,
+      "date": "March 1921",
+      "location": "New York",
+      "extracted_length": 35364,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.742,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.744,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 59,
+      "date": "April 21st, 1921",
+      "location": "Autour DU Monde, Paris",
+      "extracted_length": 5565,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.79,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 60,
+      "date": "May 6th, 1921",
+      "location": "Geneva",
+      "extracted_length": 13936,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.78,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 61,
+      "date": "May 25th 1921",
+      "location": "Stockholm",
+      "extracted_length": 3918,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.776,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 62,
+      "date": "May 28th, 1921",
+      "location": "Berlin",
+      "extracted_length": 1026,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 63,
+      "date": "4th, 1921",
+      "location": "Berlin",
+      "extracted_length": 3519,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 64,
+      "date": "10th, 1921",
+      "location": "Darmstadt",
+      "extracted_length": 28321,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        }
+      }
+    },
+    {
+      "letter_num": 65,
+      "date": "July 1923",
+      "location": "Santiniketan",
+      "extracted_length": 15571,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.694,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": true,
+          "similarity": 0.788,
+          "context_length": 1100
+        }
+      }
+    }
+  ],
+  "issues": [
+    {
+      "letter_num": 1,
+      "date": "August 16th, 1913",
+      "location": "London",
+      "extracted_length": 669,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 3,
+      "date": "October 11th, 1913",
+      "location": "Santiniketan",
+      "extracted_length": 809,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 4,
+      "date": "February 1914",
+      "location": "Santiniketan",
+      "extracted_length": 1271,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 5,
+      "date": "March 5th 1914",
+      "location": "Santiniketan",
+      "extracted_length": 491,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 11,
+      "date": "May 22nd 1914",
+      "location": "Ramgarh",
+      "extracted_length": 1010,
+      "sources": {
+        "djvu": {
+          "found": false,
+          "similarity": 0.0
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 43,
+      "date": "October 1920",
+      "location": "Antwerp",
+      "extracted_length": 1097,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.786,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    },
+    {
+      "letter_num": 61,
+      "date": "May 25th 1921",
+      "location": "Stockholm",
+      "extracted_length": 3918,
+      "sources": {
+        "djvu": {
+          "found": true,
+          "similarity": 0.776,
+          "context_length": 1100
+        },
+        "epub": {
+          "found": false,
+          "similarity": 0.0
+        }
+      }
+    }
+  ]
+}
