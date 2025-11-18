@@ -1,0 +1,42 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'PaperMod'
+
+[params]
+  description = "Welcome to my blog"
+  author = "Your Name"
+
+  # Show reading time
+  ShowReadingTime = true
+
+  # Show share buttons
+  ShowShareButtons = true
+
+  # Show post navigation links
+  ShowPostNavLinks = true
+
+  # Show breadcrumbs
+  ShowBreadCrumbs = true
+
+  # Show code copy buttons
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Welcome to My Blog"
+  Content = "This is my personal blog where I share my thoughts and experiences."
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
