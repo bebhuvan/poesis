@@ -32,8 +32,7 @@ would have been no food, or at any rate very little food.
 So the peasants were very important. Without them 
 everybody would have starved. The labourers also did 
 useful work on the land and in the towns. But although 
-these people did such important work, and were so neces- 
-sary to everybody, they got very little out of it. Most of 
+these people did such important work, and were so necessary to everybody, they got very little out of it. Most of 
 what they produced went to others, specially to the king 
 and his class of people, including the nobles. 
 
@@ -41,14 +40,10 @@ The king and his class, as we have seen, had a great
 deal of power. During the days of the early tribes the 
 land belonged to the whole tribe, and not to any one 
 
-
-
 person. But as the king’s class grew in power, they said 
-that the land belonged to them. They became the land- 
-lords, and the peasants, who really did all the hard work 
+that the land belonged to them. They became the landlords, and the peasants, who really did all the hard work 
 on the land, became merely their servants in a way. 
-Whatever the peasants produced from the land was divid- 
-ed — a big share going to the landlord. 
+Whatever the peasants produced from the land was divided — a big share going to the landlord. 
 
 Some of the temples also had land and were thus 
 landlords. 
@@ -71,8 +66,6 @@ there was a special room called a shrine or holy place, where
 there was an image of the god they worshipped. They 
 could not worship something they could not see. This 
 
-
-
 is a little difficult. You know that a little child can 
 usually think of things it sees. The early people were 
 like children somewhat. And as they could not worship 
@@ -81,8 +74,7 @@ curious that these images were usually horribly ugly —
 animals or sometimes half animal and half man. In 
 Egypt they worshiped at one time a cat and at another 
 period, I think, a monkey. Why people should worship 
-these awful images of animals it is very difficult to under- 
-stand. If an image is to be worshipped why not make 
+these awful images of animals it is very difficult to understand. If an image is to be worshipped why not make 
 it beautiful? But perhaps the idea was that the gods were 
 something to be afraid of and so they were made into 
 these terrible images. 
@@ -91,8 +83,7 @@ At that time probably people did not think of one
 god or one great power, as most people think now. They 
 imagined that there were a large number of gods and 
 goddesses, sometimes even quarrelling with each other. 
-Different cities and different countries often had differ- 
-ent gods to worship. 
+Different cities and different countries often had different gods to worship. 
 
 The temples were full of priests and priestesses. 
 Usually the priests knew reading and writing and were 
@@ -100,19 +91,14 @@ more learned than the others. They became therefore the
 advisers of the kings. The books in those days were 
 written or copied by the priests. Because they had some 
 
-
-
 knowledge, they were the wise men of old. They were 
 the doctors also. And often just to show people how 
-clever they were, they showed them some tricks to im- 
-pose upon them. The people were very simple and ig- 
-norant and considered the priests as magicians and were 
+clever they were, they showed them some tricks to impose upon them. The people were very simple and ignorant and considered the priests as magicians and were 
 frightened of them. 
 
 The priests mixed with the life of the people in 
 every way. They were the wise men and every one went 
-to them when he was in trouble or was ill. They arrang- 
-ed big festivals for the people. There were no calendars 
+to them when he was in trouble or was ill. They arranged big festivals for the people. There were no calendars 
 in those days, specially for the common people. They 
 counted by festivals. 
 
@@ -128,8 +114,6 @@ places the same person was king and priest, like the
 Pharoahs in Egypt. Pharoahs indeed were considered 
 half divine or half god even when alive. When they died 
 they were worshipped as gods. 
-
-
 
 XXVI
 

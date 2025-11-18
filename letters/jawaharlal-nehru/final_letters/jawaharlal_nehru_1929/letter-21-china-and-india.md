@@ -26,8 +26,7 @@ metadata:
 E have seen that the early civilisations began and 
 developed in Mesopotamia and Egypt and the little 
 island of Crete in the Mediterranean Sea. About the 
-same time in China and in India also great civilisations be- 
-gan and developed in their own way. 
+same time in China and in India also great civilisations began and developed in their own way. 
 
 In China, as elsewhere, people settled down in the 
 valleys of great rivers. These people were what are 
@@ -41,11 +40,8 @@ picture. In ancient Egypt and in Crete and Babylon
 also there used to be picture writing. This is now called 
 hieroglyphic writing. You must have seen this writing 
 
-
-
 in the museums in some books. In Egypt and in the 
-west this writing is only found in very old buildings. No- 
-body has used this writing there for a very long time. 
+west this writing is only found in very old buildings. Nobody has used this writing there for a very long time. 
 But in China even now the writing is a kind of picture 
 writing and it is written from top to bottom; not from 
 left to right as in Hindi or English, or right to left as in 
@@ -69,8 +65,6 @@ sent from India to western countries. We thus see that
 there must have been a great deal of trade between India 
 in those days and other countries. Trade can only exist 
 
-
-
 when people are civilised. 
 
 Both in India and China there were then little states 
@@ -78,8 +72,7 @@ or kingdoms. Neither of these countries was all under
 one government. Each little city with some villages and 
 fields had a separate government. These are called city 
 states. Many of these were republics even in those early 
-days. There were no kings, only a kind of elected pan- 
-chayat to govern the state. Some of them, however, 
+days. There were no kings, only a kind of elected panchayat to govern the state. Some of them, however, 
 were little kingdoms. But although the city states had 
 separate governments, they sometimes co-operated with 
 each other, that is helped each other. Sometimes one big 
@@ -90,16 +83,12 @@ big state, an empire. It was in the days of this empire
 that the Great Wall of China was built. You have read 
 about this great wall and what an enormous thing it is. 
 It was built from the sea to the high mountains in the 
-north to keep oft other Mongolian tribes from break- 
-ing into China. This wall is 1,400 miles long and is 20 
+north to keep oft other Mongolian tribes from breaking into China. This wall is 1,400 miles long and is 20 
 to 30 feet high and 25 feet broad. At intervals there are 
 forts and towers in it. If such a wall was built in India 
 it would extend from Lahore in the north to Madras in 
 the south. The Great Wall stands even now and if you 
 go to China you can see it. 
-
-
-
 
 XXII
 

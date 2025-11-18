@@ -27,8 +27,7 @@ E discussed in our last letter the Neolithic
 men who used to live chiefly in lake dwellings. We 
 saw t ] iat t } 1C y h ac j made great progress in many ways. 
 They discovered agriculture and knew how to cook and 
-to tame animals for their use. All this was many thou- 
-sands of years ago and we do not know much about 
+to tame animals for their use. All this was many thousands of years ago and we do not know much about 
 them. But probably most of the races of men we have 
 in the world today have descended from these Neolithic 
 people. We find now, as you know, white men and 
@@ -41,7 +40,6 @@ by this measurement they can sometimes find out the
 race. There are other ways of finding this out also. 
 
 [ 35 
-
 
 How did these different races come into existence? 
 If they are all descended from the same people why do 
@@ -56,8 +54,7 @@ I have already told you how animals gradually changed
 as they adapted themselves to their surroundings. It may 
 be that the German and the negro are descended from 
 different types of men but sometime or other they must 
-have had the same ancestor. The differences must there- 
-fore have come in by the process of adaptation to their 
+have had the same ancestor. The differences must therefore have come in by the process of adaptation to their 
 surroundings, or it may have been that some, like some 
 animals, could adapt themselves more easily than others. 
 
@@ -69,19 +66,15 @@ die if you brought them to warm countries like ours.
 And as they are cut off from the rest of the world, and 
 have to live a hard life, they have not learnt as many 
 
-
-
 things as people in other parts of the world. The people 
 in Africa or living near the equator, where it is very hot, 
 get used to this heat. And the great heat of the sun 
 makes them dark in complexion. You know that if you 
 spend much time in the sun on the sea side or elsewhere 
-you become tanned or browner and darker than you other- 
-wise are. If after a few weeks of sun baths you become 
+you become tanned or browner and darker than you otherwise are. If after a few weeks of sun baths you become 
 darker, how much darker would a man be who always 
 has to live in this sun? And if for hundreds of years 
-people live in very hot countries, fathers and their chil- 
-dren and their children’s children and so on, they will 
+people live in very hot countries, fathers and their children and their children’s children and so on, they will 
 become darker and darker, till they become almost black. 
 You have seen the Indian peasant working in his fields in 
 the hot mid-day sun. He is too poor to have many 
@@ -97,11 +90,7 @@ dark unless of course he hides himself from the sun and
 the heat behind tatth and under fans. You know we 
 arc Kashmiris and more than 200 years ago our ancestors 
 
-
-
-lived in Kashmir. In Kashmir you find every body, in- 
-cluding the peasants and labourers, very fair of complex- 
-ion. That is because the climate of Kashmir is cold. But 
+lived in Kashmir. In Kashmir you find every body, including the peasants and labourers, very fair of complexion. That is because the climate of Kashmir is cold. But 
 these very Kashmiris when they come down to other 
 parts of India, which are hotter, become darker after 
 some generations. Many of our Kashmiri friends are 
@@ -109,8 +98,7 @@ quite fair, others are quite dark. The longer a Kashmiri
 family has lived in this part of India, the darker it is 
 likely to be. 
 
-Climate is thus the chief cause of colour and com- 
-plexion. Of course it may be that some people, even 
+Climate is thus the chief cause of colour and complexion. Of course it may be that some people, even 
 though they may live in a hot country, do not work in 
 the open and are rich enough to live in big houses and 
 take care of themselves and their complexions. A rich 
@@ -126,8 +114,6 @@ they are quite dark. Of course you will say that this is
 due to the climate for as you go south you go nearer to 
 the equator and it becomes hotter. This is quite true and 
 
-
-
 is the principal reason for the difference of colour in 
 various parts of India. We shall see, however, later 
 that this difference is partly also due to some difference 
@@ -136,9 +122,6 @@ have come to India in past ages and although, for long
 they tried to keep apart, they could not help mixing 
 together. It is difficult now to say that a particular 
 Indian belongs entirely to one original race. 
-
-
-
 
 IX
 

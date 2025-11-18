@@ -25,8 +25,7 @@ metadata:
 
 Vy" HAVE told you in my previous letters how man 
 was very much like an animal when he first appeared 
-^ on the earth. Slowly, in thousands of years, he deve- 
-loped and became something better. At first he must have 
+^ on the earth. Slowly, in thousands of years, he developed and became something better. At first he must have 
 hunted all by himself like some of the wild beasts today. 
 Then he found that it was wiser and safer to go about in 
 herds with other men. If many men kept together, they 
@@ -41,8 +40,6 @@ winter these wolves go about in packs and when they are
 hungry, as they often are in winter, they attack men. 
 
 S2 ] 
-
-
 
 One wolf would seldom attack a man, but a crowd of 
 them feel strong enough to attack a party of men. And 
@@ -68,15 +65,11 @@ strongest man amongst them as their leader. As there
 was a great deal of fighting to be done the strongest man 
 was chosen. 
 
-If the members of the tribe fought amongst them- 
-selves the tribe would soon break up. So the leader saw 
+If the members of the tribe fought amongst themselves the tribe would soon break up. So the leader saw 
 to it that fighting within the tribe was not allowed. Of 
 
-
-
 course one tribe could and did fight another. This was 
-an improvement on the old method of each person fight- 
-ing everybody else for himself. 
+an improvement on the old method of each person fighting everybody else for himself. 
 
 The first tribes must really have been large families. 
 All the members of them were related to each other. But 
@@ -85,8 +78,7 @@ the families grew and grew till the tribe became quite big.
 It must have been a hard life to live for 
 man in the early days, specially before tribes were 
 formed. He had no house, no clothes except 
-perhaps some skins, and he must have been con- 
-tinually fighting. To get his daily food he had 
+perhaps some skins, and he must have been continually fighting. To get his daily food he had 
 to hunt and kill animals or gather nuts and fruits. 
 He must have felt that he had enemies everywhere. liven 
 nature must have seemed to him an enemy, sending hail 
@@ -101,8 +93,6 @@ not very clever or brainy. He must have thought that
 the god in the clouds was like himself and liked food. So 
 he would take some meat or kill an animal, sacrifice it 
 
-
-
 as they say, and leave it somewhere for the god to eat! 
 He imagined that he could stop the rain or the hail like 
 this! 
@@ -112,9 +102,6 @@ comes or hail or snow. The killing of an animal has
 nothing to do with it. But silly as it is there are many 
 people even now today who are ignorant enough to do 
 such things. 
-
-
-
 
 XIII
 

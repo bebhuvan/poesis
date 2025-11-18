@@ -35,19 +35,15 @@ animals and plants, which we find in rocks and other
 places. The soft parts of the animals did not last, but 
 the hard and bony parts have survived for long ages. 
 Most of them got covered up with soft mud at the bottom 
-of the sea and were thus protected. The soft mud be- 
-came hard in the course of time and the sea-floor was 
+of the sea and were thus protected. The soft mud became hard in the course of time and the sea-floor was 
 raised up and became dry land. So we find these fossil 
 remains on dry land today. 
 
 Some of these fossils have been shown in the pictures 
 
-
 I 
 
-
 iK 
-
 
 as they have been found in the rocks. They are not very 
 clear. Two are models, that is, they have been made up 
@@ -65,8 +61,6 @@ afterwards, we can tell that they existed!
 Keep these picture cards, with the paper giving a 
 description of them, in the envelope, so that they may 
 not get mixed up with others. 
-
-
 
 XXVIII
 

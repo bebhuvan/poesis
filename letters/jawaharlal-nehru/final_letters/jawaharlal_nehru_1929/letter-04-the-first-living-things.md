@@ -34,16 +34,12 @@ about trees and shrubs and flowers and vegetables? Surely
 they are living also. They grow and drink up the water 
 and breath the air and die. The chief difference between 
 a tree and an animal is that the tree does not move about. 
-If you remember I showed you some plants in Kew gar- 
-dens in London. These plants — orchids and pitcher plants 
+If you remember I showed you some plants in Kew gardens in London. These plants — orchids and pitcher plants 
 — actually eat flies. Then there are some animals, like 
 sponges, which live at the bottom of the sea and do not 
 move about. Sometimes it is very difficult to say whether 
 
 14 ] 
-
-
-
 
 a thing is an animal or a plant. When you study botany, 
 the science which deals with plants, or zoology, the science 
@@ -52,8 +48,7 @@ neither wholly animal nor plant.
 
 Some people tell us that even stones and rocks have 
 some kind of life and that they feel a kind of pain. But 
-it is difficult to see this. Perhaps you remember a gentle- 
-man who came to sec us in Geneva. His name is Sir 
+it is difficult to see this. Perhaps you remember a gentleman who came to sec us in Geneva. His name is Sir 
 Jagadish Bose. He has shown by experiments that 
 plants have a great deal of life and he thinks that even 
 stones have some life. 
@@ -73,8 +68,6 @@ those things which are half animal and half plant.
 
 We have to try to find if all these different kinds of 
 
-
-
 animals suddenly came into existence at one and the same 
 time or gradually one by one. How are we to find this? 
 We have no regular books of those ancient times. But 
@@ -88,8 +81,7 @@ in London.
 
 When an animal dies his soft and fleshy parts go bad 
 very quickly but his bones remain for a very long time. 
-And it is these bones that we find and which tell us some- 
-thing of those animals of far off days. But suppose an 
+And it is these bones that we find and which tell us something of those animals of far off days. But suppose an 
 animal has no bones, like the jelly fish. It will leave 
 nothing behind when it dies. 
 
@@ -101,8 +93,6 @@ simple animals with shells — shell fish for instance. The
 beautiful shells you pick up at the sea side are all the bony 
 coverings of animals who have died. Later we find more 
 complicated animals, snakes, enormous beasts bigger than 
-
-
 
 our elephant, and birds and animals resembling those we 
 have today. Last of all we find remains of man. So it 
@@ -124,8 +114,6 @@ in the sea even today. They are round but their shape is
 continually changing as there is no bone or shell. They 
 are something like this: 
 
-
-
 You will notice the spot in the centre. It is called 
 the nucleus and it is a kind of heart. These animals, or 
 whatever they are, have a curious way of dividing and 
@@ -133,7 +121,6 @@ becoming two. They start getting thinner at one place
 and go on doing so till they break off into two jelly like 
 things and both of these are just like the original one. 
 This division takes place after this fashion: 
-
 
 (J CX) oo OG 
 
@@ -149,8 +136,6 @@ come and man was not to come for millions of years.
 
 These jelly-like things were followed by sea weeds and 
 shell-fish and crabs and worms. Then came fishes. We 
-
-
 
 know a lot about these as they had hard bony parts or shells 
 and they left these for us to find, so long after them, and 
@@ -170,9 +155,6 @@ our earth was like in the old days before man came.
 
 We shall consider in the next letter how these simple 
 animals developed and became what they are today. 
-
-
-
 
 V
 

@@ -24,8 +24,7 @@ metadata:
 # Letter 18: The Early Civilisations
 
 j|E have said enough about patriarchs and kings for 
-the time being. Let us now go back a little and con- 
-sider the early civilisations and the kind of people 
+the time being. Let us now go back a little and consider the early civilisations and the kind of people 
 that lived in those days. 
 
 We do not know very much about these early peoples, 
@@ -35,13 +34,11 @@ huge buildings in ruins which were built thousands of
 years ago. And looking at these buildings and temples 
 and palaces, we can form some idea of what the early 
 people were like and what they did. Specially helpful 
-to us are the sculptures and carvings in these old build- 
-ings. From these sculptures we can find out sometimes 
+to us are the sculptures and carvings in these old buildings. From these sculptures we can find out sometimes 
 what kind of dress they used to wear and many other 
 things. 
 
 We can not say definitely where men first settled 
-
 
 down and developed a civilisation. Some people say 
 that there was a great country, which they now call 
@@ -70,8 +67,6 @@ about them later.
 
 In Eurasia, as Europe and Asia together are called. 
 
-
-
 the earliest civilisations were probably in Mesopotamia, 
 Egypt, Crete, India, and China. Egypt is now considered 
 to be in Africa, but we may consider it with Eurasia as 
@@ -94,32 +89,22 @@ In Mesopotamia they settled down between the two
 great rivers, the Tigris and the Euphrates. In Egypt 
 they had the great Nile. In India most of their cities 
 were near the big rivers — the Indus, the Ganges, the 
-Jumna. Water was so necessary for them that they look- 
-ed upon those rivers as sacred and holy which gave them 
+Jumna. Water was so necessary for them that they looked upon those rivers as sacred and holy which gave them 
 food and abundance. In Egypt they called the Nile, 
 "Father Nile”, and worshipped it. In India you know 
 
-
-
-
 HOUSLS BUILT 
-
 
 in a Lake 
 
-
-
 the Ganges was worshipped and is still considered holy. 
-It is called "Mother Ganges” wr m and you hear pil- 
-grims shout out Wi ni» «M >w. It is quite easy to under- 
-stand this worship as these rivers meant so much to them. 
+It is called "Mother Ganges” wr m and you hear pilgrims shout out Wi ni» «M >w. It is quite easy to understand this worship as these rivers meant so much to them. 
 They gave them not only water hut fine mud and sand 
 which made the fields rich and fertile. Because of the river 
 water and mud the land gave plenty of food. So the 
 rivers might well be called "father” and "mother”. But 
 people have a habit of forgetting why they do things. 
-Unthinkingly they go on copying others. We must re- 
-member that the Nile and the Ganges are considered holy 
+Unthinkingly they go on copying others. We must remember that the Nile and the Ganges are considered holy 
 because they gave water and food.
 
 ---

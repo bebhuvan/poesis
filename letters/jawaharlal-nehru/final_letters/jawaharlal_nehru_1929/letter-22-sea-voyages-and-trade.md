@@ -27,9 +27,7 @@ IfMlNOTHER interesting people of ancient times were
 yj the Phoenicians. They belonged to the same race as 
 ' the Jews and Arabs. They lived specially on the 
 western coast of Asia Minor — the Turkey of today. Their 
-chief towns were Acre, Tyre and Sidon on the Mediter- 
-ranean Sea coast. They were famous for their long jour- 
-neys by sea for trading purposes. They went all over the 
+chief towns were Acre, Tyre and Sidon on the Mediterranean Sea coast. They were famous for their long journeys by sea for trading purposes. They went all over the 
 Mediterranean Sea and right up to England by sea. They 
 may have come to India also. 
 
@@ -43,13 +41,7 @@ must have been interesting in those days and very exciting.
 
 88 ] 
 
-
-
-
 Ruins of a Temple in Karnak in Egypt 
-
-
-
 
 Imagine crossing the Arabian Sea on a little boat with 
 oars and sails! There must have been very little room 
@@ -75,20 +67,15 @@ what you want. But do you ever think where the things
 you buy come from? You may buy a woollen shawl in 
 a shop in Allahabad. It may have come all the way from 
 Kashmir and the wool may have grown on the backs of 
-sheep in the mountains of Kashmir or Ladakh. A tooth- 
-paste that you buy may have come in ships and railway 
-
-
+sheep in the mountains of Kashmir or Ladakh. A toothpaste that you buy may have come in ships and railway 
 
 trains all the way from America. So also you may buy 
-things made in China or Japan or Paris or London. Consi- 
-der a piece of foreign cloth that is sold in the bazar here. 
+things made in China or Japan or Paris or London. Consider a piece of foreign cloth that is sold in the bazar here. 
 The cotton grew in India and it was sent to England. A 
 great factory took it and cleaned it and made it into yarn 
 or cotton thread and then into cloth. This cloth then 
 came back again to India and was sold in the bazar. How 
-many thousands of miles it travelled backwards and for- 
-wards before it was offered for sale! It seems rather silly 
+many thousands of miles it travelled backwards and forwards before it was offered for sale! It seems rather silly 
 that the cotton that is grown in India had to go all the 
 way to England to be made into cloth and then came 
 back again. This seems such a waste of time and money 
@@ -107,18 +94,14 @@ country to another. But it was not always so.
 Right in the early days when man settled down there 
 was very little trade. Everything that a man wanted he had 
 
-
-
 to get himself or make himself. He did not want much 
 then of course. Then, as I have already told you, there 
-came a division of labour in the tribe. People did differ- 
-ent kinds of work and made different things. Sometimes 
+came a division of labour in the tribe. People did different kinds of work and made different things. Sometimes 
 it must have happened that one tribe had a great deal of 
 one thing and another tribe a great deal of something else. 
 It was natural for them to change goods. For instance 
 one tribe may give a cow for a bag of grain. There 
-was no money in those days. Things could only be ex- 
-changed. So exchange began. It must have been rather 
+was no money in those days. Things could only be exchanged. So exchange began. It must have been rather 
 inconvenient. To get a bag of grain, or something like 
 it, one had to carry a cow or may be a couple of sheep! 
 But still trade developed. 
@@ -129,18 +112,12 @@ gradually the custom arose of paying for things in gold
 and silver. The first person who thought of this must 
 have been a very clever person. This use of gold and 
 silver made trade very much easier. Even then there 
-were no coins as we have them. Gold used to be weigh- 
-ed in a balance and then given to another person. Much 
+were no coins as we have them. Gold used to be weighed in a balance and then given to another person. Much 
 later came coins and these made trade and exchange still 
 simpler. No weighing was required then as everybody 
-knew the value of a coin. Now money is used every- 
-
-
-
-where. But we must remember that money is no good 
+knew the value of a coin. Now money is used everywhere. But we must remember that money is no good 
 by itself. It only helps us to get other things that we 
-want. It helps us to exchange goods. You will remem- 
-ber the story of King Minos who had plenty of gold but 
+want. It helps us to exchange goods. You will remember the story of King Minos who had plenty of gold but 
 nothing to eat! So money is worthless unless it is used 
 to get something that we need. 
 
@@ -148,11 +125,8 @@ Even now, however, you will find sometimes in
 villages that people actually exchange goods, and do not 
 pay money. But generally money is used as it is much 
 more convenient. Some foolish people imagine that 
-money itself is good and they collect and hoard it, in- 
-stead of using it. This shows that they do not know 
+money itself is good and they collect and hoard it, instead of using it. This shows that they do not know 
 how money came to be used and what it really is. 
-
-
 
 XXIII
 

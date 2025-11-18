@@ -26,8 +26,7 @@ metadata:
 ♦gjOYS and girls, and even grown ups, are often taught 
 history in a peculiar way. They learn the names of 
 ' kings and others, and dates of battles and the like. 
-But surely history does not consist of battles and a few per- 
-sons who became kings and generals. History should 
+But surely history does not consist of battles and a few persons who became kings and generals. History should 
 tell us of the people of a country; how they lived, what 
 they did, and what they thought. It should tell us of 
 their joys and sorrows; of their difficulties and how they 
@@ -40,7 +39,6 @@ better and better or worse; if there has been progress or
 not. 
 
 Of course, one must try to learn something from 
-
 
 the lives of great men and women of past times. But 
 we must also try to learn what the condition of various 
@@ -58,18 +56,15 @@ peep into them and see what different kinds of people
 lived in those days. 
 
 We have already seen how in the early tribes people 
-started doing different kinds of work. There was divi- 
-sion of work or labour. We have also seen how the 
+started doing different kinds of work. There was division of work or labour. We have also seen how the 
 leader of the tribe, the patriarch, separated his family 
 from the others, and only did the managing part of the 
-work. He became a higher kind of person, or wc may 
+work. He became a higher kind of person, or we may 
 say that this family belonged to a different class from 
 the other people. Thus we find two classes of people, — 
 one doing the managing and ordering, and the other doing 
 the actual work. And of course the class doing the 
 managing part had much more power and they used this 
-
-
 
 to take as many things as possible. They became richer 
 as they took more and more from the others who worked. 
@@ -97,13 +92,9 @@ in the villages also.
 
 Lastly, there were the peasants and labourers who 
 worked in the fields and in the cities. This was of course 
-the largest class. All the other classes tried to get some- 
-thing out of them. 
-
-
+the largest class. All the other classes tried to get something out of them. 
 
 XXV 
-
 
 W
 

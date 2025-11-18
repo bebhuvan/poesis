@@ -23,8 +23,7 @@ metadata:
 
 # Letter 14: The Changes brought about by Agriculture
 
-N my last letter I told you something about the divi- 
-sion of labour. Right at the beginning when men 
+N my last letter I told you something about the division of labour. Right at the beginning when men 
 used to live by hunting only there was very little 
 division of work. Everybody hunted and he could with 
 dilficulty get enough to eat. The division of work or 
@@ -41,17 +40,13 @@ went on people learnt new trades and specialised in them.
 Another interesting result of tilling land was that 
 men began to settle down in villages and towns. Before 
 
-
-
-
 agriculture came people used to wander about and hunt. 
 It was not necessary for them to live in one place. They 
 could hunt wherever they went. And often they had 
 to move about from place to place because of the cows 
 and sheep and other animals they had. These animals 
 required pasture lands where they could graze. After 
-grazing in one place for some time, the land did not pro- 
-duce enough for the cattle and so the whole tribe had 
+grazing in one place for some time, the land did not produce enough for the cattle and so the whole tribe had 
 to move to another place. 
 
 When agriculture came people had to stay near the 
@@ -72,8 +67,6 @@ they say from hand to mouth. He had no banks where
 he could keep his money or other goods. He had to earn 
 his food every day by hunting. With the coming of the 
 
-
-
 agriculture he got more from the land at one time than 
 could be used. He hoarded up this surplus or extra food. 
 Here we find the beginnings of surplus food. People got 
@@ -81,16 +74,14 @@ this surplus food because they worked a little more than
 was quite necessary for them to produce just sufficient 
 food. 
 
-You know that now we have banks and people de- 
-posit money there and draw it out by cheques. ’Where 
+You know that now we have banks and people deposit money there and draw it out by cheques. ’Where 
 does this money come from? If you think about it you 
 will see that this money is all surplus, that is people do 
 not want to spend it all at one time and so they keep 
 it in banks. The rich people today are those who have 
 plenty of this surplus, the poor have none at all. Later 
 you will sec how this surplus comes. It is not so much 
-because one person works more than another, but nowa- 
-days a person who does not work at all gets the surplus, 
+because one person works more than another, but nowadays a person who does not work at all gets the surplus, 
 while the hard worker often gets no part of it! This 
 seems a very silly arrangement. Many people think that 
 it is because of this stupid arrangement that there are so 
@@ -98,17 +89,11 @@ many poor people in the world. This may seem a little
 difficult for you to understand now. If so, do not trouble 
 yourself about it. You will understand it soon enough. 
 
-At present I should only like you to note that agri- 
-culture resulted in producing much more than could be 
-
-
+At present I should only like you to note that agriculture resulted in producing much more than could be 
 
 eaten up at once. This was hoarded up. In those days 
 there were no banks or money. People were called rich 
 who had many cows or sheep or camels or grain. 
-
-
-
 
 XV 
 
@@ -121,7 +106,7 @@ it was much simpler, but we are now considering
 the time when complications first began. If we 
 
 follow up our enquiry slowly, and try to understand the 
-changes in life and society as they came in, we shall End it 
+changes in life and society as they came in, we shall find it 
 easier to understand many things today. And if we do 
 not try to do so we shall never be able to understand all 
 that is happening around us. We shall be like children lost 
@@ -130,28 +115,19 @@ take you right back to the edge of the forest so that we
 may be able to find a way through it. 
 
 You will remember that you asked me in Mussoorie 
-about kings, and what they were, and why they be- 
-came kings. We are now going to have a little peep in 
+about kings, and what they were, and why they became kings. We are now going to have a little peep in 
 
 64 ] 
 
-
-
-
 Tur, Mammoth — an txtinct kind or 
 Elephant 
-
-
-
-
 
 those far off days when kings began. They were not 
 called kings to begin with. But if we try to find out 
 something about them we shall know the origin of kings. 
 
 I have told you already about the formation of 
-tribes. When agriculture came and there was some divi- 
-sion of work or labour, it became necessary for some 
+tribes. When agriculture came and there was some division of work or labour, it became necessary for some 
 person in the tribe to organise the work. Even before 
 this the tribes wanted some one to lead them to battle 
 against another tribe. The leader was usually the oldest 
@@ -163,8 +139,7 @@ of the tribe. He worked with the others and all the
 food that was produced was divided between all the 
 members of the tribe. Everything belonged to the tribe. 
 It was not like we have now, each person having his 
-separate house and money and many other things. What- 
-ever a man earned was divided up as it all belonged to 
+separate house and money and many other things. Whatever a man earned was divided up as it all belonged to 
 the tribe. The patriarch or the organiser of the tribe 
 did this dividing. 
 
@@ -172,10 +147,7 @@ But changes came in slowly. There were new kinds
 of work, specially on account of agriculture, and the 
 patriarch had to spend most of his time in organising, 
 
-
-
-and seeing that work was properly done by all the mem- 
-bers of the tribe. Little by little the patriarch gave up 
+and seeing that work was properly done by all the members of the tribe. Little by little the patriarch gave up 
 doing the ordinary work or labour of the people. He 
 thus became quite different from the rest of the people. 
 We see now another kind of division of work or labour. 
@@ -185,8 +157,7 @@ hunting and going to battle, and obeying the orders of
 their leader, the patriarch. If there was a war or a 
 fight between two tribes the patriarch became even more 
 powerful, for in war time it was not possible to fight well 
-without a leader. So the patriarch became very power- 
-ful. 
+without a leader. So the patriarch became very powerful. 
 
 As the work of organising increased, the patriarch 
 could not do it all by himself. He chose other people 
@@ -200,8 +171,6 @@ ordinary workers.
 We shall see how the patriarch developed in our next 
 letter. 
 
-
-
 THE PATRIARCH— HOW HE DEVELOPED 
 HOPE you do not find my account of the old tribes 
 and their patriarchs very dull. 
@@ -211,18 +180,13 @@ days belonged to the whole tribe and not to each member
 separately. Even the patriarch had nothing special to 
 himself. As a member of the tribe he could only have 
 a share like any other member. But he was the organiser 
-and he was supposed to look after the goods and pro- 
-perty of the tribe. As his power increased he began 
+and he was supposed to look after the goods and property of the tribe. As his power increased he began 
 to think that these goods and property were really his own 
-and not the tribe’s. Or rather he thought that he him- 
-self being the leader of the tribe, represented that tribe. 
+and not the tribe’s. Or rather he thought that he himself being the leader of the tribe, represented that tribe. 
 So we see how the idea of owning things for oneself 
 began. Today we are always thinking and talking of this 
 thing being "mine” or "yours”. But, as I have told you, 
 the men and women of the first tribes did not think in 
-
-
-
 
 this way. Everything then belonged to the tribe. 
 
@@ -251,12 +215,9 @@ must become patriarch after him. Perhaps to begin with
 the members of the tribe did not like being told so, but they 
 soon got used to it and always did what the patriarch 
 
-
-
 wanted them to do. There was practically no election 
 or choosing of a new patriarch. The old man had already 
-decided who was to be his successor and this man suc- 
-ceeded. 
+decided who was to be his successor and this man succeeded. 
 
 So we see that the office of the patriarch became 
 hereditary, that is, it remained in the same family and 
@@ -265,8 +226,7 @@ patriarch now was quite sure that the property and things
 belonging to the tribe were really his own. Even when 
 he died they remained in his family. We see how the 
 idea of anything belonging to "me” or "you” started. 
-There was no such idea to begin with. People all work- 
-ed together for the tribe and not for themselves. If 
+There was no such idea to begin with. People all worked together for the tribe and not for themselves. If 
 they produced a lot of food or other things every body 
 in the tribe got his share. There were no rich or poor 
 in the tribe. They were all sharers in the property of the 

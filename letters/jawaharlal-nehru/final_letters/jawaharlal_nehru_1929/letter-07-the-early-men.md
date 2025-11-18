@@ -23,8 +23,7 @@ metadata:
 
 # Letter 7: The Early Men
 
-E saw in our last letter that the chief difference be- 
-tween man and the other animals was the intelligence 
+E saw in our last letter that the chief difference between man and the other animals was the intelligence 
 of man. This intelligence made him cleverer and 
 stronger than enormous animals who would otherwise have 
 destroyed him. As man’s intelligence grew so also grew his 
@@ -36,21 +35,18 @@ many of these stone weapons in the South Kensington
 Museum and also in the museum in Geneva. 
 
 The Ice Age about which I said something in my last 
-letter slowly ended and the glaciers disappeared from cen- 
-tral Europe and Asia. As it became warmer men spread 
+letter slowly ended and the glaciers disappeared from central Europe and Asia. As it became warmer men spread 
 out. 
 
 In those days there were no houses or other buildings. 
 
 [ 29 
 
-
 m 
 
 ^ Lj» 
 
 I 
-
 
 People lived in caves. There was no cultivation, that is 
 working in the fields. Men ate fruits and nuts and the 
@@ -64,8 +60,7 @@ One thing is very curious. These savage men knew
 how to draw. Of course they had no paper or pens and 
 pencils or brushes. They simply had their stone needles 
 and pointed instruments. With these they scratched or 
-drew animals on the walls of caves. Some of their draw- 
-ings are quite good but they are almost all profiles. You 
+drew animals on the walls of caves. Some of their drawings are quite good but they are almost all profiles. You 
 know that it is easier to draw profiles and children usually 
 draw in this way. As the caves must have been dark it is 
 probable that they used some kind of simple lamp. 
@@ -78,8 +73,6 @@ metals. Today most of your things are made of metals,
 specially iron. But iron or bronze was not known then, 
 and so stone, which is much more difficult to work with, 
 was used. 
-
-
 
 Before the Stone Age came to an end the climate of 
 the world changed greatly and became much warmer. 
@@ -95,19 +88,15 @@ men or men of the new Stone Age.
 We find when examining these Neolithic men that 
 great progress has been made. The intelligence of man is 
 making him go ahead quite fast compared to the other 
-animals. These Neolithic men made the very great dis- 
-covery of cultivation. They started tilling fields and 
+animals. These Neolithic men made the very great discovery of cultivation. They started tilling fields and 
 growing their food there. This was a great thing for 
 them. They could now get their food more easily instead 
 of having to hunt animals all the time. They got more 
 leisure, more time to rest and think. And the more 
-leisure they had the more progress they made in discover- 
-ing new things and methods. They started making 
+leisure they had the more progress they made in discovering new things and methods. They started making 
 earthen pots and with the help of these they began to cook 
 their food. The stone tools were much better and were 
 beautifully polished. They also knew how to tame 
-
-
 
 animals like the cow, the dog, the sheep, and the goat. 
 They also knew how to weave. 
@@ -134,17 +123,9 @@ to understand them better.
 
 There was, I remember, a very good model of a lake 
 dwelling in the Geneva museum. Wooden poles were 
-stuck in the lake and on top of these poles a wooden plat- 
-form was made. On the platform the wooden huts were 
-
-
-
+stuck in the lake and on top of these poles a wooden platform was made. On the platform the wooden huts were 
 
 A Fossil Fish 
-
-
-
-
 
 put up and the whole thing was connected by a little 
 bridge to the land. 
@@ -174,22 +155,17 @@ and lived its own life. The climate being different in
 different parts of the world people had to adapt themselves 
 to it and changed greatly. But we shall talk about this 
 
-
-
 later. 
 
 One thing more I want to tell you today. About the 
 end of the Neolithic age a very great disaster happened to 
 man. I have told you already that at that time the 
 Mediterranean was not a sea at all. There were just some 
-lakes there and in these lakes many people lived. Sud- 
-denly the land near Gibralter between Europe and Africa 
+lakes there and in these lakes many people lived. Suddenly the land near Gibralter between Europe and Africa 
 was washed away and the waters of the Atlantic Ocean 
 poured into the low valley of the Mediterranean. The 
-water went on pouring and filling it up and large num- 
-bers of the men and women living near or over the lakes 
-must have been drowned. They could not escape any- 
-where. There was water all over the place for hundreds 
+water went on pouring and filling it up and large numbers of the men and women living near or over the lakes 
+must have been drowned. They could not escape anywhere. There was water all over the place for hundreds 
 of miles. The Atlantic Ocean continued to pour in till 
 it had filled up the valley and the Mediterranean Sea came 
 into existence. 
@@ -198,14 +174,10 @@ You have heard, of course, and perhaps read, about
 the great flood. The Bible speaks about it and some of 
 our Sanskrit books also refer to it. It may be that this 
 mighty flood was the filling up of the Mediterranean. It 
-was such a terrible disaster that the few people who manag- 
-ed to escape must have told all about it to their children, 
+was such a terrible disaster that the few people who managed to escape must have told all about it to their children, 
 and their children remembered it and told the story to their 
 own children and so the story was handed down from 
 generation to generation. 
-
-
-
 
 VIII
 

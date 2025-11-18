@@ -33,29 +33,22 @@ history.
 Let us see what happened in India first. We have 
 already seen that in the very old times India, like Egypt, 
 had a civilisation. There was trade, and ships carried 
-Indian goods to Egypt and Mesopotamia and other coun- 
-tries. In those days the people who lived in India were 
-called Dravidians. They are the people whose descend- 
-ants live in South India now round about Madras. 
+Indian goods to Egypt and Mesopotamia and other countries. In those days the people who lived in India were 
+called Dravidians. They are the people whose descendants live in South India now round about Madras. 
 
 These Dravidians were invaded by the Aryans from 
 the north. There must have been enormous numbers 
 of these Aryan peoples in central Asia and, not finding 
 
-
-
-there enough food for all, they spread out to other coun- 
-tries. They went in large numbers to Persia and even to 
+there enough food for all, they spread out to other countries. They went in large numbers to Persia and even to 
 Greece and further west. They also came to India in 
 crowds over the mountains near Kashmir. 
 
 The Aryans were a strong fighting people and they 
 drove the Dravidians before them. Wave after wave of 
-the Aryans must have come to India from the north- 
-west. Perhaps at first the Dravidians stopped them but 
+the Aryans must have come to India from the northwest. Perhaps at first the Dravidians stopped them but 
 when more and more came they could not be stopped, 
-f or long, the Aryans remained in the north, only in Af- 
-ghanistan and the Punjab. Then they came further 
+f or long, the Aryans remained in the north, only in Afghanistan and the Punjab. Then they came further 
 down to what are now called the United Provinces, where 
 we live. They went on spreading till they came to the 
 Vindhya mountains in Central India. It was difficult to 
@@ -71,8 +64,6 @@ from our old Sanskrit books. Some of these, like the
 Vedas, must have been written about that time. The 
 oldest Veda is the Rig Veda and you can form some idea 
 
-
-
 from it of the part of India which the Aryans occupied 
 then. From the other Vedas and other old Sanskrit 
 books like the Pur an a: s we find how the Aryans went 
@@ -84,8 +75,7 @@ book, the Ramayana, and later the Mahabharaia.
 
 From these books we find that when the Aryans lived 
 only in the Punjab and in Afghanistan they called this 
-part "Brahmavarta”. Afghanistan was then called "Gan- 
-dhara”. Do you remember Gandhari in the Mahabharata? 
+part "Brahmavarta”. Afghanistan was then called "Gandhara”. Do you remember Gandhari in the Mahabharata? 
 She was called so because she came from Gandhara or 
 Afghanistan. Afghanistan now is a separate country 
 from India, but in those days both were one country. 
@@ -99,13 +89,9 @@ down in cities on the banks of rivers. Kashi or Benares,
 Prayag and so many other cities arc all situated on river 
 banks. 
 
-
-
 WHAT WERE THE ARYANS IN INDIA LIKE? 
 
-
-HE Aryans must have come to India five or six thou- 
-sand years ago, or perhaps even more. Of course 
+HE Aryans must have come to India five or six thousand years ago, or perhaps even more. Of course 
 they did not all come in a bunch. Army after army, 
 tribe after tribe, family after family, must have come for 
 hundreds of years. Imagine them travelling in long 
@@ -113,16 +99,12 @@ caravans with all their household goods laden on carts or
 on the backs of animals. They did not come as tourists 
 do now-a-days. There was no going back for them. 
 They came to stay, or fight and die. Most of them, as 
-I have told you, came over the mountains of the north- 
-west. But perhaps some came by sea also from the Per- 
-sian Gulf and went in their little ships up the river Indus. 
+I have told you, came over the mountains of the northwest. But perhaps some came by sea also from the Persian Gulf and went in their little ships up the river Indus. 
 
 What were these Aryans like? We can find out a 
 lot about them from the books they wrote. Some of 
 these books, like the Vedas, are perhaps the oldest books 
 in the world. Probably they were not written down to 
-
-
 
 begin with. They were learnt by heart and recited and 
 chanted to others. They are written in such beautiful 
@@ -132,13 +114,11 @@ Sanskrit, recite the Vedas. The Vedas are considered very
 holy books by Hindus. But what does the word ''Veda” 
 mean? It means knowledge. And the Vedas contained 
 the knowledge which the wise men of those days, called 
-rishis and munis, had gathered. They did not have rail- 
-ways and telegraphs and cinemas in those days. But that 
+rishis and munis, had gathered. They did not have railways and telegraphs and cinemas in those days. But that 
 does not mean that they were ignorant. Some people 
 think that the wise men of old were wiser than any today. 
 But whether they were wiser or not they wrote wonderful 
-books which even today are greatly admired. This it- 
-self shows how great these men of the olden days must 
+books which even today are greatly admired. This itself shows how great these men of the olden days must 
 have been. 
 
 As I have said, these Vedas were not at first written. 
@@ -151,15 +131,7 @@ Those days when the Vedas were written are called
 the Vedic period. The first Veda is the Rig Veda. It is 
 full of hymns and songs which the old Aryans used to 
 
-
-
 The Great Wall of China 
-
-
-
-
-
-
 
 sing. They must have been a very light hearted people, 
 not morose and gloomy but full of joy and adventure. 
@@ -175,40 +147,31 @@ To the Aryans of old death was better than dishonour or
 slavery. 
 
 They were good fighters, and they knew something 
-of science and a great deal of agriculture. They natural- 
-ly attached great value to agriculture and so they valued 
+of science and a great deal of agriculture. They naturally attached great value to agriculture and so they valued 
 also everything that helped agriculture. The great rivers 
 gave them water and they loved them and looked upon 
 them as great friends and benefactors. The bull and cow 
 helped them also very much both in agriculture and in 
 their daily lives, for the cow gave milk which was valued 
 very greatly. So they specially cared for these animals 
-and sang their praises. Long afterwards, people, forget- 
-ting the real reason for the care of the cow, started 
+and sang their praises. Long afterwards, people, forgetting the real reason for the care of the cow, started 
 worshipping her, as if that was any good to anybody. 
 
 The Aryans being very proud of themselves were 
 
-
 [ 117 
 
-
-
 afraid of getting mixed up with the other inhabitants of 
-India. So they made laws and rules to prevent this mix- 
-ture, so that Aryans could not marry the others. Long 
+India. So they made laws and rules to prevent this mixture, so that Aryans could not marry the others. Long 
 afterwards this developed into the caste system, as it is 
 called today. Now of course it has become perfectly 
 ridiculous. Some people are afraid of touching others or 
 eating with others. Fortunately this is getting less and 
 less now. 
 
-
-
 XXXI 
 
 THE RAMAYANA AND Til!': MAI IABHARATA 
-
 
 j^-TTER the Vedic age in India, when the VA/tft were 
 ; 1 1; written, came what is called the Epic Age. It is 
@@ -220,8 +183,7 @@ the Mtihabharata, which you know.
 During the Epic Age the Aryans had spread out all 
 over northern India up to the Vindhya mountains. 
 All this land was called "Aryavarta” as I have told you. 
-What is the United Provinces now was called the Madhya- 
-desha, the middle country. Bengal was called Vanga. 
+What is the United Provinces now was called the Madhyadesha, the middle country. Bengal was called Vanga. 
 
 Now there is an interesting fact which you may like 
 to know. If you look at the map of India and imagine 
@@ -229,9 +191,7 @@ where Aryavarta must have been between the Himalayas
 and the Vindhya mountains, you will see it is rather like 
 a crescent moon. Therefore Aryavarta was also called 
 
-
-the land of the Moon. Indu means moon and so Arya- 
-varta was Indu-land. 
+the land of the Moon. Indu means moon and so Aryavarta was Indu-land. 
 
 The Aryans were very fond of the crescent moon. 
 They considered all crescent shaped places specially holy. 
@@ -239,8 +199,7 @@ Many of their great cities were crescent-shaped like
 Benares. Even in Allahabad, 1 wonder if you know, that 
 the Ganga makes a crescent. 
 
-The Kamayana, as you know, is the story of Ram- 
-chandra and Sita and of their fight against Havana, king 
+The Kamayana, as you know, is the story of Ramchandra and Sita and of their fight against Havana, king 
 of Lanka, that is now Ceylon. The original story is 
 written in Sanskrit by Valmiki. Many other versions 
 were written later in other languages. The best known 
@@ -254,15 +213,10 @@ against the people of the south whose leader was Ravana.
 Probably the "monkeys” were the dark people who lived 
 in Southern India. 
 
-The Kamayana is full of beautiful stories but I can- 
-not refer to than here. You must read them for yourself. 
+The Kamayana is full of beautiful stories but I cannot refer to than here. You must read them for yourself. 
 
 The Mahabharata came long after the Kamayana. 
-It is a much bigger book. It tells not of the fight be- 
-
-
-
-tween Aryans and Dravidians but of a "great fight between 
+It is a much bigger book. It tells not of the fight between Aryans and Dravidians but of a "great fight between 
 Aryans and Aryans. But apart frpm the fight, it is a 
 wonderful book, full of great ideas and noble stories. 
 Above all it is dear to all of us because of that jewel of 

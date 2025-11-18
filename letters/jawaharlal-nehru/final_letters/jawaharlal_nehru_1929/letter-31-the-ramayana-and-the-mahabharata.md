@@ -25,7 +25,6 @@ metadata:
 
 THE RAMAYANA AND Til!': MAI IABHARATA 
 
-
 j^-TTER the Vedic age in India, when the VA/tft were 
 ; 1 1; written, came what is called the Epic Age. It is 
 called the Epic Age because two great epics, that is, 
@@ -36,8 +35,7 @@ the Mtihabharata, which you know.
 During the Epic Age the Aryans had spread out all 
 over northern India up to the Vindhya mountains. 
 All this land was called "Aryavarta” as I have told you. 
-What is the United Provinces now was called the Madhya- 
-desha, the middle country. Bengal was called Vanga. 
+What is the United Provinces now was called the Madhyadesha, the middle country. Bengal was called Vanga. 
 
 Now there is an interesting fact which you may like 
 to know. If you look at the map of India and imagine 
@@ -45,9 +43,7 @@ where Aryavarta must have been between the Himalayas
 and the Vindhya mountains, you will see it is rather like 
 a crescent moon. Therefore Aryavarta was also called 
 
-
-the land of the Moon. Indu means moon and so Arya- 
-varta was Indu-land. 
+the land of the Moon. Indu means moon and so Aryavarta was Indu-land. 
 
 The Aryans were very fond of the crescent moon. 
 They considered all crescent shaped places specially holy. 
@@ -55,8 +51,7 @@ Many of their great cities were crescent-shaped like
 Benares. Even in Allahabad, 1 wonder if you know, that 
 the Ganga makes a crescent. 
 
-The Kamayana, as you know, is the story of Ram- 
-chandra and Sita and of their fight against Havana, king 
+The Kamayana, as you know, is the story of Ramchandra and Sita and of their fight against Havana, king 
 of Lanka, that is now Ceylon. The original story is 
 written in Sanskrit by Valmiki. Many other versions 
 were written later in other languages. The best known 
@@ -70,15 +65,10 @@ against the people of the south whose leader was Ravana.
 Probably the "monkeys” were the dark people who lived 
 in Southern India. 
 
-The Kamayana is full of beautiful stories but I can- 
-not refer to than here. You must read them for yourself. 
+The Kamayana is full of beautiful stories but I cannot refer to than here. You must read them for yourself. 
 
 The Mahabharata came long after the Kamayana. 
-It is a much bigger book. It tells not of the fight be- 
-
-
-
-tween Aryans and Dravidians but of a "great fight between 
+It is a much bigger book. It tells not of the fight between Aryans and Dravidians but of a "great fight between 
 Aryans and Aryans. But apart frpm the fight, it is a 
 wonderful book, full of great ideas and noble stories. 
 Above all it is dear to all of us because of that jewel of 

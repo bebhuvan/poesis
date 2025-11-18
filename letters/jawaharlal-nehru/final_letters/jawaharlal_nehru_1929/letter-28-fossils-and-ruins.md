@@ -41,8 +41,6 @@ Museum. One of them was 30 or 40 feet long. There
 was also a kind of frog bigger than a man, and a tortoise 
 almost as big. Enormous bats used to fly about, and one 
 
-
-
 animal, the Iguanodon, when it stood up on its feet was 
 as big as a small tree. 
 
@@ -65,15 +63,12 @@ men used to make.
 
 I also showed you some fine pictures of Egyptian 
 tombs and mummies. Some of these, you will remember, 
-were very beautiful. On the wooden coffins were paint- 
-ed long stories of people. Very interesting were the wall 
+were very beautiful. On the wooden coffins were painted long stories of people. Very interesting were the wall 
 paintings from the Egyptian tombs at Thebes. 
 
 You also saw pictures of the ruins of palaces and 
 temples at Thebes in Egypt. Huge buildings they were 
 with enormous pillars. Near Thebes is the colossus of 
-
-
 
 Memmon, an enormous statue. 
 
@@ -86,8 +81,6 @@ deal of engineering.
 
 We have now finished our brief look back. In our 
 next letter we shall go ahead. 
-
-
 
 XXIX
 

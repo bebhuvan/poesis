@@ -31,16 +31,13 @@ these famous old cities. In Mesopotamia there were
 Babylon and Nineveh and Assur. But all of these have 
 long ceased to exist and people sometimes find remains 
 of these cities if they dig deep enough in the sand or 
-earth. In thousands of years they were covered up com- 
-pletely by sand and earth and no trace of them could 
+earth. In thousands of years they were covered up completely by sand and earth and no trace of them could 
 be seen. In some places new cities were built right on 
 top of the old ones which were covered up. People who 
 have been trying to find out about these old cities have 
 had to dig deep, and sometimes they have found several 
 cities one on top of the other. Of course they did not 
 exist like this at the same time. One city probably 
-
-
 
 existed for hundreds of years and people lived in it and 
 died, and their children and children’s children lived and 
@@ -50,8 +47,7 @@ whole place became a heap of ruins. The sand and the
 dust came and covered up these cities and there was no 
 one to remove it. After many, many years the whole 
 city became covered up with this sand and dust and 
-people even forgot that the city ever existed. Hun- 
-dreds of years must have passed, and then fresh people 
+people even forgot that the city ever existed. Hundreds of years must have passed, and then fresh people 
 came there and built a new city. And this new city in 
 its turn became old and deserted and fell into ruins. And 
 that too disappeared in course of time under sand and 
@@ -67,8 +63,6 @@ fresh crowds of people come and live in them. And they
 too die and leave no sign or trace behind. I write about 
 these cities in a few sentences, but think of the thousands 
 and thousands of years that must have passed for these 
-
-
 
 cities to grow and die, and other cities to take their place. 
 We call a man old when he is seventy or eighty years of 
@@ -86,8 +80,7 @@ city in the world today.
 In India our great cities are also on the banks of 
 rivers. One of the oldest was Indraprastha, which was 
 somewhere near Delhi. But Indraprastha is no more. 
-Benares or Kashi is also very old, perhaps one of the old- 
-est existing cities of the world. Allahabad, Cawnpore 
+Benares or Kashi is also very old, perhaps one of the oldest existing cities of the world. Allahabad, Cawnpore 
 and Patna, and many others which you can probably 
 yourself think of, are also on the banks of rivers. But 
 these are not very old, though Prayag or Allahabad and 
@@ -95,22 +88,15 @@ Patna or Pataliputra, as it used to be called, are pretty old.
 
 So also there are ancient cities in China. 
 
-
-
 b 
-
 
 j 
 
-
 OH 
-
 
 03 > 
 
 J0> 
-
-
 
 ^==j 
 
@@ -130,14 +116,11 @@ f-
 
 Utf 
 
-
-
 3>- 
 
 (== 
 
 > 
-
 
 Early kinds of Picture Writing
 

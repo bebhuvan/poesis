@@ -41,14 +41,7 @@ course bones.
 
 Then again you find the simple animals like fishes 
 
-
-
-
-
 A Fossil Frsn 
-
-
-
 
 laying eggs and leaving them. They lay thousands of eggs 
 at a time but do not look after them. The mother does 
@@ -68,16 +61,13 @@ does not care much for them.
 There comes a great change in the higher animals — 
 the mammals — about whom I said something in my last 
 letter. These animals do not lay eggs but the mother 
-keeps the egg inside her and gives birth to the fully deve- 
-loped baby animal, like dogs or cats or rabbits. And 
+keeps the egg inside her and gives birth to the fully developed baby animal, like dogs or cats or rabbits. And 
 afterwards the mother suckles, or gives milk, to her young. 
 The mother thus looks after her babies a great deal. Even 
 here however you find that there is a great deal of waste. 
 The rabbit gives birth to large numbers of baby rabbits 
 every few months and many of these die. But a higher 
 animal like the elephant only gives birth to one baby 
-
-
 
 elephant and looks after the baby well. 
 
@@ -97,8 +87,7 @@ going with us to see a professor in Heidelberg in Germany?
 He showed us a little museum full of fossils and specially 
 an old skull which he kept carefully locked up in a safe. 
 This skull was supposed to belong to one of these earliest 
-men. We now call him the Heidelberg man, simply be- 
-cause the skull was found buried near Heidelberg. Of 
+men. We now call him the Heidelberg man, simply because the skull was found buried near Heidelberg. Of 
 course there was no Heidelberg or any other city in those 
 days. 
 
@@ -106,8 +95,6 @@ In those early days when the first men wandered about
 it used to be very cold. It is called the Ice Age because 
 there was so much Ice. Glaciers, such as now exist near 
 the North Pole, came right down to England and Germany. 
-
-
 
 The men must have found it very difficult to live and they 
 must have had a hard time. They could only live where 
@@ -135,8 +122,6 @@ do this? Not by physical strength for the elephant is
 much stronger than he is. It was by intelligence and 
 brain power. 
 
-
-
 We can trace this growth of intelligence from the 
 earliest days of man to the present day. Indeed it is 
 intelligence that separates man from the other animals. 
@@ -152,8 +137,7 @@ straw or some other dry thing. Fires sometimes occur by
 themselves in the forests perhaps by the rubbing together 
 of flints or something else. The animals were not clever 
 enough to learn anything from this. But man was cleverer. 
-He saw the use of fire. It kept him warm in the winter- 
-and frightened away his enemies, the big animals. So 
+He saw the use of fire. It kept him warm in the winterand frightened away his enemies, the big animals. So 
 whenever a fire started the men and women must have 
 tried to keep it up by throwing dry leaves into it. They 
 did not want it to go out. Slowly they must have found 
@@ -162,9 +146,6 @@ by rubbing flints together. This was a great discovery
 for them and it gave them some power over the other 
 animals. Man was then well on his way to the lordship of 
 the world. 
-
-
-
 
 VII
 

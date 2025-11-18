@@ -31,18 +31,13 @@ days belonged to the whole tribe and not to each member
 separately. Even the patriarch had nothing special to 
 himself. As a member of the tribe he could only have 
 a share like any other member. But he was the organiser 
-and he was supposed to look after the goods and pro- 
-perty of the tribe. As his power increased he began 
+and he was supposed to look after the goods and property of the tribe. As his power increased he began 
 to think that these goods and property were really his own 
-and not the tribe’s. Or rather he thought that he him- 
-self being the leader of the tribe, represented that tribe. 
+and not the tribe’s. Or rather he thought that he himself being the leader of the tribe, represented that tribe. 
 So we see how the idea of owning things for oneself 
 began. Today we are always thinking and talking of this 
 thing being "mine” or "yours”. But, as I have told you, 
 the men and women of the first tribes did not think in 
-
-
-
 
 this way. Everything then belonged to the tribe. 
 
@@ -71,12 +66,9 @@ must become patriarch after him. Perhaps to begin with
 the members of the tribe did not like being told so, but they 
 soon got used to it and always did what the patriarch 
 
-
-
 wanted them to do. There was practically no election 
 or choosing of a new patriarch. The old man had already 
-decided who was to be his successor and this man suc- 
-ceeded. 
+decided who was to be his successor and this man succeeded. 
 
 So we see that the office of the patriarch became 
 hereditary, that is, it remained in the same family and 
@@ -85,8 +77,7 @@ patriarch now was quite sure that the property and things
 belonging to the tribe were really his own. Even when 
 he died they remained in his family. We see how the 
 idea of anything belonging to "me” or "you” started. 
-There was no such idea to begin with. People all work- 
-ed together for the tribe and not for themselves. If 
+There was no such idea to begin with. People all worked together for the tribe and not for themselves. If 
 they produced a lot of food or other things every body 
 in the tribe got his share. There were no rich or poor 
 in the tribe. They were all sharers in the property of the 

@@ -34,15 +34,11 @@ In Egypt we still have the great pyramids and the
 Sphinx and ruins of enormous temples at Luxor and 
 other places. You have not seen these although we were 
 not far from them when we passed through the Suez 
-Canal. But you have seen pictures of them and pro- 
-bably you have got picture postcards of them. The 
+Canal. But you have seen pictures of them and probably you have got picture postcards of them. The 
 Sphinx is a lion with a woman’s head. It is an enormous 
 thing. Nobody knows why it was made and what it 
 represents. The woman’s head has got a strange faint smile 
 and people wonder what this smile is about. To say 
-
-
-
 
 that a person is like the Sphinx means that you do not 
 understand him. 
@@ -70,18 +66,13 @@ how clever and advanced the ancient Egyptians were.
 They must have had fine engineers to build these canals 
 and lakes and the great pyramids. 
 
-The little island of Crete or Candia is in the Medi- 
-
-
-
-tcrranian Sea. We passed near it when going from Port 
+The little island of Crete or Candia is in the Meditcrranian Sea. We passed near it when going from Port 
 Said to Venice. On this little island there was a fine 
 civilisation in the olden days. At Knossos in Crete there 
 was an enormous palace and we have the remains of this 
 palace still. In this palace there were bath rooms and 
 water-pipes, which some ignorant people think are modern 
-inventions. There were also beautiful pottery and sculp- 
-ture and paintings, and fine metal and ivory work. In 
+inventions. There were also beautiful pottery and sculpture and paintings, and fine metal and ivory work. In 
 this little island of Crete the people lived peacefully and 
 made great progress. 
 
@@ -101,8 +92,6 @@ have been a monster, half man and half hull. It is said
 that young men and young girls were given to this 
 monster as his food! I have told you before that the idea 
 
-
-
 of religion first came through the fear of the unknown. 
 And because of this fear, not understanding nature and 
 much that happens around us, people used to do many 
@@ -113,19 +102,14 @@ imaginary monster.
 
 All over the world, in those ancient days, there was 
 what is called human sacrifice, that is men and women 
-were sacrificed to imaginary beings whom people wor- 
-shipped. In Egypt girls used to be thrown into the 
+were sacrificed to imaginary beings whom people worshipped. In Egypt girls used to be thrown into the 
 river Nile because it was thought that this would please 
 Father Nile! 
 
 Fortunately human sacrifices do not take place now, 
 except perhaps very seldom in some far corner of the 
 world. But even now some people kill animals and 
-sacrifice them to please God! It is a curious way of wor- 
-shipping anybody! 
-
-
-
+sacrifice them to please God! It is a curious way of worshipping anybody! 
 
 W' ^ 
 

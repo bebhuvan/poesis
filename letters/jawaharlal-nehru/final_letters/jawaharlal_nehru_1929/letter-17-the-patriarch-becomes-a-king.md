@@ -44,7 +44,6 @@ is, son succeeded father, there was little difference be-
 
 70 ] 
 
-
 tween him and a king. He developed into the king. And 
 the king got the strange notion that everything in the 
 country belonged to him. He thought he was the 
@@ -71,11 +70,8 @@ countries they drove out their kings. You will read all
 about this later, how the people of England rose against 
 their king Charles I and defeated him and even put him 
 
-
-
 to death; how the people of France had a great revolu*- 
-tion and decided to have no more kings. You will re- 
-member that we visited the Conciergerie prison in Paris. 
+tion and decided to have no more kings. You will remember that we visited the Conciergerie prison in Paris. 
 Were you with us then? In this prison were kept the 
 members of the king’s family, his wife Marie Antoinette 
 and others. You will also read about the great Russian 
@@ -83,10 +79,8 @@ revolution when the people of Russia, only a few years
 ago, drove out their king, who was called the Tsar. 
 
 So kings have had their day and most countries have 
-no kings. France and Germany and Russia and Switzer- 
-land and the countries of America and China and many 
-other countries have no kings. They are republics, that- 
-is, the common people choose their governors and leaders 
+no kings. France and Germany and Russia and Switzerland and the countries of America and China and many 
+other countries have no kings. They are republics, thatis, the common people choose their governors and leaders 
 from time to time. These governors and leaders arc not 
 hereditary. 
 
@@ -101,11 +95,6 @@ and Nawabs. You see them going about with fine
 clothes in expensive motor cars and spending a lot of 
 money on themselves. Where do they get all this money 
 
-
-
-
-
-
 from? They get it in taxes from the people. The taxes 
 are given so that the money may be used to help all the 
 people in the country — by making schools and hospitals 
@@ -117,8 +106,6 @@ spend the money of the people on their own pleasures.
 While they live in luxury, their people, who work hard 
 and give them the money, starve and their children have 
 no schools to go to. 
-
-
 
 XVIII
 

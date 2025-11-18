@@ -36,21 +36,16 @@ country learnt something new they could not tell it to
 the people of another country. So changes came in and 
 after some generations the one Aryan family became split 
 up into many. Perhaps they even forgot that they all 
-belonged to one large family. Their one language be- 
-came many languages, which seemed to differ greatly from 
+belonged to one large family. Their one language became many languages, which seemed to differ greatly from 
 each other. 
-
-
 
 But although they seemed so different there were 
 many common words and similarities. Even now, after 
 thousands of years, we can find these common words in 
 different languages and can tell that once upon a time 
 these languages must have been one. You know that 
-there are many such common words in French and Eng- 
-lish. Let us examine two very homely and ordinary 
-words like "father” and "mother”. In Hindi and Sans- 
-krit the words are, as you know, “fw” and “*rrar” 
+there are many such common words in French and English. Let us examine two very homely and ordinary 
+words like "father” and "mother”. In Hindi and Sanskrit the words are, as you know, “fw” and “*rrar” 
 in Latin they are "pater” and " mater”; in Greek "pater” 
 and "meter”; in German "vater” (pronounced fater) and 
 "mutter” (pronounced ) ; in French "pere” and 
@@ -68,8 +63,6 @@ course fathers and mothers and words must have been
 found for them. Therefore we can say that these words 
 are not borrowed. They must have come down from 
 
-
-
 the same ancestor or the same family. And from this 
 we can find out that the people living far apart now in 
 different countries and using different languages must 
@@ -86,18 +79,14 @@ many of us have forgotten our old relationships. In
 every country people imagine that they are the best and 
 the cleverest and the others are not as good as they are. 
 The Englishman thinks that he and his country are the 
-best; the Frenchman is very proud of France and every- 
-thing French; the Germans and Italians think no end of 
+best; the Frenchman is very proud of France and everything French; the Germans and Italians think no end of 
 their countries; and many Indians imagine that India is 
 in many ways the greatest country in the world. This 
-is all conceit. Everybody wants to think well of him- 
-self and his country. But really there is no person who 
+is all conceit. Everybody wants to think well of himself and his country. But really there is no person who 
 has not got some good in him and some bad. And in 
 the same way there is no country which is not partly good 
 and partly bad. We must take the good wherever we 
 find it and try to remove the bad wherever it may be. 
-
-
 
 We are of course most concerned with our own country, 
 India. Unhappily it is in a bad way today and most of 
@@ -116,15 +105,9 @@ an excellent thing if all the people in the world were
 happy and contented. We have therefore to try to 
 make the whole world a happier place to live in. 
 
-
-
-
 An extinct Reptile — the Iguanodon 
 (restored). Height of shoulder 
 about 10 ffe r 
-
-
-
 
 XI 
 
@@ -134,8 +117,7 @@ L v '? civilisations. But before I do so we must try to form
 some idea of what civilisation means. The dictionary 
 will tell you that to civilize means to better, to refine, to 
 replace savage habits by good ones. And it specially 
-refers to society or a group of people. The savage con- 
-dition of people when men are little better than beasts is 
+refers to society or a group of people. The savage condition of people when men are little better than beasts is 
 called barbarism. Civilisation is the reverse of that. The 
 further away we get from barbarism the more civilised 
 we are. 
@@ -149,21 +131,15 @@ But clothes depend on the climate. In a cold climate
 
 [ 49 
 
-
-
-
 men put on more clothes than in a hot climate. Or is it 
-because a man with a gun is stronger than the man with- 
-out a weapon and is therefore more civilised than him? 
+because a man with a gun is stronger than the man without a weapon and is therefore more civilised than him? 
 Whether he is more civilised or not the man who is weak 
 dare not tell him that he is not or else he might get shot! 
 
 You know that only a few years ago there was a 
 great war. Most of the countries of the world were in it, 
 and every one of them was trying to kill as many people 
-on the other side as possible. The Englishman was try- 
-ing his best to kill Germans, and the Germans were kill- 
-ing Englishmen. Millions of people were killed in this 
+on the other side as possible. The Englishman was trying his best to kill Germans, and the Germans were killing Englishmen. Millions of people were killed in this 
 war and many thousands were maimed for life — some have 
 no eyes left and are blind, others have no arms or legs. 
 You must have seen many of these "mutiles de la guerre,” 
@@ -178,16 +154,13 @@ each other and kill thousands and millions. It is just
 like two savages fighting in the jungles. And if the 
 savages are called barbarous how much more barbarous 
 
-
-
 are the countries that behave in that way? 
 
 So if you look at this question in this way you will 
 say that the countries that fought and killed in the great 
 war — England, Germany, France, Italy and many others 
 — are not at all civilised. And yet you know that there 
-are many fine things and many fine people in these coun- 
-tries. 
+are many fine things and many fine people in these countries. 
 
 You will say that it is not easy to understand what 
 civilisation means, and you will be right. It is a very 
@@ -197,9 +170,6 @@ civilisation. But an even better sign is a fine man who
 is unselfish and works with others for the good of all. 
 To work together is better than to work singly, and to 
 work together for the common good is the best of all. 
-
-
-
 
 XII
 

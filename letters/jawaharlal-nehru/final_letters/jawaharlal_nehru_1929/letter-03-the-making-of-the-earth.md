@@ -43,7 +43,6 @@ compared to the stars but they look bigger in the sky
 
 10 ] 
 
-
 because they are much nearer to us. Just as the moon 
 which is really quite a baby, looks so big because it is 
 quite near to us. But the real way to distinguish the stars 
@@ -51,8 +50,7 @@ from the planets is to see if they twinkle or not. Stars
 twinkle, planets do not. That is because the planets only 
 shine because they get the light of our sun. It is only the 
 sunshine on the planets or the moon that we see. The 
-real stars are like our sun. They shine of themselves be- 
-cause they are very hot and burning. In reality our sun 
+real stars are like our sun. They shine of themselves because they are very hot and burning. In reality our sun 
 itself is a star, only it looks bigger as it is nearer and we 
 see it as a great ball of fire. 
 
@@ -71,14 +69,11 @@ flaming matter, terribly hot. Some how little bits of the
 sun got loose and they shot out into the air. But they 
 could not wholly get rid of their father, the sun. It was 
 
-
-
 as if a rope was tied to them and they kept whirling round 
 the sun. This strange force, which l have compared to a 
 rope, is something which attracts little things to great. 
 It is the force which makes things fall by their weight. 
-The earth being the biggest thing near us attracts every- 
-thing we have. 
+The earth being the biggest thing near us attracts everything we have. 
 
 In this way our earth also shot out from the sun. 
 It must have been very hot, with terribly hot gases and 
@@ -101,8 +96,6 @@ although the interior remained very hot. Even now if
 you go down a coal mine it becomes hotter and hotter as 
 you go down. Probably if you could go down deep 
 
-
-
 enough inside the earth you would find it red hot. The 
 moon also started to cool and because it was much smaller 
 than even the earth it cooled more quickly than the earth. 
@@ -119,8 +112,6 @@ As the earth became cooler and the oceans also became
 cooler it became possible for living things to exist on the 
 earth’s surface or in the sea. We shall discuss the early 
 beginnings of life in the next letter. 
-
-
 
 IV
 
