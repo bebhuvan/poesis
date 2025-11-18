@@ -24,14 +24,13 @@ The unashamed condonation of brutality expressed in
 their speeches and echoed in their newspapers is ugly in
 its fnghtfulness. The feeling of humiliation about our
 position under the Anglo-Indian domination had been
-growing stronger every day for the last fifty years or more ;
+growing stronger every day for the last fifty years or more;
 but the one consolation we had was our faith in the love
 of justice in the English people, whose soul had not been
 poisoned by that fatal dose of power which could only
-Letters to a Friend
 
 be available in a Dependency where the manhood of the
-entire population had been crushed down into helplessness.
+enthe population had been crushed down into helplessness.
 
 Yet the poison has gone further than we expected, and
 it has attacked the vital organs of the British nation. I
@@ -41,8 +40,7 @@ countrymen will not lose heart at this, but employ all
 their energies in the service of their count ly with a spirit
 of indomitable courage and determination.
 
-\ The late events have conclusively proved that our true
-, salvation lies in our own hands ; that a nation’s greatness
+\ The late events have conclusively proved that our true, salvation lies in our own hands; that a nation’s greatness
 can never find its foundation in half-hearted concessions
 of contemptuous niggardliness.
 

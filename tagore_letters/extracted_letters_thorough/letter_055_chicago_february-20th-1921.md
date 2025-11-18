@@ -20,7 +20,6 @@ my work, but I had my reed and I played on it “in mere
 idle sport.’* All along I had my one playmate, who also
 in His play produced music, among leaves, in rushing
 water, in silence of stars, in tears and laughter rippling
-Letters to a Friend
 
 r
 
@@ -43,7 +42,7 @@ myself over and over again, shouting myself hoarse in
 this noisy world where everybody is crying up his own
 wares? Pushing the wheelbarrows of propaganda from
 continent to continent — is this going to be the climax
-of a poet^s life? It seems to me like an evil dream, from
+of a poets life? It seems to me like an evil dream, from
 which I occasionally wake up in the dead of night and
 grope about in the bed asking myself in consternation:
 “Where is tny music?”
@@ -53,23 +52,22 @@ earn it with the sweat of my brow; it was a gift to me,
 which I could deserve if I loiew how to love it. You
 know I have said somewhere that “God praises me when
 I do good; but God loves me when I sing.” Praise is
-reward ; it can be measured against the work you render ;
-but love is above all rewaids ; it is measureless.
+reward; it can be measured against the work you render;
+but love is above all rewaids; it is measureless.
 
 The poet who is true to his mission reaps his harvest
-of love ; but the poet who strays into the path of the good
+of love; but the poet who strays into the path of the good
 is dismissed with applause. So I founded my International
 University — a great work! But I lose my little song —
 which loss can never be made up to me. How I wish I
 could find my reed again and be contemptuously ignored
 by the busy and the wise as a hopeless ne*er-do-well!
 
-Letters to a Friend
 
-iz^]
+iz]
 
 When I know for certain that I shall never be able to
-go back to that s^v^eet obscurity which is the birthplace
+go back to that sveet obscurity which is the birthplace
 of flowers and songs, I feel home-sick. It is a world
 which is so near and yet so far away; so easy of access
 and yet so immensely difficult. Happiness we go on

@@ -13,19 +13,17 @@ letter_number: 59
 **Autour DU Monde, Paris, April 21st, 1921**
 
 When I sent my appeal for an International Institution
-to the Western people, I made use of the word “Uni-
-versity” for the sake of convenience. But that word
-has not only an inner meaning, but also an outer asso-
-ciation in the minds of those who use it; and that fact
+to the Western people, I made use of the word “University” for the sake of convenience. But that word
+has not only an inner meaning, but also an outer association in the minds of those who use it; and that fact
 tortures my idea into its own rigid shape. It is unfortunate.
 
 I should not allow my idea to be pinned to a word
 for a foreign museum, like a dead butterfly. It must be
 known, not by a definition, but by its own life-growth.
 
-In the past I saved our Santiniketan School from being
+In the past I saved our Santiniketan Schoof from being
 trampled into smoothness by the steam-roller of the
-Education Department. Our school is poor in resources
+Education Department. Our schoof is poor in resources
 and equipment, but it has the wealth of truth in it
 which no money can ever buy; and I am proud of the
 fact that it is not a machine-made article perfectly
@@ -36,12 +34,11 @@ our own life and be maintained by our own life. Someone
 may say that such freedom is dangerous and that a
 machine will help to lessen our personal responsibility
 and make things easy for us. Yes I Life has its risks, and
-freedom has its responsibility ; and yet they are preferable
+freedom has its responsibility; and yet they are preferable
 on account of their own immense value, and not for any
 other ulterior results.
 
-So long, I have been able to retain my perfect inde-
-pendence and self-respect, because I had faith in my
+So long, I have been able to retain my perfect independence and self-respect, because I had faith in my
 own resources and proudly worked within their sovereign
 limits. My bird must still retain its freedom of wings
 and not be tamed into a sumptuous nonentity by any
@@ -51,11 +48,8 @@ complex, but I must make it simple in my own way.' I
 shall be content if it attracts round it men who have
 neither name nor fame nor worldly means, but who have
 
-Letters to a Friend
 
-^59
-
-the mind and faitlj ; who are to create a great future with
+the mind and faitlj; who are to create a great future with
 their dreams.
 
 Very likely I shall never be able to work with a Board
@@ -66,9 +60,9 @@ out my work, I know it, and I have had experience of it
 in connection with Santmikelan. But I am not afraid of
 failure. I am only afraid of being tempted away from
 truth, in pursuit of success. The temptation assaults
-me occasionally ; but it comes from the outside atmosphere.
+me occasionally; but it comes from the outside atmosphere.
 My own abiding faith is in life and light and fiecdonu
-And my prayer is : —
+And my prayer is: —
 
 “Lead me from the unreal to Truth.”
 
@@ -77,7 +71,7 @@ from the bondage of help and go back to join with you
 the great “Brotherhood of the Tramps,” who seem
 helpless, but are recruited by God for His own army.
 
-Strasbourg, April 29th^ 1931
+Strasbourg, April 29th 1931
 
 I am writing this from Strasbourg, where I am going
 to read my lecture at the University this evening.
@@ -99,7 +93,6 @@ part of my life, and I never turned back to sec if they bore
 
 i6o
 
-Letters to a Friend
 
 any harvest. But the harvest now surj)iises me, almost
 obstructs my path, and I cannot make up my mind to
@@ -114,17 +107,17 @@ We are going to Switzerland to-morrow, and our next
 destination will be Germany. I am to spend my birthday
 this year in Zurich. I have had my second birth in the
 West, and there is rejoicing at the event. But by nature
-all men are dioija or twice-bom — ^first they are born to
+all men are dioija or twice-bom — first they are born to
 their home, and then, for their fulfilment, they have to
 be born to the larger world. Do you not feel yourself
-that you have had your second birth among us ? And with
+that you have had your second birth among us? And with
 this second birth you have found your true place in the
 heart of humanity.
 
 It is a beautiful town, this Strasbourg, and to-day the
 morning light is beautiful. The sunshine has mingled
 with my blood and tinged my thoughts with its gold,
-and I feel ready to sing : —
+and I feel ready to sing: —
 
 “ Brothers, let us squander this morning with futile
 songs.”

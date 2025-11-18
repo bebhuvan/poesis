@@ -23,7 +23,6 @@ me, Paris is empty, and there is no chance of our meeting
 
 go
 
-Letters to a Friend
 
 the people whom I should like to meet. Our stay in
 England has been wasted. Your Parliament debates about

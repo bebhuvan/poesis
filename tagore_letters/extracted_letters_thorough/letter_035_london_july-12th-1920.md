@@ -30,12 +30,11 @@ and with genuine love and wonder these enormously
 busy people have listened to a voice from the distant East.
 
 This is a constant surprise to me. However, there is no
-question, that one only truly and fully lives where one^s
+question, that one only truly and fully lives where ones
 thoughts and works find their medium of responsive life.
 
-Letters to a Friend
 When I am in the West, I feel more strongly than ever
-that I am received^in a living world of mind. I miss here
+that I am receivedin a living world of mind. I miss here
 my sky and light and leisure, but I am in touch with those
 who feel and express their need of me and to whom I can
 offer myself.

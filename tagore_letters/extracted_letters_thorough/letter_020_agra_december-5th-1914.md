@@ -20,7 +20,6 @@ schoolboys and not their own original idea. In the second
 place, so long as the boys live in our institution they
 
 D
-Letters to a Friend
 
 are not free to give up any portion of their diet which is
 absolutely necessary for their health. For any English
@@ -30,11 +29,10 @@ who can get milk only in small quantities, and whose
 vegetable meals contain very little fat ingredients, it is
 mischievous.
 
-Our boys have no right to choose this form of self-
-sacrifice— just as they are not free to give up buying
+Our boys have no right to choose this form of selfsacrifice— just as they are not free to give up buying
 books for their studies. The best form of self-sacrifice
 for them would be to do some hard work in order to
-earn money ; let them take up menial work in our school —
+earn money; let them take up menial work in our schoof —
 wash dishes, draw water, dig wells, fill up the tank which
 is a menace to their health, do the building work. This
 would be good in both ways. What is more, it would be

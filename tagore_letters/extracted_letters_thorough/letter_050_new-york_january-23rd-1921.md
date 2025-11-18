@@ -15,7 +15,7 @@ letter_number: 50
 I have just come back from Greenwich, a suburban
 part of New York, where last night I had a reception and
 a speech and a dinner and a discussion, till I felt empty,
-like a burst balloon with no gas left in it !
+like a burst balloon with no gas left in it!
 
 At the far-distant end of the wilderness of such trials
 as this what do I see'* But what matters it? Results of
@@ -48,6 +48,5 @@ simplicity of our Asram, which can reveal itself all the
 more luminously because of its background of material
 poverty and want.
 
-Letters to a Friend
 
 ii8

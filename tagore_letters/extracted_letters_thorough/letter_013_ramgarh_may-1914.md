@@ -19,10 +19,8 @@ that I must have all my interests alive, grow on all sides,
 and enter into various relations with the world, keeping
 my body and mind fully awake.
 
-Harmony is difficult when one’s own nature is com-
-plicated ; when the strings m the mna are numerous and
+Harmony is difficult when one’s own nature is complicated; when the strings in the mna are numerous and
 each one claims its right to be tuned.
 
-But I know life is simple, however complex the organ-
-ism may be; and everything goes to pieces when the
+But I know life is simple, however complex the organism may be; and everything goes to pieces when the
 living truth of the central simplicity is lost.

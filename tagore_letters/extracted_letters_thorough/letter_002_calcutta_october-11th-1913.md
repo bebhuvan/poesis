@@ -13,8 +13,7 @@ letter_number: 2
 **Calcutta, October 11th 1913**
 
 I have gone through a period of difficulty. My life
-had appeared to me lonely and burdened with responsi-
-bilities too heavy for a single man to bear. Evidently
+had appeared to me lonely and burdened with responsibilities too heavy for a single man to bear. Evidently
 my mind has got into a habit of leaning too much upon
 my friends whom I had acquired in England, and letting
 most of its current flow outward. Therefore, coming to
@@ -29,12 +28,9 @@ Now I feel the flood-tide of life and companionship. It
 sweeps the burden from off my shoulders and carries me
 along with it on its joyous course.
 
-In India the range of our lives is narrow and dis-
-continuous. This is the reason why our minds are often
+In India the range of our lives is narrow and discontinuous. This is the reason why our minds are often
 beset with provincialism. In our Asram at Santiniketan
 we must have the widest possible outlook for our boys,
-and universal human interests. This must come spon-
-taneously — not merely through the reading of books,
+and universal human interests. This must come spontaneously — not merely through the reading of books,
 but through dealings with the wider world.
 
-Letters to a Friend

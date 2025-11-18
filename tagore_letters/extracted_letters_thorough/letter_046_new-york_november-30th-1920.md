@@ -21,7 +21,7 @@ me. This gift has not been my choice, but my God has
 chosen for me this gift. And now I say to myself that we
 prove our worthiness for God’s gift of responsibility by
 acceptance of it and not by success or anything else. The past has been for men, the future is for Man.
-These men are still fighting for the^ possession of the
+These men are still fighting for the possession of the
 world: the din and the clash are deafening; the air is
 obscured with the dust rising from the trampled earth.
 Standing in the heart of this struggle, we have to build

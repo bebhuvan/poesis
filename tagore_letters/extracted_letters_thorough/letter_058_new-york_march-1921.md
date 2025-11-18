@@ -14,9 +14,8 @@ letter_number: 58
 
 I wish that I could be released from this mission.
 For such missions are like a mist that envelops our soul
-— they seem to shut us off from the diiect touch of God's
-world. And yet I have such an immense hunger for this touch. The springtime has come— the sky is over-
-flowing with sunshine. I long to be one with the birds
+— they seem to shut us off from the direct touch of God's
+world. And yet I have such an immense hunger for this touch. The springtime has come— the sky is overflowing with sunshine. I long to be one with the birds
 and trees and the green earth. The call comes to me from
 the air to sing, but, wretched creature that I am, I lecture
 — and by doing it I ostracize myself from this great
@@ -27,7 +26,7 @@ the birthplace of those morning jasmines, from the lotus
 lake of Saraswati, which greeted me when I was a child
 even as the finger-touch of my own mother. Now, when
 occasionally I come back to them, I am made to feel that
-I have lost my caste ; and though they call me by my name
+I have lost my caste; and though they call me by my name
 and speak to me, they keep themselves apart.
 
 I know that my own river Padma, who has so often
@@ -44,31 +43,28 @@ mine, carrying the cry of a banished soul, will sound
 utterly strange to you in the present-day India.
 
 We hold our mathematical classes in Santiniketan
-under the madhavi^ bower. Is it not good for the students
+under the madhavi bower. Is it not good for the students
 and others that, even in the busiest time of lessons, the
 branches overhead do not break out into a shower of
 geometrical propositions? Is it not good for the world
 that poets should forget all about the resolutions carried
-at monster meetings? Is it not right that God^s own
+at monster meetings? Is it not right that Gods own
 regiment of the useless should never be conscripted for
 any military contingency of the useful?
 
 * White jasmine.
 
-Letters to a Friend
 
 When the toncXof spring is in the air, I suddenly wake
 up from my nightmare of giving “messages” and re*
-member that I belong to the eternal band of good-for-
-nothings; I hasten to join in their vagabond chorus.
-But I hear the whisper round me ; “This man has crossed
+member that I belong to the eternal band of good-fornothings; I hasten to join in their vagabond chorus.
+But I hear the whisper round me; “This man has crossed
 the sea/' and my voice is choked.
 
 We are leaving Europe to-morrow and my days of
 exile are coming to an end. Very likely my letters will be
 fewer in number from now, but I shall make up for this
-when I meet you in person under the shadow of the lain-
-clouds of July.
+when I meet you in person under the shadow of the lainclouds of July.
 
 Pearson is busy seeking health and happiness, making
 himself ready for the time when he will join us in India
@@ -94,11 +90,8 @@ in my heart of hearts I feel exceedingly small and, to my
 utter dismay, discover I am not a leader, not a teacher, and
 farthest of all away from being a prophet.
 
-The fact becomes fully evident to me, that I had for-
-gotten to grow. It comes of an incoirigible absent-
-mindedness. My mind has ever wandered away from
+The fact becomes fully evident to me, that I had forgotten to grow. It comes of an incoirigible absentmindedness. My mind has ever wandered away from
 those things that mature one into wisdom and old age.
-Letters to a Friend
 
 I have neglected my lessons. And this utter want of
 training makes me such a wretchedly bad reader of
@@ -115,10 +108,10 @@ of himself.
 And yet my heart is aching and longing to meet, with
 proper ceremony, the first day of the rainy season, or fill
 every pore of my mind with the smell of mango blossoms.
-Is that allowable at the present moment ? Does our south
-breeze still enjoy all the frivolities of spring days ? Have
+Is that allowable at the present moment? Does our south
+breeze still enjoy all the frivolities of spring days? Have
 our sunset hours taken the vow of discarding all traces
-of colours from their cloud turbans ?
+of colours from their cloud turbans?
 
 But what is the use of complaining? The poets are
 too primitive for this age. If they had not ignominiously
@@ -134,15 +127,13 @@ no use — leave me alone to my utter inutility.”
 But I know, when I reach India, the Poet will be
 defeated; and I shall piously study the newspapers —
 every paragraph of them. But for the present even
-poetry is at a disadvantage — ^for the sea is rough,
+poetry is at a disadvantage — for the sea is rough,
 my head is swimming, and the English language is
 extremely difficult to manage in a rolling ship.
 
-Letters to a Friend
 s.s. '‘Rhyndam**
 
-Somelimes it amuses me to see the stmggle for supre-
-macy that is going on between the different persons within
+Somelimes it amuses me to see the stmggle for supremacy that is going on between the different persons within
 me. In the present condition of India, when the call is
 sure to come to me to take some part, in some manner
 or other, in some political affairs, the Poet at once feels
@@ -150,8 +141,7 @@ nervous, tliinking that his claims are likely to be ignored,
 simply because he is the most useless member in the
 confederacy of my personality. He fully anticipates that
 argument against him, and takes special pains to glorify
-his deficiency even before any complaint has been sub-
-mitted by anybody on this point. He has proudly begun
+his deficiency even before any complaint has been submitted by anybody on this point. He has proudly begun
 to assert: “I belong to the great brotherhood of the
 supremely useless, I am the cup-bearer of the Gods.
 I share the common privilege with all divinities to be
@@ -159,8 +149,7 @@ misunderstood. My purpose is to reveal Purposelessness
 to the children of the Immortal. I have nothing to do
 with committee meetings or laying of foundation-stones
 for structures that stand against the passage of time and
-are sure to be trampled to dust. I am to ply the ferry-
-boat that keeps open the trafEc between this shore and
+are sure to be trampled to dust. I am to ply the ferryboat that keeps open the trafEc between this shore and
 the shore of Paradise — this is our King’s mail-boat for
 the communication of messages, and not for carrying
 cargo to the markets.’’
@@ -168,27 +157,23 @@ cargo to the markets.’’
 I say to him: ‘‘Yes, I fully agree with you; but, at the
 same time, take my warning, that your mail-boat may
 have to be commandeered for other urgent purposes,
-wholly unconnected with the Celestial Postal Depart-
-ment.” Hjs cheeks grow pale; his eyes become bemisted;
+wholly unconnected with the Celestial Postal Department.” Hjs cheeks grow pale; his eyes become bemisted;
 -his frail body shivers like a cypress at the first breath of
 winter, and he says to me: “Do I deserve to be treated
-like this.^ Have you lost all youi love for me, that you can
+like this. Have you lost all your love for me, that you can
 talk of putting me under martial law? Did you not
 drink your first cup of Amrita from my hand, and has
-Letters to a Friend
 
-not the Citizenship of the Sphere of TVlusic been con-
-ferred upon you through my persuasion?”
+not the Citizenship of the Sphere of TVlusic been conferred upon you through my persuasion?”
 
-I sit dumb, and muse and sigh, when sheaves of news-
-paper-cuttings are poured upon my table, and a leer
+I sit dumb, and muse and sigh, when sheaves of newspaper-cuttings are poured upon my table, and a leer
 is spread upon the face of the Practical man; he winks at
 the Patriotic man sitting solemnly by his side; and the
 man who is Good thinks it his painful duty to oppose
 the Poet, whom he is ready to treat with some indulgence
 within proper limits.
 
-As for me who am the President of this Panchayai^^
+As for me who am the President of this Panchayai
 I have my deepest sentiment of tenderness for this Poet,
 possibly because he is so utterly good-for-nothing and
 always the first to be ignored in the time of emergency.
@@ -199,12 +184,12 @@ but for the time that transcends it on all sides.”
 
 The rascal knows well how to flatter, and generally
 wins his case with me — especially when others are too
-certain of the result of their appeal ; and I jump up from
+certain of the result of their appeal; and I jump up from
 my judgement-seat and, holding the Poet by the hand,
 dance a jig and sing; “I shall join you, Comrade, and be
 dmnk and gloriously useless.” Ah, my evil luck! I know
 why the chairmen of meetings hate me, newspaper
-editors revile me, and the virile call me effeminate ! So I
+editors revile me, and the virile call me effeminate! So I
 try to take shelter among the children, who have the
 gift of being glad with things and men that have no value.
 
@@ -215,26 +200,23 @@ intense feeling of pride or resentment concentrates its
 red light within a certain limited area, I lose my true
 perspective of life and the world, and it hurts deeply
 
-^ Committee.
+ Committee.
 
-Letters to a Friend
 
 my nature. It is mot true that I do not have any special
 love for my own country, but when it is in its normal state
 it does not obstruct outside reality; on the contrary, it
-offers a standpoint and helps me in my natural relation-
-ship with others. But when that standpoint itself becomes
+offers a standpoint and helps me in my natural relationship with others. But when that standpoint itself becomes
 a barricade, then something in me asserts that my place
 is somewhere else,
 
 I have not yet attained that spiritual altitude from
-which I can say, with perfect assurance, that such barri-
-cading is wrong, or even unnecessary; but some instinct
+which I can say, with perfect assurance, that such barricading is wrong, or even unnecessary; but some instinct
 
-^lity in it,
+lity in it,
 
 lii all passions that are generated through
-'^ilraction of consciousness, through rejection of a great
+'ilraction of consciousness, through rejection of a great
 at of truth.
 
 I remember your wondering why Christ gave no
@@ -242,14 +224,13 @@ expression to His patriotism, which was so intense in the
 Jewish people. It was because the great truth of man,
 which He realized, through His love of God, would only
 be cramped and crushed within that enclosure. I have a
-great deal of the patriot and politician in me, and there-
-fore I am frightened of them ; and I have an inner struggle
+great deal of the patriot and politician in me, and therefore I am frightened of them; and I have an inner struggle
 against submitting myself to their sway.
 
 But I must not be misunderstood. There is such a
 thing as a moral standard of judgement. When India
 suffers from injustice, it is right that we should stand
-against it ; and the responsibility is ours to right the wrong,
+against it; and the responsibility is ours to right the wrong,
 not as Indians, but as human beings. There your position
 is higher than most of our countrymen's. You have
 accepted the cause of India for the sake of hummity.
@@ -259,7 +240,6 @@ You are fighting against that patriotism whereby the
 West has humiliated the East — the patriotism which
 IS national egoism. This is a comparatively later growth
 in European history and a far greater cause of misery
-Letters to a Friend
 
 and injustice in the human world thai)'? the bloodthirsty
 ferocity, the nomadic savagery, in the primitive history
@@ -268,19 +248,17 @@ and they perpetrated misdeeds in their heedlessness;
 but because they had no taint of patriotism they did not
 attack India at the very root of her life, keeping themselves
 superciliously aloof. Gradually they were growing one
-with us ; and just as the Normans and Saxons combined
+with us; and just as the Normans and Saxons combined
 into one people, our Muhammadan invaders would
-ultimately have lost their line of separateness and con-
-tributed to the richness and strength of Indian civilization.
+ultimately have lost their line of separateness and contributed to the richness and strength of Indian civilization.
 
 We must remember that Hinduism is not the original
 Aryanism; in fact, a greater portion of it is non-Aryan.
 Another great mixture had been awaiting us, the mixture
-with the Muhammadans. I Icnow that there were diffi-
-culties in its way. But the greatest of all difficulties was
+with the Muhammadans. I Icnow that there were difficulties in its way. But the greatest of all difficulties was
 lacking — the idolatry of Geography. Just see what
 hideous crimes are being committed by British patriotism
-in Ireland ! It is a python which refuses to disgorge this
+in Ireland! It is a python which refuses to disgorge this
 living creature which struggles to live its separate life.
 For patriotism is proud of its bulk, and in order to hold
 in a bond of unity the units that have their own distinct
@@ -299,13 +277,12 @@ freedom. Uniformity is unity of bondage.
 
 Suppose, in our Swaraj, the anti-Brahmin community
 
-Letters to a Friend
 
-refuses to join b^nds with us; suppose, for the sake of
+refuses to join bnds with us; suppose, for the sake of
 its self-respect and self-expression, it tries to keep an
 absolute independence — patriotism will try to coerce it
 into an unholy union. For patriotism has its passion of
-power ; and power builds its castle upon arithmetic. I love
+power; and power builds its castle upon arithmetic. I love
 India, but my India is an Idea and not a geographical
 expression. Therefore I am not a patriot — I shall ever
 seek my compatriots all over the world. You are one of
@@ -319,11 +296,10 @@ Swaraj, when it comes to exist, pass a deportation order
 against all feckless creatures who are pursuers of phantoms
 and fashioners of dreams, who neither dig nor sow, bake
 nor boil, spin nor darn, neither move nor support
-resolutions ?
+resolutions?
 
 I have often tried to imagine the banished hordes of
-poets establishing their own Republic in the near neigh-
-bourhood of that of Plato. Naturally, as an act of reprisal,
+poets establishing their own Republic in the near neighbourhood of that of Plato. Naturally, as an act of reprisal,
 His Excellency the Poet President is sure to banish
 from the Rhymers* Republic all philosophers and
 politicians. Just think of the endless possibilities arising
@@ -342,13 +318,11 @@ the son of the President of the Philosophers’ Republic,
 
 K
 
-Letters to a Friend
 while the maiden is the daughter of tKat of the Poets’.
 The immediate consequence is the secret smuggling of
 forbidden love-lyrics by the desperate youth into the
 very heart of the commentaries and controversies of the
-two contradictory schools of Philosophy — the one pro-
-fessed by the yellow-turbaned sages, proclaiming that
+two contradictory schools of Philosophy — the one professed by the yellow-turbaned sages, proclaiming that
 one is truth and two is an illusion, and the other, which
 is the doctrine of the green-turbaned sages, asserting
 that two is truth and one is an illusion.
@@ -357,10 +331,9 @@ Then came the day of the great meeting, presided
 over by the Philosopher President, when the pandits of
 the two factions met to fight their dialectic duels finally
 to decide the truth. The din of debates grew into a
-tumultuous hubbub ; the supporters of both parties
+tumultuous hubbub; the supporters of both parties
 threatened violence and the throne of truth was usurped
-by shouts. When these shouts were about to be trans-
-muted into blows, there appeared in the arena the pair
+by shouts. When these shouts were about to be transmuted into blows, there appeared in the arena the pair
 of lovers who, on the night of the full moon of April,
 were secretly wedded, though such intermarriage was
 against the law. When they stood in the open partition
@@ -371,10 +344,8 @@ How this unexpected and yet ever-to-be-expected event,
 mixed with texts liberally quoted from the proscribed
 love-lyrics, ultimately helped to reconcile the hopeless
 contradiction in logic is a long story. It is well known
-to those who have had the privilege to pursue the sub-
-sequent verdict of the judges that both doctrines are
-held to be undoubtedly true : that one is in iwo^ and there-
-fore two must find itself in one. The acknowledgment of
+to those who have had the privilege to pursue the subsequent verdict of the judges that both doctrines are
+held to be undoubtedly true: that one is in iwo and therefore two must find itself in one. The acknowledgment of
 this principle helped to make the intermarriage valid,
 and since llaen the two Republics have successfully carried
 out their disarmament, having discovered for the first
@@ -382,7 +353,6 @@ time that the gulf between them was imaginary.
 
 Such a simple and happy ending of this drama has
 
-Letters to a Friend
 
 H7
 
@@ -403,8 +373,7 @@ That the above story is a true one will, I am sure, be
 borne out by the testimony of even the august shade of
 Plato himself. This episode of the game of hide-and-seek
 of one in two should be sung by some poet; and therefore
-I request you to give it, with my blessmg, to Satyen-
-dranath Datta,^ that he may set it in those inimitable verse
+I request you to give it, with my blessmg, to Satyendranath Datta, that he may set it in those inimitable verse
 forms of which he is a master, and make it ring with the
 music of his happy laughter.
 
@@ -425,9 +394,7 @@ shore; and my heart aches with longing to see the arms
 J A young poet of Bengal, greatly admired by Rabindranath
 Tagore. He has since, unfortunately, died.
 
-Letters to a Friend
-of my motherland extended into the sei with the palm-
-leaves rustling in the air. It is the land where I gazed
+of my motherland extended into the sei with the palmleaves rustling in the air. It is the land where I gazed
 into the eyes of my first great sweetheart — my muse —
 who made me love the sunlight, touching the top of the
 coconut row through a pale mist of the serene autumn
@@ -452,8 +419,7 @@ For it has been acquiring power from outside my own
 resources, and it is material power.
 
 Santmiketan has been the playground of my own spirit.
-What I created on its soil was made of my own dream-
-stuff, Its materials are few; its regulations are elastic;
+What I created on its soil was made of my own dreamstuff, Its materials are few; its regulations are elastic;
 Its freedom has the inner restraint of beauty. But the
 International University will be stupendous in weight
 and rigid in construction; and if we try to move it, it
@@ -461,14 +427,12 @@ will crack. It will grow up into a bully of a brother, and
 browbeat its sweet elder sister into a cowering state of
 subjection. Beware of organization, my friend! They say
 organization is necessary in order to give a thing its
-permanence, but it may be the permanence of a tomb-
-stone.
+permanence, but it may be the permanence of a tombstone.
 
-Letters to a Friend
 This letter ofVnine will seem to you pessimistic. The
 reason is I am unwell and utterly home-sick; and the
 vision of home which haunts my mind night and day
-is ^‘Amader Santiniketan.^i But the big towers of the
+is ‘Amader Santiniketan.i But the big towers of the
 International University obstruct its view. I am tired,
 to the marrow of my bones, trying all these months for
 a purpose and working in a direction which is against the
@@ -505,7 +469,6 @@ manner of perpetrating jokes we mortal creatures find
 whose refrain is “Amador San tin ike tan,” meaning “Our
 Santiniketan.”
 
-Letters to a Friend
 
 ISO
 
@@ -534,11 +497,11 @@ This is my triumph.
 
 To-day is Tuesday; on the morning of Thursday we
 are expected to reach Plymouth. Your letters have helped
-me^ more than anything else during these extremely
+me more than anything else during these extremely
 trying months of my exile — they have been like food
 and water to a soldier who is dragging his wounded and
 weary limbs, counting every step, across a difficult and
-doubtful road back to his camp-^fire. However, I am
+doubtful road back to his camp-fire. However, I am
 coming to my journey’s end and intensely hoping to
 see you when I reach home. What I have suffered God
 only knows. — I am longing for rest.
@@ -559,9 +522,7 @@ the Continent which follow in this chapter only
 a very slight portion of what actually happened
 is told. Many of his letters to me, at his own
 special request, have not been published; for in
-his self-difEdence he was almost ashamed, after-
-wards, to allow any record of the scenes of en-
-thusiasm that greeted him everywhere to appear
+his self-difEdence he was almost ashamed, afterwards, to allow any record of the scenes of enthusiasm that greeted him everywhere to appear
 in print. Very rarely in history has a poet received
 such a welcome.
 
@@ -574,7 +535,6 @@ of Visva-bharati, which had become somewhat
 vague and nebulous before, now took on a more
 definite concrete shape. At the same time, he
 could not help but feel sadly that the cries of
-Letters to a Friend
 
 non-co-operation, which were Sb strident in
 India, would lead to his rejection by his own
@@ -594,7 +554,7 @@ London, April 10th 1931
 I am glad to be in England again. One of the first men
 whom I happened to meet here was H. W. Nevinson; I
 felt that man’s soul was alive in this country, which had
-produced such a man as that !
+produced such a man as that!
 
 A land should be judged by its best products, and I
 have no hesitation in saying that the best Englishmen
@@ -604,7 +564,7 @@ With all our grievances against the English nation, I
 cannot help loving your country, which has given me
 some of my dearest friends. I am intensely glad of this
 fact, for it is hateful to hate. Just as a general tries, for
-his tactics, to attract a whole army of men into a cul-de-sac ^
+his tactics, to attract a whole army of men into a cul-de-sac 
 in order to demolish them, our feeling of anger generalizes
 the whole people of a country, in order mentally to give
 them a crushing blow on a tremendously big scale.
@@ -614,9 +574,7 @@ political lies that are accompanying them arc stupendous
 and in retaliation our anger seeks a victim adequately
 big; and we readily incriminate the whole people of
 
-Letters to a Friend
-England, though know that a great number of English-
-men feel shame and sorrow for these brutalities quite as
+England, though know that a great number of Englishmen feel shame and sorrow for these brutalities quite as
 keenly as any disinterested outsiders,
 
 The fact that such a great proportion of people here —
@@ -633,9 +591,8 @@ Edmund Burke proves the greatness of Great Britain
 in spite of Warren Hastings; and we are grateful to
 Mahatma Gandhi for giving India the opportunity to
 prove that her faith in the Divine Spirit in man is alive
-still — ^in spite of a great deal of materialism in our
-religions, as they are practised, and a spirit of exclusive-
-ness in our social system.
+still — in spite of a great deal of materialism in our
+religions, as they are practised, and a spirit of exclusiveness in our social system.
 
 The fact is that the best people in all countries find
 their affinity with one another. The fuel displays its
@@ -651,13 +608,11 @@ of a lamp from your own land, and let me in response
 light my own lamp with love for the great humanity
 revealed in your country.
 
-The following letter (a copy of which he en-
-closed) was in answer to a lady who had com-
-Letters to a Friend
+The following letter (a copy of which he enclosed) was in answer to a lady who had comLetters to a Friend
 
 plained that the Poet had appeared to give vent
 to a feeling of anger against the British people in
-one of his lectures : —
+one of his lectures: —
 
 London, April I2t/i, igzi
 
@@ -668,7 +623,7 @@ to learn that you had come to this hotel while I was
 engaged.
 
 It is not unlikely that some unsuspected remnant of
-race-consciousness m your mind made you imagine that
+race-consciousness in your mind made you imagine that
 I gave vent to my feeling of anger against the British
 people in my lecture. I deeply feel for all the races who
 are being insulted and injured by the ruthless exploitation
@@ -697,34 +652,31 @@ beings.
 On the other hand, though I sometimes congratulate
 myself on my own freedom from race-consciousness,
 
-Letters to a Friend
 
 very likely a sufficient amount of it is lingering in my
 subconscious mind, making itself evident to outsiders in
 my writings through special emphasis of indignation
 at any unjust suffering or humiliation that my own country
 is made to undergo. I hope that I can claim forgiveness
-for this wealcness, considering that I never try to con-
-done any wrongs done by my own countrymen against
+for this wealcness, considering that I never try to condone any wrongs done by my own countrymen against
 others belonging to different countries from ours.
 
 Autouk nu MoNor, Paius, April 192X
 
 I have come back to the domain of dust from my
 short aeroplane career in mid-air, when my namesake
-from the high heaven, the Sun^ shed upon me his smile
+from the high heaven, the Sun shed upon me his smile
 of amused tenderness and some vagabond clouds of the
 April sky seemed to wonder in their minds if I were
 about to join their ranks.
 
 Whenever I find time and sit alone before the window,
-I gravely nod my head and say to myself in a sad voice :
-'^Those who have been born foolish can gladden the
-heart of God only when they have the freedom of solitari-
-ness and can. spread their idle wings m the air and flit
+I gravely nod my head and say to myself in a sad voice:
+'Those who have been born foolish can gladden the
+heart of God only when they have the freedom of solitariness and can. spread their idle wings in the air and flit
 and hum for nothing at all. You, poet, are one such
 creature — you have to be alone to fulfil your nature.
-What is all this that you are planning ? Must you guide
+What is all this that you are planning? Must you guide
 the multitude and work with them for the building of an
 Institution?’*
 
@@ -744,23 +696,21 @@ wholly lack. I may have some insight, but no foresight
 at all. Foresight has the power of calculation: insight
 has the power of vision. He may have faith in insight
 to whom it belongs; and therefore he is not afraid of
-making mistakes or even of apparent failures. But fore-
-sight is impatient of all deficiencies. It constantly dwells
+making mistakes or even of apparent failures. But foresight is impatient of all deficiencies. It constantly dwells
 on the possibilities of mistakes, only because it has not
 the vision of the whole. Therefore its plans are mostly
 solid and inflexible.
 
 In the establishment of the International University
 the foresight of the experienced will never forsake me;
-it will go straight to the helm and take charge ; and only
+it will go straight to the helm and take charge; and only
 then the prudent who give money and the wise who give
 advice will be satisfied. But where will remain the place
 for the foolish and the irresponsible?
 
 The whole thing will have to be established on a
 permanent basis; but this so-called permanence is only
-bought at the cost of life and freedom. The cage is per-
-manent, not the nest. And yet all that is truly permanent
+bought at the cost of life and freedom. The cage is permanent, not the nest. And yet all that is truly permanent
 has to pass through an endless series of impermanences.
 The spring flowers are permanent, because they know
 how to die. The temple made of stone cannot malce truce
@@ -777,8 +727,7 @@ I am exaggerating. The reason is, the day is full of gloom.
 It has been snowing and raining; the road is muddy;
 and I am home-sick.
 
-Letters to a Friend
-I am requested^ by some association to read a paper at
+I am requested by some association to read a paper at
 one of their meetings. They asked me for a summary,
 which they will circulate among the members. I enclose
 a copy of it which I have given to them for circulation.
@@ -789,7 +738,7 @@ From the beginning of their history the Western races
 have had to deal with Nature as their antagonist. This fact
 has emphasized in their minds the dualistic aspect of
 truth, the eternal conflict between good and evil. Thus
-it has kept up the spirit of fight in the heart of theii
+it has kept up the spirit of fight in the heart of their
 civilization. They seek victory and cultivate power.
 
 The environment in which the Aryan immigrants
@@ -804,9 +753,8 @@ realization of their souls through union with all.
 The spirit of fight and the spirit of harmony both
 have their importance in the scheme of things. For
 making a musical instrument, the obduracy of materials
-has to be forced to yield to the purpose of the instru-
-ment-maker. But music itself is a revelation of beauty,
-it is not an outcome of fight ; it springs from an inner
+has to be forced to yield to the purpose of the instrument-maker. But music itself is a revelation of beauty,
+it is not an outcome of fight; it springs from an inner
 realization of harmony. The musical instrument and the
 music both have their own importance for humanity.
 
@@ -816,4 +764,3 @@ unity in the depth of existence, are complementary to
 each other. When they join hands, human nature finds
 its balance; and its pursuits, through rugged paths, attain
 their ultimate meaning in im ideal of perfection.
-Letters to a Friend

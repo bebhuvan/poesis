@@ -23,4 +23,3 @@ of society. The cultivation of usefulness produces an
 enormous amount of failure, simply because in our
 avidity we sow seeds too closely.
 
-Letters to a Friend

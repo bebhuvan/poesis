@@ -20,7 +20,7 @@ to another. Between my two hotel incarnations I usually
 have my sleep in a Pullman car, the very name of which
 suggests the agency of death. I am ever dreaming of the
 day when I shall attain my Nirvana, freed from this chain
-of hotel lives, and reach utter peace in Uttarayana.^
+of hotel lives, and reach utter peace in Uttarayana.
 
 I have not written to you for some time. For I am tired
 to the profound depth of my being.
@@ -35,6 +35,5 @@ for the diaught of sunshine poured from the beaker of
 
 * The Poet's cottage at Santiniketon.
 
-Letters to a Friend
 infinite space. The sky has embraced me, and the warmth
 of its caress thrills me with joy.

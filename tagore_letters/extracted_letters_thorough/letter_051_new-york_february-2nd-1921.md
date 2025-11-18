@@ -25,23 +25,21 @@ others.
 Your letters are delightful> because you have your
 interest in details that are generally overlooked. The
 world is made beautiful by the unimportant things.
-They furnish this great world-picture with all its modula-
-tions of shades and tints. The important things are like
+They furnish this great world-picture with all its modulations of shades and tints. The important things are like
 the sunshine. They come from a great source. But the
 unimportant compose the atmosphere of our life. They
-scatter the sun^s rays, break the atmosphere into colours,
-and coax it into tenderness .
+scatter the suns rays, break the atmosphere into colours,
+and coax it into tenderness.
 
 You have asked for my permission to abolish the
 matriculation class from our school. Let it go. I have no
 tenderness for it. In our classical literature it was the
-strict rule to give all dramas a happy ending. Our matri-
-culation class has ever been the fifth act m our Asram,
+strict rule to give all dramas a happy ending. Our matriculation class has ever been the fifth act in our Asram,
 ending in a tragedy. Let us drop the scene, before that
 disaster gathers its forces 1
 
 I am enclosing with this a translation, which runs
-thus : —
+thus: —
 
 WOMAN
 
@@ -52,12 +50,11 @@ Shrill cries of loss trouble the air,
 The gains, soiled and shattered, are a burden too heavj
 to carry home.
 
-Letters to a Friend
 t
 
-Come, woman ^ bring thy breath of life.
+Come, woman bring thy breath of life.
 
-Close all cracks iX^ith kisses of tender green,
+Close all cracks iXith kisses of tender green,
 
 Nurse the trampled dust into fruitfulness.
 
@@ -85,7 +82,7 @@ From the moment of parting.
 Let the shadow of thy sad gaze
 Haunt the road across the hills.
 
-The night deepens ;
+The night deepens;
 
 The house is empty; its loneliness aches with silence.
 Come, woman, bring thy lamp of vigil!
@@ -99,12 +96,11 @@ Till the day dawns in the East.
 New York, February 1:921
 Civilization in the West is a magnifying glass. It makes
 the most ordinal y things hugely big. Its buildings,
-business, amusements, aie exaggei ations . The spiiit of
+business, amusements, are exaggei ations. The spiiit of
 the West loves its high-heeled boots, whose heels are
 much bigger tlian itself
 
 Since I came to this continent my arithmetic has
-Letters to a Friend
 
 become absurdly bloated. It refuses to be compressed
 within decent limits. But I can assure you that to carry
@@ -123,25 +119,23 @@ What makes me feel so sad, in this country, is the fact
 that people here do not know that they are not happy,
 They are proud, like the sandy desert, which is proud of
 its glitter. This Sahara is mightily big; but my mind
-turns its back upon it, and sings : —
+turns its back upon it, and sings: —
 
 I will arise and go now, and go to Innisfree,
 
 And a small cabin build there, of clay and wattles
 made;
 
-Nine bean rows will I have there, a hive for the honey-
-bee,
+Nine bean rows will I have there, a hive for the honeybee,
 
 And live alone in the bee-loud glade.
 
-In the modern age, with all its facilities of communica-
-tion, the access to Innisfree has become most difficult.
+In the modern age, with all its facilities of communication, the access to Innisfree has become most difficult.
 Central Africa opens its secret to the inquisitive man, and
 also the North and South Pole — but the road to Innisfree
 lies in an eternal mystery.
 
-Yet I belong to that “Isle of Innisfree” : its true name
+Yet I belong to that “Isle of Innisfree”: its true name
 is Santiniketan. But when I leave it, and cross over to
 the western shore, I feel occasionally frightened lest I
 should lose my path back to it.
@@ -152,7 +146,6 @@ KabiiHliaiuitli
 
 F){)m ihi ifn point h\ Muknl Doy
 
-Letters to a Friend
 
 I2I
 
@@ -163,7 +156,7 @@ And I shall have some peace there, for peace comes
 dropping slow,
 
 Diopping from the veils of the morning to where the
-cricket sings ;
+cricket sings;
 
 There midnight’s all a glimmer and noon a purple
 glow,
@@ -174,8 +167,7 @@ CHAPTER VII
 
 During the months of February and March 1921
 the Non-co-operation movement reached its height
-in India. The appeal made to boycott the Govern-
-ment Schools and Colleges stirred the hearts
+in India. The appeal made to boycott the Government Schools and Colleges stirred the hearts
 of the students of Calcutta and some thousands
 of them came out. The atmosphere was electrical
 and the spirit of sacrifice was in the very air we
@@ -191,8 +183,7 @@ and he wrote more cheerfully. He was specially
 delighted with his first visit to the Southern
 States, and deeply appreciated the warmth of
 heart he found among every class of people in
-those regions. With this very brief note of explana-
-tion, the letters that follow tell their own story
+those regions. With this very brief note of explanation, the letters that follow tell their own story
 and are easily intelligible.
 
 On the voyage to Europe the Poet wrote, day
@@ -202,6 +193,5 @@ with some amusement gave me the whole series
 from his own letter-case on arrival at Santiniketan.
 This will account for the different letters written
 
-Letters to a Friend
-on board shif^ which are reproduced in this
+on board shif which are reproduced in this
 volume.

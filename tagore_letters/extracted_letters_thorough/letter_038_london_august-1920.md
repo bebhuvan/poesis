@@ -20,7 +20,7 @@ last two days have been very restful for me. I wonder if
 you know that at the last moment we decided not to
 start on our tour to Norway, though our tickets were
 bought. I am sure you are ready to ascribe this to the
-inconstancy of my mind !
+inconstancy of my mind!
 
 P.S. — I have just written this about Dr. Geddes: —
 What so strongly attracted me in Dr. Patrick Geddes

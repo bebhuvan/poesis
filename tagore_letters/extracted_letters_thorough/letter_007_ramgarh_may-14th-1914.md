@@ -16,7 +16,7 @@ Here I feel that*I have come to the place that I needed
 most in all the world. I hated to be disloyal to the plains
 of Bengal, where the earth lies so meek and unobtrusive,
 leaving the sky to the undisputed dominion of all the
-horizons. But happily the poet^s heart is inconstant;
+horizons. But happily the poets heart is inconstant;
 it is easily won; and to-day I am alieady bending my
 knees to Father Himalaya asking pardon for keeping
 aloof for so long in blind distrust.

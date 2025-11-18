@@ -26,6 +26,5 @@ Pearson, is fast asleep within shut doors and behind
 drawn blinds. To-day is our last day in London, and I am
 not sorry to leave it. I wish it were the day for sailing
 
-Letters to a Friend
 home, but that day looks hazily distant and my heart
 aches.

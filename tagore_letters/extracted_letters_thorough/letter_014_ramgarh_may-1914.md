@@ -26,9 +26,8 @@ is supreme. This makes Night, with its phantoms of
 false mystery and exaggeration, slink away in shame when
 Morning appears in her simple robe of white. Hope and
 
-Letters to a Friend
 joy come in her wake all the more tiiumphant, because
-not a single blade ^of grass or thorn is hidden. Morning
+not a single blade of grass or thorn is hidden. Morning
 has dawned upon me at last. My wrestlings with the
 shadows are over. My heart looks out upon the undulating
 field of life, chequered with the fiuitful green and the
@@ -48,8 +47,7 @@ strain had become almost unbearable, owing both
 to the world tragedy of the war itself and the
 suffering of Belgium, which the Poet felt most
 acutely. Pie wrote and published simultaneously
-in India and England three poems which ex-
-pressed the inner conflict going on in his own
+in India and England three poems which expressed the inner conflict going on in his own
 mind. The first of these was called The Boatman,
 and he told me, when he had written it, that the
 woman in the silent courtyard, “who sits in the
@@ -59,17 +57,13 @@ third poem was named The Oarsmen. Its outlook
 is beyond the war; for it reveals the daring
 venture of faith that would be needed by humanity
 if the old world with its dead things were to
-be left behind and the vast uncharted and tem-
-pestuous seas were to be essayed leading to a
+be left behind and the vast uncharted and tempestuous seas were to be essayed leading to a
 world that was new.
 
 A fourth poem, which was not published then,
 but later, was given to me by the Poet towards
 the end of the year 1914. On Christmas Day
-that year he delivered in the Asram a very remark-
-able address to the students and teachers, speak-
-
-Letters to a Friend
+that year he delivered in the Asram a very remarkable address to the students and teachers, speakLetters to a Friend
 ing of Christ, who was called the Prince of Peace,
 and how the name of Christ was being denied in
 Europe.

@@ -18,16 +18,15 @@ My days in this country have not given me much
 pleasure — the simple course would have been for me to
 go straight back home.
 
-Why did I not do so ? No fool can say why lie has been
-foolish. I have often dreamed of the time when my way-
-ward youth took me to the loneliness of the sandbanks
-of the Padma, wandering m the neighbourhood of the
+Why did I not do so? No foof can say why lie has been
+foolish. I have often dreamed of the time when my wayward youth took me to the loneliness of the sandbanks
+of the Padma, wandering in the neighbourhood of the
 wild- ducks under the gaze of the evening star. Certainly,
 that was not the life of the sane, but it fitted me like a
 fooPs cap lined with dreams
 
-The fool who is content to do nothing whatever is
-at any rate free from care , but the one who tries in vain
+The foof who is content to do nothing whatever is
+at any rate free from care, but the one who tries in vain
 to change the face of the world knows no peace. I long
 to go back to my ducks, and yet I madly whirl round
 these manufacturing towns like a breath of the wild

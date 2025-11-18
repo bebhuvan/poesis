@@ -15,7 +15,6 @@ letter_number: 44
 Our vision of truth varies according to its perspective.
 1 feel certain that this perspective has become narrow in
 
-Letters to a Friend
 India owing to the density of mental atmosphere caused
 by political unrest* There are politicians who must make
 hasty decisions and act without delay. It is their function
@@ -24,14 +23,13 @@ blunders with their lumbering “tanks” of political
 organizations. But there are needs that belong to all
 mankind and to all time. Those have to be satisfied
 through the rise and fall of empires. We all know that
-there is a vast difference between journalism and litera-
-ture. Jouinaiism is necessary and there are multitudes of
+there is a vast difference between journalism and literature. Journaiism is necessary and there are multitudes of
 men eager to cairy it out. But if it suppi esses the light
 of literature, then it will produce the London fog of
 November, which substitutes gaslight for the sunlight.
 
 Santiniketan is there for giving expression to the
-Eternal Man - — asato ma sad gamaya^^ the prayer that will
+Eternal Man - — asato ma sad gamaya the prayer that will
 ring clearer as the ages roll on, even when the geographical
 names of all countries are changed and lose their meaning.
 If I give way to the passion of the moment and the claims
@@ -42,8 +40,7 @@ I know that my countrymen will clamour to borrow
 from this capital entrusted to me and exploit it for the
 needs that they believe to be more urgent than anything
 else. But all the same, you must loiow that I have to be
-true to my trust, Santiniketan must treasure in all circum-
-stances that sanii which is in the bosom of the Infinite.
+true to my trust, Santiniketan must treasure in all circumstances that sanii which is in the bosom of the Infinite.
 With begging and scrambling we find very little, but with
 being true to ourselves we find a great deal more than we
 desire. The best reward that I have gained in my life is
@@ -59,8 +56,7 @@ CHAPTER VI
 
 The journey undertaken to America, described in
 the letters contained in this chapter, was directly
-for the purpose of obtaining sympathy and sup-
-port for the Poet’s Visva-bharati ideal. His
+for the purpose of obtaining sympathy and support for the Poet’s Visva-bharati ideal. His
 earlier visits to America in 1913 and 1916 had
 given him the hope that the young heart of the
 New World would respond to him more definitely
@@ -70,27 +66,22 @@ narrow provincial boundaries.
 
 Since the Poet’s conception of Visva-bharati lies
 in the background in all the letters which he wrote
-to me from America, it may be well as an intro-
-duction to this chapter to give his own explanation
+to me from America, it may be well as an introduction to this chapter to give his own explanation
 of his purpose, as he presented it during his
 lecture tours in India before he started for the
 West. The following passages from these lectures
-appear to me to explain the Poet best : —
+appear to me to explain the Poet best: —
 
 The age has come when all artificial fences are breaking
-down. Only that will survive which is basically con-
-sistent with the universal; while that which seeks safety
+down. Only that will survive which is basically consistent with the universal; while that which seeks safety
 in the out-of-the-way hole of the special will perish.
 The nursery of the infant should be secluded, its cradle
 safe. But the same seclusion, if continued after the
 infant has grown up, makes it weak in mind and body.
 
 There was a time when China, Egypt, Greece and Rome
-had, each of them, to nurture its civilization in com-
-parative seclusion. The greatness of the universal, how-
-ever, which was more or less in each, grew strong within
+had, each of them, to nurture its civilization in comparative seclusion. The greatness of the universal, however, which was more or less in each, grew strong within
 
-Letters to a Friend
 its protecting sheath of individuality. Now has come
 the age for co-ordination and co-operation. The seedlings
 that were reared within their enclosures must now be
@@ -121,9 +112,7 @@ shall be able to take our own views of truth from the
 standpoint of our own vantage-ground, thus opening out
 a new vista of thought before a grateful world.
 
-All great countries have their vital centres for intel-
-lectual life, where a high standard of learning is main-
-tained, where the minds of the people ate naturally
+All great countries have their vital centres for intellectual life, where a high standard of learning is maintained, where the minds of the people ate naturally
 attracted to find their genial atmosphere, to prove their
 worth, to contribute their share to the country’s culture,
 and thus to kindle on some common altar of the land a
@@ -132,13 +121,12 @@ sacred light in all directions.
 
 too
 
-Letters to a Friend
 
 Athens was such a centre in Greece, Rome in Italy,
 and Paris is such to-day in France. Benares has been, and
 still continues to be, the centre of our Sanskrit culture.
 But Sanslmt learning does not exliaust all the elements
-of culture that exist in the piesent-day India. , . , That
+of culture that exist in the present-day India.,., That
 is why the innei spirit of India is calling to us to establish
 in this land great centres, where all her intellectual forces
 will gather for the purpose of creation, and all her
@@ -159,16 +147,13 @@ temperament altogether. And yet this alien movement
 of idea, constantly running against the natural mental
 current of Europe, has been the most important factor in
 strengthening and enriching her civilization on account
-of the very antagonism of its direction. In fact, the Euro-
-pean vernaculars first woke up to life and fruitful vigour
+of the very antagonism of its direction. In fact, the European vernaculars first woke up to life and fruitful vigour
 owing to the impact of this foreign thought-power with
 all its Oriental forms and feelings. The same thing is
 happening in India. European culture has come to us, not
 only with its knowledge, but with its velocity. Though our
-assimilation of it is imperfect and the consequent aberra-
-tions numerous, still it is rousing our intellectual life
-from its inertia of former habits into growing conscious-
-ness by the very contradiction it offers to our mental
+assimilation of it is imperfect and the consequent aberrations numerous, still it is rousing our intellectual life
+from its inertia of former habits into growing consciousness by the very contradiction it offers to our mental
 traditions.
 
 Letters to a Frwid

@@ -16,12 +16,10 @@ Every day I have been wishing to write you a letter —
 but the fiesh is weak. My days have become solid like
 cannon-balls, heavy with engagements. It is not true that
 I have no leisure at all, but unfortunately I cannot
-utilize interrupted leisure for any work whatever. There-
-fore those intervals are lost doing nothing.
+utilize interrupted leisure for any work whatever. Therefore those intervals are lost doing nothing.
 
 I am sure you know it, better than anybody else, that
 doing nothing is a burden hard to bear. But if you look
-Letters to a Friend
 
 at my exterior, you will find no trace of damage there —
 for my health is absurdly good.
@@ -35,8 +33,8 @@ dreams are felicitous. For instance, last night he dreamt
 that he had been buying strawberries as large as gourds.
 It proves the magnificent vitality of his dreams.
 
-I Imow our school vacation is over. The boys are back
-at school and the Asram is resounding with laughter and
+I Imow our schoof vacation is over. The boys are back
+at schoof and the Asram is resounding with laughter and
 song. The advent of the rains is also contributing its
 portion to the general rejoicing. How I wish I had wings!
 Give my love to all the children, and my blessings.

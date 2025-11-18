@@ -13,7 +13,7 @@ letter_number: 10
 **Ramgarh, May 21st, 1914**
 
 I am smuggling on my way through the wilderness.
-The light from across the summit is clear ; but the shadows
+The light from across the summit is clear; but the shadows
 are slanting and deep on the slope of the dark valley.
 My feet are bleeding, and I am toiling with panting
 breath. Wearied, I lie down upon the dust and cry and
@@ -37,4 +37,3 @@ pure love until all our debts are cleared and nothing
 binds us to the dead past. But I know my Mother is
 with me and before me.
 
-Letters to a Friend

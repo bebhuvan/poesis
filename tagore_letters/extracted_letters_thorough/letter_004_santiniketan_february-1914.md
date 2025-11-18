@@ -19,7 +19,7 @@ I send you my love and the translation of a song of
 mine written about two months ago. We are waiting
 for you, knowing that you are coming to us with your
 heart filled with the wisdom of death and the tender
-strength of sorrow.^ You know our best love was with
+strength of sorrow. You know our best love was with
 you, while you were fighting our cause in South Africa
 along with Mr. Gandhi and others.
 
@@ -28,7 +28,6 @@ not yet been able to settle down to my work and to my
 
 * Referring to the death of my mother, which took place while
 I was in South Africa.
-Letters to a Friend
 
 rest. Interruptions come almost daily to me in various
 forms. At last I have made up my mind to be rude, and

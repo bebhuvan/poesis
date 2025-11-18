@@ -20,7 +20,7 @@ his life in the world of ideas, where he is emancipated
 from the gravitational pull of the dust and he realizes
 that he is spirit. We, in India, live in a narrow cage of
 petty interests; we do not believe that we have wings,
-for we have lost our sky ; we chatter and hop and peck at
+for we have lost our sky; we chatter and hop and peck at
 one another within the small range of our obstructed
 opportunities. It is difficult to achieve greatness of mind
 and character where our responsibility is diminutive and
@@ -41,10 +41,8 @@ Santiniketan is for this tapasya of India. We who have
 come there often forget the greatness of our mission,
 mostly because of the obscurity and insignificance with
 which the humanity of India seems to be obliterated.
-We have not the proper light and perspective in our sur-
-roundings to be able to realize that our soul is great;
+We have not the proper light and perspective in our surroundings to be able to realize that our soul is great;
 
-Letters to a Friend
 
 and therefore we behave as if we were doomed to be small
 for all time. '

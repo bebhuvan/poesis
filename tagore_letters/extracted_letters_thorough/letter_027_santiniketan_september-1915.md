@@ -17,14 +17,13 @@ letter_number: 27
 The golden bell of the autumn sun tolls silently and
 the period for migration has come. You and Pearson are
 the first of our brood who have left their nest for the
-passage across the seas; and I can hardly control my
+passage across the seas; and I can hardly controf my
 wings. Things round us have their weight, and they
 gradually sink into our soul witlrout our knowing it, till
 one day we are oppressed with a burden whose nature
 we hardly know. Movement is the only cure when life
 becomes heavy with debris.
 
-Letters to a Friend
 My heart at this moment is like a leaky boat, full of
 water, that can just keep itself afloat, but the least buiclen
 of responsibility becomes too much for it. I must go to
@@ -64,12 +63,11 @@ with its vista of world brotherhood, the hint
 went abroad that such “pacifist” teaching was a
 danger in war-time, and that the Indian Poet
 represented a defeated nation. Therefore, almost
-as rapidly as the enthusiasm had arisen, it sub-
-sided. In the end, he was almost isolated, and
+as rapidly as the enthusiasm had arisen, it subsided. In the end, he was almost isolated, and
 the object for which he had come to the Far
 East remained unfulfilled. It was at this time
 that he wrote his poem called The Song of the
-Defeated, which begins : —
+Defeated, which begins: —
 
 My Master bids me, while I stand at the wayside,
 to sing the song of defeat.
@@ -94,8 +92,7 @@ formed in war-time, were considerably modified.
 Pie found then in Japan, as also in China, those
 who were eager to appreciate his universal message.
 
-The Poet went from Japan to America, accom-
-panied by W. W. Pearson and Mukul Dey, while
+The Poet went from Japan to America, accompanied by W. W. Pearson and Mukul Dey, while
 I returned to the Asram. His stay in America
 was crowded with engagements. He made new
 friends and received great kindness at their hands.
@@ -104,7 +101,6 @@ felt that it had been a success. But he fell ill
 there, and after a short time came back home
 by way of the Pacific, only staying between
 steamers in Japan and China.
-Letters to a Friend
 
 Shortly after his arrival at the Asram it became
 necessary for me to go out agaiil to Fiji, in order
@@ -132,7 +128,7 @@ Srinagar, Kashmir. October 12th, 1915
 I am technically in Kashmir, but still have not entered
 its gate, I am passing through the purgatory of public
 receptions and friendly solicitations; but Paradise is in
-sight. Now I feel I am coming nearer myself ; the intruder
+sight. Now I feel I am coming nearer myself; the intruder
 in me, who always fusses about arranging and dusting
 his absurd store of knicknacks, is, I hope, shut out at
 least for a few weeks. It is becoming easier for me to
@@ -143,13 +139,13 @@ of men of all ages.
 When I sit in the morning outside on the deck of
 my boat, before tfie majestic purple of the mountains,
 crowned with the morning light, I know that I am eternal,
-that I am ananda-rupam.^ My true form is not that of
+that I am ananda-rupam. My true form is not that of
 fldsh or blood, but of joy. In the world where we habitually
 live, the self is so predominant that everything in it is
 of our own making and we starve because we have to
 feed upon ourselves. To know truth is to become true;
 there is no other way. When we live the life of self, it is
-not possible foi us to realize truth
+not possible for us to realize truth
 
 *‘Come out, come away.’* This is the urgent cry we
 have in our soul — the cry in the blood of the chick,
@@ -176,9 +172,8 @@ is the Sivam, the true goodness, which is the activity
 of the soul when self is subdued; and then the Advaitam,
 the love, the oneness with all and with God.
 
-^ Literally “ Joy-Form.’* This is a part of a famous^Sansknt
+ Literally “ Joy-Form.’* This is a part of a famousSansknt
 text.
-Letters to a Friend
 
 Of course this division is merely logical; these stages,
 like rays of light, may be simultaneous or divided

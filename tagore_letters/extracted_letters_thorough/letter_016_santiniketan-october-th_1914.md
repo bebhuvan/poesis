@@ -13,8 +13,7 @@ letter_number: 16
 **Santiniketan, October th, 1914**
 
 My period of darkness is over once again. It has been
-a time of very great trial to me, and I believe it was abso-
-lutely necessary for my emancipation. I know that I am
+a time of very great trial to me, and I believe it was absolutely necessary for my emancipation. I know that I am
 being lifted from the sphere where I was before; and
 it is the loneliness of the new situation and the cry of
 the old life that is still troubling me. But I have glimpses

@@ -15,12 +15,11 @@ letter_number: 19
 Critics and detectives are naturally suspicious. They
 scent allegories and bombs where there are no such
 
-Letters to a Friend
 abominations. It is difficult to convince them of our
 innocence.
 
 With regard to the criticism of my play, The King of
-the Daik Chamber^ that you mention in your letter, the
+the Daik Chamber that you mention in your letter, the
 human soul has its inner drama, which is just the same
 as anything else that concerns Man, and Sudarshana is
 not more an abstraction than Lady Macbeth, who might

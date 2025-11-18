@@ -14,12 +14,11 @@ letter_number: 64
 
 In Darmstadt they have a gathering of people from
 all parts of Germany to meet me, We have our meeting
-m the Grand Duke of Ilest^e's garden, where my audience
-will bring before me their questions. I give them mono-
-logues in answer, and Count Keyserling translates them
+m the Grand Duke of Ileste's garden, where my audience
+will bring before me their questions. I give them monologues in answer, and Count Keyserling translates them
 into German for those who cannot follow rny English.
 
-Yesterday I reached this place, and m the afternoon
+Yesterday I reached this place, and in the afternoon
 we had our first meeting. The first question put to me by a Canadian German
 was: “What is the future of this scientific civilization?”
 
@@ -33,8 +32,7 @@ These three subjects took up fully three hours. It is
 delightful to feel the earnestness of these people. They
 have the habit of mind to think out the deeper problems
 of life; they deal seriously with ideas. In India, in our
-modern schools, we merely receive our ideas from text-
-bpoks, for the purpose of passing examinations. Besides
+modern schools, we merely receive our ideas from textbpoks, for the purpose of passing examinations. Besides
 that, our modern schoolmasters are Englishmen; and
 they, of all the Western nations, are the least susceptible
 to ideas. They are good, honest and reliable, but they
@@ -56,12 +54,10 @@ has increased inordinately national habits of vulgar
 vainglory.
 
 s.s. **Morea,” July igai
-Land has its claims upon one, in return for its hos-
-pitality, but sea has none; it repudiates humanity with
+Land has its claims upon one, in return for its hospitality, but sea has none; it repudiates humanity with
 a magnificent indifference; its water is solely occupied
 in an eternal dialogue with the sky — the two inseparable
 
-Letters to a Friend
 companions wHq retain their irresponsible infancy as
 on the first day of their creation.
 
@@ -69,9 +65,9 @@ Land imposes on us our mission of usefulness, and we
 have to be occupied with lectures and text-books; and
 our guardians have the right to rebuke us when we waste
 good paper in making literary paper-boats. But the sea
-has no inspiration of moral obligation for us ; it offers no
-foundation for a settled life ; its waves raise their signals
-and have only one word of command: ^Tass on,’’
+has no inspiration of moral obligation for us; it offers no
+foundation for a settled life; its waves raise their signals
+and have only one word of command: Tass on,’’
 
 I have observed, on board a steamer, how men and
 women easily give way to their instinct of flirtation,
@@ -88,7 +84,7 @@ more than a lyrical poet. But since I have taken my shelter
 at Santiniketan I have developed all the symptoms of
 growing into a schoolmaster, and there is grave danger of
 my ending my career as a veritable prophet! Already
-everybody has begun asking me for “Messages” ; and the
+everybody has begun asking me for “Messages”; and the
 day may come when I shall be afraid to disappoint them.
 For when prophets do appear unexpectedly to fulfil their
 mission, they are stoned to death; and when those whom
@@ -99,15 +95,12 @@ have their compensation; for they fulfil their purpose,
 tragic end is utter wastefulness; it satisfies neither man
 nor Gods.
 
-Who is there to save a poet from disaster? Can any-
-body give me back my good-for-nothingness? Can any-
-
-Letters to a Friend
+Who is there to save a poet from disaster? Can anybody give me back my good-for-nothingness? Can anyLetters to a Friend
 one restore to me the provision with wl\ich I began life’s
 journey to the realm of inutility? One day I shall have
-to fight my way out of my own reputation ; for the call
+to fight my way out of my own reputation; for the call
 of my Padma river still comes to me through this huge
-and growing barrier. It says to me ; “Poet, where are you ?”
+and growing barrier. It says to me; “Poet, where are you?”
 And all my heart and soul try to seek out that poet. It
 has become difficult to find him. For the great multitude
 of men have heaped honours on him, and he cannot be
@@ -128,8 +121,7 @@ must have in it a large measure of unreality. It cannot help
 exaggerating itself simply because of the cumulative
 effect of emotion upon the crowd-mind. It is like a sound
 in a hall, which is echoed back from innumerable corners.
-An immense amount of it is only contagion — it is irra-
-tional, and every member of the crowd has the freedom
+An immense amount of it is only contagion — it is irrational, and every member of the crowd has the freedom
 to draw upon his own imagination for building up his
 opinion. Their idea of me cannot be the rCw. me. I am
 sorry for it and for myself. It makes me feel a longing
@@ -143,10 +135,9 @@ who are worthy of reverence from me?
 
 And yet I know for certain that there is not a single
 
-Letters to a Friend
-individual in th^ir midst who is a poet as I am. But
+individual in thir midst who is a poet as I am. But
 reverence of this kind is not for a poet. The poet is for
-conducting ceremonial in the festival of life ; and for his
+conducting ceremonial in the festival of life; and for his
 reward he is to have his open invitation to all feasts
 wherever he is appreciated. If he is successful, he is
 appointed to the perpetual comradeship of Man — not
@@ -184,7 +175,6 @@ emotional element, and therefore it can sing as well as
 
 M
 
-Letters to a Friend
 speak. It is like a cloud that can break op t in a shower of
 rain, or merely tinge itself in colours and offer decorations
 to the festival of the sky. For this reason I give rise to
@@ -201,7 +191,7 @@ consequent detachment of mind which is necessary for
 creative life is lost or broken when the poet has to choose
 a constructive programme. The work of construction
 requires continuous employment of attention and energy —
-it cannot afford to grant leave to the poet to retire and
+it cannot afford to grant leave to the poet to rethe and
 come to himself.
 
 This creates conflict within my nature and very often
@@ -213,7 +203,7 @@ me is the fact that, in a work of organization, I have to
 deal with and make use of men who have more faith in
 the material part than in the creative ideal.
 
-My work is not for the success of the work itself, but ,
+My work is not for the success of the work itself, but,
 for the realization of the ideal. But those in whose minds
 the reality of the ideal is not clear, and love for the ideal
 is not strong, try to find their compensation in the success
@@ -222,14 +212,13 @@ compromise,
 
 I know that the idea which I have in mind requires the
 elimination of all passions that have their place in the
-narrow range of life ; but most people believe that these
+narrow range of life; but most people believe that these
 passions are the steam-power which gives velocity to
 our motives. They quote precedents; they say that pure
 idea has never achieved any result. But when you say
 
-Letters to a Friend
 that the result is not greater than the idea itself, then
-they laugh at you !
+they laugh at you!
 
 During the last fourteen months of my campaign for
 an International University, I have said to myself over
@@ -245,17 +234,13 @@ s.s. 192J
 I must not exaggerate. Let me admit that the realization
 of ideals has its external part, which depends for its
 development upon materials, And materials — both human
-and non-human — offer resistance to success, and there-
-fore must not be lightly spoken of.
+and non-human — offer resistance to success, and therefore must not be lightly spoken of.
 
-But what I had m my mind was this, that the mastery
+But what I had in my mind was this, that the mastery
 of grammar and the creation of literature may not coincide.
-Emphasis upon grammar may hinder perfectness of ex-
-pression, Success in materials may go contrary to the
+Emphasis upon grammar may hinder perfectness of expression, Success in materials may go contrary to the
 fulfilment of ideals. For material success has its temptation.
-Often our idealism is exploited for the sake of obtaining
-, success — we have seen that in the lale war. In conse-
-quence, the battle has been won, but the ideal has not
+Often our idealism is exploited for the sake of obtaining, success — we have seen that in the lale war. In consequence, the battle has been won, but the ideal has not
 been reached.
 
 Ever since the scheme of the International University
@@ -270,7 +255,7 @@ imagination and faith, and therefore it is always tn danger
 
 i8o Letters to a Friend
 
-of being missed, even vv^hen it is near £t hand; whereas
+of being missed, even vvhen it is near £t hand; whereas
 external success is obvious.
 
 You remember how Chitra, in my play of that name,
@@ -297,10 +282,10 @@ s.s. ‘*Morea,’* gthy igzi
 All true ideals claim our best, and it cannot be said
 with regard to them that we can be content with the half,
 when the whole is threatened. Ideals are not like money.
-They are a living reality. Their wholeness is indivisible.^
+They are a living reality. Their wholeness is indivisible.
 A beggar woman may be satisfied with an eight-anna bit
 when sixteen annas are denied her; but a half-poition
-of her child she will never consent to accept !
+of her child she will never consent to accept!
 
 I Icnow that there is a call for me to work towards the
 true union of East and West. I have unconsciously been
@@ -311,7 +296,6 @@ had been of real help to my Western readers. The accident
 which made me tianslate Gitanjali and the sudden and
 unaccountable longing which took me over to Europe
 
-Letters to a Friend
 
 i8i
 
@@ -339,8 +323,7 @@ which is degrading. It brings to us gifts for which we
 can claim no credit whatever, except, perhaps, persistency
 of expectation and unbaffled employment of importunity.
 
-Self-sacrifice on the part of the gainer, and not solely
-.on the part of the giver, imparts true value to the gift.
+Self-sacrifice on the part of the gainer, and not solely.on the part of the giver, imparts true value to the gift.
 When our claims are feeble, and our method of realizing
 them is altogether unheroic, then the very boons granted
 to us make us poorer. That is why the Moderates in
@@ -354,12 +337,9 @@ nor care to claim it from us. But never let me look at that
 condition as an absolute one. There are screens between
 us which have to be removed— possibly they are due to
 
-Letters to a Friend
-the too great inequality of circumstances and oppor-
-tunities between the two parties. Let us, by every means
+the too great inequality of circumstances and opportunities between the two parties. Let us, by every means
 in our power, struggle against our antipathies — all the
-while taking care to keep wide open channels of communi-
-cation through which individuals, from both sides, may
+while taking care to keep wide open channels of communication through which individuals, from both sides, may
 have facilities to meet in the spirit of good-fellowship.
 
 I cannot tell you how thankful I feel to you, who have
@@ -377,8 +357,7 @@ have been able fully to realize the great truth of the
 mission we have undertaken. To the majority of my
 countrymen the course of experience through which I
 passed will ever remain vague; and my appeal to them
-to view the history of our own country in the large back-
-ground of humanity is not likely to carry any force. For
+to view the history of our own country in the large background of humanity is not likely to carry any force. For
 my work I shall ever depend upon your comradeship,
 and therefore I feel sad that the reality of the ideal
 which has possessed me has missed its one signal chance
@@ -393,7 +372,6 @@ But I must not complain. I shall follow the call of my
 providence, and I know that to respond to it in my own
 manner is fulfilment in itself, whatever may be its results.
 
-Letters to a Friend
 
 s.s. “Morea/* July izih, 1921
 
@@ -409,7 +387,7 @@ would be valuable.
 Through different modes of political co-operation and
 non-co-operation India has assumed up to the present
 an attitude of asking boons from others. I have been
-dreaming of some foim of co-operation through which
+dreaming of some form of co-operation through which
 she would be in a position to offer her own gifts to the
 world. In the West the mind of man is in full activity.
 It is vigorously thinking and working towards the solution
@@ -419,8 +397,7 @@ in our Indian Universities we simply have the results
 of this energy, not the living velocity itself. So our mind
 is burdened and not quickened by our education. This
 has made me realize that we do not want schoolmasters
-from the West, but fellow- workers in the pursuit of truth.
-, My own aspiration for my country is that the mind of
+from the West, but fellow- workers in the pursuit of truth., My own aspiration for my country is that the mind of
 India should join its forces to the great movement of mind
 which is in the present-day world. Every success that we
 may attain in this effort will at once lead us directly to
@@ -429,17 +406,15 @@ acknowledges this unity or not, it is the same to us. We
 have to realize it through our own creative mind.
 
 The moment that we take part in the building up of
-civilization we aie instantly released from our own self-
-seclusion — from our mental solitary cell. We have not
+civilization we are instantly released from our own selfseclusion — from our mental solitary cell. We have not
 yet gamed full confidence that we have the powet to
-join hands with the great builders — the great workers of the world. Either oiir boastfulness bi^eaks its voice in
+join hands with the great builders — the great workers of the world. Either oiir boastfulness bieaks its voice in
 unnatural shucking or our self-denunciation makes an
-abnormal display of itself in an aggiessive fluttei of
+abnormal display of itself in an aggiessive flutter of
 humility.
 
-But I am certain that wc have every claim to this confi-
-dence, and that we must do everything to realize it. We
-do not want bragging ; we need for ourselves the dignity
+But I am certain that wc have every claim to this confidence, and that we must do everything to realize it. We
+do not want bragging; we need for ourselves the dignity
 of the man who knows that he has some purpose to
 fulfil for all people and for all time. This has made me
 bold to invite students and scholars from different parts
@@ -448,17 +423,17 @@ students and scholars in a spirit of collaboration. I wonder
 if this idea of mine will find any response in the hearts
 of my countrymen of the present day.
 
-s, 3 . 13^/1, igai
+s, 3. 13/1, igai
 
-In our music, each ragini^ has its special scale in which
+In our music, each ragini has its special scale in which
 some notes are absent and some ax'e added, and the
 sequence of them is different in different raginis. The idea
-of India in my mind has its different raginis^ presenting
+of India in my mind has its different raginis presenting
 different aspects.
 
 During my absence in the West my idea of India had
 its own special grouping of notes, and consequently the
-vision had its own special emotional value. When, in my^
+vision had its own special emotional value. When, in my
 travels, I was communicating with you, I had not the
 least notion that your India and mine were vastly different
 at that moment, I came to be aware of this fact when, at
@@ -468,11 +443,10 @@ fourteen months, that I should have to make another
 attempt between my aspiration and my country.
 
 But misgivings come to my mind as to whether any
-proper adjustment will be possible . I hate constant conflicts
+proper adjustment will be possible. I hate constant conflicts
 
 * Mode or tune.
 
-Letters to a Friend
 
 and bickerings'*— always to be shouting at the top of my
 voice in order to make myself heard above the shouts of
@@ -537,26 +511,25 @@ with all its beauty and truth, has alighted upon my mind.
 
 I alone am responsible for carrying out its commands.
 
-It has its own wings of freedom to bear it to its own goal ;
-and its call is music, and not an injunction, Theie is no
+It has its own wings of freedom to bear it to its own goal;
+and its call is music, and not an injunction, There is no
 failure for truth — failure is only for me — and what does
-that matter ?
+that matter?
 
 Henceforth I shall have the chance of talking with you
-face to face. Yet distance has its own significance, and .
+face to face. Yet distance has its own significance, and.
 letters have their power of speech which tongues do not
 possess. And therefore, when we meet, some part of our
 thoughts will remain unuttered for the want of a great
 space and silence between us.
 
-s.s. “MoREA,’*y«ty 192^1
+s.s. “MoREA,’*y«ty 1921
 Before I finish this last letter to you, my friend, let
 me thank you with all my heart for your unfailing
 generosity in sending me letters all through my absence
 from India. They have been to me like a constant supply
 of food and water to a caravan travelling through a desert.
 
-Letters to a Friend
 I was sorely in need of them during the dreary months
 I spent in the United States. I promised to myself that I
 should try to pay you back in kind. I think I have kept
@@ -570,7 +543,7 @@ depended upon Pearson to supply you with news, and
 therefore I am busy now in making up for the deficits.
 But about one thing I can never hope to compete with
 you. As a letter-wiiter you are incomparable! Mine ai;e
-no more letters than lobsters aie fish They are like
+no more letters than lobsters are fish They are like
 fragments of a book; like meteors that are shot off a
 planet. They are shot at you, and with a flash most of
 them vanish into ashes; whereas yours come down like
@@ -589,7 +562,7 @@ has grown amazingly exuberant. Good-bye.
 APPENDIX I
 
 The following letter was sent to the Editor of
-the Manchester Guardian^ Mr. C. P. Scott, by
+the Manchester Guardian Mr. C. P. Scott, by
 Rabindranath Tagore, with reference to his
 friend W. W. Pearson, and was published on
 November 27, 1923: —
@@ -604,15 +577,13 @@ one whose love of humanity was so concretely real,
 whose ideal of service so assimilated to his personaiitj,
 as it had been with him. The gift of friendliness, which
 he was ever ready to bestow upon the obscure, upon those
-who had nothing to attract the attention of their neigh-
-bours, was spontaneous in its generosity, completely
+who had nothing to attract the attention of their neighbours, was spontaneous in its generosity, completely
 free from all tinge of conscious or unconscious egotism,
 enjoying the luxury of the satisfied pride of goodness.
 The constant help which he rendered to those who
 were in need of it could have no reward in public
 recognition; it was as simple and silent as the daily
-fulfilling of his own personal requirements. His patriot-
-ism was for the world of man; he intimately suffered
+fulfilling of his own personal requirements. His patriotism was for the world of man; he intimately suffered
 for all injustice or cruelty inflicted upon any people in
 any part of the earth, and in his chivalrous attempt to
 befriend them he bravely courted punishment from his
@@ -620,8 +591,7 @@ own countrymen. He had accepted Santiniketan Asram
 for his home, where he felt he could realize his desire
 to serve the cause of humanity and express his love for
 
-Letters to a Friend
-India/ which was deeply genuine in hi^ nature, all his
+India/ which was deeply genuine in hi nature, all his
 aspirations of life centring in her.
 
 I know he has numerous friends in this country and

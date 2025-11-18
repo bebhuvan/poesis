@@ -17,7 +17,7 @@ the silent green of our Asram, and I am glad that we have
 had our talk together before you left. I know from my
 own experience that our Asram will give you the peaceful
 detachment of mind needed so much for bringing oneself
-face to face with one^s own inner being and the deeper
+face to face with ones own inner being and the deeper
 reality of the world.
 
 You must have recognized by this time that I have
@@ -25,15 +25,12 @@ something elusive in me, which eludes myself not less
 than others. Because of this element in my nature, I have
 to keep my environments free and open, fully to make
 room in my life for the Undreamt-of who is expected
-every moment. Believe me, I have a strong human sym-
-pathy, yet I can never enter into such relations with
+every moment. Believe me, I have a strong human sympathy, yet I can never enter into such relations with
 others as may impede the current of my life, which flows
 
-Letters to a Friend
 
 through the darkness of solitude beyond my ken I can
-love, but I have not that which is termed by phrenolo-
-gists “adhesiveness”; or to be more accurate, I have a
+love, but I have not that which is termed by phrenologists “adhesiveness”; or to be more accurate, I have a
 force acting in me, jealous of all attachments, a force that
 ever tries to win me for itself, for its own hidden purpose.
 
@@ -48,8 +45,7 @@ is not a mere abstract moral ideal, but a Person. I must
 be true to it, even at the cost of what men call happiness,
 at the risk of being misunderstood, forsaken and hated.
 I am sociable by nature, and would intensely like to
-enjoy the company of friends, the pleasures and advan-
-tages of friendship. But I am not free to give myself
+enjoy the company of friends, the pleasures and advantages of friendship. But I am not free to give myself
 away, even when it seems necessary and good; and the
 somewhat wide expanse of time and space that I always
 try to keep in reserve about me is not mine to use as I
@@ -62,28 +58,26 @@ and scent, not when shut up in eager palms to be squeezed,
 but when left alone in the immense freedom of light and
 air. But, very unfortunately,
 
-The World is too much with us ; late and soon
+The World is too much with us; late and soon
 
-Getting and spending, we lay waste our powers ;
+Getting and spending, we lay waste our powers;
 
-Little we see in Nature that is ours ;
+Little we see in Nature that is ours;
 
 We have given our hearts away, a sordid boon*
 
 My love is bare and reticent. It was gaudily covered
-in its youthful flowering season ; bulging with gifts in its
-Letters to a Friend
+in its youthful flowering season; bulging with gifts in its
 
-fruitful maturity ; but now that its seed-time has come, it
+fruitful maturity; but now that its seed-time has come, it
 has burst its shell and is abroad in the air; it has thrown
 away all the extra burden of allurements, carrying in its
 minute covering the density of its life. So when you come
-and shake the bough for it, it will not answer ; for it is not
+and shake the bough for it, it will not answer; for it is not
 there. But if you can believe in its silence, and accept
 it in silence, you will not be disappointed.
 
-The following is the translation of the Ben-
-gali poem given to me by the Poet at Christmas,
+The following is the translation of the Bengali poem given to me by the Poet at Christmas,
 1914:—
 
 JUDGEMENT
@@ -91,14 +85,14 @@ JUDGEMENT
 When, mad in their mirth, they raised dust to soil thy robe,
 O Beautiful, it made my heart sick.
 
-I cried to thee and said : “Take thy rod of punishment and
+I cried to thee and said: “Take thy rod of punishment and
 judge them.”
 
 The morning light struck upon those eyes, red with the
 revel of the night; the place of the white lily greeted
 their burning breath; the stars through the depth
 of the sacred dark stared at their carousing — at those
-that raised dust to soil thy robe, 0 Beautiful !
+that raised dust to soil thy robe, 0 Beautiful!
 
 Thy judgement-seat was in the flower garden; in the
 birds’ notes in springtime; in the shady river banks,
@@ -111,22 +105,20 @@ They prowled in the dark to snatch thy ornaments to deck
 their own desires.
 
 When they had struck thee and thou wert pained, it
-pierced me to the quick, and I cried to thee and said :
+pierced me to the quick, and I cried to thee and said:
 “Take thy sword, 0 my Lover, and judge them!”
 
 Ah, but thy justice was vigilant.
 
-Letters to a Friend
 
 S3
 
-A mother’s tears were shed on their insolence; the im-
-perishable faith of a lover hid their speais of rebellion
+A mother’s tears were shed on their insolence; the imperishable faith of a lover hid their speais of rebellion
 in its own wounds.
 
-Thy judgement was in the mute pain of sleepless love ;
-' in the blush of the chaste ; in the tears of the night of
-the desolate ; in the pale morning light of forgiveness.
+Thy judgement was in the mute pain of sleepless love;
+' in the blush of the chaste; in the tears of the night of
+the desolate; in the pale morning light of forgiveness.
 
 0 Terrible, they in their reckless greed climbed thy gate
 
@@ -155,16 +147,15 @@ reaction. It makes me feel far more anxious about you
 than your bad health.
 
 Calcutta January 29th, 1915
-I don’t like to frighten you with news of my ill-
-health, but it must be given to justify my absence from
+I don’t like to frighten you with news of my illhealth, but it must be given to justify my absence from
 the Asram. I feel that I am on the brink of a breakdown.
 Therefore I must take flight to the solitude of the Padma.
 
 1 need rest and the nursing of Nature.
 
-If you ever have a relapse of youi illness, do not despair.
+If you ever have a relapse of your illness, do not despair.
 Tiy not to fret, or to strain, but to give yourself up to
-Letters to a Friend ,
+Letters to a Friend,
 
 sleep. We must not force ourselves to be too conscious,
 even of God — our spirit cannot bear it. Depression

@@ -23,20 +23,17 @@ our ideal of perfection in our work, it matters very little
 what its dimensions are. Our trust in bigness very often
 betrays our want of faith in truth. The kingdom of the
 earth boasts of the magnitude of its possessions, but the
-Kingdom of Heaven is content with the depth of its self-
-reakzation. There are certain institutions which have for
+Kingdom of Heaven is content with the depth of its selfreakzation. There are certain institutions which have for
 their object some external success. But Santiniketan is
 there for giving us opportunity to realize ourselves in
 
-Letters to a Friend
 
 truth. This can never be done through big funds, but
 through dedication of our life in love.
 
 In this country I live in the dungeon of the Castle of
 Bigness. My heart is starved. Day and night I dream of
-Santiniketan, which blossoms like a flower in the atmo-
-sphere of the unbounded freedom of simplicity. I loiow
+Santiniketan, which blossoms like a flower in the atmosphere of the unbounded freedom of simplicity. I loiow
 how truly great Santiniketan is, when I view it from this
 land. Here I feel every day what a terrible nightmare it
 is for the human soul to bear this burden of the monster
@@ -62,7 +59,7 @@ every day more and more intense, to get away from the
 dark tower of unreality, from this dance of death trampling
 sweet flowers of life under its tread.
 
-New York, December ith^ ig^o
+New York, December ith igo
 
 When all my thoughts were furiously revolving, like dead
 leaves, in a whirlwind of desire for raising funds, a
@@ -82,7 +79,7 @@ I had become famished in the wilderness of solitude for
 lack of sympathy and comradeship, when you brought
 your cup of love to me, which is the true life-giving food
 freely offered by life. And as the poet Morris says,
-^‘Love is enough.” That voice of love calls me away from
+‘Love is enough.” That voice of love calls me away from
 the lure of dollars — the voice that comes to nestle in my
 heart from across the sea, from the shady avenue of sal
 trees resonant with laughter and songs of simple joy.
@@ -96,24 +93,20 @@ is in greatness.” Ambition points out bigness and calls it
 greatness, and our track is hopelessly lost. When I look at
 the picture of Buddha, I cry for the great peace of inner
 fulfilment. My longing grows painfully intense as my
-mind becomes distracted at the stupendous unmeaning-
-ness of monstrosity in things around me. Every morning
+mind becomes distracted at the stupendous unmeaningness of monstrosity in things around me. Every morning
 I sit by my window and say to myself: *T must not bow
-my head to this ugly idol worshipped by the West with
+my head to this ugly idof worshipped by the West with
 daily human sacrifice.” I remember that morning at
 Shileida when the Yaishnava woman came to me and
-said: ”When are you coming down from your three-
-storied building to meet your love under the shade of the
+said: ”When are you coming down from your threestoried building to meet your love under the shade of the
 trees?”
 
 Just now, I am on the top storey of the skyscraper to
 which the tallest of trees dare not send its whisper; but
 love silently comes to me saying; “When are you coming
 
-Letters to a Friend
 down to meet me on the green grass under the rustling
 leaves, where you have the freedom of the sky and of
 sunlight and the tender touch of life’s simplicity?” I try
 to say something about money, but it sounds so ludicrous
-and yet so tragic, that my words grow ashamed of them-
-selves and they stop.
+and yet so tragic, that my words grow ashamed of themselves and they stop.

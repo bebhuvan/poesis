@@ -12,25 +12,22 @@ letter_number: 61
 
 **Stockholm, May 25th 1921**
 
-I have been following the track of spring from Switzer-
-land to Denmark) and from Denmai'k to Sweden, watching
+I have been following the track of spring from Switzerland to Denmark) and from Denmai'k to Sweden, watching
 everywhere flowers breaking out in a frenzy of colours.
 And it seems to me like the earth’s shouting of victory,
 
-Letters to a Friend
-and flinging up^^its coloured cap to the sky. My path in
+and flinging upits coloured cap to the sky. My path in
 the West also has had the same exuberant outburst of
 welcome.
 
-At first I felt the impulse to describe it to you m detail ;
+At first I felt the impulse to describe it to you in detail;
 for I was sure it would give you great delight. But now
 I shrink from doing it. For somehow it does not cause
 exultation in my own mind, but makes me sad. It would
 be absurd for me to claim what has been offered to me
 as fully mine. The fact is, there is a rising tide of hcait
 in the West rushing towards the shores of the East,
-following some mysteiioiis law of attraction. The un-
-bounded pride of the Euiopcan peoples has suddenly
+following some mysteiioiis law of attraction. The unbounded pride of the Euiopcan peoples has suddenly
 found a check, and their mind appears to he receding
 from the channel it had cut for itself.
 
@@ -41,24 +38,23 @@ the East. Europe is like a child who has been hurt in the
 midst of her game. She is shunning the croAvd and
 looking out for her mother. And has not the East been
 the mother of spiritual humanity, giving it life from its
-own life ?
+own life?
 
 How pitiful it is that we, in India, are unaware of this
 claim for succour from Europe which has come to our
 door; that we fail to realize the gieat honour of the call
-to serve humanity in her hour of need !
+to serve humanity in her hour of need!
 
 Bewildered at heart by the great demonstrations made
 in my honour in these countries, I have often tried to
 find out the real cause. I have been told that it was because
-I loved humanity. I hope that this is true ; and all through
+I loved humanity. I hope that this is true; and all through
 my wiitmgs, my love of man has found its utterance and
 touched human hearts across all barrieis. U it he true,
 then let that truest note in my wutings guide my own life
-hencefoith!
+henceforth!
 
 The other day, when I was resting alone in my loom
-Letters to a Friend
 
 in the hotel at Hamburg, timidly there entered two shy
 and sweet German girls, with a bunch of roses for their
@@ -82,7 +78,7 @@ God and not herself. Only that country will have the claim
 to be loved by men of all countries.
 
 When we hear “Bande Mataram” from the housetops,
-we shout to our neighbours : “You are not our brothers.”
+we shout to our neighbours: “You are not our brothers.”
 But that is not true. Therefore, because it is untrue, it
 pollutes the air, and darkens the sky. Whatever may be
 its use for the present, it is like the house being set on
@@ -101,4 +97,3 @@ on or about the 15th of June, and then through
 France and Spain we shall be able to take our ship at the
 beginning of July — if not earlier.
 
-Letters to a Friend

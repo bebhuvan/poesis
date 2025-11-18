@@ -60,8 +60,7 @@ were continually about these problems. They
 remained deep in the subconscious mind of the
 Poet all through this year. At the same time, the
 
-Letters to a Friend
-whole burden of the school work at Santiniketan
+whole burden of the schoof work at Santiniketan
 fell upon his shoulders and he threw himself into
 every detail of it with his own characteristic
 energy and determination.
@@ -84,7 +83,7 @@ growing in his own mind to enlarge the bounds
 of his Asram at Santiniketan, which his father,
 the Maharshi, had founded as a home of religion.
 He looked more and more to the time when
-his Asram would pass beyond the school stage
+his Asram would pass beyond the schoof stage
 and become a centre of world fellowship, wherein
 students and teachers from the East and West
 should be equally honoured and welcomed.
@@ -94,7 +93,6 @@ during the year 1915; therefore it became clear
 to him that a visit to the Far East, in order to win
 the friendship and co-operation of the leading
 
-Letters to a Friend
 thinkers of China and Japan, would be necessary
 if the cycle of his work at Santiniketan was to be
 completed. He had very nearly made up his mind
@@ -115,8 +113,7 @@ than other people. The immoral and servile
 conditions of indentured Indian labour had to be
 thoroughly exposed. For this reason, after the
 tour to the Far East had been abandoned, we
-received the Poet’s cordial consent, when we pro-
-posed to go out together to Fiji and carry through
+received the Poet’s cordial consent, when we proposed to go out together to Fiji and carry through
 an independent inquiry into the indenture system
 of Indian labour in that colony. He felt very
 keenly indeed that this new journey of ours
@@ -126,21 +123,19 @@ us his blessing on our departure. Two texts from
 the Upanishad were his own gift to me when
 we bade him farewell.
 
-They may be translated as follows ; —
+They may be translated as follows; —
 
-Letters to a Friend
 From Joy all things have their origin; in Joy they
 subsist, and unto J»y they return.
 
 I meditate upon His glory, who creates the earth, the
 sky and the stars, and sends into our minds the power
-of 'comprehension ,
+of 'comprehension,
 
 The inspiration which Rabindranath Tagore
-thus gave to us, by his encouragement and sym-
-pathy, carried us through what proved to be the
+thus gave to us, by his encouragement and sympathy, carried us through what proved to be the
 most difficult journey we had ever undertaken. In
-the end, the inquiry we made veiy nearly effected
+the end, the inquiry we made very nearly effected
 its object; and the pledge was given that the whole
 indenture system of Indian labour would be
 abolished at the earliest possible moment.
@@ -169,13 +164,12 @@ Possibly my life is on the eve of another bursting of
 
 6o
 
-Letters to a Friend
 
-its pods and scatteiing of its seeds ; there is that continual
+its pods and scatteiing of its seeds; there is that continual
 urgency in my blood, the purpose Orf which is hidden.
 The conclusion is being forced upon me that poets should
 never bind themselves to any particular work; for they
-are the instruments of the world^s moods. And after the
+are the instruments of the worlds moods. And after the
 years of building up all kinds of benevolent schemes,
 my life is emerging once again upon the open heath of
 iriesponsibility, where the sun rises and sets, where there

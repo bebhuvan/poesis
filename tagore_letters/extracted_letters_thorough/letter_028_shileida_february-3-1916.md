@@ -39,17 +39,16 @@ others who never can, and if you must know the
 cause, it is as much in you as in them, and in all
 things around.
 
-Letters to a Friend
 Some doors are closed against your knocks, while your
 doors are not &pen always and to all comei'S.
 
-Such has been and shall be for evermore ; and yet if you
+Such has been and shall be for evermore; and yet if you
 must have peace, my heart, take truth simply.
 
 There is no need to be abusive if your boat founders by
 the shore, though it sailed through the storm.
 
-Keep yourself afloat by all means ; but if it is impossible
+Keep yourself afloat by all means; but if it is impossible
 to do so, then be good enough to sink without noise.
 
 It is a commonplace fact that things may or may not
@@ -71,24 +70,22 @@ You may miss this and that and the other thmg, but if
 you must have peace, my heart, take truth simply.
 
 Must you stand with your back to the rising sun and
-watch your shadow lengthened before you ?
+watch your shadow lengthened before you?
 
 Must you take pleasure in finding fault with your
-destmy and thus tease your soul to death ?
+destmy and thus tease your soul to death?
 
 Then for mercy sake be quick and have done with it;
 for if, with the evening stars, you must light your
 lamp, my heart, take truth simply.
 
-Shileida, February 2th^ 1916
-Where are you? Seven fathoms deep in your report-
-writing? When ate you going to float up into the sun and
+Shileida, February 2th 1916
+Where are you? Seven fathoms deep in your reportwriting? When ate you going to float up into the sun and
 
 sail on, dancing with all surface-drifts of existence?
-Letters to a Friend
 
 I have my work here, but it is play as well. It does not
-savour of office and officials; it has it^ humour and some
+savour of office and officials; it has it humour and some
 amount of pathos. It is almost like painting a picture,
 Pearson has succeeded in getting ill and joining me on
 my trip.

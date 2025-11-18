@@ -19,8 +19,7 @@ it would be wrong on my part if I refused to accept any
 invitation sent in the right spirit. Pride of patriotisjftv—
 is not for me. I earnestly hope that I shall find my home
 anywhere in the world, before I leave it. We have to
-fight against wrongs, and suffer for the cause of righteous-
-ness; but we should have no petty jealousies or quarrels
+fight against wrongs, and suffer for the cause of righteousness; but we should have no petty jealousies or quarrels
 with our neighbours merely because we have different
 names.
 
@@ -47,7 +46,7 @@ All, then it glistens in the light and sings in the joy of
 freedom.
 
 RabindraiiaLh Tagoie
-Fjtnn ihr li^v point by Miihil Dey
+Fjtnn ihr liv point by Miihil Dey
 
 CHAPTER V
 
@@ -55,8 +54,7 @@ The letters that now remain to be quoted form
 an almost uninterrupted series, though I have
 continued to divide them into chapters. They
 were written by the Poet during a long tour, in
-Europe and America, in which he was accom-
-panied by his friend W. W. Pearson.
+Europe and America, in which he was accompanied by his friend W. W. Pearson.
 
 Out of the misery and darkness of the Great
 War, Rabindranath Tagore had been led, step by
@@ -76,14 +74,12 @@ he wandered up and down India, seeking to find
 a seed-ground in which his thoughts concerning
 human progress might take root in the soil and
 afterwards bear fruit. I was able to watch in these
-tours this one central purpose that I have men-
-tioned taking concrete shape. Pie pictured to
+tours this one central purpose that I have mentioned taking concrete shape. Pie pictured to
 himself Santiniketan opening its doors to the
 whole world, and inviting those who were lovers
 of peace and good will, in East and West alike, to
 
 F
-Letters to a Friend
 
 come together there, on equal terms, without
 distinction of caste or race or creed.
@@ -116,11 +112,10 @@ Peaceful, in the heart of all conflicts; the Good,
 who is revealed through all losses and sufferings;
 the One, in all diversities of creation. And in His
 name was this eternal truth declared in Ancient
-India : —
+India: —
 
 He alone sees truly who sees all beings as himself.”
 
-Letters to a Friend
 
 For the fulfilment of his central purpose it was
 necessary for hiirf to go once more to Europe and
@@ -132,8 +127,7 @@ Punjab which for a time threw everything else
 into the background. Riots had occurred and
 jeprisals had been taken. At the critical moment
 when the news came about Amritsar I happened
-to be with him in Calcutta, and it will be impos-
-sible for me ever to forget the torture of his mind.
+to be with him in Calcutta, and it will be impossible for me ever to forget the torture of his mind.
 Night after night was passed sleeplessly. At last
 some relief came to him by renunciation of his
 knighthood as a protest against what had been
@@ -154,13 +148,12 @@ They hated and killed, and men praised them,
 
 But God in shame hastened to hide its memory under
 the green grass.
-Letters to a Friend
 
 I have mentioned these facts because they
 belong essentially to the period* covered by the
 letters which follow. They reveal the inner spirit
 of the Poet as at last, after long absence, he
-approached Europe in the year igao. With a great
+approached Europe in the year 1920. With a great
 effort he had recovered his serenity of mind. His
 faith in the generous spirit of the West had
 passed through its ordeal of fire. Deep down in
