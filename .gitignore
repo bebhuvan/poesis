@@ -15,6 +15,9 @@ poems/
 logs/
 *.log
 
+# Archive.org cache (can be re-downloaded)
+archive_cache/
+
 # IDE
 .vscode/
 .idea/
