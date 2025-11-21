@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "source": "Famous Letters of Mahatma Gandhi",
+    "compiler": "R. L. KHIPPLE, M.A.",
+    "publisher": "THE INDIAN PRINTING WORKS",
+    "publication_year": 1947,
+    "publication_place": "Lahore",
+    "extraction_date": "2025-11-21T03:57:54.456482",
+    "total_letters": 21,
+    "ocr_corrections_applied": true
+  },
+  "table_of_contents": [
+    {
+      "number": 4,
+      "title": "Ultimatum  to  Lord  Chelmsford 5.  To  Every  Englishman  living  in  India.  First letter.  ...  96",
+      "page": 20
+    },
+    {
+      "number": 7,
+      "title": "To  the  Youngmen  of  Bengal 8.  To  His  Royal  Highness,  the  Duke  of  Con- naught ...  44",
+      "page": 39
+    },
+    {
+      "number": 9,
+      "title": "Ultimatum  to  Lord  Reading",
+      "page": 50
+    },
+    {
+      "number": 10,
+      "title": "Letters  to  Lord  Irwin.  First  letter 11.  „ „ „ Second  letter  ...  -68",
+      "page": 56
+    }
+  ],
+  "letters": [
+    {
+      "id": 1,
+      "title": "LETTER  TO  LORD  CHELMSFORD.",
+      "recipient": "TO LORD CHELMSFORD",
+      "date": null,
+      "letter_type": "letter",
+      "subject": null,
+      "filename": "letter_001_to_lord_chelmsford.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 1505,
+      "character_count": 8626
+    },
+    {
+      "id": 2,
+      "title": "ULTIMATUM  TO  LORD  CHELMSFORD.",
+      "recipient": "TO LORD CHELMSFORD",
+      "date": null,
+      "letter_type": "ultimatum",
+      "subject": null,
+      "filename": "letter_002_to_lord_chelmsford.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 1235,
+      "character_count": 7287
+    },
+    {
+      "id": 3,
+      "title": "TO  EVERY  ENGLISHMAN  LIVING  IN  INDIA,",
+      "recipient": "EVERY ENGLISHMAN LIVING IN INDIA,",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_003_every_englishman_living_in_india.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 1307,
+      "character_count": 7603
+    },
+    {
+      "id": 4,
+      "title": "TO  EVERY  ENGLISHMAN  LIVING  IN  INDIA.",
+      "recipient": "EVERY ENGLISHMAN LIVING IN INDIA",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_004_every_englishman_living_in_india.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 1192,
+      "character_count": 6771
+    },
+    {
+      "id": 5,
+      "title": "TO  THE  YOUNGMEN  OF  BENGAL.",
+      "recipient": "THE YOUNGMEN OF BENGAL",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_005_the_youngmen_of_bengal.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 914,
+      "character_count": 5341
+    },
+    {
+      "id": 6,
+      "title": "TO  HIS  ROYAL  HIGHNESS,",
+      "recipient": "HIS ROYAL HIGHNESS,",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_006_his_royal_highness.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 407,
+      "character_count": 2322
+    },
+    {
+      "id": 7,
+      "title": "To  His  Royal  Highness  the  Duke  of  Connctught.  47",
+      "recipient": "His Royal Highness the Duke of Connctught",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_007_his_royal_highness_the_duke_of_connctught.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 462,
+      "character_count": 2701
+    },
+    {
+      "id": 8,
+      "title": "To  His  Royal  Highness,  Duke  of  Connaught.  49",
+      "recipient": "His Royal Highness, Duke of Connaught",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_008_his_royal_highness_duke_of_connaught.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 106,
+      "character_count": 627
+    },
+    {
+      "id": 9,
+      "title": "ULTIMATUM  TO  LORD  READING",
+      "recipient": "TO LORD READING",
+      "date": null,
+      "letter_type": "ultimatum",
+      "subject": null,
+      "filename": "letter_009_to_lord_reading.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 1233,
+      "character_count": 7627
+    },
+    {
+      "id": 10,
+      "title": "LETTERS  TO  LORD  IRWIN.",
+      "recipient": "LORD IRWIN",
+      "date": "year 1922",
+      "letter_type": "letter",
+      "subject": null,
+      "filename": "letter_010_lord_irwin.md",
+      "quality_issues": [],
+      "word_count": 4091,
+      "character_count": 24067
+    },
+    {
+      "id": 11,
+      "title": "TO  THE  INMATES  OF",
+      "recipient": "THE INMATES OF",
+      "date": "year 1930",
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_011_the_inmates_of.md",
+      "quality_issues": [],
+      "word_count": 2839,
+      "character_count": 16585
+    },
+    {
+      "id": 12,
+      "title": "TO  THE  NATION.",
+      "recipient": "THE NATION",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_012_the_nation.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 1153,
+      "character_count": 6833
+    },
+    {
+      "id": 13,
+      "title": "To  Sir  Samuel  Hoare",
+      "recipient": "Sir Samuel Hoare",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_013_sir_samuel_hoare.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 831,
+      "character_count": 4852
+    },
+    {
+      "id": 14,
+      "title": "TO  RAMSAY  MACDONALD.",
+      "recipient": "RAMSAY MACDONALD",
+      "date": "13th November 1931",
+      "letter_type": "communication",
+      "subject": "Gandhijfs letter dated August i8, 1932 from \nYeru/ada Jail addressed to the then Prime Minister of \nEngland Mr. Ramsay MacDonald",
+      "filename": "letter_014_ramsay_macdonald.md",
+      "quality_issues": [],
+      "word_count": 603,
+      "character_count": 3374
+    },
+    {
+      "id": 15,
+      "title": "TO  Mr.  M.  A.  JINNAH.",
+      "recipient": "Mr",
+      "date": "year 1938",
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_015_mr.md",
+      "quality_issues": [],
+      "word_count": 536,
+      "character_count": 2900
+    },
+    {
+      "id": 16,
+      "title": "TO  GENERALISSIMO  CHIANG  KAI  SHECK.",
+      "recipient": "GENERALISSIMO CHIANG KAI SHECK",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_016_generalissimo_chiang_kai_sheck.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 579,
+      "character_count": 3373
+    },
+    {
+      "id": 17,
+      "title": "To  Marshal  Chiang  Kai  Sheck.",
+      "recipient": "Marshal Chiang Kai Sheck",
+      "date": null,
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_017_marshal_chiang_kai_sheck.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 803,
+      "character_count": 4579
+    },
+    {
+      "id": 18,
+      "title": "TO  THE  PEOPLE  OF  AMERICA.",
+      "recipient": "THE PEOPLE OF AMERICA",
+      "date": "August 3, 1942",
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_018_the_people_of_america.md",
+      "quality_issues": [],
+      "word_count": 499,
+      "character_count": 2910
+    },
+    {
+      "id": 19,
+      "title": "LETTERS  WRITTEN  BY  GANDHIJI  TO  THE",
+      "recipient": "THE",
+      "date": null,
+      "letter_type": "letter",
+      "subject": null,
+      "filename": "letter_019_the.md",
+      "quality_issues": [
+        "No date found"
+      ],
+      "word_count": 2786,
+      "character_count": 16512
+    },
+    {
+      "id": 20,
+      "title": "TO  LORD  LINLITHGOW.",
+      "recipient": "LORD LINLITHGOW",
+      "date": "September 23, 1942",
+      "letter_type": "communication",
+      "subject": null,
+      "filename": "letter_020_lord_linlithgow.md",
+      "quality_issues": [],
+      "word_count": 1522,
+      "character_count": 8587
+    },
+    {
+      "id": 21,
+      "title": "TO  LORD  LINLITHGOW.",
+      "recipient": "LORD LINLITHGOW",
+      "date": "March 5, 1931",
+      "letter_type": "communication",
+      "subject": "LAST LETTER",
+      "filename": "letter_021_lord_linlithgow.md",
+      "quality_issues": [],
+      "word_count": 1233,
+      "character_count": 7212
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+================================================================================
+GANDHI LETTERS OCR ANALYSIS REPORT
+================================================================================
+
+## BASIC STATISTICS
+Total lines: 4478
+Total characters: 183852
+Total words: 27656
+
+## COMPLETENESS ANALYSIS
+Letters in Table of Contents: 0
+Letters found in document: 0
+
+### Table of Contents Entries:
+
+### Letters Found in Document:
+
+## OCR ERRORS DETECTED
+Total potential errors: 360
+
+  special_chars: 335 occurrences
+  mixed_case: 22 occurrences
+  digit_in_word: 2 occurrences
+  broken_words: 1 occurrences
+
+### Sample OCR Errors (first 20):
+  Line 0: [special_chars] '■'
+    Context: ■ ■■■EI1E7  letters  of  IVHabatma.
+  Line 0: [special_chars] '■'
+    Context: ■ ■■■EI1E7  letters  of  IVHabatma.
+  Line 0: [special_chars] '■'
+    Context: ■ ■■■EI1E7  letters  of  IVHabatma.
+  Line 0: [special_chars] '■'
+    Context: ■ ■■■EI1E7  letters  of  IVHabatma.
+  Line 0: [digit_in_word] 'EI1E'
+    Context: ■ ■■■EI1E7  letters  of  IVHabatma.
+  Line 4: [special_chars] '>'
+    Context: deserve  to  lt>e  carefixlly
+  Line 4: [broken_words] 'lt>e'
+    Context: deserve  to  lt>e  carefixlly
+  Line 12: [special_chars] '^'
+    Context: ^British  GS-overnment  in  India-
+  Line 13: [special_chars] '‘'
+    Context: 14‘ow  that  India  stands  on.
+  Line 33: [special_chars] '’'
+    Context: .Camp’^  , .
+  Line 33: [special_chars] '^'
+    Context: .Camp’^  , .
+  Line 40: [special_chars] '>'
+    Context: Accn>  No-^
+  Line 40: [special_chars] '^'
+    Context: Accn>  No-^
+  Line 53: [special_chars] '&'
+    Context: COMPIIED  & i Dll  ED
+  Line 63: [digit_in_word] 'KAC3HERI'
+    Context: KAC3HERI  ROAD  LAHORE
+  Line 66: [special_chars] '&'
+    Context: Price  R&  3/8/>
+  Line 66: [special_chars] '>'
+    Context: Price  R&  3/8/>
+  Line 75: [mixed_case] 'iO'
+    Context: PtiiOtd  and  Pttiliskad  hy  Mr.  Karmn  Das  Kumar  at  iht  Indian  Printing 
+  Line 76: [mixed_case] 'rS'
+    Context: Kachcrt  Poadf  Z.akorS"...^l\t  Edition^
+  Line 76: [special_chars] '^'
+    Context: Kachcrt  Poadf  Z.akorS"...^l\t  Edition^
+
+## OCR CORRECTIONS TO BE APPLIED
+Total known corrections: 42
+
+  'IVHabatma' → 'Mahatma'
+  'IVIahatma' → 'Mahatma'
+  'Grandlii' → 'Gandhi'
+  'Grandhiji' → 'Gandhiji'
+  'G-andhiji' → 'Gandhiji'
+  'G-andhijt' → 'Gandhiji'
+  'Sesidea' → 'Besides'
+  'Bi(^;raphical' → 'Biographical'
+  'docuixiezits' → 'documents'
+  'lt>e' → 'be'
+  'KHIPPLB' → 'KHIPPLE'
+  'KACZHERI' → 'KACHERI'
+  'KACZHBRI' → 'KACHERI'
+  'COMPIIED' → 'COMPILED'
+  'Dll ED' → 'EDITED'
+  'COPYBIGBTS' → 'COPYRIGHTS'
+  'PtiiOtd' → 'Printed'
+  'Pttiliskad' → 'Published'
+  'Z.akorS' → 'Lahore'
+  'Wmiu' → 'Works'
+  'Poadf' → 'Road'
+  'Karmn' → 'Karman'
+  'tha ' → 'the '
+  'I'o ' → 'To '
+  'Voungmen' → 'Youngmen'
+  'En^ishman' → 'Englishman'
+  'Linlithow' → 'Linlithgow'
+  'Chemlsford' → 'Chelmsford'
+  ' R& ' → ' Rs '
+  'Aathor' → 'Author'

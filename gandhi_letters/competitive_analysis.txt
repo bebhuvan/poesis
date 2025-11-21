@@ -1,0 +1,136 @@
+================================================================================
+COMPETITIVE OCR ANALYSIS REPORT
+Multi-Strategy Comparison for Gandhi Letters
+================================================================================
+
+## LOADED STRATEGIES
+
+**DjVu Text**
+  - Text length: 183,852 characters
+  - Has confidence scores: No
+  - Average confidence: N/A
+
+**ABBYY FineReader**
+  - Text length: 157,204 characters
+  - Has confidence scores: Yes
+  - Average confidence: 72.0%
+
+**hOCR Text**
+  - Text length: 181,539 characters
+  - Has confidence scores: No
+  - Average confidence: N/A
+
+## LOW CONFIDENCE REGIONS (ABBYY)
+
+Found 772 low-confidence regions (< 30% confidence)
+
+### Sample Low Confidence Regions (first 20):
+  Position 0-4: "■ ■■■"
+    Min confidence: 0%, Avg: 0.0%
+  Position 6-9: "I1E7"
+    Min confidence: 0%, Avg: 18.5%
+  Position 22-25: "IVHa"
+    Min confidence: 0%, Avg: 12.2%
+  Position 27-29: "atm"
+    Min confidence: 0%, Avg: 13.3%
+  Position 83-85: "and"
+    Min confidence: 0%, Avg: 0.0%
+  Position 260-263: "s
+wh"
+    Min confidence: 4%, Avg: 17.3%
+  Position 266-269: "h IV"
+    Min confidence: 24%, Avg: 24.3%
+  Position 348-350: "14‘"
+    Min confidence: 0%, Avg: 16.3%
+  Position 454-458: "n the"
+    Min confidence: 0%, Avg: 19.0%
+  Position 616-618: "nts"
+    Min confidence: 0%, Avg: 16.3%
+  Position 694-696: "rar"
+    Min confidence: 0%, Avg: 0.0%
+  Position 763-765: "p’^"
+    Min confidence: 0%, Avg: 0.0%
+  Position 867-869: "IED"
+    Min confidence: 0%, Avg: 17.3%
+  Position 873-877: "i Dll"
+    Min confidence: 24%, Avg: 25.0%
+  Position 914-919: "HED BY"
+    Min confidence: 0%, Avg: 16.2%
+  Position 1039-1045: "d and P"
+    Min confidence: 1%, Avg: 19.6%
+  Position 1071-1075: "s Kum"
+    Min confidence: 10%, Avg: 19.5%
+  Position 1105-1109: "u
+Kac"
+    Min confidence: 0%, Avg: 10.2%
+  Position 1125-1127: "orS"
+    Min confidence: 24%, Avg: 25.7%
+  Position 1142-1147: "on^
+
+f"
+    Min confidence: 0%, Avg: 12.8%
+
+## LINE-BY-LINE COMPARISON: DjVu Text vs ABBYY FineReader
+
+Differences found in first 200 lines: 162
+
+### Sample Differences (first 15):
+  Line 0 (Similarity: 94.12%):
+    DjVu Text: ■ ■■■EI1E7  letters  of  IVHabatma. 
+    ABBYY FineReader: ■ ■■■EI1E7 letters of IVHabatma.
+
+  Line 2 (Similarity: 94.34%):
+    DjVu Text: Grandlii  are  invaltiatole 
+    ABBYY FineReader: Grandlii are invaltiatole
+
+  Line 3 (Similarity: 94.55%):
+    DjVu Text: political  docuixiezits  and 
+    ABBYY FineReader: political docuixiezits and
+
+  Line 4 (Similarity: 92.86%):
+    DjVu Text: deserve  to  lt>e  carefixlly 
+    ABBYY FineReader: deserve to lt>e carefixlly
+
+  Line 5 (Similarity: 90.62%):
+    DjVu Text: studied  an  index  to  the  solu- 
+    ABBYY FineReader: studied an index to the solu-
+
+  Line 6 (Similarity: 95.24%):
+    DjVu Text: tion of  intricate  socio-econo- 
+    ABBYY FineReader: tion of intricate socio-econo-
+
+  Line 7 (Similarity: 93.33%):
+    DjVu Text: mic problems  that  face  India 
+    ABBYY FineReader: mic problems that face India
+
+  Line 8 (Similarity: 92.86%):
+    DjVu Text: to-day-  This  hook  embodies 
+    ABBYY FineReader: to-day- This hook embodies
+
+  Line 9 (Similarity: 93.75%):
+    DjVu Text: some  very  significant  epistles 
+    ABBYY FineReader: some very significant epistles
+
+  Line 10 (Similarity: 94.74%):
+    DjVu Text: which  IVEahatmaji  addressed 
+    ABBYY FineReader: which IVEahatmaji addressed
+
+  Line 11 (Similarity: 92.59%):
+    DjVu Text: to  representatives  of  tha 
+    ABBYY FineReader: to representatives of tha
+
+  Line 12 (Similarity: 93.94%):
+    DjVu Text: ^British  GS-overnment  in  India- 
+    ABBYY FineReader: ^British GS-overnment in India-
+
+  Line 13 (Similarity: 91.53%):
+    DjVu Text: 14‘ow  that  India  stands  on. 
+    ABBYY FineReader: 14‘ow that India stands on.
+
+  Line 14 (Similarity: 91.53%):
+    DjVu Text: the  threshold  of  the  Temple 
+    ABBYY FineReader: the threshold of the Temple
+
+  Line 15 (Similarity: 91.53%):
+    DjVu Text: of  Freedom,  this  book  gives 
+    ABBYY FineReader: of Freedom, this book gives

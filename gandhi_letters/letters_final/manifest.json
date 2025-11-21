@@ -1,0 +1,236 @@
+{
+  "collection": "Famous Letters of Mahatma Gandhi",
+  "source": {
+    "title": "Famous Letters of Mahatma Gandhi",
+    "compiler": "R. L. Khipple, M.A.",
+    "publisher": "The Indian Printing Works",
+    "location": "Lahore",
+    "year": 1947
+  },
+  "extraction": {
+    "date": "2025-11-21T04:12:28.471235",
+    "method": "Comprehensive multi-source OCR with AI corrections",
+    "sources": [
+      "ABBYY FineReader (best_combined.txt) - 72% avg confidence",
+      "DjVu Text (ocr_text.txt) - comparison source",
+      "Competitive analysis - 772 low-confidence regions identified"
+    ],
+    "corrections_applied": 73
+  },
+  "statistics": {
+    "total_letters": 19,
+    "total_characters": 147387,
+    "avg_letter_length": 7757
+  },
+  "letters": [
+    {
+      "id": 1,
+      "title": "Letter to Lord Chelmsford",
+      "recipient": "Lord Chelmsford",
+      "type": "letter",
+      "date": null,
+      "location": "Delhi",
+      "filename": "01_letter_to_lord_chelmsford.md",
+      "length": 8388,
+      "has_context": true
+    },
+    {
+      "id": 2,
+      "title": "Ultimatum to Lord Chelmsford",
+      "recipient": "Lord Chelmsford",
+      "type": "ultimatum",
+      "date": null,
+      "location": null,
+      "filename": "02_ultimatum_to_lord_chelmsford.md",
+      "length": 6954,
+      "has_context": true
+    },
+    {
+      "id": 3,
+      "title": "To Every Englishman in India (First)",
+      "recipient": "Every Englishman in India",
+      "type": "letter",
+      "date": "1920",
+      "location": null,
+      "filename": "03_to_every_englishman_in_india_first.md",
+      "length": 7483,
+      "has_context": true
+    },
+    {
+      "id": 4,
+      "title": "To Every Englishman in India (Second)",
+      "recipient": "Every Englishman in India",
+      "type": "letter",
+      "date": null,
+      "location": null,
+      "filename": "04_to_every_englishman_in_india_second.md",
+      "length": 6670,
+      "has_context": false
+    },
+    {
+      "id": 5,
+      "title": "To the Youngmen of Bengal",
+      "recipient": "The Youngmen of Bengal",
+      "type": "letter",
+      "date": "1920",
+      "location": null,
+      "filename": "05_to_the_youngmen_of_bengal.md",
+      "length": 5244,
+      "has_context": false
+    },
+    {
+      "id": 6,
+      "title": "To the Duke of Connaught",
+      "recipient": "Duke of Connaught",
+      "type": "letter",
+      "date": "1921",
+      "location": null,
+      "filename": "06_to_the_duke_of_connaught.md",
+      "length": 5560,
+      "has_context": false
+    },
+    {
+      "id": 7,
+      "title": "Ultimatum to Lord Reading",
+      "recipient": "Lord Reading",
+      "type": "ultimatum",
+      "date": null,
+      "location": "Delhi",
+      "filename": "07_ultimatum_to_lord_reading.md",
+      "length": 7194,
+      "has_context": false
+    },
+    {
+      "id": 8,
+      "title": "Letters to Lord Irwin",
+      "recipient": "Lord Irwin",
+      "type": "letter_series",
+      "date": "1922",
+      "location": null,
+      "filename": "08_letters_to_lord_irwin.md",
+      "length": 23728,
+      "has_context": true
+    },
+    {
+      "id": 9,
+      "title": "To the Inmates of Sabarmati Ashram",
+      "recipient": "Inmates of Sabarmati Ashram",
+      "type": "letter_series",
+      "date": "1930",
+      "location": null,
+      "filename": "09_to_the_inmates_of_sabarmati_ashram.md",
+      "length": 16414,
+      "has_context": true
+    },
+    {
+      "id": 10,
+      "title": "To the Nation",
+      "recipient": "The Nation",
+      "type": "letter",
+      "date": "1932",
+      "location": null,
+      "filename": "10_to_the_nation.md",
+      "length": 3953,
+      "has_context": false
+    },
+    {
+      "id": 11,
+      "title": "To Sir Samuel Hoare",
+      "recipient": "Sir Samuel Hoare",
+      "type": "letter",
+      "date": "1932",
+      "location": null,
+      "filename": "11_to_sir_samuel_hoare.md",
+      "length": 7533,
+      "has_context": true
+    },
+    {
+      "id": 12,
+      "title": "To Ramsay MacDonald",
+      "recipient": "Ramsay MacDonald",
+      "type": "letter",
+      "date": "1932",
+      "location": null,
+      "filename": "12_to_ramsay_macdonald.md",
+      "length": 3020,
+      "has_context": true
+    },
+    {
+      "id": 13,
+      "title": "To M. A. Jinnah",
+      "recipient": "M. A. Jinnah",
+      "type": "letter",
+      "date": "1938",
+      "location": null,
+      "filename": "13_to_m_a_jinnah.md",
+      "length": 2881,
+      "has_context": false
+    },
+    {
+      "id": 14,
+      "title": "To Generalissimo Chiang Kai-Shek",
+      "recipient": "Generalissimo Chiang Kai-Shek",
+      "type": "letter",
+      "date": "1942",
+      "location": null,
+      "filename": "14_to_generalissimo_chiang_kai_shek.md",
+      "length": 7855,
+      "has_context": true
+    },
+    {
+      "id": 15,
+      "title": "To the People of America",
+      "recipient": "The People of America",
+      "type": "letter",
+      "date": "August 3, 1942",
+      "location": null,
+      "filename": "15_to_the_people_of_america.md",
+      "length": 15834,
+      "has_context": true
+    },
+    {
+      "id": 16,
+      "title": "To Lord Linlithgow (Personal)",
+      "recipient": "Lord Linlithgow",
+      "type": "letter",
+      "date": null,
+      "location": null,
+      "filename": "16_to_lord_linlithgow_personal.md",
+      "length": 3229,
+      "has_context": false
+    },
+    {
+      "id": 17,
+      "title": "To Lord Linlithgow",
+      "recipient": "Lord Linlithgow",
+      "type": "letter",
+      "date": "1942",
+      "location": null,
+      "filename": "17_to_lord_linlithgow.md",
+      "length": 4833,
+      "has_context": false
+    },
+    {
+      "id": 18,
+      "title": "To Lord Linlithgow (On Impending Fast)",
+      "recipient": "Lord Linlithgow",
+      "type": "letter",
+      "date": null,
+      "location": null,
+      "filename": "18_to_lord_linlithgow_on_impending_fast.md",
+      "length": 3602,
+      "has_context": false
+    },
+    {
+      "id": 19,
+      "title": "To Lord Linlithgow",
+      "recipient": "Lord Linlithgow",
+      "type": "letter",
+      "date": null,
+      "location": null,
+      "filename": "19_to_lord_linlithgow.md",
+      "length": 7012,
+      "has_context": false
+    }
+  ]
+}
