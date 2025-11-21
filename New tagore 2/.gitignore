@@ -1,0 +1,26 @@
+# Intermediate extraction attempts
+all_letters_final/
+clean_extracted_letters/
+extracted_letters/
+complete_extraction/
+
+# Large source files (available from Archive.org)
+tagore_letters_from_abroad_1924.pdf
+tagore_letters_preocr.txt
+
+# Additional intermediate files
+complete_64_letters/
+final_clean_extraction/
+all_letters_final/
+clean_extracted_letters/
+extracted_letters/
+complete_extraction/
+
+# Large source files (available from Archive.org)
+abbyy_ocr
+*.pdf
+*_preocr.txt
+
+# Logs
+*_log.txt
+extraction_log.txt
