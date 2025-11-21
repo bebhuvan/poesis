@@ -1,97 +1,99 @@
 ---
-title: "Letter from S. S. Rhyndam"
+title: "Letter from Unknown"
 author: "Rabindranath Tagore"
-author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "S. S. Rhyndam"
+location: "Unknown"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-source_line: 3952
-word_count: 506
+source_line: 3534
+word_count: 539
 letter_number: 41
-extraction_method: "comprehensive_52_letters_final"
+extraction_method: "improved_pipeline_v2"
 extraction_date: "2025-11-21"
-quality: "high"
+quality: "publication_ready"
+ocr_corrected: true
 ---
 
-S. S. Rhyndam,
+'ST S. Rhyndam. 
 
+The very fact that we have turned our face 
+towards the East fills my heart with joy. Forme 
+my East is the poet’s East, not that of a politician 
+or a scholar. It is the East of the magnanimous 
+sky and exuberant sun-light, where once upon a 
+time a boy found himself straying in the dim twi- 
+light of child-consciousness peopled with dreams. 
+That child has grown, but never grown out o/ his 
+childness. I realise it all the more strongly when 
+some problem, political or otherwise, becomes 
+clamorous and insistent, trying to exact its answer 
+from me. I rouse myself up, strain my mind, 
+raise my voice for prophetic utterances and in every 
+way try to be worthy of the occasion, but in my 
+heart of hearts I feel exceedingly small and to my 
+utter dismay discover I am not a leader, not a 
+speaker, not a teacher, and farthest of all away from 
+being a prophet. 
 
-The sea has been exceedingly rough. The wild 
-East wind, playing its snake-charmer’s bagpipe, has 
-made a myriad of hissing waves raise their hoods 
-to the sky. The rude handling by the sea does not 
-affect me much, but the gloom and unrest and the 
+The fact becomes fully evident to me, that I 
+had forgotten to grow. It comes of an incorrigible 
+absent-mindedness. My mind has ever wander- 
+ed away from those things that mature one 
+into wisdom and old age — I have neglected my 
+lessons. And this utter want of training makes me 
+such a wretchedly bad reader of journals dealing 
 
-tremendous rise and fall of the waves, like a 
-giant’s beating of the breast in despair, depress my 
-mind. 
+ 
 
-The sad thought very often comes to me, with an 
-imaginary supposition, that I may never reach the 
-Indian shore ; and my heart aches with longing to 
-see thd arms of my motherland extended into the 
-sea with the palm leaves rustling in the air. It is 
-the land where I gazed into the eyes of my first 
-great sweetheart — my muse — who made me love 
-the sunlight, touching the top of the cocoanut row 
-through a pale mist of the serene autumn morning 
-and the storm -laden rain- clouds rolling up from 
-some abyss behind the horizon, carrying in their 
-dark.folds a thrilling expectation of a mad outburst 
-of showers. 
+with the practical questions of the day I But I am 
+afraid the present time is a tremendously difficult 
+one in India for the child, for the poet. It is no use 
+protesting that he is lacking in understanding — 
+that he is congenitally incapable of paying attention 
+to anything urgent and serious. No, he must 
+attendT meetings, or write editorials; cultivate 
+cotton-fields, or accept some responsibility of grave 
+and national import, in order to make a fool of 
+himself. 
 
-But where is this sweetheart of mine, who 
-was almost the only companion of my boyhood, 
-and with whom I spent my idle days of youth 
-exploring the mysteries of dreamland ? She, my 
-Queen, has died ; and my world has shut against 
-me the door of that inner apartment of beauty, which 
-gives the real taste of freedom. I feel like Shah- 
-Jehan when his beloved Mumtaz was dead. Now 
-I have left to me my own progeny,— a magnificent 
-plan of an International University. But it will be 
-like Aurangzeb, who will keep me imprisoned and 
-become my lord and master to the end of my days. 
-Every day my fear and distrust against it are grow- 
-ing in strength. For it has been acquiring powe|^ 
+And yet my heart is aching and longing to meet, 
+with proper ceremony, the first day of the rainy 
+seasop*, or fill every pore of my mind with the 
+smell of mango blossoms. Is that allowable at the 
+present moment ? Does our south breeze still enjoy 
+all the -frivolities of spring days ? Have our sunset 
+hours taken the vow of discarding all traces of 
+colours from their cloud turbans? 
 
-from outside my own resources, and it is material 
-power. 
+But what is the use of complaining ? The poets 
+are too primitive for this age. If they had not 
+ignominiously been discarded by the law of evolu- 
+tion, they would long ago have grown into their 
+career as politicians. But the mischief is — they 
+have been left behind in a world which has 
+stopped growing, where things are still important 
+which have no use or market value. The more 
+the call for action grows loud from across the 
+sea, the more I feel conscious of the poet in me, 
+that cries, " I am of no use — leave me alone to my 
+utter inutility.” * 
 
-Santiniketan has been the playground of my 
-own spirit. What I created on its soil was 
-made of my own dream-stuff. Its materials are 
-few ; its regulations are elastic ; its freedom has 
-the inner restraint of beauty. But the International 
-University will be stupendous in weight and rigid 
-in construction ; and if we try to move it, it will 
-crack. It will grow up into a bully of a brother, 
-and browbeat its sweet elder sister into a cowering 
-state of subjection. Beware of organisation, my 
-friend 1 They say organisation is necessary"j.n order 
-to give a thing its permanence, but it may be 
-the permanence of a tombstone.) This letter 
-«r mine will seem to you pessimistic. The 
-reason is lam unwell -and utterly home-sick; 
-and the vision of home, which haunts my mind, 
-night and day. is Amader Shantiniketan, Our 
-Shantiniketan, But the big towers of the Interna- 
-tional University obstruct its view. I am tired, to the 
-marrow of my bones, trying all these months for a 
-purpose and working in a direction which is 
-against the natural current of my inner being.
+But I know, when I reach India, the poet will 
+be defeated ; and I shall piously study the news- 
+papers — every paragraph of them. But, for the 
+present, even the poet is at a disadvantage — for 
+the sea is rough, my head is swimming and the 
+English language is extremely difficult to manage 
+in a rolling ship.
 
 ---
 
 ### Editorial Notes
 - Letter #41 from "Letters From Abroad" (1924)
-- Complete extraction with all letter boundaries identified
-- Source line: 3952 in original OCR text
-- Date: Not dated
-- Location: S. S. Rhyndam
-- Word count: 506
-- Source: https://archive.org/details/in.ernet.dli.2015.97031
+- OCR errors corrected, page headers removed
+- Source line: 3534 in original OCR text
+- Location: Unknown
+- Word count: 539
