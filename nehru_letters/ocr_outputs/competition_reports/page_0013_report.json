@@ -1,0 +1,64 @@
+{
+  "page": "page_0013",
+  "winner": "Tesseract_binarized",
+  "scores": {
+    "Tesseract_binarized": 2686.7248882410795,
+    "Tesseract_denoised": 2441.320989205951,
+    "Tesseract_default": 2317.6592607529424,
+    "Tesseract_grayscale": 2317.6592607529424,
+    "Tesseract_enhanced": 2309.3317229238664
+  },
+  "improvement": 0.0,
+  "details": [
+    {
+      "strategy": "Tesseract_binarized",
+      "overall_score": 2686.7248882410795,
+      "confidence": 35.41555396057347,
+      "artifacts_score": 100.0,
+      "readability_score": 52.71985815602837,
+      "layout_score": 15.313090776158287,
+      "word_count": 279,
+      "processing_time": 5.777177333831787
+    },
+    {
+      "strategy": "Tesseract_denoised",
+      "overall_score": 2441.320989205951,
+      "confidence": 27.673012591923506,
+      "artifacts_score": 100.0,
+      "readability_score": 49.48625853779454,
+      "layout_score": 18.698707400169106,
+      "word_count": 941,
+      "processing_time": 18.904247522354126
+    },
+    {
+      "strategy": "Tesseract_default",
+      "overall_score": 2317.6592607529424,
+      "confidence": 28.315882088516776,
+      "artifacts_score": 100.0,
+      "readability_score": 45.635685005689524,
+      "layout_score": 16.36453364776005,
+      "word_count": 836,
+      "processing_time": 15.976984024047852
+    },
+    {
+      "strategy": "Tesseract_grayscale",
+      "overall_score": 2317.6592607529424,
+      "confidence": 28.315882088516776,
+      "artifacts_score": 100.0,
+      "readability_score": 45.635685005689524,
+      "layout_score": 16.36453364776005,
+      "word_count": 836,
+      "processing_time": 15.891149282455444
+    },
+    {
+      "strategy": "Tesseract_enhanced",
+      "overall_score": 2309.3317229238664,
+      "confidence": 26.32285261214573,
+      "artifacts_score": 100.0,
+      "readability_score": 47.62540692390316,
+      "layout_score": 16.450548573095787,
+      "word_count": 1235,
+      "processing_time": 19.82142996788025
+    }
+  ]
+}

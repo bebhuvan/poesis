@@ -1,0 +1,64 @@
+{
+  "page": "page_0011",
+  "winner": "Tesseract_default",
+  "scores": {
+    "Tesseract_default": 7039.834538217414,
+    "Tesseract_grayscale": 7039.834538217414,
+    "Tesseract_denoised": 7039.339884446922,
+    "Tesseract_binarized": 6963.364132667657,
+    "Tesseract_enhanced": 6488.611406238044
+  },
+  "improvement": 0.0,
+  "details": [
+    {
+      "strategy": "Tesseract_default",
+      "overall_score": 7039.834538217414,
+      "confidence": 95.72437137431692,
+      "artifacts_score": 27.3224043715847,
+      "readability_score": 52.44171220400728,
+      "layout_score": 52.0060350588671,
+      "word_count": 366,
+      "processing_time": 8.104115962982178
+    },
+    {
+      "strategy": "Tesseract_grayscale",
+      "overall_score": 7039.834538217414,
+      "confidence": 95.72437137431692,
+      "artifacts_score": 27.3224043715847,
+      "readability_score": 52.44171220400728,
+      "layout_score": 52.0060350588671,
+      "word_count": 366,
+      "processing_time": 6.222099781036377
+    },
+    {
+      "strategy": "Tesseract_denoised",
+      "overall_score": 7039.339884446922,
+      "confidence": 95.70788291530052,
+      "artifacts_score": 27.3224043715847,
+      "readability_score": 52.44171220400728,
+      "layout_score": 52.0060350588671,
+      "word_count": 366,
+      "processing_time": 7.411808967590332
+    },
+    {
+      "strategy": "Tesseract_binarized",
+      "overall_score": 6963.364132667657,
+      "confidence": 95.43762272876722,
+      "artifacts_score": 30.136986301369863,
+      "readability_score": 52.532572298325725,
+      "layout_score": 52.01729004403714,
+      "word_count": 365,
+      "processing_time": 6.271345376968384
+    },
+    {
+      "strategy": "Tesseract_enhanced",
+      "overall_score": 6488.611406238044,
+      "confidence": 95.44651890760869,
+      "artifacts_score": 35.326086956521735,
+      "readability_score": 52.27777777777778,
+      "layout_score": 35.071178423919136,
+      "word_count": 368,
+      "processing_time": 6.560444116592407
+    }
+  ]
+}

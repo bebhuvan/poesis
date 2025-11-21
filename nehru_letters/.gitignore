@@ -1,0 +1,8 @@
+# Exclude large binary files from git
+raw_scans/*.pdf
+raw_scans/sample_pages/*.png
+html_reviews/images/*.png
+
+# Keep directory structure but exclude large files
+!raw_scans/.gitkeep
+!html_reviews/images/.gitkeep

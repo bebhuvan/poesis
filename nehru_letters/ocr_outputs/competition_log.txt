@@ -1,0 +1,71 @@
+=== Competitive Multi-Strategy OCR System ===
+
+Initializing strategies...
+Loaded 5 strategies
+
+Processing page_0010.png with 5 strategies...
+  Running Tesseract_default... Score: 3640.3
+  Running Tesseract_grayscale... Score: 3640.3
+  Running Tesseract_enhanced... Score: 3640.3
+  Running Tesseract_denoised... Score: 3640.3
+  Running Tesseract_binarized... Score: 3640.3
+
+Results saved to ../ocr_outputs/competition_reports/page_0010_*
+Winner: Tesseract_default (Score: 3640.3)
+
+Processing page_0011.png with 5 strategies...
+  Running Tesseract_default... Score: 3640.3
+  Running Tesseract_grayscale... Score: 3640.3
+  Running Tesseract_enhanced... Score: 3640.3
+  Running Tesseract_denoised... Score: 3640.3
+  Running Tesseract_binarized... Score: 3640.3
+
+Results saved to ../ocr_outputs/competition_reports/page_0011_*
+Winner: Tesseract_default (Score: 3640.3)
+
+Processing page_0012.png with 5 strategies...
+  Running Tesseract_default... Score: 3640.3
+  Running Tesseract_grayscale... Score: 3640.3
+  Running Tesseract_enhanced... Score: 3640.3
+  Running Tesseract_denoised... Score: 3640.3
+  Running Tesseract_binarized... Score: 3640.3
+
+Results saved to ../ocr_outputs/competition_reports/page_0012_*
+Winner: Tesseract_default (Score: 3640.3)
+
+Processing page_0013.png with 5 strategies...
+  Running Tesseract_default... Score: 3640.3
+  Running Tesseract_grayscale... Score: 3640.3
+  Running Tesseract_enhanced... Score: 3640.3
+  Running Tesseract_denoised... Score: 3640.3
+  Running Tesseract_binarized... Score: 3640.3
+
+Results saved to ../ocr_outputs/competition_reports/page_0013_*
+Winner: Tesseract_default (Score: 3640.3)
+
+Processing page_0014.png with 5 strategies...
+  Running Tesseract_default... Score: 3640.3
+  Running Tesseract_grayscale... Score: 3640.3
+  Running Tesseract_enhanced... Score: 3640.3
+  Running Tesseract_denoised... Score: 3640.3
+  Running Tesseract_binarized... Score: 3640.3
+
+Results saved to ../ocr_outputs/competition_reports/page_0014_*
+Winner: Tesseract_default (Score: 3640.3)
+
+============================================================
+=== OVERALL COMPETITION SUMMARY ===
+============================================================
+
+Strategy Win Counts:
+  Tesseract_default: 5 wins
+
+Average Scores:
+  Tesseract_default: 3640.3
+  Tesseract_grayscale: 3640.3
+  Tesseract_enhanced: 3640.3
+  Tesseract_denoised: 3640.3
+  Tesseract_binarized: 3640.3
+
+🏆 RECOMMENDED STRATEGY: Tesseract_default
+   Won 5/5 competitions

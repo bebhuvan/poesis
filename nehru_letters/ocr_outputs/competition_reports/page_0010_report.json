@@ -1,0 +1,64 @@
+{
+  "page": "page_0010",
+  "winner": "Tesseract_binarized",
+  "scores": {
+    "Tesseract_binarized": 6418.164185067853,
+    "Tesseract_default": 6373.156433920356,
+    "Tesseract_grayscale": 6373.156433920356,
+    "Tesseract_denoised": 6372.322980751431,
+    "Tesseract_enhanced": 6114.9963205866425
+  },
+  "improvement": 0.0,
+  "details": [
+    {
+      "strategy": "Tesseract_binarized",
+      "overall_score": 6418.164185067853,
+      "confidence": 95.37017514014259,
+      "artifacts_score": 42.75534441805226,
+      "readability_score": 56.75347811333559,
+      "layout_score": 35.355279424074624,
+      "word_count": 421,
+      "processing_time": 7.250830888748169
+    },
+    {
+      "strategy": "Tesseract_default",
+      "overall_score": 6373.156433920356,
+      "confidence": 95.84156710663513,
+      "artifacts_score": 45.023696682464454,
+      "readability_score": 56.66452268111036,
+      "layout_score": 35.344438537757675,
+      "word_count": 422,
+      "processing_time": 8.684081315994263
+    },
+    {
+      "strategy": "Tesseract_grayscale",
+      "overall_score": 6373.156433920356,
+      "confidence": 95.84156710663513,
+      "artifacts_score": 45.023696682464454,
+      "readability_score": 56.66452268111036,
+      "layout_score": 35.344438537757675,
+      "word_count": 422,
+      "processing_time": 7.721250057220459
+    },
+    {
+      "strategy": "Tesseract_denoised",
+      "overall_score": 6372.322980751431,
+      "confidence": 95.83712800473918,
+      "artifacts_score": 45.023696682464454,
+      "readability_score": 56.63651147662857,
+      "layout_score": 35.344438537757675,
+      "word_count": 422,
+      "processing_time": 9.461488962173462
+    },
+    {
+      "strategy": "Tesseract_enhanced",
+      "overall_score": 6114.9963205866425,
+      "confidence": 95.03001779058815,
+      "artifacts_score": 54.11764705882352,
+      "readability_score": 56.40039215686274,
+      "layout_score": 35.35135797090091,
+      "word_count": 425,
+      "processing_time": 7.018939733505249
+    }
+  ]
+}

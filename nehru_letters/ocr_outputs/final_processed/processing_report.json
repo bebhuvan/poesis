@@ -1,0 +1,542 @@
+[
+  {
+    "page": 0,
+    "lines": 36,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 1,
+    "lines": 14,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 2,
+    "lines": 26,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 3,
+    "lines": 12,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 4,
+    "lines": 36,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 5,
+    "lines": 16,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 6,
+    "lines": 35,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 7,
+    "lines": 31,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 8,
+    "lines": 35,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 9,
+    "lines": 41,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 10,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 11,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 12,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 13,
+    "lines": 34,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 14,
+    "lines": 39,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 15,
+    "lines": 38,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 16,
+    "lines": 42,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 17,
+    "lines": 42,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 18,
+    "lines": 41,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 19,
+    "lines": 32,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 20,
+    "lines": 38,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 21,
+    "lines": 39,
+    "artifacts": 2,
+    "hyphenations": 1
+  },
+  {
+    "page": 22,
+    "lines": 43,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 23,
+    "lines": 40,
+    "artifacts": 0,
+    "hyphenations": 2
+  },
+  {
+    "page": 24,
+    "lines": 48,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 25,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 26,
+    "lines": 35,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 27,
+    "lines": 82,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 28,
+    "lines": 42,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 29,
+    "lines": 43,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 30,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 31,
+    "lines": 36,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 32,
+    "lines": 38,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 33,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 34,
+    "lines": 38,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 35,
+    "lines": 39,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 36,
+    "lines": 44,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 37,
+    "lines": 40,
+    "artifacts": 2,
+    "hyphenations": 0
+  },
+  {
+    "page": 38,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 39,
+    "lines": 34,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 40,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 41,
+    "lines": 39,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 42,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 43,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 44,
+    "lines": 39,
+    "artifacts": 0,
+    "hyphenations": 2
+  },
+  {
+    "page": 45,
+    "lines": 36,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 46,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 47,
+    "lines": 39,
+    "artifacts": 0,
+    "hyphenations": 2
+  },
+  {
+    "page": 48,
+    "lines": 40,
+    "artifacts": 0,
+    "hyphenations": 2
+  },
+  {
+    "page": 49,
+    "lines": 23,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 50,
+    "lines": 35,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 51,
+    "lines": 39,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 52,
+    "lines": 39,
+    "artifacts": 0,
+    "hyphenations": 2
+  },
+  {
+    "page": 53,
+    "lines": 37,
+    "artifacts": 2,
+    "hyphenations": 1
+  },
+  {
+    "page": 54,
+    "lines": 32,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 55,
+    "lines": 28,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 56,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 57,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 58,
+    "lines": 34,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 59,
+    "lines": 35,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 60,
+    "lines": 32,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 61,
+    "lines": 38,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 62,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 63,
+    "lines": 41,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 64,
+    "lines": 42,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 65,
+    "lines": 94,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 66,
+    "lines": 42,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 67,
+    "lines": 84,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 68,
+    "lines": 43,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 69,
+    "lines": 39,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 70,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 71,
+    "lines": 38,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 72,
+    "lines": 41,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 73,
+    "lines": 34,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 74,
+    "lines": 38,
+    "artifacts": 1,
+    "hyphenations": 2
+  },
+  {
+    "page": 75,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 76,
+    "lines": 37,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 77,
+    "lines": 40,
+    "artifacts": 1,
+    "hyphenations": 1
+  },
+  {
+    "page": 78,
+    "lines": 36,
+    "artifacts": 1,
+    "hyphenations": 3
+  },
+  {
+    "page": 79,
+    "lines": 42,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 80,
+    "lines": 34,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 81,
+    "lines": 42,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 82,
+    "lines": 40,
+    "artifacts": 0,
+    "hyphenations": 1
+  },
+  {
+    "page": 83,
+    "lines": 26,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 84,
+    "lines": 14,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 85,
+    "lines": 23,
+    "artifacts": 1,
+    "hyphenations": 0
+  },
+  {
+    "page": 86,
+    "lines": 34,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 87,
+    "lines": 23,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 88,
+    "lines": 20,
+    "artifacts": 0,
+    "hyphenations": 0
+  },
+  {
+    "page": 89,
+    "lines": 43,
+    "artifacts": 0,
+    "hyphenations": 0
+  }
+]

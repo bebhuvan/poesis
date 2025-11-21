@@ -1,0 +1,55 @@
+============================================================
+NEHRU LETTERS - FINAL EXTRACTION PIPELINE
+============================================================
+
+[1/4] Loading processed pages...
+✓ Loaded 90 pages, 158931 characters
+
+[2/4] Generating HTML review files...
+Extracting page images for HTML reviews...
+  Extracted image 1/90
+  Extracted image 11/90
+  Extracted image 21/90
+  Extracted image 31/90
+  Extracted image 41/90
+  Extracted image 51/90
+  Extracted image 61/90
+  Extracted image 71/90
+  Extracted image 81/90
+
+Generating HTML review files...
+  Generated review 10/90
+  Generated review 20/90
+  Generated review 30/90
+  Generated review 40/90
+  Generated review 50/90
+  Generated review 60/90
+  Generated review 70/90
+  Generated review 80/90
+  Generated review 90/90
+
+Generating review index...
+
+✓ HTML reviews generated: /home/user/poesis/nehru_letters/html_reviews/index.html
+
+[3/4] Splitting into individual letters...
+
+Splitting book into individual letters...
+
+Saved 27 letters to /home/user/poesis/nehru_letters/final_markdown
+Index: /home/user/poesis/nehru_letters/final_markdown/letters_index.json
+✓ Split into 27 letters
+
+[4/4] Generating summary report...
+
+✓ Summary report: /home/user/poesis/nehru_letters/EXTRACTION_SUMMARY.md
+
+============================================================
+✅ EXTRACTION COMPLETE!
+============================================================
+
+📊 Review your work:
+   1. Open: /home/user/poesis/nehru_letters/html_reviews/index.html
+   2. Check: /home/user/poesis/nehru_letters/final_markdown/
+   3. Read: /home/user/poesis/nehru_letters/EXTRACTION_SUMMARY.md
+

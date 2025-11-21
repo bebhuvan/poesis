@@ -1,0 +1,64 @@
+{
+  "page": "page_0012",
+  "winner": "Tesseract_enhanced",
+  "scores": {
+    "Tesseract_enhanced": 6571.803298196288,
+    "Tesseract_denoised": 6554.966155742573,
+    "Tesseract_default": 6519.263321680357,
+    "Tesseract_grayscale": 6519.263321680357,
+    "Tesseract_binarized": 6507.452030696818
+  },
+  "improvement": 0.0,
+  "details": [
+    {
+      "strategy": "Tesseract_enhanced",
+      "overall_score": 6571.803298196288,
+      "confidence": 95.22969873989899,
+      "artifacts_score": 37.87878787878788,
+      "readability_score": 59.08503401360545,
+      "layout_score": 34.237809131443925,
+      "word_count": 396,
+      "processing_time": 7.395984888076782
+    },
+    {
+      "strategy": "Tesseract_denoised",
+      "overall_score": 6554.966155742573,
+      "confidence": 95.6735718989899,
+      "artifacts_score": 37.87878787878788,
+      "readability_score": 57.971445221445215,
+      "layout_score": 34.12212826032212,
+      "word_count": 396,
+      "processing_time": 9.095597267150879
+    },
+    {
+      "strategy": "Tesseract_default",
+      "overall_score": 6519.263321680357,
+      "confidence": 95.43387943544306,
+      "artifacts_score": 37.9746835443038,
+      "readability_score": 56.92213567023693,
+      "layout_score": 34.12803177343686,
+      "word_count": 395,
+      "processing_time": 9.062955379486084
+    },
+    {
+      "strategy": "Tesseract_grayscale",
+      "overall_score": 6519.263321680357,
+      "confidence": 95.43387943544306,
+      "artifacts_score": 37.9746835443038,
+      "readability_score": 56.92213567023693,
+      "layout_score": 34.12803177343686,
+      "word_count": 395,
+      "processing_time": 7.64213490486145
+    },
+    {
+      "strategy": "Tesseract_binarized",
+      "overall_score": 6507.452030696818,
+      "confidence": 95.06905613417726,
+      "artifacts_score": 37.9746835443038,
+      "readability_score": 56.891785068457764,
+      "layout_score": 34.122640428382596,
+      "word_count": 395,
+      "processing_time": 7.094820976257324
+    }
+  ]
+}
