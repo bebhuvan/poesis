@@ -1,0 +1,43 @@
+# OCR Pipeline - Generated files and downloads
+
+# Downloaded images
+raw_images/
+*.jpg
+*.jpeg
+*.png
+*.jp2
+
+# OCR outputs
+ocr_outputs/
+consensus/
+final_text/
+metadata/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep directory structure
+!raw_images/.gitkeep
+!ocr_outputs/.gitkeep
+!consensus/.gitkeep
+!final_text/.gitkeep
+!metadata/.gitkeep
+!logs/.gitkeep

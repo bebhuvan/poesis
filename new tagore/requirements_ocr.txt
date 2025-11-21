@@ -1,0 +1,31 @@
+# Core OCR Engines
+pytesseract>=0.3.10
+easyocr>=1.7.0
+transformers>=4.35.0
+torch>=2.0.0
+Pillow>=10.0.0
+
+# PDF/Image Processing
+pdf2image>=1.16.3
+opencv-python>=4.8.0
+numpy>=1.24.0
+scikit-image>=0.21.0
+
+# Text Processing & NLP
+nltk>=3.8.1
+language-tool-python>=2.7.1
+spellchecker>=0.8.1
+python-Levenshtein>=0.21.0
+difflib
+
+# Archive.org Integration
+internetarchive>=3.5.0
+
+# Data Science & Analysis
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0.1
+requests>=2.31.0
