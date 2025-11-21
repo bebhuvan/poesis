@@ -1,0 +1,114 @@
+# Tagore Letters Historical OCR System - Dependencies
+# Core OCR and digital preservation tools
+
+# ==================== Base Dependencies ====================
+requests>=2.31.0
+numpy>=1.24.0
+Pillow>=10.0.0
+tqdm>=4.65.0
+pyyaml>=6.0.1
+
+# ==================== Computer Vision & Image Processing ====================
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+scipy>=1.11.0
+
+# ==================== OCR Engines ====================
+# Tesseract (requires system installation of tesseract-ocr)
+# Ubuntu/Debian: sudo apt-get install tesseract-ocr tesseract-ocr-eng
+# Mac: brew install tesseract
+pytesseract>=0.3.10
+
+# EasyOCR (neural network-based OCR)
+easyocr>=1.7.0
+
+# PaddleOCR (excellent for layout analysis)
+paddleocr>=2.7.0
+paddlepaddle>=2.5.0  # CPU version
+# For GPU: paddlepaddle-gpu>=2.5.0
+
+# PDF processing (for ABBYY baseline extraction)
+PyMuPDF>=1.23.0  # fitz
+pdf2image>=1.16.0
+
+# ==================== NLP & Language Models ====================
+# Spell checking
+pyspellchecker>=0.7.2
+
+# Transformers for language models (BERT, GPT)
+transformers>=4.30.0
+torch>=2.0.0  # CPU version
+# For GPU: torch>=2.0.0+cu118
+
+# SpaCy for NER and linguistic analysis
+spacy>=3.6.0
+# Download model: python -m spacy download en_core_web_sm
+
+# Grammar checking
+language-tool-python>=2.7.1
+
+# ==================== Internet Archive ====================
+internetarchive>=3.5.0
+
+# ==================== Layout Analysis ====================
+# Optional: layoutparser for advanced layout detection
+# layoutparser[layoutmodels]>=0.3.4
+
+# ==================== Data & Utilities ====================
+python-dateutil>=2.8.2
+jsonschema>=4.19.0
+
+# ==================== Development & Testing ====================
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.7.0
+flake8>=6.1.0
+
+# ==================== Optional: Cloud OCR APIs ====================
+# google-cloud-vision>=3.4.0  # For Google Cloud Vision API
+# azure-cognitiveservices-vision-computervision>=0.9.0  # For Azure Computer Vision
+
+# ==================== Optional: Advanced Features ====================
+# openai>=0.27.8  # For GPT-based error correction
+# anthropic>=0.3.0  # For Claude-based analysis
+
+# ==================== Installation Notes ====================
+#
+# 1. System dependencies (Ubuntu/Debian):
+#    sudo apt-get update
+#    sudo apt-get install -y tesseract-ocr tesseract-ocr-eng
+#    sudo apt-get install -y libgl1-mesa-glx libglib2.0-0  # For OpenCV
+#    sudo apt-get install -y poppler-utils  # For pdf2image
+#
+# 2. System dependencies (macOS):
+#    brew install tesseract
+#    brew install poppler
+#
+# 3. GPU Support (optional, for faster processing):
+#    # CUDA toolkit required for GPU support
+#    # Replace paddlepaddle with paddlepaddle-gpu
+#    # Replace torch with torch+cu118 for CUDA 11.8
+#
+# 4. SpaCy language model:
+#    python -m spacy download en_core_web_sm
+#
+# 5. Install all dependencies:
+#    pip install -r requirements_tagore.txt
+#
+# 6. For development:
+#    pip install -r requirements_tagore.txt
+#    pip install -e .  # If setup.py is available
+#
+# ==================== Minimum Requirements ====================
+# For basic functionality without ML models:
+#    - pytesseract
+#    - opencv-python
+#    - Pillow
+#    - numpy
+#    - requests
+#
+# ==================== Recommended Setup ====================
+# For production use with all features:
+#    pip install -r requirements_tagore.txt
+#    python -m spacy download en_core_web_sm
+#    # Optionally: Configure GPU support for faster processing
