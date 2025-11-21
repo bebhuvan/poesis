@@ -1,0 +1,26 @@
+============================================================
+AUTOMATIC CORRECTIONS LOG
+============================================================
+
+
+Page 8:
+  • Removed artifact 'r>^' (1x)
+  • Removed artifact 'ii'Ai' (1x)
+  • 'afiford' → 'afford' (1x)
+  • 'Impcrialisna' → 'Imperialism' (1x)
+  • \barc\b → 'are' (1x)
+
+Page 21:
+  • \barc\b → 'are' (1x)
+
+Page 32:
+  • \barc\b → 'are' (1x)
+
+Page 73:
+  • \barc\b → 'are' (1x)
+
+Page 103:
+  • \barc\b → 'are' (1x)
+
+Page 104:
+  • \barc\b → 'are' (1x)

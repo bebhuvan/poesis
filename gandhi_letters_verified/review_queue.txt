@@ -1,0 +1,686 @@
+============================================================
+GANDHI LETTERS - MANUAL REVIEW QUEUE
+============================================================
+
+Total Issues: 14223
+Critical: 37
+High Priority: 196
+
+
+1. [CRITICAL] Page 8
+   Issue: ocr_error
+   Word: 'afiford'
+   Suggestions: afford
+   Context: ...  student  of  Indian  politics.  They 
+afiford  us  a   peep  into  the  mind  of  the...
+
+2. [CRITICAL] Page 8
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...er 
+personal  in  nature,  all  others  arc  of  immense 
+significance  to  a   stu...
+
+3. [CRITICAL] Page 8
+   Issue: ocr_error
+   Word: 'Impcrialisna'
+   Suggestions: Imperialism
+   Context: ...st  the  powerful  forces  of  British 
+Impcrialisna  which  have  held  India  in  bondage ...
+
+4. [CRITICAL] Page 8
+   Issue: ocr_error
+   Word: 'ii'Ai'
+   Suggestions: MAHATMA
+   Context: ...ndhi’s  life  has  been  a   persistent ii'Ai  struggle  against  the  powerful  forc...
+
+5. [CRITICAL] Page 8
+   Issue: ocr_error
+   Word: 'r>^'
+   Suggestions: DELETE
+   Context: ...f 
+INTRODUCTION 
+r>^AHATMA  Gandhi’s  life  has  been  a   p...
+
+6. [CRITICAL] Page 10
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...ba  Gandhi)  ...  80 
+IV  To  Lakshmi,  Gandhiji’s  little 
+adopted  *   untouchable  ’ ...
+
+7. [CRITICAL] Page 13
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...000  Indians  in  that  country,  whom  Gandhiji 
+found  living  virtually  in  a   stat...
+
+8. [CRITICAL] Page 14
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ... out  the  foreign  rule  from  India.  Gandhiji 
+was  sentenced  to  6   years’  impris...
+
+9. [CRITICAL] Page 15
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...f  the  Wardha  Scheme  of  Education.  Gandhiji  m 
+short  is  a   politician,  a   sai...
+
+10. [CRITICAL] Page 16
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...w  with  he  then 
+Viceroy  of  India,  Gandhiji  came  round  to  join  the 
+conference...
+
+11. [CRITICAL] Page 19
+   Issue: ocr_error
+   Word: 'raiyats'
+   Suggestions: raiyats
+   Context: ...into  most  intimate  touch  with 
+the  raiyats  ever  since  my  return  from  South  ...
+
+12. [CRITICAL] Page 20
+   Issue: ocr_error
+   Word: 'raiyats'
+   Suggestions: raiyats
+   Context: ...  My  intimate  intercourse 
+with  the  raiyats  convinces  me  that  India  has 
+alrea...
+
+13. [CRITICAL] Page 21
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ... Thus  Champaran  and  ICaira  affairs 
+arc  my  direct,  definite  and  special  c...
+
+14. [CRITICAL] Page 31
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...strict 
+■involving  long  and  trying  marches  that  I   had  an 
+attack  of  dyse...
+
+15. [CRITICAL] Page 32
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...rom  your  hands.  You  know 
+that  we  arc  powerless  to  do  that,  for  you  ha...
+
+16. [CRITICAL] Page 33
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ... for  their  distress. 
+You  are  in  search  of  a   remedy  to  suppress  this 
+r...
+
+17. [CRITICAL] Page 59
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ... termed  as  ultimatum  similarly  in  March  193c 
+before  embarking  on  his  Civ...
+
+18. [CRITICAL] Page 59
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...on  his  Civil  Disobedience  Campaign 
+Gandhiji  sent  a   letter — again  of  the  r^t...
+
+19. [CRITICAL] Page 64
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...he  so-called  responsible 
+part  of  dyarchy  so  as  to  throw  the  burden  of 
+...
+
+20. [CRITICAL] Page 71
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...ear  Friend, 
+1   must  Commence  the  March 
+God  willing,  it  is  my  intention ...
+
+21. [CRITICAL] Page 71
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...TER. 
+The  follomng  is  the  text  of  Gandhiji’s  second  letter 
+to  Lord  Irwin  dra...
+
+22. [CRITICAL] Page 73
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...lags  from  volunteers.  Paddy  fields  arc 
+reported  to  have  been  burnt,  eata...
+
+23. [CRITICAL] Page 78
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ... I   must  reluctantly  commence 
+the  march  adumberated  m   the  opening  paragr...
+
+24. [CRITICAL] Page 81
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...y.  I   gave  up  oranges  during  my 
+march,  but  have  begdn  to  take  them  ag...
+
+25. [CRITICAL] Page 85
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ... extent,  a   queer  situation  arose. 
+Gandhiji  was  scheduled  to  see  the  Viceroy ...
+
+26. [CRITICAL] Page 99
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...S  LETTER  TO 
+SIR  SAMUEL  HOARE  IN  MARCH  1932. 
+In  the  f (Mowing  letter  da...
+
+27. [CRITICAL] Page 103
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...alised.  The  latter,  high  and  low,  arc 
+becoming  demoralised  by  reason  of ...
+
+28. [CRITICAL] Page 104
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...the  weighti- 
+est matters,  decisions  arc  taken  by  individuals  or 
+groups  wi...
+
+29. [CRITICAL] Page 107
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...abinet  my 
+letter  to  him  of  11th  March  on  the  question  of  the 
+represent...
+
+30. [CRITICAL] Page 113
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...eign  rule  started.  In  this  letter  Gandhiji 
+expressed  a   strong  desire  for  un...
+
+31. [CRITICAL] Page 120
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...ateful 
+August  Disturbances  started,  Gandhiji  asked  the  in- 
+habitants of  America...
+
+32. [CRITICAL] Page 121
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...tural  thing  to  me.  My 
+prayerful  search  gave  me  the  revealing  maxim  “   ...
+
+33. [CRITICAL] Page 123
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...LETTERS  WRITTEN  BY  GANDHIJI  TO  THE 
+VICEROY  AND  HOME  MEMBER,  ...
+
+34. [CRITICAL] Page 141
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ...ithgow. 
+DECISION  TO  FAST. 
+(Whereas  Gandhiji  in  his  letters  defended  the 
+Congr...
+
+35. [CRITICAL] Page 144
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...
+poor  millions  due  to  India-wide  scarcity  which  I 
+cannot  help  thinking  m...
+
+36. [CRITICAL] Page 145
+   Issue: ocr_error
+   Word: 'Gandhiji'
+   Suggestions: Gandhiji
+   Context: ... went  to  the  length  of  describing  Gandhiji’s  decision  to 
+fast  as  ‘   politica...
+
+37. [CRITICAL] Page 148
+   Issue: ocr_error
+   Word: 'arc'
+   Suggestions: are
+   Context: ...ly  conceded  in  the 
+Settlement  of  March  5, 1931  arrived  at  between  the 
+t...
+
+38. [HIGH] Page 1
+   Issue: unknown_word
+   Word: 'tha'
+   Suggestions: the, that, than
+   Context: ... intricate  socio-econo- 
+mic problems  that  face  India 
+to-day-  This  hook  emb...
+
+39. [HIGH] Page 1
+   Issue: artifact
+   Word: '■'
+   Suggestions: Remove or investigate
+   Context: Appears 4 time(s)
+
+40. [HIGH] Page 1
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 87 time(s)
+
+41. [HIGH] Page 3
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 6 time(s)
+
+42. [HIGH] Page 6
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 18 time(s)
+
+43. [HIGH] Page 7
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 18 time(s)
+
+44. [HIGH] Page 8
+   Issue: unknown_word
+   Word: 'arc'
+   Suggestions: are
+   Context: ...er 
+personal  in  nature,  all  others  arc  of  immense 
+significance  to  a   stu...
+
+45. [HIGH] Page 8
+   Issue: unknown_word
+   Word: 'afiford'
+   Suggestions: afford
+   Context: ...  student  of  Indian  politics.  They 
+afiford  us  a   peep  into  the  mind  of  the...
+
+46. [HIGH] Page 8
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 168 time(s)
+
+47. [HIGH] Page 9
+   Issue: unknown_word
+   Word: 'ihe'
+   Suggestions: the, she, he
+   Context: ...who  gave  me  all  possible  help  in  ihe 
+compilation  of  these  documents  and...
+
+48. [HIGH] Page 9
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 182 time(s)
+
+49. [HIGH] Page 10
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 129 time(s)
+
+50. [HIGH] Page 11
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 61 time(s)
+
+51. [HIGH] Page 12
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 158 time(s)
+
+52. [HIGH] Page 13
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 205 time(s)
+
+53. [HIGH] Page 14
+   Issue: unknown_word
+   Word: 'Ten'
+   Suggestions: then
+   Context: ...  rule  from  India.  Gandhiji 
+was  sentenced  to  6   years’  imprisonment. 
+Ten ...
+
+54. [HIGH] Page 14
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 170 time(s)
+
+55. [HIGH] Page 15
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 45 time(s)
+
+56. [HIGH] Page 16
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 135 time(s)
+
+57. [HIGH] Page 17
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 196 time(s)
+
+58. [HIGH] Page 18
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 200 time(s)
+
+59. [HIGH] Page 19
+   Issue: unknown_word
+   Word: 'wish'
+   Suggestions: with
+   Context: ...om  South  Africa 
+to  India,  and  I   wish  to  assure  you  that  the  desire 
+fo...
+
+60. [HIGH] Page 19
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 229 time(s)
+
+61. [HIGH] Page 20
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 202 time(s)
+
+62. [HIGH] Page 21
+   Issue: unknown_word
+   Word: 'Thus'
+   Suggestions: this
+   Context: ...obedience  where 
+injustice  is  felt.  Thus  Champaran  and  ICaira  affairs 
+arc  ...
+
+63. [HIGH] Page 21
+   Issue: unknown_word
+   Word: 'arc'
+   Suggestions: are
+   Context: ... Thus  Champaran  and  ICaira  affairs 
+arc  my  direct,  definite  and  special  c...
+
+64. [HIGH] Page 21
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 219 time(s)
+
+65. [HIGH] Page 22
+   Issue: unknown_word
+   Word: 'wish'
+   Suggestions: with
+   Context: ... love  the  English  Nation,  and. 
+1   wish  to  evoke  in  every  Indian  the  loy...
+
+66. [HIGH] Page 22
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 151 time(s)
+
+67. [HIGH] Page 23
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 158 time(s)
+
+68. [HIGH] Page 24
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 164 time(s)
+
+69. [HIGH] Page 25
+   Issue: unknown_word
+   Word: 'thac'
+   Suggestions: that, than
+   Context: ...  me  to  resist  the  cruel  violence  thac 
+has  been  done  to  the  Mussalman  s...
+
+70. [HIGH] Page 25
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 197 time(s)
+
+71. [HIGH] Page 26
+   Issue: unknown_word
+   Word: 'thus'
+   Suggestions: this
+   Context: ... 
+will  rectify  the  wrong  done  and  thus  restore  confid- 
+ence. I   have  not ...
+
+72. [HIGH] Page 26
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 200 time(s)
+
+73. [HIGH] Page 27
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 161 time(s)
+
+74. [HIGH] Page 28
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 196 time(s)
+
+75. [HIGH] Page 29
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 140 time(s)
+
+76. [HIGH] Page 30
+   Issue: unknown_word
+   Word: 'wish'
+   Suggestions: with
+   Context: ...YING  THIS  SYSTEM 
+Dear  Friend, — I   wish  that  every  Englishman 
+will  see  th...
+
+77. [HIGH] Page 30
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 188 time(s)
+
+78. [HIGH] Page 31
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 189 time(s)
+
+79. [HIGH] Page 32
+   Issue: unknown_word
+   Word: 'arc'
+   Suggestions: are
+   Context: ...rom  your  hands.  You  know 
+that  we  arc  powerless  to  do  that,  for  you  ha...
+
+80. [HIGH] Page 32
+   Issue: unknown_word
+   Word: 'thus'
+   Suggestions: this
+   Context: ...e.  Bravery  on  the  battle-field  is  thus  impossible 
+for  us.  Bravery  of  the...
+
+81. [HIGH] Page 32
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 154 time(s)
+
+82. [HIGH] Page 33
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 219 time(s)
+
+83. [HIGH] Page 34
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 210 time(s)
+
+84. [HIGH] Page 35
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 45 time(s)
+
+85. [HIGH] Page 36
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 172 time(s)
+
+86. [HIGH] Page 37
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 227 time(s)
+
+87. [HIGH] Page 38
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 217 time(s)
+
+88. [HIGH] Page 39
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 192 time(s)
+
+89. [HIGH] Page 40
+   Issue: unknown_word
+   Word: 'wish'
+   Suggestions: with
+   Context: ... of  foreign  goods.  India  does  not  wish 
+to  shut  herself  out  of  internatio...
+
+90. [HIGH] Page 40
+   Issue: unknown_word
+   Word: 'wish'
+   Suggestions: with
+   Context: ... of  foreign  goods.  India  does  not  wish 
+to  shut  herself  out  of  internatio...
+
+91. [HIGH] Page 40
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 192 time(s)
+
+92. [HIGH] Page 41
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 48 time(s)
+
+93. [HIGH] Page 42
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 81 time(s)
+
+94. [HIGH] Page 43
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 185 time(s)
+
+95. [HIGH] Page 44
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 196 time(s)
+
+96. [HIGH] Page 45
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 189 time(s)
+
+97. [HIGH] Page 46
+   Issue: unknown_word
+   Word: 'wish'
+   Suggestions: with
+   Context: ...  at  liberty  to  reject  it  if  you  wish 
+and  go  to  the  college  that  has  ...
+
+98. [HIGH] Page 46
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 148 time(s)
+
+99. [HIGH] Page 47
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 24 time(s)
+
+100. [HIGH] Page 48
+   Issue: artifact
+   Word: '  '
+   Suggestions: Remove or investigate
+   Context: Appears 137 time(s)
