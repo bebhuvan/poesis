@@ -1,34 +1,31 @@
 #!/usr/bin/env python3
 """
-FINAL EXTRACTION - All 42+ Tagore letters
-Uses comprehensive pattern matching to find every letter
+FINAL COMPREHENSIVE EXTRACTION - All Tagore Letters
+Handles all edge cases: dated letters, undated ship letters, Red Sea, etc.
 """
 
 import re
 import json
 from pathlib import Path
 from dataclasses import dataclass, field
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 
 
 @dataclass
-class LetterMetadata:
-    author: str = "Rabindranath Tagore"
-    author_variants: List[str] = field(default_factory=lambda: ["Rabindranath Tagore", "R. Tagore", "Tagore"])
-    recipient: str = "Unknown"
-    date: str = ""
-    date_original: str = ""
-    date_confidence: str = "low"
-    location: str = ""
-    source_archive: str = "https://archive.org/details/in.ernet.dli.2015.97031"
-    word_count: int = 0
-    letter_num: int = 0
+class Letter:
+    """Complete letter data"""
+    num: int
+    location: str
+    date_str: str
+    date_iso: str
+    date_confidence: str
+    body: str
+    word_count: int
+    start_line: int = 0  # For debugging
 
 
-def remove_page_headers_aggressive(text: str) -> Tuple[str, int]:
-    """Remove all page headers and page numbers"""
-    original_len = len(text)
-
+def remove_page_headers(text: str) -> str:
+    """Aggressively remove all page headers and numbers"""
     # Remove "X LETTERS FROM ABROAD" patterns
     text = re.sub(r'\n\d+\s+LETTE[RH]S\s+FROM\s+ABROAD\s*\n', '\n\n', text, flags=re.IGNORECASE)
     text = re.sub(r'\nLETTE[RH]S\s+FROM\s+ABROAD\s+\d+\s*\n', '\n\n', text, flags=re.IGNORECASE)
@@ -37,43 +34,38 @@ def remove_page_headers_aggressive(text: str) -> Tuple[str, int]:
     # Remove standalone page numbers
     text = re.sub(r'^\d+\s*$', '', text, flags=re.MULTILINE)
 
-    # Remove excessive newlines
+    # Clean up excessive newlines
     text = re.sub(r'\n{3,}', '\n\n', text)
 
-    removed = original_len - len(text)
-    return text, removed
+    return text
 
 
-def parse_date_robust(date_str: str) -> Tuple[str, str]:
-    """Robustly parse dates with OCR errors"""
+def parse_date(date_str: str) -> Tuple[str, str]:
+    """Parse date to ISO format with confidence"""
+    if not date_str or len(date_str) < 3:
+        return "", "none"
+
     month_map = {
         'january': '01', 'february': '02', 'march': '03', 'april': '04',
         'may': '05', 'june': '06', 'july': '07', 'august': '08',
         'september': '09', 'october': '10', 'november': '11', 'december': '12',
-        # OCR errors
-        'fehraary': '02', 'ikarch': '03', 'jilpril': '04', 'sepfember': '09',
+        'fehraary': '02', 'ikarch': '03', 'jilpril': '04',
     }
 
-    # Clean
-    date_str = date_str.strip().lower()
-    date_str = date_str.replace('^', '').replace('~', '').replace('.', '')
-    date_str = re.sub(r'\s+', ' ', date_str)
-    # Fix OCR errors in years
-    date_str = date_str.replace(' 19 ho', ' 1920').replace(' 19ho', ' 1920')
-    date_str = date_str.replace('19s0', '1920').replace('19ii0', '1920')
-    date_str = date_str.replace('192u', '1921').replace('j92l', '1921')
-    date_str = date_str.replace('1931', '1921')  # Common OCR error: 1931 -> 1921
+    # Normalize
+    date_clean = date_str.strip().lower()
+    date_clean = re.sub(r'[~^.]', '', date_clean)
+    date_clean = date_clean.replace('19 ho', '1920').replace('19ho', '1920')
+    date_clean = date_clean.replace('19s0', '1920').replace('19ii0', '1920')
+    date_clean = date_clean.replace('192u', '1921').replace('j92l', '1921')
+    date_clean = date_clean.replace('1931', '1921')
+    date_clean = re.sub(r'\s+', ' ', date_clean)
 
-    # Parse "month day, year"
-    pattern = r'([a-z]+)\s+(\d{1,2})[,\s]+(\d{4})'
-    match = re.search(pattern, date_str)
+    # Month day, year
+    m = re.search(r'([a-z]+)\s+(\d{1,2})[,\s]+(\d{4})', date_clean)
+    if m:
+        month_name, day, year = m.groups()
 
-    if match:
-        month_name = match.group(1)
-        day = match.group(2).zfill(2)
-        year = match.group(3)
-
-        # Find month
         month = None
         for m_key, m_val in month_map.items():
             if month_name.startswith(m_key[:3]):
@@ -81,194 +73,245 @@ def parse_date_robust(date_str: str) -> Tuple[str, str]:
                 break
 
         if month:
-            # Validate day
-            try:
-                day_int = int(day)
-                if day_int > 31:  # OCR error like "February 38"
-                    day = '28'  # Use reasonable default
-            except:
-                day = '01'
+            day_int = int(day)
+            if day_int > 31:  # OCR error
+                day = '15'  # Use middle of month
+            else:
+                day = str(day_int).zfill(2)
 
-            iso_date = f"{year}-{month}-{day}"
-            return iso_date, "high"
+            return f"{year}-{month}-{day}", "high"
 
-    # Try just "month year"
-    pattern2 = r'([a-z]+)[,\s]+(\d{4})'
-    match2 = re.search(pattern2, date_str)
-    if match2:
-        month_name = match2.group(1)
-        year = match2.group(2)
-
+    # Just month year
+    m = re.search(r'([a-z]+)[,\s]+(\d{4})', date_clean)
+    if m:
+        month_name, year = m.groups()
         for m_key, m_val in month_map.items():
             if month_name.startswith(m_key[:3]):
-                iso_date = f"{year}-{m_val}-00"
-                return iso_date, "medium"
+                return f"{year}-{m_val}-00", "medium"
 
     return "", "none"
 
 
-def extract_all_letters(input_file: str, output_dir: str):
-    """Extract ALL letters comprehensively"""
+def is_valid_location(text: str) -> bool:
+    """Check if text looks like a valid location (not mid-sentence)"""
+    # Must start with capital
+    if not text or not text[0].isupper():
+        return False
 
-    output_path = Path(output_dir)
-    final_dir = output_path / "final_markdown"
-    review_dir = output_path / "review_html"
+    # Too long (probably captured multiple lines)
+    if len(text) > 60:
+        return False
 
-    for d in [final_dir, review_dir]:
-        d.mkdir(parents=True, exist_ok=True)
+    # Contains lowercase sentence starters (mid-sentence capture)
+    if any(pattern in text.lower() for pattern in [
+        'person under', 'the pair', 'with my blessings',
+        'mastery of', 'and then', 'when the'
+    ]):
+        return False
 
-    # Load text
+    # Must not have too many words
+    word_count = len(text.split())
+    if word_count > 8:
+        return False
+
+    return True
+
+
+def extract_all_letters_comprehensive(input_file: str) -> List[Letter]:
+    """Extract ALL letters using multiple strategies"""
+
     with open(input_file, 'r', encoding='utf-8', errors='ignore') as f:
         full_text = f.read()
 
-    print(f"📚 Loaded: {len(full_text):,} characters\n")
-
-    # Find letter section start
+    # Find start of letters section
     start_idx = full_text.find("Bombay,")
     if start_idx == -1:
-        print("❌ Cannot find letter start")
-        return
+        print("❌ Cannot find start")
+        return []
 
-    letters_section = full_text[start_idx:]
+    text = full_text[start_idx:]
+    text = remove_page_headers(text)
 
-    # Remove page headers
-    letters_section, removed = remove_page_headers_aggressive(letters_section)
-    print(f"🧹 Removed {removed:,} characters of page headers\n")
+    lines = text.split('\n')
+    letters = []
+    i = 0
+    letter_num = 0
 
-    # Find ALL letter boundaries
-    # More flexible pattern: location (1-50 chars) followed by month name
-    pattern = r'''
-        (?:^|\n)                                     # Line start
-        ([A-Z][^\n]{2,50}?),?\s*\n                   # Location line
-        \s*
-        ((?:January|February|March|April|May|June|July|August|September|October|November|December|Fehraary|Ikarch|jiLpril)[^\n]{0,30})
-    '''
+    while i < len(lines):
+        line = lines[i].strip()
 
-    matches = list(re.finditer(pattern, letters_section, re.VERBOSE | re.MULTILINE | re.IGNORECASE))
-
-    print(f"🔍 Found {len(matches)} letter boundaries\n")
-    print("Extracting letters...\n")
-
-    results = []
-
-    for i, match in enumerate(matches):
-        letter_num = i + 1
-        start = match.start()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(letters_section)
-
-        location_raw = match.group(1).strip()
-        date_raw = match.group(2).strip()
-
-        # Extract letter body
-        letter_full = letters_section[start:end]
-
-        # Skip location and date lines
-        lines = letter_full.split('\n')
-        body_lines = []
-        skip_count = 0
-
-        for line in lines:
-            # Skip first 2-3 lines (location, date, possible blank)
-            if skip_count < 3 and (not line.strip() or
-                                  location_raw in line or
-                                  any(month in line for month in ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'])):
-                skip_count += 1
-                continue
-            body_lines.append(line)
-
-        letter_body = '\n'.join(body_lines).strip()
-
-        # Build metadata
-        metadata = LetterMetadata()
-        metadata.letter_num = letter_num
-        metadata.location = location_raw
-        metadata.date_original = date_raw
-
-        iso_date, confidence = parse_date_robust(date_raw)
-        metadata.date = iso_date
-        metadata.date_confidence = confidence
-        metadata.word_count = len(letter_body.split())
-
-        # Skip very short extractions (< 30 words, likely extraction errors)
-        if metadata.word_count < 30:
-            print(f"⚠️  Skipping #{letter_num} ({location_raw}) - only {metadata.word_count} words")
+        # Skip empty lines
+        if not line:
+            i += 1
             continue
 
-        # Generate filename
-        date_str = metadata.date if metadata.date else "undated"
-        filename = f"tagore_unknown_{date_str}_{letter_num:03d}.md"
+        # Check if this looks like a location header
+        # Pattern 1: "Location," (with comma)
+        # Pattern 2: "Location" followed by date on next line
+        # Pattern 3: Ship names like "S. S. Rhyndam." or "Red Sea,"
 
-        # Write markdown
+        is_location = False
+        location = ""
+        date_line = ""
+        body_start = i + 1
+
+        # Check for comma-terminated location
+        if line.endswith(',') or line.endswith('.'):
+            potential_location = line.rstrip('.,').strip()
+
+            if is_valid_location(potential_location):
+                is_location = True
+                location = potential_location
+
+                # Check next line for date
+                if i + 1 < len(lines):
+                    next_line = lines[i + 1].strip()
+                    # Is it a date?
+                    if any(month in next_line for month in [
+                        'January', 'February', 'March', 'April', 'May', 'June',
+                        'July', 'August', 'September', 'October', 'November', 'December',
+                        'Fehraary', 'Ikarch'
+                    ]):
+                        date_line = next_line
+                        body_start = i + 2
+                    else:
+                        # No date (ship letters like S.S. Rhyndam)
+                        body_start = i + 1
+
+        if is_location:
+            # Found a letter! Extract until next letter
+            letter_num += 1
+
+            # Find end of letter (next location header or end of text)
+            body_lines = []
+            j = body_start
+
+            while j < len(lines):
+                check_line = lines[j].strip()
+
+                # Check if we hit next letter
+                if j > body_start + 3:  # Give at least 3 lines of content
+                    # Is this line a location?
+                    if (check_line.endswith(',') or check_line.endswith('.')) and \
+                       len(check_line) > 3 and check_line[0].isupper():
+                        potential_loc = check_line.rstrip('.,').strip()
+                        if is_valid_location(potential_loc):
+                            # Check if next line might be a date
+                            if j + 1 < len(lines):
+                                next = lines[j + 1].strip()
+                                if any(m in next for m in ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']) or \
+                                   (len(next) < 50 and potential_loc in ['Red Sea', 'Near Aden', 'London', 'Paris', 'New York', 'Chicago', 'Berlin', 'Geneva'] + \
+                                    [s for s in ['S. S. Rhyndam', 'S. 3. Morea', 'S. S. MOREA', 'S. Moeea', 'ISfEAR New York', 'JNEW York', 'AuTouR DU Monde']]):
+                                    # This is next letter
+                                    break
+
+                body_lines.append(lines[j])
+                j += 1
+
+            # Build letter
+            body = '\n'.join(body_lines).strip()
+            word_count = len(body.split())
+
+            # Skip if too short (extraction error)
+            if word_count < 50:
+                print(f"⚠️  Skipping {location} - only {word_count} words")
+                i = j
+                continue
+
+            # Parse date
+            date_iso, confidence = parse_date(date_line)
+
+            letter = Letter(
+                num=letter_num,
+                location=location,
+                date_str=date_line,
+                date_iso=date_iso,
+                date_confidence=confidence,
+                body=body,
+                word_count=word_count,
+                start_line=i
+            )
+
+            letters.append(letter)
+
+            print(f"✓ #{letter_num:3d}  {location[:30]:30s}  {date_iso or 'undated':12s}  {word_count:5d} words")
+
+            # Move to next letter
+            i = j
+        else:
+            i += 1
+
+    return letters
+
+
+def save_letters(letters: List[Letter], output_dir: str):
+    """Save letters to markdown files"""
+    output_path = Path(output_dir)
+    final_dir = output_path / "letters"
+    final_dir.mkdir(parents=True, exist_ok=True)
+
+    for letter in letters:
+        # Filename
+        date_str = letter.date_iso if letter.date_iso else "undated"
+        filename = f"tagore_unknown_{date_str}_{letter.num:03d}.md"
+
+        # Markdown
         markdown = f"""---
-title: "Letter from {metadata.location}"
-author: "{metadata.author}"
-author_variants: {json.dumps(metadata.author_variants)}
-recipient: "{metadata.recipient}"
-date: "{metadata.date}"
-date_confidence: "{metadata.date_confidence}"
-date_original: "{metadata.date_original}"
-location: "{metadata.location}"
-source_archive: "{metadata.source_archive}"
+title: "Letter from {letter.location}"
+author: "Rabindranath Tagore"
+author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
+recipient: "Unknown"
+date: "{letter.date_iso}"
+date_confidence: "{letter.date_confidence}"
+date_original: "{letter.date_str}"
+location: "{letter.location}"
+source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: {metadata.word_count}
-letter_number: {metadata.letter_num}
-extraction_method: "archive_org_pre_ocr_complete"
+word_count: {letter.word_count}
+letter_number: {letter.num}
+extraction_method: "comprehensive_multipattern"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-{metadata.location},
+{letter.location},
+{letter.date_str if letter.date_str else ''}
 
-{metadata.date_original}
-
-{letter_body}
+{letter.body}
 
 ---
 
 ### Editorial Notes
-- Letter #{metadata.letter_num} from "Letters From Abroad" (1924)
-- Extracted from Archive.org pre-OCR'd text (DjVu format)
-- Date: {metadata.date_original} (ISO: {metadata.date})
-- Location: {metadata.location}
-- Word count: {metadata.word_count:,}
-- Page headers and artifacts removed
-- Source: {metadata.source_archive}
+- Letter #{letter.num} from "Letters From Abroad" (1924)
+- Extracted using comprehensive multi-pattern detection
+- Date: {letter.date_str if letter.date_str else 'Not dated'} (ISO: {letter.date_iso if letter.date_iso else 'N/A'})
+- Location: {letter.location}
+- Word count: {letter.word_count:,}
+- Source: https://archive.org/details/in.ernet.dli.2015.97031
 """
 
         md_path = final_dir / filename
         with open(md_path, 'w', encoding='utf-8') as f:
             f.write(markdown)
 
-        results.append({
-            'num': letter_num,
-            'location': metadata.location[:25],
-            'date': metadata.date,
-            'words': metadata.word_count,
-        })
-
-        # Print progress
-        loc_display = metadata.location[:25].ljust(25)
-        date_display = (metadata.date if metadata.date else 'undated').ljust(12)
-        print(f"✓ #{letter_num:3d}  {loc_display}  {date_display}  {metadata.word_count:5d} words")
-
-    # Summary
-    print("\n" + "=" * 70)
-    print(f"✅ EXTRACTED {len(results)} LETTERS")
-    print("=" * 70)
-    print(f"📊 Total words: {sum(r['words'] for r in results):,}")
-    print(f"📁 Output: {final_dir}")
-    print("=" * 70)
-
-    return results
-
 
 if __name__ == "__main__":
     input_file = "/home/user/poesis/New tagore 2/tagore_letters_preocr.txt"
-    output_dir = "/home/user/poesis/New tagore 2/complete_extraction"
+    output_dir = "/home/user/poesis/New tagore 2/final_clean_extraction"
 
     print("=" * 70)
-    print("COMPLETE TAGORE LETTER EXTRACTION")
-    print("Targeting all 42+ letters from 'Letters From Abroad' (1924)")
+    print("FINAL COMPREHENSIVE TAGORE LETTER EXTRACTION")
+    print("Handles: dated letters, undated ship letters, all edge cases")
     print("=" * 70 + "\n")
 
-    extract_all_letters(input_file, output_dir)
+    letters = extract_all_letters_comprehensive(input_file)
+
+    if letters:
+        save_letters(letters, output_dir)
+
+        print("\n" + "=" * 70)
+        print(f"✅ EXTRACTED {len(letters)} CLEAN LETTERS")
+        print("=" * 70)
+        print(f"📊 Total words: {sum(l.word_count for l in letters):,}")
+        print(f"📁 Output: {output_dir}/letters/")
+        print("=" * 70)

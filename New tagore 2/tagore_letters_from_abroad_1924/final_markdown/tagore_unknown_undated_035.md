@@ -1,182 +1,292 @@
 ---
-title: "Letter from with my blessings, to Satyendranath Datta that he"
+title: "Letter from Chicago"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
-date_original: "may set it in those, inimitable v"
-location: "with my blessings, to Satyendranath Datta that he"
+date_original: ""
+location: "Chicago"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 1138
+word_count: 2072
 letter_number: 35
-extraction_method: "archive_org_pre_ocr_complete"
+extraction_method: "comprehensive_multipattern"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-with my blessings, to Satyendranath Datta that he,
+Chicago,
 
-may set it in those, inimitable v
 
-may set it in those, inimitable verse forms of which 
-he is a master— and make it ring with the music of 
-happy laughter. 
-S. S. Rhyndam. 
+Ikarch 2, 1921. 
 
-The sea has been exceedingly rough. The wild 
-East wind, playing its snake-charmer’s bagpipe, has 
-made a myriad of hissing waves raise their hoods 
-to the sky. The rude handling by the sea does not 
-affect me much, but the gloom and unrest and the 
+your last letter gives wonderful news about our 
+students in Calcutta. I hope that this spirit of 
+sacrifice and willingness to suffer will grow in 
+strength ; for to achieve this is an end in itself. 
+This is the true freedom 1 Nothing is of higher value 
+— be it national wealth, or independence — than 
+disinterested faith in ideals, in the moral greatness 
+of man. 
 
-tremendous rise and fall of the waves, like a 
-giant’s beating of the breast in despair, depress my 
-mind. 
+The West has its unshakable faith in material 
+strength and prosperity ; and therefore however 
+loud grows the cry for peace and disarmament, 
+its ferocity growls louder, gnashing its teeth and 
+lathing its tail in impatience. It is like a fish, hurt 
+by the pressure of the flood, planning to fly in the 
+air. Certainly the idea is brilliant, but it is not 
+possible for a fish to realise. We, in India, 
+have to show to the world, what is that truth, which 
+not only makes disarmament possible but turns it 
+into strengthJj 
 
-The sad thought very often comes to me, with an 
-imaginary supposition, that I may never reach the 
-Indian shore ; and my heart aches with longing to 
-see thd arms of my motherland extended into the 
-sea with the palm leaves rustling in the air. It is 
-the land where I gazed into the eyes of my first 
-great sweetheart — my muse — who made me love 
-the sunlight, touching the top of the cocoanut row 
-through a pale mist of the serene autumn morning 
-and the storm -laden rain- clouds rolling up from 
-some abyss behind the horizon, carrying in their 
-dark.folds a thrilling expectation of a mad outburst 
-of showers. 
+The truth, that moral force is a higher power 
+than brute force, will be proved by the people who 
+are unarmed. Life, in its higher development, has 
+thrown off its tremendous burden of armour and a 
+prodigious quantity of flesh ; till man has become 
+the conqueror of the brute world. The day is sure 
+to come, when the frail man of spirit, com- 
+pletely unhampered by air fleets and dreadnoughts. 
 
-But where is this sweetheart of mine, who 
-was almost the only companion of my boyhood, 
-and with whom I spent my idle days of youth 
-exploring the mysteries of dreamland ? She, my 
-Queen, has died ; and my world has shut against 
-me the door of that inner apartment of beauty, which 
-gives the real taste of freedom. I feel like Shah- 
-Jehan when his beloved Mumtaz was dead. Now 
-I have left to me my own progeny,— a magnificent 
-plan of an International University. But it will be 
-like Aurangzeb, who will keep me imprisoned and 
-become my lord and master to the end of my days. 
-Every day my fear and distrust against it are grow- 
-ing in strength. For it has been acquiring powe|^ 
+will prove that the meek are to inherit the 
+earth. 
 
-from outside my own resources, and it is material 
-power. 
+It is in the fitness of things, that Mahatma 
+Gandhi, frail in body and devoid of all material 
+resources, should call up the immense power of the 
+meek, jthat has been lying waiting in the heart of 
+the destitute and insulted humanity of India. The 
+destiny of India has chosen for its ally, Narayan, 
+and not the Narayansena~the power of soul and 
+not that of muscle. And she is to raise the history 
+of man from the muddy level of physical conflict 
+to the jiigher moral altitude. 
 
-Santiniketan has been the playground of my 
-own spirit. What I created on its soil was 
-made of my own dream-stuff. Its materials are 
-few ; its regulations are elastic ; its freedom has 
-the inner restraint of beauty. But the International 
-University will be stupendous in weight and rigid 
-in construction ; and if we try to move it, it will 
-crack. It will grow up into a bully of a brother, 
-and browbeat its sweet elder sister into a cowering 
-state of subjection. Beware of organisation, my 
-friend 1 They say organisation is necessary"j.n order 
-to give a thing its permanence, but it may be 
-the permanence of a tombstone.) This letter 
-«r mine will seem to you pessimistic. The 
-reason is lam unwell -and utterly home-sick; 
-and the vision of home, which haunts my mind, 
-night and day. is Amader Shantiniketan, Our 
-Shantiniketan, But the big towers of the Interna- 
-tional University obstruct its view. I am tired, to the 
-marrow of my bones, trying all these months for a 
-purpose and working in a direction which is 
-against the natural current of my inner being. 
+What is Swaraj ! It is maya ; it is like a mist, 
+that will vanish, leaving no stain on the radiance 
+of the Eternal. However we may delude ourselves 
+with the phrases learnt from the West, Swaraj is" 
+not our objective. . Our fight is a spiritual fight — it 
+is for Man. We are to emancipate Man from the 
+meshes that he himself has woven round him — 
+these organisations of National Egoism. The 
+butterfly will have to be persuaded that the 
+freedom of the sky is of higher value than the 
+shelter of the cocoon. If we can defy the strong, 
+the armed, the wealthy — revealing to the world 
+the power of the immortal spirit — the whole castle 
+of the Giant Flesh will vanish in the void. And 
+then Man will find his Swaraj. 
 
-S. S. Rhyndam. 
+We, the famished, ragged ragamuffins of the East, 
+are to win freedom for all Humanity. We have no 
+word for ‘Nation’ in our language. When we 
 
-You, who are given a stable and solid surface to 
-work out your problems of daily life, cannot fully 
-realise what a trial it has been for us, these two 
-lays, to be tossed upon a wild sea every moment 
+LETTEES FROM ABROAD 
 
-of our existence. I do not feel sea-sick, but the 
-great fact for us is, that we are the children of the 
-land. This is an immovable fact— and yet, when 
-this fact begins to move, it is not only misery but 
-an affront to us. The whole sea seems to laugh 
-loud at the conceited creatures, who only have a 
-pair of* tottering legs and not even a fraction of a 
-fin. 
+borrow this word from other people, it never fits us. 
+For we are to make our league with Narayan, and 
+our victory will not give us anything but victory 
+itself ; victory for God’s world. I have seen the 
+West ; I covet not the unholy feast, in which she 
+revels every moment, growing more and mor§ bloat- 
+ed and red and dangerously delirious. Not for us, 
+is this mad orgy of midnight, with lighted torches, 
+but awakenment in the serene light of morning. 
 
-Every moment the dignity of man is outraged 
-by making him helplessly tumble about in an infinite 
-variety of awkwardness. He is compelled to take 
-part in a very broad farce : and nothing can be 
-more tihmiliating for him than to exhibit a comic 
-appearance in his very sufferings. It is like making 
-the •audience roar with laughter by having the 
-clown kicked into all manner of helpless absur<M- 
-ties. While sitting, walking, taking meals, we are 
-constantly being hurled about into unexpected 
-postures, wfiich are shamefully inconvenient. 
+CHICAGO, 
 
-When Gods try to become funny in their sublime 
-manner of perpetrating jokes, we, mortal creatures, 
-find ourselves at a terrible disadvantage ; for their 
-huge laughter, carried by the millions of roaring 
-waves, in flashing foam, keeps its divine dignity un- 
-impaired, while we, on our side, find our self-respect 
-knocked into pieces. I am the only individual in this 
-steamer, who is vying with the Gods by fashioning 
-my misery into laughing words and refusing to be a 
-mere passive instnrment of an elemental foolery. 
-A laughter, which is tyranny, has to be answered 
+March 5, 1921. 
 
-by another laughter which is rebellion. And this 
-letter of mine carries the laughter of defiance. I 
-had no other object in sitting down to write this 
-morning ; I had nothing particular to say to you — 
-and to try to think when the ship is rolling in such 
-an insane manner, is like trying to car^ a full 
-vessel of water while one is drunk ; the greater 
-part of the content is spilt. And yet I must write 
-this letter, merely to show, that, though at the 
-present moment I cannot stand erect on my legs, I 
-can write. This is to assert, in the face of the 
+Lately I have been receiving more and more news 
+and newspaper cuttings from India, giving rise in 
+my mind to a painful struggle that presages a period 
+of suffering which is waiting for me. I am striving 
+with all my power to tune my mood of mind to be 
+in accord with the great feeling of excitement 
+sweeping across my country. But, deep in my 
+being, why is there this spirit of resistance maintain- 
+ing its place in spite of my strong desire to remove 
+it ? I fail to find a clear answer ; and through my 
+gloom of dejection breaks out a smile and a voice 
+saying, “Your place is on ' the seashore of worlds, 
+with children ; there is your peace, and I am with 
+you there.’’ 
 
-ironical clapping of hands of the mighty Atlantic, 
+This is why lately I have been playing with 
+inventing new metres. These are merest no- 
+things that are content to be borne away by the 
+current of time, dancing in the sun and laughing 
 
-•* 
+as they disappear. But while I play, the whole 
+creation is amused, for are not flowers and 
+leaves never-ending experiments in metre. Is not 
+my God an eternal waster of time ? He flings stars 
+and planets in the whirlwind of changes, he floats 
+paper-hoats of ages, filled with his fancies, on the 
+rushing stream of appearance. When I tease him 
+and beg him to allow me to remain his little follower 
+and accept a few trifles of mine as the cargo of his 
+play-boat, he smiles and I trot behind him catching 
+the hem of his robe. 
 
-that my mind, not only can stand up straight in its 
-world of language, but can run, and even dance. 
-This is my triumph. 
+Butv» where am I among the crowd, pushed from 
+behind, pressed from all sides ? And what is this 
+noise about me ? If it is a song, then my own sUar 
+can 'catch the tune and I join in the chorus, for 
+I am a singer. But if it is a shout, then my 
+voice is wrecked and I am lost in bewilderment. 
+I have been trying all these days to find in it 
+a melody, straining my ear, but the idea of non- 
+co-operation, with its mighty volume of sound, 
+does not sing to me ; its congregated menace 
+of negation shouts. And I say to myself, " If you 
+cannot keep step with your countrymen at this 
+great crisis of their history, never say that you are 
+right and the rest of them wrong ; only give up your 
+role as a soldier, go back to your corner as a poet, 
+be ready to accept popular derision and disgrace.” 
 
-To-day is Tuesday — on the morning of'^Thursday 
-we are expected to reach Plymouth. I had been 
-nourishing in my heart the expectation of finding 
-your letters waiting for me in London ; for I had 
-hoped that R — had cabled to Thos. Cook’s about 
-our movements. But I find that he has not, and a 
-number of your letters will take nearly a month to 
-find me. I cannot tell you what a disappointment 
-it is for me. Your letters have helped me more 
-than anything else during these extremely trying 
-months of my exile — they have been like food and 
-water to a soldier who is dragging his wounded and 
-weary limbs, counting every step, across a difficult 
-and doubtful road back to his camp-fire. However, 
-5 am coming to my journey’s end and intensely 
+R— , in support of the present movement, has often 
 
-hoping to see you, when I reach home. What I 
-have suffered God only knows. — I am longing for 
-rest.
+f 
+
+said to me .that passion for rejection is a stronger 
+power in the beginning than the acceptance of an 
+
+ideal. Though I know this to be a fact, I cannot 
+take it as a truth. We must choose our allies once 
+for all ; for they stick to us even when we might be 
+glad to be rid of them. If we once claim strength 
+from intoxication, then in the time of reaction our 
+normal strength is bankrupt ; and we go back again 
+and again to the demon who lends us resources in 
+a vessel whose bottom it takes away. 
+
+Brahma-vidifa, the cult of Brahma, the Infinite 
+Being, has for its object mukti, emancipation, 
+while Buddhism has nirvana, extinction. It may 
+be argued that both have the same idea in different 
+names. But names represent attitudes of mind 
+and emphasise particular aspects of truth. Mukti 
+draws our attention to the positive, and nirvana to 
+che negative side of truth. Buddha kept silence 
+all through his teachings about the truth of the Om, 
+the Everlasting Yes, his implication being that by 
+the negative path of destroying the self we naturally 
+reach that truth. Therefore he emphasised the fact 
+of dukha, misery, which had to be avoided. But 
+the Brahma-vidya emphasised the fact of Ananda, 
+Joy, which had to be attained. The latter cult also 
+needs for its fulfilment the discipline of self-abnega- 
+tion ; yet it holds before its view the idea of Brahma, 
+not only at the end, but all through the process of 
+realisation. 
+
+Therefore the idea of life’s training was 
+different in the Vedic period from that of the 
+Buddhistic. In the former it was the purification 
+
+of life’s joy ; in the latter it was the eradication of 
+it. The abnormal type of asceticism to which 
+Buddhism gave rise in India revelled in celibacy 
+and mutilation of life in all different forms. Yet 
+the forest life of the Brahmana was not antagonistic 
+to the social life of man, but harmonious with it. 
+It was dike our musical instrument tambura whose 
+duty is to supply the fundamental notes to the 
+music to save it from straying into discordance. It 
+believed in Aiiandav^, the music of the soul, and its 
+own simplicity was not to kill it, but to guide it. 
+
+The idea of non-co-operation is political ascetic- 
+ism. Our students are bringing their offering of 
+sacrifices to what? Not to a fuller education, but to 
+non-education. It has at its back a fierce joy of 
+annihilation, which at its best is asceticism, and at 
+its worst is that orgy of frightfulness in which 
+human nature, losing faith in the basic reality of 
+normal life, finds a disinterested delight in an 
+unmeaning devastation, as has been shown in the 
+late war and on other occasions which came nearer 
+to us. ‘ No’ in its passive moral form is asceticism, 
+and in its active moral form is violence. The 
+desert is as much a form of himsa, violence, as is 
+the raging sea in storm ; they both are against life. 
+
+I remember the day, during the Swadeshi move- 
+ment in Bengal, when a crowd of young students 
+came to see me in the first floor hall of our Vichitra 
+house. They said to me that if I would order them 
+to leave their schools and colleges they would 
+
+instantly obey. I was emphatic in my refusal to 
+do so, and they went away angry, doubting the 
+sincerity of my love for my motherland. And yet 
+long before this popular ebullition of excitement, I 
+myself had given a thousand rupees, when I had not 
+five rupees to call my own, to open a Swadeshi store 
+and courted banter and bankruptcy. 
+
+The reason of my refusing to advise those 
+students to leave their schools was because 
+the anarchy of a mere emptiness never tempts 
+me, even when it is resorted to as a tempor- 
+ary measure. I am frightened of an abstrac- 
+tion which is ready to ignore living cedlity. 
+These students were no more phantoms ‘to me. 
+Their life was a great fact to them and to the All. I 
+could not lightly take upon myself the tremendous 
+responsibility of a mere negative programme for 
+them, which would uproot their life from its soil, 
+however thin and poor that soil might be. The 
+great injury and injustice, which had been done to 
+those boys, who were tempted away from their 
+career before any real provision was made, could 
+never be made good to them. Of course that is 
+nothing from the point of view of an abstraction, 
+which can ignore the infinite value even of the 
+smallest fraction of reality. I wish I were the 
+little creature Jack, whose one mission is to kill the 
+giant Abstraction, which is claiming the sacrifice 
+of individuals all over the world under highly 
+painted masks of delusion. 
+
+I say again and again that I am a poet ; that I am 
+not a fighter by nature. I would give everything 
+to be one with my surroundings. I love my fellow- 
+beings and I prize their love. Yet I have been 
+chosen by destiny to ply my boat there, where the 
+current is against me. What irony of fate is this 
+that I should be preaching co-operation of cultures 
+between East and West on this side of the sea ju.st 
+at the moment when the doctrine of non-co-opera- 
+tion is preached on the other side ? You know that 
+I do not believe in the material civilisation of the 
+West, just as I do not believe the physical body 
+to be the highest truth in man. But I still less 
+believe In the destruction of the physical body, and 
+the ignoring of the material necessities of^-life. 
+What’ is needed is establishment of harmony 
+between the physical and spiritual nature of man, 
+the maintaining of balance between the foundation 
+and superstructure. I believe in the true meeting of 
+the East and the West. Love is the ultimate truth 
+of soul. We should do all we can, not to outrage 
+that truth, but to carry its banner against all opposi- 
+tion. The idea of non-co-operation unnecessarily 
+hurts that truth. It is not our hearth-fire, but the 
+fire that burns out our hearth and home.
 
 ---
 
 ### Editorial Notes
 - Letter #35 from "Letters From Abroad" (1924)
-- Extracted from Archive.org pre-OCR'd text (DjVu format)
-- Date: may set it in those, inimitable v (ISO: )
-- Location: with my blessings, to Satyendranath Datta that he
-- Word count: 1,138
-- Page headers and artifacts removed
+- Extracted using comprehensive multi-pattern detection
+- Date: Not dated (ISO: N/A)
+- Location: Chicago
+- Word count: 2,072
 - Source: https://archive.org/details/in.ernet.dli.2015.97031
