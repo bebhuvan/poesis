@@ -5,7 +5,7 @@ year: 1924
 language: English
 genre: Letters/Epistolary
 source: "Internet Archive (in.ernet.dli.2015.97031)"
-extracted_at: "2025-11-21T05:05:07.534201"
+extracted_at: "2025-11-21T05:21:03.357062"
 extraction_method: "Multi-Model Competitive OCR Pipeline"
 ---
 
@@ -68,3 +68,1668 @@ I feel that we are not likely to be long in Europe. I am not in a mood to face t
 One grows old, to discover that spontaneous simpli-city of life is the true life—but where are the time and the opportunity to realise it? It requires a great deal of courage to demolish the walls that one has himself built with all his resources. This building and breaking down both are needed. The cocoon becomes a true prison, only when it persists beyond its time. I wonder if my soul has its wings developed—-but it is pining for freedom.
 
 Good bye—try to cultivate restfulness and have leisure to woo your true self and gain her for good.
+
+--- Page 10 ---
+
+2 LETTERS FROM ABROAD NEAR ADEN, May 19, 1920.
+
+The crowd is thick. To place one’s chair in some tolerable position on the deck requires a degree of physical power which I lack. I have taken my shelter in a corner of the music saloon where space itself has not become impenetrable. Long before the sunrise, when it is dark, I sit on the deck and wish that I could have the great solitude of the sea and the sky safely packed in my trunk with a label on it, ‘‘ Required on Deck”.
+
+I do not know where you are, what your plans are and how you are feeling. But I can guess that you are at Delhi just at this time, not only because ‘Bara Sahib’ is there, but also because the journey there is likely to be insufferable in this heat.
+
+My mind is constantly soaring back to my own place in Santiniketan. I feel almost certain that my stay in Europe this time will be surprisingly short. But one’s own wish is not the sole factor in these things, and I am told that the return passage is not easily obtainable. That means our voyage back to India will be as crowded as this. This sets me dreaming of impossibilities of Alladin’s lamp, of wishing carpets or boots that take you a thousand miles in a second.
+
+The sea is perfectly calm and M—is radiantly happy. I hope my MSS. will reach me in England within a week of my landing. As those were
+
+--- Page 11 ---
+
+LETTERS FROM ABROAD 3 already typed, it was a mistake to give them again to the typist. Mistakes are considered to be good lessons, but most of them are learnt too late.
+
+RED SE, “May 24, 1920.
+
+We shall reach Suez this evening. It is already beginning to grow cold, and now I feel that we have reached a truly foreign part of the world and it is under the rule of different gods than ours. Our hearts are strangers in this region and even the atmosphere of this place looks askance at us. The people here want us to fight their battles and supply them with our raw materials, but they keep us standing outside their doors over which is written on the notice board: “Trespassers from, Asia will be prosecuted.” When I think of this all my thoughts shiver with cold and I feel home-sick for the sunny corner in my Santiniketan bungalow.
+
+To-day is Monday, and on the next Sunday morning our steamer will reach Marseilles. But Iam already counting the days for my return journey; and I know the sight of the bare rocks of Aden will give a thrill of delight to my heart while pointing with lifted fingers the way to India.. LONDON, June 17, 19.20.
+
+Time is scarce and sugar and butter and a quiet place where I can gather thoughts and recog-nise myself. Do not expect from me letters, or
+
+--- Page 12 ---
+
+4 LETTERS FROM ABROAD
+
+anything else. The fury of social engagements is on me. It is a thing on which you cannot compose an ode, like that on the West Wind. I am willing to try, if it only would allow me some time to do it. The poet Hafiz was willing to exchange the wealth of Samarkand and Bokhara for a mole on the cheek of his beloved maiden. I am _ willing to ‘give London away for my corner in Uttarayan. But London is not mine to dispose of,—neither was the wealth of Samarkand and Bokhara the Persian poet’s. So our extravagance does not cost us any-thing, nor does it bring us any help.
+
+I am going to Oxford to-morrow. Then I shall be knocking about in different places. Just at this moment, I am starting for a tea party given in my honour, from which I cannot absent myself on any pretext, unless I can manage to be run over by a motor car in the London street. It is a matter of eternal wonder to me why this does not happen to me four times a day. You won’t believe my scarcity of time, if I run on to the end of this note-paper. So I hastily bid you farewell.
+
+LONDON, July 8, 1920.
+
+Every day I have been wishing to write youa letter—but the flesh is weak. My days have become solid like cannon balls, heavy with engagements. It is not true that I have no leisure at all, but unfortunately I cannot utilise interrupted leisure for any work
+
+--- Page 13 ---
+
+LETTERS FROM ABROAD 5) whatever. Therefore those intervals are lost doing nothing. I am sure you know it, better than any-body else, that doing nothing is a burden hard to bear. But if you look at my exterior, you will find no trace of damage there—for my health is absurdly good, I hope Pearson is regularly furnishing you with all the news. He has been of very great help to me, as you can well imagine, and I find that the arduous tesponsibility of looking after a poet suits him wonderfully well. He is looking the very picture of health, and on the whole his dreams are felicitous. For instance, last night he dreamt that he ha? been buying strawberries as large as gourds. It proves the magnificent vitality of his dreams.
+
+I know our vacation is over. The boys are back at school and the Ashram is resounding with laughter and songs. The advent of the rains is also contributing its portion to the rejoicing. Howl wish I had wings! Give my love to all the children, and my blessings.
+
+\ LoNnDoN, July 13, 1920.
+
+It gave me great joy and a feeling of relief, when your sister came to see me yesterday and gave me reassuring news of your other sister. She repeatedly asked me to tell you, that there was not the least cause for anxiety on account of them, and that they were comfortably settled in their new home in Coventry. I gave her all the news about you, but
+
+--- Page 14 ---
+
+6 LETTERS FROM ABROAD unfortunately could not assure her that you were careful of your health.
+
+Invitations are pouring in from the Continental countries, and I feel sure that a hearty welcome is awaiting me in these places. When I am weary and feel a longing to go back to my garden of prickly shrubs, it gives me strength to think that the migratory flock of my thoughts have found their nests in these shores, and with genuine love and wonder these enormously busy people have listened to a voice from the distant East.
+
+This is a constant surprise to me. However, there is no question that you truly and fully live there, where your thoughts and works find their medium of responsive life. When Iaminthe West, I feel, more strongly than ever, I am received in a living world of mind. I miss here my sky and light and leisure; but I am in touch with those who feel and express their need of me and to whom I can offer myself. It is not unlikely that some time hence my thoughts will no longer be necessary to them and my personality will lose its flavour; but does it matter? The tree sheds its leaves, but the fact is, that so long as these were living they brought sunshine into the heart of the tree and their voice was the voice of the forest; and my communication with western humanity has been a communication of life; even when it ceases, the fact remains that it brought some rays of light there, which have been transformed into
+
+--- Page 15 ---
+
+LETTERS FROM ABROAD v4 the living stuff of their mind. Our span of life is short and opportunities are rare, so let us sow our seeds of thought, where the soul claims them and where the harvest will ripen.
+
+LONDON, ‘July 22, 1920.
+
+The result of the Dyer debates in both Houses of Parliamant makes painfully evident the attitude of mind of the ruling class of this country towards India. It shows that no outrage, however mon-strous, committed against us by agents of their Government, can arouse feelings of indignation in the hearts of those from whom our governors are chosen. The unashamed condonation of bru-tality expressed in their speeches and echoed in their newspapers is ugly in its frightfulness. The feeling of humiliation about our position under the Anglo-Indian domination nad been growing stronger every day for the last fifty years or more; but the one consolation we had, was our faith in the love of justice in your people, whose soul had not been poisoned by that fatal dose of power which could only be available in a dependency where the man-hood of the entire population had been crushed down into helplessness. But the poison has gone further than we expected, and it has attacked the vital organ of your nation and I feel that our appeal to your higher nature wil] meet with less and less res-ponse every day. I only hope that our countrymen
+
+--- Page 16 ---
+
+8 LETTERS FROM ABROAD will not lose heart at this, but employ all their energies in the service of their country in a spirit of indomitable courage and determination. The late events have conclusively proved that our true salvation lies in our own hands; that a nation’s greatness can never find its foundation in half-hearted concessions of contemptuous niggardliness. It is the sign of feeble character to seek fora short-cut to fulfilment through the favour of those whose interest it is to keep it barred; the one path to it is the difficult path of suffering and seif-sacrifice. All great boons only come to us through the power of the immortal spirit we have within us, and that spirit only proves itself by its defiance of danger and loss.
+
+I find it very difficult to write letters; my mind barricades itself against the pressure of the hustling world, and refuses to surrender itself to me when its help is needed. It is taking its revenge for being dragged away from its shelter.
+
+LONDON, Angust £, 1920,
+
+We live on the topmost floor of this house far away from the surging life of the town. Only the crest of the swell of the London street noise reaches me, gently undulating like those clustering tree-tops of Kensington Gardens, that I watch from my window. The long and persistent spell of bad weather seems to have exhausted its spite and the
+
+--- Page 17 ---
+
+LETTERS FROM ABROAD 9 mellowed light of the morning sun from behind the fleecy clouds is greeting me like the smile of a child whose eyes are still heavy with sleep. It is nearly seven o’clock and every one of our party, including Pearson, is fast asleep within shut doors and behind drawn blinds. To-day is our last day in London and I ‘am not sorry to leave it. I wish it were the day for sailing home, but that day looks hazily indistinct in the distance and my heart aches.
+
+I &m sure you have heard from Pearson all about the performance of my plays and my lecture about the Bauls. I am a bad historian. I cannot remember facts, even the most recent, and most important. For this reason, as a letter writer, lam a failure as in many other vocations of life. Fortunately I can talk upon nothing when I wish, and this saves me, in my correspondence, from utter disaster.
+
+LONDON, August 4, 19.20.
+
+Owing to change of plans and other reasons we are still detained in London. We hope to leave it the day after to-morrow. Now that the people believe that we are away and also your weather has ceased to persecute us, these last two days have ‘been very restful for me. I ‘wonder if you know at the last moment we decided not to begin our tour for Norway though our tickets were bought. I
+
+--- Page 18 ---
+
+10 LETTERS FROM ABROAD am sure you are ready to ascribe this to the inconstancy of my mind!
+
+P. S. I have just written this about Dr. Patrick Geddes.
+
+What so strongly attracted me in Dr. Patrick Geddes when I came to know him in India, was not his scientific achievements, but, on the contrary, the rare fact of the fulness of his personality rising far above his science. Whatever he has studied and mastered has become vitally one with his humanity. He has the precision of the sciehtist and, at the same time, the vision of the prophet. He has also the power of an artist to make his ideas visible through the language of symbol. His love of man has given him the insight to see the truth of man, and imagination to realise in the world the infinite mystery of life, not merely its mechanical aspect.
+
+PARIS, August 13, 1920.
+
+I have come to Paris, not to stay here, but to decide where to go. The sun is shining bright and a spirit of exhilaration is in the atmosphere. Sudhir received me at the station and made all arrange-ments for us. Pearson has gone to stay with his mother for some weeks before we start for Amorica. Therefore I am in the hands of Sudhir just at present and he is taking proper care of me. Paris is empty and there is no chance of our meeting the
+
+--- Page 19 ---
+
+LETTERS FROM ABROAD 11 people whom I should like to meet. Our stay in England has been wasted. Your Parliament debates about Dyerism in the Punjab and other symptoms of the arrogant spirit of contempt and cal-lousness about India have deeply aggrieved me and it was with a feeling of relief that I left England.
+
+NEAR PARIS, August 20, 1920.
+
+After a fortnight’s weary waiting I have got my Indian mails. Very likely Mrs. Pearson has gone to the country and the letters were wasting at her house. I feel relieved to know that your operation is over and you are none the worse for it..
+
+Weare ina delightful country, in a delightful place in France, meeting with people who are sohuman. I feel clearly that the ultimate reality for man’s life is his life in the world of ideas, where he is emancipated from the gravitational pull of the dust and where he realises that he is spirit. We, in India, live ina narrow cage of petty interests; we do not believe that we have wings, for we have lost our sky; we chatter and hop and peck at one another within the small range of our obstructed opportunities. It is difficult to achieve greatness of mind and character where our responsibility is diminutive and fragmentary, where our whole life occupies and affects an
+
+‘extremely limited area. And yet through the cracks and chinks of our walls we must send out our starved branches to the sunlight and air, and the roots of our
+
+--- Page 20 ---
+
+12 LETTERS FROM ABROAD
+
+life must pierce the upper strata of our soil of desert sands till they reach the spring of water which is exhaustless. The most difficult problem is ours, which is how to gain our freedom of soul in spite of the crampedness of outward circumstance, how to ignore the perpetual insult of our destiny so as to be able to uphold the dignity of man. Our Santi-niketan is for this tapasya of India. We who have come there often forget the greatness of eur mission, mostly because of the obscurity of insignificance with which the humanity of India seems to be obliterated. We do not have the proper light and perspective in our surroundings to be able to realise that our soul is great, and therefore we behave as if it is doomed to be small for all time.
+
+ARDENNES, August 21, 1920.
+
+We are in a most béautiful part of France. But of what avail is the beauty of Nature when you have lost your trunks which contained your dresses and underwear. I could have been in perfect sympathy with the trees surrounding me, if, like them, I were not dependent upon tailors for maintaining self-respect. However, the most important event for me in this world at present is not what is happening in Poland, or Ireland, or Mesopotamia, but that all the trunks belonging to our party have disappeared from the goods van in their transit from Paris to this place. And
+
+--- Page 21 ---
+
+LETTERS FROM ABROAD 13 therefore, though the sea is singing its hymns to the rising and the setting sun and to the star-lit silence of the night, and though the forest round me is standing a tip-toe on the rock like an ancient Druid, raising its arms to the sky, chanting its incantation of primeval life, we have to hasten back to Paris to be restored to the respectability ministered to by tailors and washermen. (This is what our first parents have brought upon us. Our clothes are acting like screens dividing us from the rest of the world; and for this we have to pay—pay the bills! Do you not think that itis outrageously undignified for my humanity, that, standing face to face with the magnificent spirit of this naked Nature, I can think and speak of nothing but wretched clothes, which in three years’ time will be tattered into shreds, while these pine trees will remain standing ever fresh and clean majestically unaffected by the soiling touch of the hours?
+
+I suppose I told you in my last letter that I met Sylvain Levy in Paris. He is a great scholar, as you know, but his philology has not been able to wither his soul. His mind has the translucent simplicity of greatness and his heart is overflowing with trustful generosity which never acknowledges disillusionment. His students come to love the subject he teaches them, because they love him. I realise clearly when I meet these great teachers that only through the medium of personality can truth be communicated to men. This fundamental
+
+--- Page 22 ---
+
+14 LETTERS FROM ABROAD principle of education we must realise in Santini-ketan. We must know that only he can teach who can love. The greatest teachers of men have been lovers of men. The real teaching is a gift; itisa sacrifice; it is not a manufactured article of routine work; and because it is a living thing, it is the fulfilment of knowledge for the teacher himself. Let us not insult our mission by allowing ourselves to become mere school-masters—the dead feeding-. bottles of lessons for children who need the human touch lovingly associated with their mental frod.;
+
+I have just received your letter, and, for some time, I have felt myself held tight in the bosom of our Ashram. I cannot tell you how I feel about the prolonged separation from it, which is before me, but at the same time I know that unless my rela-tionship with the wide world of humanity grows in truth and love, my relationship with the Ashram will not be perfect. (Through my life, my Ashram will send its roots into the heart of this great world to find its sap of immortality. We who belong to Santiniketan cannot afford to be narrow in our outlook and petty in our life’s mission and scope. We have seen, in Tiretta Bazar, thirty or more birds packed in one single cage, where they neither can sing nor soar in the sky, but make noise and peck at each other. Such a cage we build ourselves for our souls with our petty thoughts and selfish ambition and then spend our life quarrelling with each other clamouring and scrambling for a small
+
+--- Page 23 ---
+
+LETTERS FROM ABROAD 15 advantage. But let us bring freedom of soul into Santiniketan
+
+September 7, (920.
+
+Your letters always bring the atmosphere of Santiniketan round my mind with all its colour and souads and movements, and my love for my boys, like a migratory bird, crosses back over the sea, seeking its own dear fest in the Ashram. Your letters are great gifts to me—I have not the power to repay them inkind. For now my mind faces the West, and all that it has to give naturally flows towards it. Therefore, for the time being, my direct communication with you has become thin like the stream of the Kopaiin the summer. But I know Santiniketan will not bring forth its fulness of flower and fruit, if, through me, it does not send its roots to the Western soil. Stung by insult of injustice we try to repudiate Europe, but by doing so we insult ourselves. Let us have the dignity not to quarrel or retaliate, not to pay back smallness by being small ourselves. This is the time when we should dedicate all our resources of emotion, thought and character to the service of our country in a positive direction of duty.
+
+We are suffering because of our offences against Shivam, against Advaitam; we spend all our energy in quarrelling with the punishment, and nothing of it is left for the reparation of wrongs we have done and are doing. When we have performed our part
+
+--- Page 24 ---
+
+16 LETTERS FROM ABROAD
+
+of the duties we shall have the fullest right and power and time to bring others to book for their transgressions.
+
+Let us forget the Punjab affairs—but never forget that we shall go on deserving such humiliation over and over again until we set our house in order. Do not mind the waves of the sea, but nind the leaks in your vessel. Politics in our country is extremely petty, It has a pair of legs, one of which. has shrunk and shrivelled and become paralytic, and therefore it feebly waits for the other ene to drag it on. There is no harmony between the two and our politics, in its hoppings and totterings and falls, is comic and undignified. The entreaty and anger, which alternately are struggling to find expression in the ludicrously lame member of this tragic partnership, both belong to our abject feebleness. When Non-co-operation comes naturally as our final moral protest against the unnaturalness of our political situation, then it will be glorious, because true; but when it is another form of beg-ging—it may be, the best form—then let us reject it.
+
+The establishment of perfect co-operation of life and mind among ourselves must come first through tapusya of sacrifice and self-dedication, and then will come in its natural course the non-co-operation. When the fruit completely ripens itself, it finds its freedom through its own fulfilment of truth. Our country is crying to her own children for their co-operation in the removal of obstacles in
+
+--- Page 25 ---
+
+LETTERS FROM ABROAD 17 our social life, which for centuries have been hampering us in our self-realisation. We need co-operation in the sacrifice of love, more than anything else, to prove to our country that she is ours; and then we shall have the moral right tu say to others, “We have nothing to do with you in our own affairs.” And for this, all the moral fervour which the life of Mahatma Gandhi represents, and which he, of all
+
+‘other menein the world, can call up, is needed.
+
+That such a precious treasure of power should be put into the mean and frail vessel of our politics, allowing it to sail across endless waves of angry recrimination, is terribly unfortunate for our country, where our mission is to revive the dead with the fire of the soul. The external waste of our resources of life is great owing to external circumstances; but that the waste of our spiritual resources should also be allowed to happen on adventures that are wrong from the point of view of moral truth is heart-breaking. It is criminal to turn moral force into a blind force.
+
+Our time to go to Holland is drawing near. I have numerous invitations from over there to lecture.- Iam not yet fully ready. Justnow I am busy writing. My subject is the Meeting of the East and West. I hope it will be finished before I leave Paris.
+
+September 12, 1920. I had invitations from Germany and I decided to -go, But travelling frem one country to another has 2
+
+--- Page 26 ---
+
+18 LETTERS FROM ABROAD
+
+become so difficult nowadays that I had to give it up. Specially, going from France to Germany is beset with obstacles. On my way back from Holland I shall try my best at least to visit Hamburg. Germany needs sympathy, and I hope I shall have the opportunity to go there and offer it to her.
+
+The other day I was taken to Rheims and other devastated regions of France in a metorcar. It was a most saddening sight. Some of the terrible damages deliberately done, not for any necessities of war, but to cripple France for ever, were so savage that their memory can never be effaced. For it will take a tremendous effort and also an immense lapse of time to make them things of the past. When the spiritual ideal is lost, when the human relationship is completely broken up, then individuals freed from that creative bond of wholeness finda fearful joy in destructiveness. In such catastrophes one can realise what a stupendous force of annihilation is not only kept in check in our society, but made into multitudinous manifestations of beauty and fruitfulness. Then we know that evils are like meteors, stray fragments, wreckage of a broken-up wholeness, which need the attraction of a great planet of life’s ideal to be assimilated into the peace of creation. Only spiritual ideals have that great power of attraction that can transmute these’ rebellious fractions into a perfect roundness. The evil forces are literally outlaws. They only need
+
+--- Page 27 ---
+
+LETTERS FROM ABROAD 19 the control and cadence of creative laws to change them into good. Our Shiva is the lord of terrible spirits, who are spirits of death: and he is also Shivam, the good. The true goodness is not in the negation of badness; it is in mastery of it. It is the miracle that turns the tumult of chaos into the dance of beauty. The true education is the use of that power of miracle, that ideal of creation. Punish-ments and disciplines imposed from outside are negative. The teacher is Shiva. He has the divine power of destroying destructiveness, of sucking out poison. If France had the Shiva in her heart she could transform evil into good, she could forgive. And by that forgiveness she could prove her own immortality, and truly save herself from the hurt which was inflicted upon her.
+
+This is difficult, but this is the only way of salvation. Only the creative ideal can completely get over the acts of destruction. It is the spiritual ideal, it is love, it is forgiveness. God is perpetually exercising it and thus the creation is ever kept sweet, and in the heart of death life has its ceaseless play of joy. Do we not know this in our individual life? Have we our own right to exist in this wonderful world? Would we not burn it, destroy it? Has not God’s creative power given us our place in his universe? Must we forget that, when we judge and deal with our own fellow beings?
+
+--- Page 28 ---
+
+20 LETTERS FROM ABROAD
+
+PaRIS,
+
+‘September 18, 1920.
+
+’ To-night we start for Holland. We have spent a very happy time in this house and have made friends with very remarkable persons. The whole big house with its beautiful garden and river bank have been absolutely ours. Some corners of its rooms, some window seats, some padded chairs have yielded their heart to me, and they already look sad and disconsolate at the idea of my departure.
+
+I find our countrymen are furiously excited about Non-co-operation. It will grow into something like our Swadeshi movement in Bengal. Such an emotional outbreak should have been taken advan-tage of in starting independent organisations all over India for serving our country. Let Mahatma Gandhi be a true leader in this; let him send his call for positive service, ask for homage in sacrifice, which has its end in love and creation. I shall be willing to sit at his feet and do his bidding, if he commagas me to co-operate with my countrymen in service of love. I refuse to waste my manhood in lighting the fire of anger and spreading it from house to house.
+
+It is not that I do not feel anger in my heart for injustice and insult heaped upon my mother-land. But this anger of mine should be turned into the fire of love for lighting the lamp of worship to be dedicated through my country to my
+
+--- Page 29 ---
+
+LETTERS FROM ABROAD 21 God. It would be an insult to humanity, if I use the sacred energy of my moral indignation for the purpose of spreading a blind passion all over my country. It would be like using the fire from the altar of Jajna for the purpose of incendiarism.: Please ask Suren to translate into English the series of my papers which I wrote during the great political excitement over the partition of Bengal. They wil].be useful in thé present situation.
+
+Dinner is announced—the time is approaching for our departure—so I may say ‘ God be with you, and take my leave.
+
+PARIS, September 19, 1920.
+
+Recenty. I chanced to find a copy of Professor Lowes Dickenson’s report of his travels in the East. It made me realise clearly the mentality of the British people in their relation to India. When the author indicates, in it, the utter difference of their temperament from ours, it fills me with despair at the unnaturalness of our relationship, which is so humiliating on our side and so demoralising on theirs.
+
+In- the pamphlet, he quotes, with approval, a remark made to him by an Englishman, an officer in India, whom he describes as “ intelligent and enlightened”. It is about the maintaining by Englishmen of an impassable social gulf between themselves and the people of India, and it says:
+
+--- Page 30 ---
+
+22 LETTERS FROM ABROAD
+
+“An Englishman cannot be expected to lose his own soul for the sake of other people’s politics.”
+
+Here the author parenthetically explains the word ‘soul’ by saying that it denotes the habits and traditions of one’s race.
+
+All this means, that Englishmen feel a sense of irreconcilable contradiction between their nature and ours; we are like twins, who, by some mon-strous freak of destiny, have been tied together back to back. He concludes the summary of his Report by saying:
+
+“But my own opinion is that India has more to gain and less tolose than any other Eastern country by contact with the West.”
+
+He contemptuously ignores the fact that where no communication of sympathy is possible, gifts can be hurled, but not given; that while counting the number of gains by the receiver, we also have to consider the fracture of his skull; and while thanking the doctor for the rest cure, we must hasten to negotiate with the undertaker for the funeral.
+
+It is the very irony of fate for us to be blamed by these people about the iniquity of our caste distinc-tions. And yet, never, in the blindness of our pride of birth, have we suggested that by coming into contact with any race of men we can lose our souls, although we may lose our caste which is a merely conventional classification. The analogy would be perfect, if the division of the railway compartments, with its inequality of privileges,
+
+--- Page 31 ---
+
+LETTERS FROM ABROAD 25 was defended by the railway directors as being necessary for the salvation of the passengers souls.
+
+Only think in this connexion of the ideal which the life of Akbar represented. This Emperor's soul was not afraid, for its own safety, of the touch of a neighbouring humanity, but of the want of touch. Aurangzeb, on the other hand, who was certainly “intelligent and enlightened” and meticulously careful about keeping intact what he considered to be his soul, represented a force, insolent and destructive. Such an enormous difference in the ideals of these two most powerful monarchs of Moghal India sprang from fundamentally different interpretations of the world ‘soul’.
+
+Lowes Dickenson has mentioned the possi. bility of India being benefited by her contact with the West. Very likely he meant the contact to be like that of the root of a tree with the water in the soil. J admit that the light of Europe’s culture has reached us. But Europe, with its corona of culture, is a radiantidea. Its light permeates the present age; it is not shut up.in a single bull’s eye lantern, namely, some particular people from Europe who have come to us in India. Yet we are repeatedly asked to be grateful to this bull’s eye lantern and prostrate ourselves before it with loyalty and reverence. But such a thing is not possible; for it isa mere lantern, it has nosoul. Not only that, but it circumscribes the light to a narrow
+
+--- Page 32 ---
+
+24 LETTERS FROM ABROAD
+
+circle of barest necessity. The full radiation of European culture has pervaded Japan only because it has not come to her through an unnatural glare of a miserly lens, exaggerating the division between the small shining patch and the vast obscure.
+
+It is our pride which seeks difference, and ‘gloats upon it. But sympathy is a higher faculty; it is our spiritual organ of sight: it has the natural vision of the Advaitam. The world is an ever-moving multitude with an eternal unity of movement, which must not be retarded in any of its parts by a break of cadence. The world of man is suffering because all movements in its individual parts are not in harmony with one another and therefore with the whole: because the relationship of races has not been established in a balance of truth and goodness. This balance cannot be maintained by an external regulation, as in a puppet show. It is a dance which must have music in its heart to regulate it. This great music of love is lacking in the meeting of men which has taken place in the present age; and all its movements in their incongruity are creating complexities of suffering.
+
+I wish I could write to you simple letters giving detailed news about ourselves. But the world-wide agony of pain fills my mind with thoughts that obstruct natural communications of personal life.
+
+--- Page 33 ---
+
+LETTERS FROM ABROAD 25 ‘ANTWERP, October 8rd, 1920.
+
+You must have heard by this time, from different sources, that our American tour has been cancelled. The atmosphere of our mind has been cleared, at a sweep, of the dense fog of the contemplation of securing money. This is deliverance.; )
+
+In the meanwhile I have spent about a fortnight in Holland. This fortnight has been most generous in its gifts to me. It has condensed the love and ffllowship of fifteen years into fifteen days and has made it mine. This you may be sure of, that a communication of heart has been opened up between this little country and Santiniketan, and it remains with us to widen it and make use of it for the interchange of spiritual wealth. Altogether Europe has come closer to us by this visit of ours. I only wish all my friends in Santiniketan could realise how true it is and what a wealth it repre-sents. Now I know more clearly than ever before that Santiniketan belongs to all the world and we shall have to be worthy of this great fact. It is extremely difficult for us Indians to forget all the irritations that ever keep our consciousness con-centrated on our own daily annoyances. But eman-cipation of consciousness is both the means and the end of spiritual life. Therefore Santiniketan must be saved from the whirlwind of our dusty politics. Our one mantram for meditation is ‘Shantam, Shivam, Advaitam.’
+
+--- Page 34 ---
+
+26 LETTERS FROM ABROAD
+
+I am writing this letter from Antwerp where I came yesterday morning, and I am getting ready to go to Brussels where I have an invitation. And then I go to Paris.
+
+BONBON, October 8, 1920.
+
+We are about to sail for Norway and Sweden, and for some weeks you may not hear from me. Never imagine any disaster happening to us; for if it does happen, the news will reach you without any effort on my part. The weather is wet and cold, and your people are trying to convince me that it is unusual for this time of the year, but that brings me no consolation. The ‘last wet summer when I was in Europe I heard the same remark; this makes me suspect that the wetness and the remark on it are both usual for your climate!
+
+There is a settled atmosphere of pessimistic gloom in the minds of all Indians we meet, which makes me feel hopeful of a change of psycho-logy in our country which is greatly necded. All our attention must come back to our own resources, and the insults and disappointments which give a proper direction to our straying energies are welcome.
+
+The enclosed letter I wrote to a great Russian artist. Show it to Nanda Lal and give him my blessings.
+
+--- Page 35 ---
+
+LETTERS FROM ABROAD 27
+
+“Your pictures, which I saw in your room in London and some reproductions of your pictures which appeared in some Art Journal, profoundly moved me. They made me realise one thing which is obvious and yet which one needs to discover for oneself over and over again; it is that Truth is infinite. When I tried to find words to describe to myself what were the ideas which your pictures suggested, I failed. It was because the language of words can only express a particular aspect of truth, afid the language of pictures finds its domain in truth where words have no access. Each art achieves its perfection when it opens for our mind the special gate of the infinite, whose key is in its exclusive possession. When a picture is great, we should not be able to say what it is, yet we should see it and know. It is the same with music. When one art can fully be explained by another, then itis a failure. Your pictures are distinct and yet are not definable by words. Your art is jealous of its independence, because it is great.”
+
+PARIS, October 12, 1920.
+
+T had not even a distant idea before 1 came tothe Continent what a welcome had been waiting for me in Europe. I see more clearly every day what is asked of me and what is the meaning of my Santiniketan. The West and the East are to meet in the coming age, and there must be seat made
+
+--- Page 36 ---
+
+28 LETTERS FROM ABROAD for such meeting. Let Santiniketan send her call through me for this union of spirits.
+
+I feel that the response will come. If all my friends of the Ashram were with me_ they could have no doubt about this. They would have felt that it would give greater glory to India, if she could bring men from all parts of the world to realise that true patriotism is for the spiritual kingdom, rather than for any crumb of favour thrown to her from the table of her political masters.
+
+This was the reason which made me change my mind and decide to go to the Americans. For they must listen to the appeal of the Kast. Iam leaving Paris to-morrow for London to make preparations to sail across the Atlantic. For some “weeks to come you will receive no letters from me, but keep this in mind that not to be able to return to our Ashram and to be in the midst of you, when it was about to happen, is a pain which I hope will be accepted by my Providence as a fit price for the great object to which I aspire.
+
+“LonDon, October 18, 1920.
+
+Our vision of truth varies according to its perspective. I feel certain that this perspective has become narrow in India owing to the density of mental atmosphere caused by the political unrest. There are politicians, who must make hasty deci-Sions and act without delay. It is their function
+
+--- Page 37 ---
+
+LETTERS FROM ABROAD 29. to take short cuts to immediate success and dash through blunders with their lumbering “ tanks” of political organisations. But there are needs that belong to all mankind and to all time. Those have to be satisfied through the rise and fall of empires. We all know that there is a vast difference between journalism and literature. Journalism is necessary and there are multitudes of men eager to carry it out. But if it suppresses the light of literature, then it will produce the London fog of November, which substitutes gaslight for the sunlight.
+
+Santiniketan is there for giving expression to the prayer of the Eternal Man—asato ma sad gamaya -—the prayer that will ring clearer as the ages roll on, even when the geographical names of all countries are changed and lose their meaning. If I give way to the passion of the moment and the claims of the crowd, then it will be like speculating with my Master’s money for a purpose which is not His own.
+
+I know that my countrymen will clamour to borrow from this capital entrusted to me and exploit me for the needs which they believe to be more urgent than anything else. But, all the same, you must know that I have to be true to my trust. Santiniketan must treasure that shanti in all cir-cumstances which is in the bosom of the Infinite. With begging and scrambling we find very little, but With being true to ourselves we find a great deal more than we desire. The best reward that [ have
+
+--- Page 38 ---
+
+30 LETTERS FROM ABROAD gained in my life is through the spontaneous and disinterested expression of truth in me, and never through straining for a result whatever high-sounding name it might have carried. A difficult time is before us, but let our friends in the Ashram never forget their mantram
+
+‘Shantam, Shivam, Advaitam.
+
+NEW YORK, October 28, 1920.
+
+Our steamer has arrived at the port—too late tor us to land to-night. Between one shore and the other there are tossings on the angry waves and menaces of the shrieking winds, but peace comes at the end and shelter, when the desolation that divides the world appears unreal and is forgotten. This crossing of the sea has not yet been completed by those who are voyagers from one age to another. Storms have raged and the moaning of the salt sea has haunted their days and nights. But the haven is not very far distant and the new continent of time is ready with its greeting of light and life and its invitation to the unexplored. I already feel the breath of that future and see birds from that shore bringing songs of hope.
+
+You must know that our Santiniketan belongs to that future. We have not yet reached it. We need stronger faith and clearer vision to direct our course towards its hill of sunrise. There are chains which still keep our boat clinging
+
+--- Page 39 ---
+
+LETTERS FROM ABROAD 31 to the sheltered cove of the past. We must leave it behind. Our loyalty must not be for any land of a limited geography. It should be for the nationality of the common idea, to which are born individuals belonging to various nations, who are carrying their gifts of sacrifice to the one great shrine of Humanity.
+
+NEW YORK, November 4, 19.20.
+
+There is one thing about which I wish to speak to you. Keep Santiniketan away from the turmoils of politics. I know, that the political problem is growing in intensity in India and its encroachment is difficult to resist. But, all the same, we must never forget that our mission is not political. Where I have my politics, I do not belong to Santiniketan.
+
+I do not mean to say that there is anything wrong in politics, but only that it is out of harmony with our Ashram.
+
+We must clearly realise this fact, that the name Santiniketan has a meaning for us, and this name will have to be made true. I am anxious and afraid lest the surrounding forces may become too strong for us and we succumb to the onslaught of the present time. Because the time is troubled and the minds of men distracted all the more must we, through our Ashram, maintain our faith in Shantam, Shivam, Advaitam.
+
+--- Page 40 ---
+
+32 LETTERS FROM ABROAD. NEw YORK, November 25, 1920.
+
+My lecture arrangements at this moment are like a derelict ship floating without crew or captain. Fortunately for me, the most important part of my programme this time is to come into touch with individuals who are likely to be of help to me. If I am carried away by my engagements too fast and too far from the centres where my friends are working, then that will be a hindrance rather than a help. Things are working well, and I have cause to be sanguine of success—and yet I must not allow the lure of a possible success to dominate my imagination too strongly. I must maintain my utmost faith in the idea itself and the power of truth in our own personality. The gravitation of out-ward success has such a tremendous pull upon our mind that it is difficult to resist it, especially in an environment where success has the most prominent throne assigned to it; by the amount of whose favour the value of our ideals is judged.
+
+That success may be defilement, and failure may be the fire of purification, through which our aspiration has to reach its goal of truth, is extremely hard to believe where success has built her towers so high that the lights of the sky are obscured,
+
+A friend of mine, who is actively interested in my cause, is a Quaker, and he takes me every Sunday morning to the Quakers’ meetings. There, in the
+
+--- Page 41 ---
+
+LETTERS FROM ABROAD 33 silence of meditation, I am able to find the eternal perspective of truth, where the vision of outward success dwindles away to its infinitesimal minuteness. What is needed of me is sacrifice. Our payment is for success, our sacrifice is for truth. If the spirit of my sacrifice is pure in quality, then its reward will be more than can be counted and proved. And let my gift to my country and to the -world be a life of sacrifice.
+
+But my earnest request to you is to keep your’ minds high above politics. The problem of this new age is to help to build the world anew. Let us accept that great task. Santiniketan is to make accommodation for the workers from all parts of the world. Al! other works can wait. We must make room for Man, the guest of this age, and let not the Nation obstruct his path. I am afraid lest the cry of our own sufferings and humiliations should drown the announcement of His coming. For His sake we shall set aside our grievances and shall say that, whatever may happen to us, let His cause triumph; for the future is His.
+
+NEW YORK, November 30, 1920.
+
+I am often reminded of my Gitanjali poem in which the woman tells how she found God’s sword when she had been seeking for a petal from God’s flower garland. All through my life I have been seeking for such a petal, and I stand puzzled at the
+
+
+--- Page 42 ---
+
+34 LETTERS FROM ABROAD
+
+sight of the gift waiting for me. This gift has not been my choice, but my God has chosen me for this gift. And now I say to myself, that we prove our worthiness for God’s gift of responsibility by acceptance of it and not by success or anything else.
+
+The past has been for men, the future is for Man. Those men are still fighting for the possession of this world; the din and the clash are deafening; the air is obscured with the dust rising from the: trampled earth. Standing in the heart of this struggle, we have to build a seat for the one Grod revealed in all human races. We may be mocked and pushed away by the crowd, but the fact will remain and invisibly grow into truth that we have believed.
+
+I was born a poet, and it is difficult for me to suffer myself to be rudely hustled in my path by busy men who have no leisure for ideas. I am not an athlete. I do not belong to the arena. The stare of the curious crowd scorches my soul. And yet, I, of all persons, am called upon to force my way into the thick of the Western public with a mission, for which I have never been trained.. Truth fashions its own arrows out of reeds that are light and frail.
+
+NEW YORK, December 13, 1920.
+
+Our Seventh Paus Festival is near at hand. I. cannot tell you how my heart is thirsting to join you in your festival. I am trying to console myself
+
+--- Page 43 ---
+
+LETTERS FROM ABROAD 39 with the thought that something very big and great is going to be the outcome of the effort Iam making. ‘But deep in my heart I know that simplicity of life and endeavour makes for real happiness, When we realise in some measure our ideal of perfectionin our work, it matters very little what its dimensions are. Our trust in bigness very often betrays our want of faith in truth. The Kingdom of the earth ‘boasts of the magnitude of its possessions, but the Kingdom of Heaven is content with the depth of its seff-realisation.
+
+There are some institutions which have for their object some external success. But Santini-ketan is there for giving us opportunity to realise ourselves in truth. This can never be done through big funds, but through dedication of our life in love. In this country, I live in the dungeon of the Castle of Bigness. My heart is starved. Day and night I dream of Santiniketan, which blossoms like a flower in the atmosphere of the unbounded freedom of simplicity. I know how truly great it is, when I view it from this land of arithmetical multitude. Here I feel every day what a terrible nightmare it is for the human soul to bear this burden of the monster Arithmetic. It incessantly drives its victims and yet leads them to nowhere. It raises storms of battle which are for sowing broadcast the seeds of future conflict.
+
+The giant reptiles of the primitive earth were proud of their hypertrophied’ tails, which did
+
+--- Page 44 ---
+
+36 LETTERS FROM ABROAD not save them from the doom of destruction. I long to leave all this, totally reject this unreality, take the next steamer I can get and run back to my Santiniketan and serve it with my life and love as long asI live. That life, which I dedicate to it, if it is true, will make it live. The true wisdom is there, which can spurn the greed for result and is only concerned with the expression of truth. This wisdom found its utterance in India. But there is imminent danger of this being drowned in the flood of noise which the votaries of success are bellowing forth in the prosperous West. My prayer is growing every day more and more intense, to get away from this dark tower of unreality, from this dance of death trampling sweet flowers of life under its tread. NEw YORK, December 17, 1920.
+
+When all my thoughts were furiously revolving, like dead leaves, in a whirlwind of desire for raising funds, a picture came to my hand; it was that of Sujata offering a cup of milk to Buddha. Its message went deep into my heart. It said to me—‘ The cup of milk comes to you unasked when you have gone through your tapasya. It is offered to you with love, and only lovecan bring its homage to truth.” Then your figure at once came to my mind. The milk has been sent to me through you. It is infinitely morethan anything that can come from the
+
+--- Page 45 ---
+
+LETTERS FROM ABROAD 37 cheque-book of the rich. I had become famished in the wilderness of solitude for lack of sympathy and comradeship, when you brought your cup of love to me which is the true life-giving food freely offered by life. And as the poet Morris says, “ Love is enough.” That voice of love every day calls me away from the lure of dollars—the voice that comes to nestle in my heart from across the sea, ‘from the shady avenue of sul trees resonant with the laughter and songs of simple joy.
+
+The mischief is that ambition does not fully believe in love. It believes in power. It leaves the limpid and singing water of everlasting life for the wine of success. Every day I seem to be growing afraid of the very vision of this success. It has been said in the Upanishat, “Happiness is in greatness.” Ambition points out bigness and calls it greatness, and our track is hopelessly lost. When I look at the picture of Buddha, I cry for the great peace of inner fulfilment. My longing grows painfully intense as my mind becomes distracted at the stupendous unmeaningness of monstrosity in things around me. Every morning I sit by my window and say to myself, “I must not bow my head to this ugly idol worshipped by the West with daily human sacrifices.” I remember that morning at Shileida when the Vaish-nava woman came to me and said, “ When are you coming down from your three-storied building to meet your love under the shade of the trees?”
+
+--- Page 46 ---
+
+38 LETTERS FROM ABROAD
+
+Just now, I am on the top storey of the sky-scraper, to which the tallest of trees dare not send its whisper; but love silently comes to me saying, “When are you coming down to meet me on the green grass under the rustling leaves, where you have the freedom of the sky and of sunlight and the tender touch of life’s simplicity?” I try to say something about money, but it sounds so ludicrous and yet so tragic, that my words grow ashamed of themselves and they stop. "Lack of means should not be allowed to mock fhe majesty of soul, seeking its crown in the foolscap of the bank cheque. The Spirit of India comes to me in the midst of my spurious activities and whis-pers the immortal mantrum to my inner spirit, “What shall I do with that which will not make me immortal?”
+
+NEW YORK, December 17, 1920,
+
+Your letters are like weekly wages to me, which I rightly earn by what I am doing here for your sake. But you must know that the idea which has drawn us round Santiniketan is not a static one. It is growing, and we must keep up with it. When I left you to start for Europe, I was labouring under the delusion that my mission was to build an Indian University in which Indian cultures would be represented in all their variety. But when I came to continental Europe and fully realised that
+
+--- Page 47 ---
+
+LETTERS FROM ABROAD 39 I had been accepted by the Western people, as one of themselves, I realised that my mission was the mission of the present age. It was to make the meeting of the East and West fruitful in truth. I felt that the call of Santiniketan was the invitation of India to the rest of the world. <A picture needs its background for its meaning. The idea is great. I accept it. I fully believe in it; it is leading me on in an unknown path.
+
+Yet how ludicrously small we are! The petty complications of our daily life, how insignificant and yet how obstructive! We have our path across the mountains, but rubbish heaps made of daily refuse of life, lying scattered on our path, cause trouble and delay and produce fatigue.
+
+But the sun is shining ‘overhead, and God's blessing is in my heart; the call is clear and help is waiting hy the roadside.
+
+NEW YORK, December 19, 1920.
+
+When life began her first experiments, she was mightily proud of the hugeness of her animal specimens. The bigger the bodies were, the more extravagantly large the armour had to be made for their protection. The ludicrous creatures, in order to maintain their balance, had to carry a tail which was absurdly disproportionate to the rest of the body. It went on like this till life became a burden to itself and to the exchequer of creation. It was
+
+--- Page 48 ---
+
+40 LETTERS FROM ABROAD uneconomical, and therefore not only harmful but ungainly. True economy is the principle of beauty in practical arithmetic. Driven to bewilderment, life began to seek for a pause in her insanity of endless multiplication. All forms of ambitious power are obsessed by this delirium of multiplication. All its steps are steps towards augmentation and not completeness. But ambitions, that rely solely upon the suggestion of their tails and armour, are condemned to carry out their own obstruction till they have to stop.
+
+In its early history, life, after its orgies of megalomania, had at last to think of disarmament. But how did she effect it? By boldly relinquishing the ambition to produce bigness—and man was born helplessly naked and small. All of a sudden, he was disinherited of the enormity of flesh, when apparently he was most in need of it. But this prodigious loss gained for him his freedom and victory.
+
+Then began the reign of Mind. lt brought its predecessor of gigantic bulk under subjection. But. as often happens. the master became the parasite of the slave, and mind also tried to achieve greatness by the bigness of materials. The dynasty of mind followed the dynasty of flesh, but employed this flesh as its Prime Minister.
+
+Our history is waiting for the dynasty of Spirit. The human succeeded the brutal; and now comes the turn of the Divine. In our mythology, we have
+
+--- Page 49 ---
+
+LETTERS FROM ABROAD 41 often heard of man taking the side of the Gods, and saving Paradise from the dominion of Giants. But in our history, we often notice man holding alliance with Giants and trying to defeat the Gods. His guns and ships of huge power and proportion are turned out from the arsenal of the Giant. In the fight of bigness against goodness man has joined the former, counting coins of his reward in number and not in quality-——in lead and not in gold.
+
+Those who are in possession of materia] resources have become slaves of their own instruments. Fortunately for us, in India, these resources are beyond all immediate possibility of realisation. We are disarmed, and therefore we have no option but to seek for other and higher sources of power. The men who believe in the reality of brute force have made enormous sacrifices in order to attain and to maintain it. Let us, in India, have faith in moral power in man and be ready to sacrifice for it all that we have. Let us do our best to prove that Man has not been the greatest mistake in Creation. Let it not be said, that, for the sake of happiness and peace in the world, the physical brutes were preferable to intellectua] brutes who boast of their factory-made teeth and nails and poison fangs.
+
+NEW YORK, December #0, 1920.
+
+In every age and in every country facts are
+
+given to us in order that we may provide with
+
+--- Page 50 ---
+
+42 LETTERS FROM ABROAD
+
+them some special expression of Truth. Facts are like atoms in gases. They fight with, or else fly away from, one another. But when they are united into a drop of dew they attain beauty and reality. Man must have that creative magic to bring the facts of his time ‘into some unity of creation. In Christ and in Buddha, this creative ideal tried to unite men who were divided because of their formalism in religious faith.
+
+Formalism in religion is like nationalism in politics. It breeds sectarian arrogance, mutual misunderstanding and a spirit of persecution. Our Indian medieval saints, through their light of love and inner perception of truth, could realise the spiritual unity of man. For them, the innumerable “barriers of formalism had no existence. Therefore the mutually antagonistic creeds of Hindus and Muhammadans, irreconcilable as they seemed, did not baffle them. Our faith in truth has its trial in the apparent difficulty of its realisation.
+
+The most important of all facts in the present age is that the East and West have met. So long as it remains a mere fact, it will give rise to interminable conflicts; it will even hurt man’s soul. It is the mission of all men of faith to raise this fact into truth. The worldly-wise will shake their heads and say it is not possible—that there is a radical difference between the East and the West and that only physical power will have its sway in their relationship.
+
+--- Page 51 ---
+
+LETTERS FROM ABROAD 43 _ But physical power is not creative. Whatever laws and organisations it may produce it will never satisfy spiritual humanity. Ram Mohan Roy was the first great man in our age who had the profound faith and large vision to feel in his heart the unity of soul between East and West. I follow him, though he is practically rejected by my countrymen. I only wish you had been with mein Europe! You would know at once what is the purpose of the modern age; what is the cry of man, which the politicians never hear. There were politicians in the courts of the Moghal Emperors. They have left nothing behind them, but ruins. But Kabir and Nanak! They have bequeathed to us their imperishable faith in the unity of Man through God's love. NEW YORK, “December 21. 1920. All about me is a desert of crowds, a monotony of multitude. Man is drowned in his own deluge of desultoriness. It is an unceasing struggle in me to have to pass through this, specially when I carry in myself such a heavy load of helplessness. Every moment I am made conscious of it, and I am tired. When we have the banner of an idea to carry against obstacles of indifference, the burden of our personal self should be extremely light. But I am so awkwardly cumbersome with my incptitude.
+
+--- Page 52 ---
+
+44 LETTERS FROM ABROAD
+
+I remember, when I was young, how a blind old beggar used to come to our door every morning led by a boy. It wasa tragic sight. The blindness of the old man robbed the boy of his freedom. The boy looked so wistful and eager for release. Our incapacity is a fetter with which we tie others to our limitations. Consciousness of this every day adds to my feeling of weariness. But this depres-sion of spirit is likely todo measervice. It has led me to the brink of a discovery that a great measure of one’s impotence is maya.
+
+Latterly I have constantly been giving myself a shaking, trying to rouse myself from this stupor ot self-delusion. During the greater part of my life my mind has been made accustomed to travel the inner path of dreams, till it has lost all con-fidence in its power to thread its way through the zigzags of the outer world. In fact, its attention has never been trained to accept the miscellaneous responsibilities of the clamorous surface life of society. Therefore the West is not my world.
+
+And yet I have received the gift of love from the West, and my heart acknowledges its claims to my service and I must unreservedly offer myself to her before I die. I do not belong to the present age, the age of conflicting politics. Nevertheless I cannot repudiate the age which has given me birth. J suffer and struggle, I crave for freedom and yet am held back. I must share the life of the present day world, though I do not
+
+--- Page 53 ---
+
+LETTERS FROM ABROAD 45 believe in its cry. I sit at its table, and while it fills its cup with wine to slake its unnatural thirst, I try to listen, through the noisy carousal, to the murmur of the stream carrying its limpid waters to the sea.
+
+NEW YorK, December 22, 1920.
+
+To-day is the seventh of Paus. I wish it were allowed to me to stand among you in the mandir and mingle my voice with yours in uttering our prayer. It is real starvation for my heart to be deprived of this great privilege. To-day I realise more than ever before, that nothing can be truer for me than to be with my dear children and friends, this beautiful sunny morning of December, and bow my head to our Father and dedicate my service to Him. By that dedication our works become great, and not by extension of external resources. Oh, how simple is truth and how full of light and happiness? Not to be distracted by the curiosity of crowds, only to be rewarded by the approval of Him, who knows our heart, is the fulfilment of our en-deavour. I only hope that what I am doing here is in response to the call of the Shantam, that my lonely celebration of seventh Paus in this Hotel room finds its harmony with your festival. Let our faith in the real be not overcome by the lure of the unreal. Let come to us what is good and not what we desire. Let us bow our head to the Good, to the supreme Good.
+
+--- Page 54 ---
+
+46 LETTERS FROM ABROAD
+
+I have often felt the desire that you were with me in my adventure. And yet I am deeply thankful that you could remain in the Ashram while I was away. For you understand me with the under-standing of love, and, therefore, through you I seem to dwell in Santiniketan. I know that I am in your mind to-day and you know that my heart is with you. Is it not a great good fortune that there is a spot in this world, where all that is best in us can meet in truth and love? Can anything be greater than that? Please give my blessings to all my boys and girls, and my greetings of love to my friends.
+
+Near NEw York, December 25, £920.
+
+To-day is Christmas Day. We are about forty-five guests gathered in this inn from different parts of the United States. It is a beautiful house, nestling in the heart of a wooded hill, with an invitation floating in the air of a brook broadening into a lake in the valley. It is a glorious morning, full of peace and sunlight, of the silence of the leafless forest untouched by bird songs or humming of bees.
+
+But where is the spirit of Christmas in human hearts? The men and women are feeding them-selves with extra dishes and laughing extra loud. But there is not the least touch of the eternal in the heart of their merriment, no lumi-nous serenity of joy, no depth of devotion. How
+
+--- Page 55 ---
+
+LETTERS ROM ABROAD 4? immensely different from the religious festivals of our country. These Western people have made their money, but killed their poetry of life. Here life is like a river, that has heaped up gravel and sand and choked the perennial current of water that flows from an eternal source on the snowy height of the ¢ncient hill. I have learnt since I came here to prize more than ever the infinite worth of frugal life and simple faith. These western people believe in their wealth, which can only multiply itself and tveain nothing.
+
+How to convince them of the utter vanity of their pursuits! They do not have the time to realise that they are not happy. They try to smother their leisure with rubbish of dissipations lest they discover that they are the unhappiest of mortals. They are like drunkards who are afraid of their lucid intervals—whose drinzing produces the misery which only further drinking can drown. They deceive their soul with counterfeits, and then, in order to hide that fact from themselves, they artificially keep up the prize of those false coins by an unceasing series of self-deceptions.
+
+My heart feels like a wild duck from the Hima-layan lake lost in the endless desert of Sahara, where sands glitter with a fatal brilliance, but the soul withers for want of the life-giving spring of water. This visit of mine to America has done me one great service; it has produced in my mind an intense feeling of contempt for money.
+
+--- Page 56 ---
+
+48 LETTERS FROM ABROAD
+
+How do you propose to spend your summer vacation? Come to join us in Europe. My visit here will be over by the end of March, and we are eagerly looking forward to the delightful time we are to spend in France, Norway, Sweden, Switzer-land, and if possible, in Spain and Italy. It will be delightful for me to share my enjoyment with you and then go back together to Santiniketan.
+
+NEW YORK, January 1, 1921,
+
+To-day is New Year’s Day. But I do not feel it in the air; it brings no message to me. New Year comes to these countries with possibilities of new inventions, new political adjustments, and economic revolutions. But the New Year which we know in Santiniketan comes to our soul bringing the expectation of its own blossoming, through some inner miracle of renovation. Last night the whole town went mad with a boisterous fury of merriment and this morning it is too tired to open its heart to the beautiful sunlight of the New Year's Day. All the while my heart is aching to think that our first day of Baisakh will bring its bless-ings for me in the early morning light of San-tiniketan and find my seat vacant. How precious with truth and peace those days are made, we know when our hearts are wandering in a wilder-, ness of things, thirsting for a drop of Amrita, the draught of everlasting life..
+
+--- Page 57 ---
+
+LETTERS FROM ABROAD 49
+
+In the geological history of the Earth we had ages of Titanic storms circulating round this globe. But now in the human period of this planet itis the dust storm of buildings and business, that is sweeping over the face of the earth. In those remote ages of turbulent hot vapour, the earth remained shrouded in a suffocating gloom, ignorant of its kinship with the starry world. But that pall of blindness has been lifted and the light has brought to the world of life its message of the Eternal. The tornado of the present-day towns will also pass off; the Dervish dance of dust will be quieted and the human mind will find its communication with the Infinite unhindered. We do not even have time to realise with what longing the human spirit is waiting to find itself in that unobstructed realm of light. But the light will come to her at last and reveal the endless beauty of truth.
+
+Occasionally I read in the newspapers the reports of the Non-co-operation movement in India. It seems to me that its current is getting muddied with a great amount of unreason. The forces that mould our history are irrational; but our leaders who guide those forces must have sanity and far-sightedness. To be in league with the spirit of destruction is dangerous; for its methods are easy, its results are quick and stupendous in wholesale negations. But it obstructs our roads with the ruin it causes, raising its barriers of rubbish heaps between us and our vision of the beyond.
+
+--- Page 58 ---
+
+50 LETTERS FROM ABROAD NEw YORK, January 4, 19.21.
+
+When [ finish reading your letters from San-tiniketan I wake up from my lyric dream to find myself at the bottom of a prodigious pile of newspaper prose. My surroundings seem to me like the inside of a whale that has swallowed me,
+
+The idea of freedom, which the people in this country have, is the imaginary freedom of a fly shut up in a glass casket whose walls are invisible. They are surrounded by an impregnable circle of unreality, to which they cling and believe that they are in solid possession of their sky. But T can assure you that you have the right to laugh at these buzzing creatures from your Santiniketan, with their absurd pride at having made their sky thickly substantial. This deludes them with a freedom that is of the eye, while immuring them in a confinement that is of the spirit.
+
+I know how hard this confinement is, because [ myself am in its grip. In a sense I am free; I can obtain this moment my passage to India; but the chain with which my ambition fetters me is stronger than anything made with iron.
+
+My freedom is unreal, so long as I cherish slavery in my soul. This is a truism, like our idea of death; but opportunity comes when we discover it in our life, and then it discloses to us
+
+--- Page 59 ---
+
+LETTERS FROM ABROAD 51 its ever newness of truth. I seem to pass through a real training for becoming a sanyast when J am in this country. Buddha was born to a royal house which gave him the fitness to attain the true majesty of beggardom. I wrote a poem when I was in India, “I shall never be an Ascetic.” But when lam here, inspiration comes to me, with a rush of lyrical fervour, to write a hymn to Shiva, the Lord of Ascetics, who uses the {our quarters of the sky for his dress.
+
+This latter fact appeals to me just now more than anything else, when my mind and body are rebelling day and night against the bondage of the tailoring dispensation. It may sound to you like a paradox when I say, that, what oppresses me most in this country is the utter lack @ freedom with which the atmosphere is charged. But it is true. J long to draw in the breath of life, but my nostrils get stopped with sand and soot, and then I am choked into acknow-ledging the truth, that it is not the substance which is most important for us, but the bareness of it.
+
+Leisure and space are the most precious gifts for us; for we are creators. Our real freedom is in the world of our own creation, where our mind can work unhindered and our soul finds its throne from which to survey its own dominion,
+
+When we are in India we dream only of the advantages that money can confer upon us; but when we are in this country we are
+
+--- Page 60 ---
+
+52 LETTERS FROM ABROAD
+
+warned against the danger which there is in money.’ It has become patent to me, that money can more easily mar than make. It requires a great power of renunciation to keep it living and fluid; to give our works freedom from its constant gravitational pull downwards. The luminously clear vision of Santiniketan owes its transparency to the holy spirit of poverty which reigns there. Money may remove many of the wants it suffers from, but also may remove its shrine of the Shantam, Shivam, Advaitam, transforming it into an office presided over by an efficient accountant. And then, where may the _ born vagabonds like myself and yourself find their joy?
+
+NEW YORK. January 8, 1921,
+
+There are a large number of ideas, about which we do not even know that they are inacces-sible to us, only because we have grown too familiar with their names.
+
+Such is our idea of God. We do not have to realise it, in order to be aware that we know it. This is why it requires a great dea} of spiritual sensitiveness to be able to feel the life-throb of God’s reality behind the vulgar callosity of words. Things that are small naturally come to their limits for us, when they are familiar. But the truth which is great should reveal its infinity all
+
+--- Page 61 ---
+
+LETTERS FROM ABROAD 53 the more vastly, when itis nearto us. Unfortu-nately, words that represent truth, and the minds that use those words, have not the same immensity of life as truth itself. Therefore, the words (and with them our attention and interest) become inert, by constant handling, obscuring our faith under-neath them without our being conscious of that tragic fact.
+
+This is the reason, why men who are obviously religious are frequently more irreligious, in reality, than those who openly ignore religion. Preachers and ministers of religion have made it their business to deal with God at every moment. They cannot afford to wait, until they come in touch with Him. They dare not acknowledge the fact, that they have not done so. Therefore, they have t strain their minds into a constant attitude of God-knowingness. They have to delude themselves, in order to fulfil the expectation of others, or what they consider to be their duty.
+
+And yet, the consciousness of God, like that of all other great ideas, comes tous only with intense moments of illumination, of inspiration. If we do not have the patience to wait for it, we only choke the path of that inspiration with the debris of our conscious’ efforts. Those, who make it their business to preach God, preach creeds. They lose their sense of distinction between these two. Therefore, their religion does not bring peace in this world but conflict. They do not hesitate to
+
+--- Page 62 ---
+
+54 LETTERS FROM ABROAD make use even of their religion for the propaganda of nationa! self-seeking and boastfulness.
+
+You may wonder, in your mind, as to the reason of my bringing up this topic in my present letter. It is in connexion with the same endless conflict
+
+’ within me between the poet and the preacher—one of whom depends for his mission upon inspiration and the other upon conscious endeavour. Straining
+
+-of consciousness leads to insensitiveness, of which
+
+I am more afraid than anything else. The preacher is the professional dealer in particular ideas. His customers come at all hours of the day and put questions to him. The answers, which he gets into the habit of producing, gradually lose their living quality, and his faith in his ideas runs the risk of bsing smothered under the deadness of his words. I believe that such a tragedy is more common than people suspect, especially with those who are good, and therefore are ever ready to sign their cheques of benefit for others, without waiting to see if the cash had time to accumulate in the bank.
+
+This makes me think, that it is safe to be nothing better than a mere poet. For poets have to be true to their best moments and not to other peoples’ requirements.
+
+NEW YORK, January 14, 1921,
+
+Even when I was very young, my mind was
+
+tinged with a large atmosphere and an environment
+
+--- Page 63 ---
+
+LETTERS FROM ABROAD 50 ‘of reality. That is to say, fact indicated some truth to me, even though I did not clearly understand it. That is why my mind was constantly struck with things that, in themselves, were commonplace.
+
+When I watched, from over the wall of the terrace of the inner apartments of our Jorashanko house, the cocoanut trees and the tank surrounded by the huts of the milk vendors, they came before me with a more-than-themness that could not be exhausted. That faculty—though subsequently mingled with reasoning and self-analysis—has still continued in my life. It is the sense and craving for wholeness. Constantly it has been the cause of my separation from others and also of their misunderstanding my motives.
+
+Swadeshism, Swarajism, ordinarily produce intense excitement in the minds of my countrymen, because they carry in them some fervour of passion generated by the exclusiveness of their range. It cannot be said that I am untouched by this heat and movement. But somehow, by my temperament as a poet, J am incapable of accepting these objects as final. They claim from us a great deal more than is their due. After a certain point is reached, I find myself obliged to separate myself from my own people, with whom I have been working, and my soul cries out—“ The complete man must never be sacrificed to the Patriotic man, or even to the merely moral man.”
+
+--- Page 64 ---
+
+56 LETTERS FROM ABROAD
+
+To me, humanity is rich and large and many-sided. Therefore, I feel deeply hurt when I find that, for some material gain, man’s personality is mutilated in the western world and he is reduced to a machine. The same process of repression and curtailment of humanity is often advocated in our country under the name of patriotism. Such deliberate empoverishment of our nature seems to me a crime. It is a cultivation of callousness, which is a form of sacrilege. For God’s purpose is to lead man into that perfection of growth, which is the attainment of a unity comprehending an immense manifoldness. But when I find man, for some purpose of his own, imposing upon 1.is society, a mutilation of mind, a niggardliness of culture, a puritanism which is spiritual penury, it makes me inexpressibly sad.
+
+I have been reading a book by a Frenchman on Japan—it makes me feel almost envious! The sensitiveness to the ideal of beauty, which has been made universal in Japan, is not only the source of her strength, but of her heroic spirit of renunciation. For true renunciation blossoms on the vigorous soil of beauty and joy—the soil which supplies positive food to our souls.
+
+But the negative process of making the soil poor produces a ghastly form of renunciation, which belongs to the nihilism of life. An emaciation of human nature has already been going on for a long time in India. Let us not add to it by creating a
+
+--- Page 65 ---
+
+LETTERS FROM ABROAD 57 mania for self-immolation. Our life to-day needs more colour, more expansion, more nourishment, for all the variety of its famished functions. What-ever may be the case in other countries, we need in India more fullness of life, and not asceticism.
+
+Deadness of life, in all forms, gives rise to impurities, by enfeebling our reason, narrowing our vision, creating fanaticism, owing to forcing our will power into abnormal channels, Life carries its own purification, when its sap finds the passage unbarred through all ramifications.
+
+NEW YORK, January 23, 1921.
+
+I have just come back from Greenwich, a suburdan part of New York, where last night I had a reception and a speech and a dinner and a discus-sion, till I felt empty like a burst balloon, with no gas left in it!
+
+At the far distant end of the wilderness of such trials as this, what do I see?-But what matters it? Results of our efforts delude us by appearing as final. They raise expectation of fulfilment and thus draw us on. But they are not final. They are roadside inns where we change our horses for a farther journey. An ideal is different. It carries its own progress within itself. Hach stage is not a mere approach to the goal, but carries with it its own meaning and purpose.
+
+--- Page 66 ---
+
+58 LETTERS FROM ABROAD
+
+Trees proceed on their upward career, not along a railway track constructed by engineers. We who have been dreamers, should never employ coolies to build railway lines of social service. We must solely deal with living ideas, and have faith in life. Otherwise we are punished, not necessarily with bankruptcy, but with success—behind which sits the Mephistopheles of world-liness, chuckling at the sight of an _ idealist dragged through the dust by the chariot of the prosperous.
+
+What has made us love Santiniketan so deeply is the ideal of perfection, which we have tasted all through its growth. It has not been made by money, but by our love, our life. With it, we need not strain for any result; it is fulfilment itself-—the life which forms round it, the service which we daily render to it. Now I realise, more than ever before, how precious and how beautiful is the simplicity of our Ashram, which can reveal itself all the more luminously because of its dark back-ground of material want. I know that I am harping on this one subject in most of my letters lately—because my suffering is continuous and profound. My soul is being choked in this atmo-sphere. But it is my taupasya. Let me not bring a fetter of gold back for my Ashram, but freedom of spirit, with its wedded companion, Poverty—the pure, the simple, the tender, the austere.
+
+--- Page 67 ---
+
+LETTERS FROM ABROAD 59 WELLESLEY, MASS., January 25, 1921.
+
+I am going to read my lecture on the Poet’s Religion to-night to the Wellesley College students. To-morrow, and the day after, I have to read two more’ lectures in Emerson Hall, Harvard. Boston js about an hour’s journey from here. I went there last Sunday and I am going to stay there till the end of the week. Coming to Boston has been a great relief to me. I felt in New York like living in the planet Saturn, which has its crowd of innumerable satellites, but revolves some billions of miles away from the central source of light. I am home-sick for my beautiful earth, simple and tender, bathed in light and dressed ift green.
+
+Just at this point, I was called away to dinner and then to the meeting; and after it was over, we motored back to Boston, where Iam now. It is tiring work—the more so because my heart is hungering day and night for wide space and leisure, that sumptucus feast of the soul, which has been mine from my infancy.
+
+I am suffering from the great discomfort of having my feet on the decks of two different boats—-as the Bengali proverb has it. The organiser in me is planning to raise funds. I hate with all my heart this wretched organiser—this disciple of the West. I have my profoundest faith in the sanyasi
+
+--- Page 68 ---
+
+60 LETTERS FROM ABROAD
+
+in me, which is urging me constantly to leave these shores. Yet the organiser in me is claiming the best sacrifice of my life and getting it.
+
+My anxiety is growing stronger every day lest we should lose the least fraction of our independ-ence or naturalness at Santiniketan, lest our responsibility to some dead cash interest, consciously or unconsciously, should lessen our responsibility to the living ideal. All real creations must have freedom for their growth. You can never make truth serve you, fettered like a galley slave. Whenever we receive material help from others, we acknowledge at the same time their expectation. Such expectation is a tyrant, imposing on usa tacit obligation to satisfy it. But all creative Work is jealous of its right of spontaneity; so much so, that the artist himself must not be over-conscious of his plan.
+
+Our Shantiniketan has never followed any con-scious plan of ours, but has followed its own inner life process. This freedom of vital function is far more valuable than external resources. Truth never condescends to tempt us with allurements. She dwells silent in her majesty of sublime simplicity. It is untruth which tries to decoy us with extravagance of materials. I earnestly wish we had power to create a tapovana, a forest ashram, rather than to build up a University. But unfortu-nately, money though scarce may be available. But where is tapasya?
+
+--- Page 69 ---
+
+LETTERS FROM ABROAD 61
+
+Pearson is away, My correspondence and other works have grown heavy: and therefore you will have to bear with me, if my letters become scarce or scrappy:
+
+NEW YORK, February 2, 1921.
+
+After a break of three weeks and a sultriness of weary waiting, your letters have come in a down-pour; and I cannot possibly tell you how refreshing they are! I seem tobe travelling across a desert, and your letters are like weekly provisions dropped by some air-service from cloud-land. They are expected; and yet they have the element of surprise. I hungrily attack them and then fall upon extra portions supplied from your letters written td others,
+
+Your letters are delightful, because you have your interest in details that are generally overlooked. The world is made beautiful by the unimportant things. They furnish this great world-picture with all its modulations of shades and tints. The important is like the sunshine. It comes from a great source. But the unimportant composes the atmosphere of our life. It scatters the sun’s rays, breaks it into colours, and coaxes it into tenderness.
+
+You have asked for my permission to abolish the matriculation class from our school. Let it go. 1 have no tenderness for it. In our classical literature, it was the strict rule to give all dramas
+
+--- Page 70 ---
+
+62 LETTERS FROM ABROAD a happy ending. Our matriculation class has ever been the fifth act in our Ashram, ending in a tragedy. Let us drop the scene, before that disaster gathers its forces! I am enclosing with this a translation, which runs thus: WOMAN The fight is ended. Shrill cries of loss trouble the air, The gains, soiled and shattered, are a burden too heavy to carry home, Come, woman, bring thy breath of life. - Close all cracks with kisses of tender green, Nurse the trampled dust into fruitfulness. The morning wears on; The stranger sits homeless by the road-side playing on his reed. Come woman, bring thy magic of love! Make infinite the corner between walls, There to build a world for him, Thine eyes its stars, thy voice its music. The gate-door creaks in the wind. The time is for leave-taking at the day’s end. Come, woman, bring thy tears! Let thy tremulous touch call out its last lyric From the moment of parting, Let the shadow of thy sad gaze Haunt the road across the hills.
+
+--- Page 71 ---
+
+LETTERS FROM ABROAD 63 The night deepens; The house is empty; its loneliness aches with silence. Come, woman, bring thy lamp of vigil! Enter thy secret chamber of sorrow. Make the dark hours quiver with the agony of. thy prayer, Till the day dawns in the East. NEw YORK, February 5, 1921, Civilisation in the West is a magnifying glass. It makes the most ordinary things hugely big. Its buildings, business, amusements, are exaggerations. The spirit of the West loves its high-heeled boots, whose heels are much bigger than itself, Since I came to this continent, my arithmetic has become absurdly bloated. It refuses to be com-pressed within decent limits. My ideal moncy bag out here can easily put to shame D—and K—Babu tied together. But I can assure you that to carry such a burden in my imagination is wearisome. Yesterday, some Santiniketan photographs came
+
+by chance into my hands. I felt as if I was suddenly wakened up from a Brobdignagian night-mare. 1 say to myself, this is our Santiniketan. It is ours, because it has not been manufactured by a machine. Itis truth itself—the truth which loves ‘to be simple, because it is great. Truth is beautiful—like woman in our own country. She never strains
+
+--- Page 72 ---
+
+64 LETTERS FROM ABROAD
+
+to add to her inches by carrying extravagances under her feet. Happiness is not in success, not in bigness, but in truth.
+
+What makes me feel so sad, in this country, is the fact that people here do not know that they are not happy. They are proud, like the sandy desert, which is proud of its glitter. This Sahara is mightily big; but my mind turns its back upon it, and sings:
+
+I will arise and go now, and go to Innisfree, And a small cabin build there, of clay and wattles made; Nine bean rows will I have there, a hive for the honey bee And live alone in the bee-loud glade,
+
+In the modern age, with all its facilities of
+
+communication, the access to Innisfree has become most difficult. Central Africa opens its secret to the inquisitive man, and also the North and the South Pole—but the road to Innisfree lies in an eternal mystery. ' Yet I belong to that “ Isle of Innisfree”: its true name is Santiniketan. But when I leave it, and cross over to the western shore, I feel occasionally frightened lest I should lose my path back to it.
+
+Oh! but how sweet is our Sal avenue, the breath of autumn in our Shiuli groves, the rainy evening resonant with music in Dinu’s absurd little room:
+
+--- Page 73 ---
+
+LETTERS FROM ABROAD 65
+
+And I shall have some peace there, for peace comes dropping slow,
+
+Dropping from the veils of the morning to
+
+where the cricket sings;
+
+There midnight’s all a glimmer and noon
+
+a purple glow, eAnd evening full of the linnet’s wings. NEW YORK, february 8, 1921.
+
+I have just read a letter published in Prabasi by one who is at the Ashram and it has deeply hurt me. This is the ugliest side of patriotism. For in small minds, patriotism dissociates itself from the higher ideal of humanity. It becomes the magni-fication of self, on a stupendous scale—magnifying our vulgarity, cruelty, greed; dethroning God, to put up this bloated self in its place.
+
+The whole world is suffering from this cult of Devil worship in the present age, and I cannot tell you how deeply I am suffering, being surrounded in this country by endless ceremonials of this hideously profane cult. Everywhere there is an antipathy against Asia ventilated by a widespread campaign of calumny. Negroes are burnt alive, sometimes merely because they tried to exercise their right to vote, given to them by law. Germans are reviled. Conditions in Russia are deliberately misrepresented. They are furiously busy building their towers of political civilisation upon the quagmire of mob
+
+
+--- Page 74 ---
+
+66 LETTERS FROM ABROAD psychology, spreading over it a crust of deliberate lies. They have to subsist upon a continual supply of hatred, contempt, jealousy and lies and lies and lies!
+
+Iam afraid I shall be rejected by my own people when I go back to India. My solitary cell is awaiting mein my Motherland. In their present state of mind, my own countrymen will have no patience with me, who believe God to be higher than my country.
+
+I know such spiritual faith may not lead us to political success; but I say to myself, as India has ever said, Even then—what?
+
+The more I live in this country, the more I under-stand the true meaning of emancipation. It is for India to keep her breast supplied with the true amrita of wisdom, with which to feed the new-born age and nourish it into a mighty future.
+
+The ideas to which politicians still cling belong to a past that is doomed. It is a wreck rushing to-wards annihilation. The West is beginning to have doubts about its shelter, but its habit of mind is preventing it from leaving the old shelter for a new one. But we unfortunate creatures are getting ready to jump into the stream and swim across to the sinking ship and fight for our place at its corner, Yet I know that our huts are safer than that doomed and drifting monster.
+
+I long to live in the heart of the Peace. I have done my work, and I hope that my Master will
+
+--- Page 75 ---
+
+LETTERS FROM ABROAD 67 grant me leave to sit by Him, and not to talk, but to listen to His own great silence.
+
+HOUSTON, TEXAS, February 23, 1921.
+
+Tied to the chariot wheels of karma we flit from one birth to another. What that means to the individual soul I have been made to realise in these last few days. It is my tyrant karma, which is dragging me from one hotel to another. Between my two hotel incarnations I usually have my sleep in a Pullman Car, the very name of which suggests the agency of death. I am ever dreaming of the day, when I shall attain my Nirvana, freed from this chain of hotel lives, and reach utter peace in Uttarayana!'
+
+I have not written to you forsome time. For [I am tired to the profound depth of my being. Yet, since coming to Texas, I have felt as it were a sudden coming of Spring into my life through a breach in the ice castle of Winter. It has come to me like a revelation, that all these days my soul had been thirsting for the: draught of sunshine poured from the beaker of infinite space. The sky has embraced me, and the warmth of its caress thrills me with joy.
+
+The people here in Texas have had the leisure and opportunity of storing this sunshine in the cellar of their hearts—they are human and
+
+' Tho name of the Poet's cottage at Santiniketan.
+
+--- Page 76 ---
+
+68 LETTERS FROM ABROAD hospitable. However, the time for our departure from this country is drawing near. CHICAGO, ‘February 28, 1921.
+
+We have enagaged our passage in a Dutch steamer which will sail from New York on the nineteenth of March. My days in this country have not given me much pleasure—the simple course would have been for me to go straight back home. But why did I not doso? No fool can say why he has been foolish. I have often dreamed of the time when my wayward youth took me to the loneliness of the sand-banks of the Padma, wandering in the neighbourhood of wild ducks under the gaze of the evening star. Certainly, that was not the life of the sane, but it fitted me like a fool’s cap lined with dreams.
+
+The fool who is content to do nothing what-ever is at any rate free from care; but the one who tries in vain to change the face of the world knows no peace. I long to go back to my ducks, and yet I madly whirl round these manu-facturing towns, like a breath of the wild south breeze stirring the leaves of the documents of an attorney’s office. Does it not know that these leaves do not shelter the flowers that wait for its whisper of love? Why should I be anything else but a poet? Was I not born a music maker?
+
+--- Page 77 ---
+
+LETTERS FROM ABROAD 69
+
+Before this page is filled and I am called to the meeting, let me tell you it will not be necessary for you to come to Europe. For we shall not be long in Europe, and therefore the greater part of your travels will be over the seas. Wait for us in Santiniketan—and celebrate the prodigal’s return in a fit manner.
+
+CHICAGO, February 26, 1921.
+
+I feel frightened at the ‘Fuji’-tive’ mood that seems to have come over you. But my mouth is closéd, for I have been playing the truant the last few months, as I have been doing the best part of my life. But what fatality is this which pursues me, that when I am ready to come back to take my part in the last scene of a happy comedy, you ring down the curtain and disappear! It seems that when I land in India, Pearson will remain on this side of the Atlantic and you on the other side of the Pacific; and the wind from the East and the wind from the West will botu bring to my heart the wail of separation.
+
+I think I had some kind of premonition in my mind and was trying to secure you for myself for the full festival of my home-coming by inviting you to join us in our tour. ‘But we all have been entangled in the big enterprise of doing good to the world, which unfortunately has
+
+’ The joke refers to an intended journey to Fiji.
+
+--- Page 78 ---
+
+70 LETTERS FROM ABROAD
+
+such a large area, that, in its field of duty, friends need the most powerful telescope to be distantly visible to one another.
+
+I have often wondered in my mind whether my path is the path of the good. When I came to this world I had nothing but a reed given to me, which was to find its only value in producing music. I left my school, I neglected my work, but I had my reed and I played on it “in mere idle sport.” All along I had my one playmate, who also in his play produced music, among leaves, in rushing water, in sifence of stars, in tears and laughter rippling into lights and shadows in the stream of human life. While my companion was this eternal Piper, this Spirit of play, I was nearest to the heart of the world, I knew its mother-tongue, and what I sang was caught up by the chorus of the wind and water and the dance-master of life.
+
+But now came the school-master in the midst of my dream-world and I was foolish enough to accept his guidance. I laid aside my reed, I left my playground, where the Infinite Child is spending his eternity “in mere idle sport.” In a moment I became old and carried the burden of wisdom on my hack, hawking truths from door to door. But have I been made to carry this burden, I ask myself over and over again, shouting myself hoarse in this noisy world where everybody is crying up his own wares? Pushing the
+
+--- Page 79 ---
+
+LETTERS FROM ABROAD 71 wheelbarrows of propaganda from continent to continent—is this going to be the climax ofa poet’s life? It seems to me like an evil dream, from which I occasionally wake up in the dead of night and grope about in the bed asking myself in conster-nation—"“ Where is my music? ”
+
+It is lost, but I had no right to lose it, for I did not earn it with the sweat of my brow; it was a gift to me, which I could deserve if I knew how to love it. You know I have said somewhere that “God praises me, when I do good; but God loves me,, when I sing”. Praise is reward; it can be measured against the work you render; but love is above all rewards; it is measureless.
+
+The poet who is true to his mission, reaps his harvest of love; but the poet, who strays iifto the path of the good, is dismissed with applause. So I am to found my International University—a great work! But I lose my little song—which loss can never be made up to me. How I wish I could find back my reed and be contemptuously ignored by the busy and the wise as a hopeless ne’er-do-well!
+
+When I know for certain, that I shall never be able to go back to that sweet obscurity, which is the birthplace of flowers and bird-songs, I feel home-sick. It is a world which is so near and yet so far away; so easy of access and yet so immensely difficult. Happiness we go on missing in our life, because it is so simple.
+
+--- Page 80 ---
+
+72 LETTERS FROM ABROAD CHICAGO, March 2, 1921,
+
+Your last letter gives wonderful news about our students in Calcutta. I hope that this spirit of sacrifice and willingness to suffer will grow in strength; for to achieve this is an end in itself. This is the true freedom! Nothing is of higher value—be it national wealth, or independence—than disinterested faith in ideals, in the moral greatness of man.
+
+The West has its unshakable faith in material strength and prosperity; and therefore however loud grows the cry for peace and disarmament, its ferocity growls louder, gnashing its teeth and lagShing its tail in impatience. It is like a fish, hurt by the pressure of the flood, planning to fly in the air. Certainly the idea is brilliant, but it is not possible for a fish to realise. We, in India, have to show to the world, what is that truth, which not only makes disarmament possible but turns it into strength;
+
+The truth, that moral force is a higher power than brute force, will be proved by the people who are unarmed. Life, in its higher development, has thrown off its tremendous burden of armour and a prodigious quantity of flesh; till man has become the conqueror of the brute world. The day is sure to come, when the frail man of spirit, com-tietely unhampered by air fleets and dreadnoughts,
+
+--- Page 81 ---
+
+LETTERS FROM ABROAD 73 will prove that the meek are to inherit the earth.
+
+It is in the fitness of things, that Mahatma Gandhi, frail in body and devoid of all material resources, should call up the immense power of the meek, that has been lying waiting in the heart of the destitute and insulted humanity of India. The destiny of India has chosen forits ally, Narayan, ° and not the Narayansena—the power of soul and not that of muscle. And she is to raise the history of man from the muddy level of physical conflict to the higher moral altitude.
+
+What is Swaraj! It is maya; it is like a mist, that will vanish, leaving no stain on the radiance of the Eternal. However we may delude ourselves with the phrases learnt from the West, Swaraj is not our objective.. Our fight is a spiritual fight—it is for Man. We are to emancipate Man from the meshes that he himself has woven round him—these organisations of National Egoism. The butterfly will have to be persuaded that the freedom of the sky is of higher value than the shelter of the cocoon. If we can defy the strong, the armed, the wealthy—revealing to the world the power of the immortal spirit—the whole castle of the Giant Flesh will vanish in the void. And then Man will find his Swaraj.
+
+We, the famished, ragged ragamuffins of the East, are to win freedom for all Humanity. We have no word for ‘Nation’ in our language. When we
+
+--- Page 82 ---
+
+74 LETTERS FROM ABROAD borrow this word from other people, it never fits us. For we are to make our league with Narayan, and our victory will not give us anything but victory itself; victory for God’s world. I have seen the West; I covet not the unholy feast, in which she revels every moment, growing more and more bloated and red and dangerously delirious. Not for us, is this mad orgy of midnight, with lighted torches, but awakenment in the serene light of morning. CHICAGO, March 6, 1921.
+
+Lately I have been receiving more and more news and newspaper cuttings from India, giving rise in my mind toa painful struggle that presages a périod of suffering which is waiting forme. I amstriving with all my power to tune my mood of mind to be in accord with the great feeling of excitement sweeping across my country. But, deep in my being, why is there this spirit of resistance maintaining its place in spite of my strong desire to remove it? I fail to find a clear answer; and through my gloom of dejection breaks out a smile and a voice saying, “ Your place is on ‘the seashore of worlds, with children; there is your peace, and I am with you there.”
+
+This is why lately I have been playing with inventing new metres. These are merest no-things that are content to be borne away by the current of time, dancing in the sun and laughing
+
+--- Page 83 ---
+
+LETTERS FROM ABROAD 75 as they disappear. But while I play, the whole creation is amused, for are not flowers and leaves never-ending experiments in metre. Is not my God an eternal waster of time? He flings stars and planets in the whirlwind of changes, he floats paper-hoats of ages, filled with his fancies, on the rushing stream of appearance, When I tease him and beg him to allow me to remain his little follower and accept a few trifles of mine as the cargo of his play-boat, he smiles and I trot behind him catching the hem of his robe.
+
+Butsewhere am I among the crowd, pushed from behind, pressed from all sides? And what is this noise about me? If it is a song, then my own sitar can catch the tune and I join in the chorus, for I am a singer. But if it is a shout, then my voice is wrecked and I am lost in bewilderment. I have been trying all these days to find in it a melody, straining my ear, but the idea of nonco-operation, with its mighty volume of sound, does not sing to me; its congregated menace of negation shouts. And I say to myself, “If you cannot keep step with your countrymen at this great crisis of their history, never say that you are right and the rest of them wrong; only give up your role as a soldier, go back to your corner as a poet, be ready to accept popular derision and disgrace.”
+
+R—, in support of the present movement, has often said to me: that passion for rejection is a stronger power in the beginning than the acceptance of an
+
+--- Page 84 ---
+
+76 LETTERS FROM ABROAD ideal. Though I know this to be a fact, I cannot take it as a truth. We must choose our allies once for all; for they stick to us even when we might be glad to be rid of them. If we once claim strength from intoxication, then in the time of reaction our normal strength is bankrupt; and we go back again and again to the demon who lends us resources in a vessel whose bottom it takes away.
+
+Brahma-vidyu, the cult of Brahma, the Infinite Being, has for its object mukt/, emancipation, while Buddhism has wrvana, extinction. It may be argued that both have the same idea in djfferent names. But names represent attitudes of mind and emphasise particular aspects of truth. Mukt: draws our attention to the positive, and nirvana to the negative side of truth. Buddha kept silence all through his teachings about the truth of the Om, the Everlasting Yes, his implication being that by the negative path of destroying the self we naturally reach that truth. Therefore he emphasised the fact of dukha, misery, which had to be avoided. But the Brahma-vidya emphasised the fact of Ananda, Joy, which had to be attained. The latter cult also needs for its fulfilment the discipline of self-abnegation; yet it holds before its view the idea of Brahma, not only at the end, but all through the process of realisation.
+
+Therefore the idea of life’s training was different in the Vedic period from that of the Buddhistic. In the former it was the purification
+
+--- Page 85 ---
+
+LETTERS FROM ABROAD 77 of life’s joy; in the latter it was the eradication of it. The abnormal type of asceticism to which Buddhism gave rise in India revelled in celibacy and mutilation of life in all different forms. Yet the forest life of the Brahmana was not antagonistic to the social life of man, but harmonious with it. It was clike our musical instrument tambura whose duty is to supply the fundamental notes to the music to save it from straying into discordance. It believed in Anandam, the music of the soul, and its own simplicity was not to kill it, but to guide it.
+
+The idea of non-co-operation is political asceticism. Q@ur students are bringing their offering of sacrifices to what? Not to a fuller education, but to non-education. It has at its back a fierce joy of annihilation, which at its best is asceticism, and at its worst is that orgy of frightfulness in which human nature, losing faith in the basic reality of normal life, finds a disinterested delight in an unmeaning devastation, as has been shown in the late war and on other occasions which came nearer to us. ‘No’ in its passive moral form is asceticism, and in its active moral form is violence. The desert is as much a form of hAimsa, violence, as is the raging sea in storm; they both are against life.
+
+I remember the day, during the Swadeshi movement in Bengal, when a crowd of young students came to see me in the first floor hall] of our Vichitra house. They said to me that if I would order them to leave their schools and colleges they would
+
+--- Page 86 ---
+
+78 LETTERS FROM ABROAD instantly obey. I was emphatic in my refusal to do so, and they went away angry, doubting the sincerity of my love for my motherland. And yet long before this popular ebullition of excitement, I myself had given a thousand rupees, when I had not five rupees to call my own, to open a Swadeshi store and courted banter and bankruptcy.
+
+The reason of my _ refusing to advise those students to leave their schools was because the anarchy of a mere emptiness never tempts me, even when it is resorted to as a temporary measure. I am frightened of an abstraction which is ready to ignore living <cedality. These students were no mere phantoms ‘to me. Their life was a great fact to them and tothe All. I could not lightly take upon myself the tremendous responsibility of a mere negative programme for them, which would uproot their life from its soil, however thin and poor that soil might be. The great injury and injustice, which had been done to those boys, who were tempted away from their career before any real provision was made, could never be made good to them. Of course that is nothing from the point of view of an abstraction, which can ignore the infinite value even of the smallest fraction of reality. I wish I were the littie creature Jack, whose one mission is to kill the giant Abstraction, which is claiming the sacrifice of individuals all over the world under highly painted masks of delusion.
+
+--- Page 87 ---
+
+LETTERS FROM ABROAD 79 I say again and again that I am a poet; that [am not a fighter by nature. I would give everything to be one with my surroundings. I love my fellow-beings and I prize their love. Yet I have been chosen by destiny to ply my boat there, where the current is against me. What irony of fate is this that I should be preaching co-operation of cultures between East and West on this side of the sea just at the moment when the doctrine of non-co-operation is preached on the other side? You know that I do not believe in the material civilisation of the West, just as I do not believe the physical body to be the highest truth in man. But I still less believe in the destruction of the physical body, and the ignoring of the material necessities of,life. What is needed is establishment of harmony between the physical and spiritual nature of man, the maintaining of balance between the foundation and superstructure. I believe in the true meeting of the East and the West. Love is the ultimate truth of soul. We should do all we can, not to outrage that truth, but to carry its banner against all opposition. The idea of non-co-operation unnecessarily hurts that truth. It is not our hearth-fire, but the fire that burns out our hearth and home. NEw YORK, March. 18, 1921. Things that are stationary have no responsibility and need no law. For death, even the tombstone is
+
+--- Page 88 ---
+
+80 LETTERS FROM ABROAD
+
+a useless luxury. But for a world, which is an ever-moving multitude advancing toward an idea, all its laws must have one principle of harmony. This is the law of creation.
+
+Man became great when he found out this law for himself, the law of co-operation. It helped him to move together, to utilise the rhythm and impetus of the world march. He at once felt that this moving together was not mechanical, not an external regulation for the sake of some convenience. It was what the metre is in poetry-—not a mere system of enclosure for keeping ideas from running away in disorder, but for vétalising them, making them indivisible in a unity of creation.
+
+So far this idea of co-operation has developed
+
+‘itself into individual communities, within the boundaries of which peace has been maintained and varied wealth of life produced. But outside these boundaries the law of co-operation has not been realised. Consequently the great world of man is suffering from ceaseless discordance. We are beginning to discover that our problem is world-wide, and no one people of the earth can work out its salvation by detaching itself from the others. Either we shall be saved together, or drawn together into destruction.
+
+This truth has ever been recognised by all the great personalities of the world. They had in themselves the perfect consciousness of the
+
+--- Page 89 ---
+
+LETTERS FROM ABROAD 81 undivided spirit of man. Their teachings were against tribal exclusiveness, and thus we find that Buddha's India transcended geographical India, and Christ’s religion broke through the bonds of Judaism.
+
+To-day, at this critical moment of the world’s history, cannot India rise above her limitations and offer the great ideal to the world that will work towards harmony and co-operation between the different peoples of the earth? Men of feeble faith will say that India requires to be strong and rich before she can raise her voice for the sake of the whole world. But I refuse to believe it. That the measure of man’s greatness is in his material resources is a gigantic illusion casting its shadow over the present-day world—it is an insult to man. It lies in the power of the materially weak to save the world from this illusion; and India, in spite of her penury and humiliation, can afford to come to the rescue of humanity.
+
+The freedom of unrestrained egoism in the individual is license and not true freedom. For his truth is in that which is universal in him. Individual human races also attain true freedom when they have the freedom of perfect revelation of Man and not that of their aggressive racial egoism. The idea of freedom which prevails in modern civilisation is superficial and materialistic. Our revolution in India will be a true one when its forces are directed against this crude idea of liberty.
+
+a
+
+--- Page 90 ---
+
+82 LETTERS FROM ABROAD
+
+The sunlight of love has the freedom that ripens the wisdom of immortal life; but passion’s fire can only forge fetters for ourselves. The Spiritual Man has been struggling for its emergence into perfection, and every true cry of freedom is for this emancipation. Erecting barricades of fierce separateness, in the name of national necessity, is offering hindrance to it. Therefore in the long run it is building a prison for the nation itself. For the only path of deliverance for nations is in the ideal humanity.
+
+Creation is an endless activity of God’s freedom; it is an end in itself. Freedom is true when it is a revelation of truth. Man’s freedom is for the revelation of the truth of Man, which is struggling to express itself. We have not yet fully realised it. Lut those people who have faith in its greatness, who acknowledge its sovereignty, and have the instinctive urging in their heart to break down obstructions, are paving the way for its coming.
+
+India ever has nourished faith in the truth of the Spiritual Man, for whose realisation she has made innumerable experiments, sacrifices and penances, some verging on the grotesque and the abnormal. But the fact is, she has never ceased in her attempt to find it, even though at the tremendous cost of material success. Therefore I feel that the true India is an idea, and not a mere geographical fact. I have come into touch with this idea in far away places of Europe and my loyalty was drawn to it in persons who belonged to countries different from
+
+--- Page 91 ---
+
+LETTERS FROM ABROAD 83 mine. India will be victorious when this idea wins the victory—the idea of Purusham mahantam aditya-varnam tamasah parastat,—The Infinite Personality whose Light reveals itself through the obstruction of Darkness. Our fight is against this Darkness. Our object is the revealment of the Light of this Infinite Personality in ourselves. This Infinite Personality of Man is not to be achieved in single individuals, but in one grand harmony of all human races. The darkness of egoism which will have to be destroyed is the egoism of the Nation. The idea of India is against the intense consciousness of the,separateness of one’s own people from others, which inevitably leads to ceaseless conflicts. Therefore my one prayer is, let India stand for the co-operation of all peoples of the world.
+
+The spirit of rejection finds its support in the con-Sciousness of separateness, the spirit of acceptance in the consciousness of unity. India has ever declared that Unity is Truth, and separateness is maya. This unity is not a zero; it is that which comprehends all and therefore can never be reached through the path of negation.
+
+Our present struggle to alienate our heart and mind from the West is an attempt at spiritual suicide. If in the spirit of national vain-gloriousness we shout from our house-tops that the West has produced nothing that has an infinite value for man, then we only create @ serious cause of doubt about the worth of
+
+--- Page 92 ---
+
+84 LETTERS FROM ABROAD
+
+any product of the eastern mind. For it is the mind of Man in the East and West which is ever approaching Truth in her different aspects from different angles of vision. If it can be true that the standpoint of the West has betrayed it into an utter misdirection, then we can never be sure of the standpoint of the East. Let us be rid of all false pride and rejoice at any lamp being lit in any corner of the world, knowing that it is a part of the common illumination of our house.
+
+The other day, I was invited to the house of a distinguished art-critic of America who is a great admirer of old Italian art. I questioned him if he knew anything of our Indian pictures, and he brusquely said that most probably he would hate tuem. Isuspected he had seen some of them and hated them already. In retaliation I could have said something in the same language about western art. But I am proud to say it was not possible for me. ForlI always try to understand western art and never to hate it.
+
+Whatever we understand and enjoy in human products instantly become ours wherever they might have their origin. I should feel proud of my humanity, when I can acknowledge the poets and artists of other countries as my own. Let me feel with unalloyed gladness that all the great glories of man are mine. Therefore it hurts me deeply when the cry.of rejection rings dloud against the West in my country with the
+
+--- Page 93 ---
+
+LETTERS FROM ABROAD 85 clamour that western education can only injure us,
+
+It cannot be true. What has caused the mischief is the fact that for a long time we have been out of touch with our own culture and therefore western culture has not found its true perspective in our life. Very often it has found a wrong perspective giving our mental eye a squint. When we have intellectual capital of our own, the commerce of thought with the outer world becomes natural and fully profitable. But to say that such commerce is inherently wrong, is to encourage the worst form of provin-cialism, productive of nothing but intellectual indigence.
+
+The West has misunderstood the East. This is at the root of the disharmony that prevails between them. But will it mend matters if the East in her turn tries to misunderstand the West? The present age has been powerfully possessed by the West; it has only become possible because to her is given some great mission for man. We, from the East, have to come to her to learn whatever she has to teach us; for by doing so we hasten the fulfilment of this age. We know that the East also has her lessons to give, and she has her own responsibility of not allowing her light to be extinguished. The time will come when the West will find leisure to realise, that she has a home of hers in the East where her food is and her rest.
+
+--- Page 94 ---
+
+86 LETTERS FROM ABROAD NEW YORK, March 18, 1921.
+
+I wish that I could be released from my mission, For such missions are like a mist that envelopes our soul—they seem to shut us off from the direct touch of God’s world. And yet I have such an immense hunger for thistouch. The spring-time has come—the sky is overflowing with sunshine. I long to be one with the birds and trees and with the green earth. The call comes to me from the air to sing, but, wretched creature that I am, I lecture—-and by doing it, I ostracise myself from this great world of songs to which I was born. Manu, the Indian law-giver, enjoins us not to cross the sea. But I kave @one so: I have sailed away from my own native universe—from the birth place of those morning jasmines, from the lotus lake of Saraswati, which greeted me when I was a child even as the finger touch of my own mother. Now, when occasionally I come back to them, I am made to feel that I have lost my caste; and though they call me by my name and speak to me, they keep themselves apart.
+
+I know that my own river Padma, who has so often answered to my music with an amused gleam of tender tolerance in her face, will separate herself from me behind an invisible veil, when I come to her. She will say to me in a sad voice: “ Thou
+
+ehast crossed the sea!”
+
+--- Page 95 ---
+
+LETTERS FROM ABROAD 87
+
+The losing of Paradise is enacted over and over again by the children of Adam and Eve. Weclothe our souls with messages and doctrines and lose the touch of the great life in the naked breast of Nature. This letter of mine, carrying the cry of a banished soul, will sound utterly strange to you in the ptesent-day India.
+
+We hold our mathematical classes in Santi-niketan under the madhavi bower. Is it not good for the students and others, that, even in the busiest time of lessons, the branches overhead do not break out into a shower of geometrical propositions? Is it not good for the world, that poets should forget all about the resolutions carried at monster meetings? Is, it not right, that God’s own regiment of the useless should never be conscripted for any militgry contingency of the useful?
+
+When the touch of spring is in the air, I suddenly wake up from my nightmare of giving ‘messages and remember that I belong to the eternal band of good-for-nothings; I hasten to join in their vaga-bond chorus. But I hear the whisper round me: “This man has crossed the sea,” and my voice is choked.
+
+Weare leaving for Europe to-morrow and my days of exile are coming to an end. Very likely my letters will be fewer in number from now, but I shall make up for this when I meet you in person under the shadow of the rain-clouds of July.
+
+--- Page 96 ---
+
+88 LETTERS FROM ABROAD
+
+Pearson is busy seeking health and happiness, making himself ready for the time when he will join us in India in the cold season.
+
+‘§. S. RHYNDAM.
+
+The very fact that we have turned our face towards the East fills my heart withjoy. For me my East is the poet’s East, not that of a politician or a scholar. It is the East of the magnanimous sky and exuberant sun-light, where once upon a time a boy found himself straying in the dim twi-light of child-consciousness peopled with dreams. That child has grown, but never grown out uf his childness., I realise it all the more strongly when some problem, political or otherwise, becomes clamorous and insistent, trying to exact its answer from me. I rouse myself up, strain my mind, raise my voice for prophetic utterances and in every way try to be worthy of the occasion, but in my heart of hearts I feel exceedingly small and to my utter dismay discover I am not a leader, not a speaker, not a teacher, and farthest of all away from being a prophet.
+
+The fact becomes fully evident to me, that I had forgotten to grow. It comes of an incorrigible absent-mindedness. My mind has ever wandered away from those things that mature one into wisdom and old age—I have neglected my lessons. And this utter want of training makes me such a wretchedly bad reader of journals dealing
+
+--- Page 97 ---
+
+LETTERS FROM ABROAD 89 with the practical questions of the day! But I am afraid the present time is a tremendously difficult one in India for the child, for the poet. It isnouse protesting that he is lacking in understanding—that he is congenitally incapable of paying attention to anything urgent and serious. No, he must attend meetings, or write editorials; cultivate cotton-fields, or accept some responsibility of grave and national import, in order to make a fool of himself.
+
+And yet my heart is aching and longing to mect, with proper ceremony, the first day of the rainy seasop, or fill every pore of my mind with the smell of mango blossoms. Is that allowable at the present moment? Does our south breeze still enjoy all the -frivolities of spring days? Have our sunset hours taken the vow of discarding all traces of colours from their cloud turbans?
+
+But what is the use of complaining? The poets are too primitive for this age. If they had not ignominiously been discarded by the law of evolution, they would long ago have grown into their career as politicians. But the mischief is—they have been left behind in a world which has stopped growing, where things are still important which have no use or market value. The more the call for action grows loud from across the sea, the more I feel conscious of the poet in me, that cries, “I am of no use—leave me alone to my utter inutility.” «
+
+--- Page 98 ---
+
+90 LETTERS FROM ABROAD
+
+But I know, when I reach India, the poet will be defeated; and I shall piously study the news-papers—every paragraph of them. But, for the present, even the poet is at a disadvantage—for the sea is rough, my head is swimming and the English language is extremely difficult to manage in a rolling ship.
+
+3%. S. RHYNDAM.
+
+Sometimes it amuses me to observe the struggle for supremacy that is going on between the different persons within me. In the present condition of India, when the call is sure to come to me to take some part, in some manner or other, in some political affairs, the Poet at once feels nervous, thinking tkat his claims are likely to be ignored, simply because he is the most useless member in the con-federacy of my personality. He fully anticipates that argument against him, and takes special pains to glorify his deficiency even before any complaint has been submitted by anybody on this point. He has proudly begun to assert: “I belong to the great brotherhood of the supremely Useless. I am the cupbearer of the Gods. I share the common privilege with all divinities tobe misunderstood. My purpose is to reveal Purposelessness to the children of the Immortal. I have nothing to do with committee meet-ings or laying of foundation stones for structures that stand against the passage of time and are sure «o be trampled to dust. Iam to ply the ferry boat
+
+--- Page 99 ---
+
+LETTERS FROM ABROAD 91 that keeps open the traffic between this shore and the shore of Paradise—this is our King’s mail-boat for the communication of messages, and not for carrying cargo to the markets.”
+
+I say to him: “Yes, I fully agree with you; but, at the same time, take my warning, that your mail-boat may have to be commandeered for other urgent purposes, wholly unconnected with the Celestial Postal Department.” His cheeks grow pale; his eyes become bemisted; his frail body shivers like a cypress at the first breath of winter, and he says to me: “Do I deserve to be treated like this? Have you lost all your love for me, that you can talk of putting me under martial law? Did you not drink your first cup of Amrita® from my hand, and has not the Citizenslip of the Sphere of Music been conferred upon you through my persuasion?”
+
+I sit dumb, and muse and sigh, when sheaves of newspaper-cuttings are poured upon my table, and a leer is spread upon the face of the Practical man; he winks at the Patriotic man sitting solemnly by his side; and the man who is Good, thinks it his painful duty to oppose the Poet, whom he is ready to treat with some indulgence within proper limits. As for me, who am the President of this Panchayat, I have my deepest sentiment of tenderness for this Poet, possibly because he is so utterly good-for-nothing and always the first to be ignored in the time of emergency.
+
+--- Page 100 ---
+
+92 LETTERS FROM ABROAD
+
+The timid Poet, avoiding the observation of the Practical and the Good comes to my side and whispers: ‘Sir, you are not a man made for the time of emergency—but for the time that transcends it on all sides.”
+
+The rascal knows well how to flatter and generally wins his case with me—especially when others are too cocksure of the result of their appeal; and I jump up from my judgment seat, and, holding the Poet by the hand, dance a jig dance and sing: “T shall join you, Comrade, and be drunk and gloriously useless.” Ah, my evil luck! I know why the chairmen of meetings hate me, newSnaper editors revile me, the virile call me effeminate! So I try to take my shelter among children, who have the gift of being glad with things and men that have no value.
+
+'S. S. RHYNDAM.
+
+My difficulty is that when, in my environment, some intense feeling of pride or resentment concentrates its red light within a certain limited area, I lose my true perspective of life and the world, and it deeply hurts my nature. It is not true that Ido not have any special love for my own country, but when it is in its normal state it does not obstruct outside reality; on the contrary, it offers a standpoint and helps me in my natural relationship with others. But when tat standpoint itself becomes a barricade, then
+
+--- Page 101 ---
+
+LETTERS FROM ABROAD 93. something in me asserts that my place is some-where else.
+
+IT have not yet attained that spiritual altitude from which I can say, with perfect assurance, that such barricading is wrong, or even unnecessary; but some instinct in me says, that there is a great deal of unreality in it, as there is in all passions that are generated through contraction of consciousness, through rejection of a great part of truth.
+
+‘I remember your wondering why Christ gave no expression to his partriotism, which was so intense in the Jewish people. It was because the great truth of man? which he realised, through his love of God, would only be cramped and crushed within that enclosure. I have a great deal of the patriot and the politician in me, and therefore I am frightena} of them; and I have an inner struggle against sub-mitting myself to their sway.
+
+But I must not be misunderstood. There is such a thing as a moral standard of judgment. When India suffers from injustice, it is right that we should stand against it; and the responsibility is ours to right the wrong not as Indians, but as human beings. There your position is higher than most of our countrymen’s. You have accepted the cause of India for the sake of humanity. But I know that most of our people will accept your help as a matter of course, and yet reject your lesson. You are fighting against that patriotism with which the West has humiliated the
+
+--- Page 102 ---
+
+94 LETTERS FROM ABROAD East—the patriotism which is racial egoism, national egoism. This is a comparatively later growth in European history and a far greater cause of misery and injustice in the human world than the blood-thirsty ferocity, the nomadic savagery, in the primitive history of man. The Pathans came to India and the Moghals, and they perpetrated misdeeds in their heedlessness; but because they had no taint of patriotism, they did not attack India at the very root of her life, keeping themselves superciliously aloof. Gradually they were growing one with us; and just as the Normans and Saxons combined into one people, our Muham-roadan invaders would ultimately have lost their line of separateness and contributed to the richness«and stength of Indian civilisation.
+
+We must remember that Hinduism is not the original Aryanism; in fact a greater portion of it is non-Aryan. Another great mixture had been awaiting us, the mixture with the Muhammadans. I know there were difficulties in its way. But the greatest of all difficulties waslacking= the idolatry of Geography. Justsee what hideous crimes are being committed by British patriotism in Ireland! It is a python which refuses to disgorge this living creature which struggles to live its separate life. For patriotism is proud of its bulk, and in order to hold ina bond of unity the units that have their own distinct individualities, it is ever ready to use means that are inhuman. Our own patriots would do just the
+
+--- Page 103 ---
+
+LETTERS FROM ABROAD 95 same thing, if the occasion arose. When a minority of our population claimed its right of inter-caste marriage, the majority cruelly refused to allow it that freedom. It would not acknowledge a difference which was fundamental, but was willing to per-petrate a moral torture far more reprehensible than a physical one. Why? Because power lies in number and in extension. Power, whether in the patriotic or in any other form, is no lover of freedom. It talks of unity—but forgets that true unity is that of freedom. Uniformity is unity of bondage.
+
+Suppose, in our Swaraj, the anti-Brahmin com-munity’ refuses to join hands with us; suppose for the sake of its self-respect and self-expression, it tries to keep an absolute independence—patriotism will try to coerce it into an unholg union. Because patriotism has its passion of power; and power builds its castle upon arithmetic. I love India, - But my India is an idea and not a geogra-phical expression. Therefore I am not a patriot-—I shall ever seek my compatriots all over the world. You are one of them, and I am sure there are many others.
+
+S. S. RHYNDAM.
+
+Plato threatened to banish all poets from his Republic. Was it in pity or in anger, I wonder? Will our Indian Swaraj, when it comes to exist, pass a deportation order against all those feckless creatures, who are pursuers of phantoms and
+
+--- Page 104 ---
+
+96 LETTERS FROM ABROAD fashioners of dreams, who neither dig nor sow, bake nor boil, spin nor darn, neither move nor support. resolutions?
+
+I have often tried to imagine the banished hordes of poets establishing their own Republic in the near neighbourhood of that of Plato. Naturally, as an act of reprisal, His Excellency the poet President is sure to banish from the Rhymers’ Republic all philosophers and politicians, Just think of the endless possibilities arising from feuds and truces of these rival Republics—peace con-ferences, deputations of representatives, institutions with busy secretaries and permanent funds having for their object the bridging of the gulf between the two adversaries. Then think of a trivial accident, terough which a hapless young man andsa melan-choly maiden, coming from the opposite territories, meet at the frontier, and owing to the influence of the conjunction of their respective planets fall in love with each other.
+
+There is no harm in supposing that the young man is the son of the President of the Philosphers’ Republic while the maiden is the daughter of that of the Poets. The immediate consequence is the secret smuggling of forbidden love-lyrics by the desperate youth into the very heart of the commentaries and controversies of the two contradictory schools of Philosophy—the one professed by the yellow turbanned sages proclaiming that one is true and two is nought, and the other,
+
+--- Page 105 ---
+
+LETTERS FROM ABROAD 97 which is the doctrine of the green-turbanned sages, asserting that two is truth and one is an illusion.
+
+Then came the day of the great meeting, presided over by the Philosopher President, when the pandits of opposite factions met to fight their dialectic duels finally to decide the truth. The din of debates grew into a tumultuous hubbub; the supporters of both parties threatened violence and the throne of truth was usurped by shouts. When these shouts were about to be transmuted into blows, there appeared in the arena the the pair of lovers, who, on the full moon light of April were secretly wedded, though such _inter-marriage was against the law. When they stood in the ppen partition between the two parties, a sudden hush fell,upon the assembly.
+
+How this unexpected and yet ever to be expected event, mixed with texts liberally quoted from the pro-scribed love-lyrics, ultimately helped to reconcile the hopeless contradiction in logic, is a long story. Itis well-known to those who have had the privilege to pursue the subsequent verdict of the judges, that both doctrines are held to be undoubtedly true; that, one is in two and therefore ¢wo must find itself in one. The acknowledgment of this principle helped to make the intermarriage valid, and since then the two Republics have successfully carried out their disarmament, having discovered for the first time, that the gulf between them was imaginary.
+
+q
+
+--- Page 106 ---
+
+98 LETTERS FROM ABROAD
+
+Such a simple and happy ending of this drama has caused widespread unemployment and consequent feeling of disgust among the vast number of secre-taries and missionaries belonging to the institutions maintained, with the help of permanent funds, for the preaching of Union—those organisations which were so enormously perfect in their machinery that they could well afford to ignore the insigni-ficant fact of their barrenness of result. A large number of these individuals gifted with an ineradi-cable passion for doing good are joining the opposite organisations, which have their permanent funds, in order to help them to prove and to preach that two is two and ever the twain shall meet.
+
+That the above story is a true one will, I am gure, be borne out by the testimony of even the august shade of Plato himself. This episode of the game of hide and seek of one in two should be sung by some poet; and therefore I request you to give it, with my blessings, to Satyendranath Datta that he may set it in those.jnimitable verse forms of which he is a master—and make it ring with the music of happy laughter.
+
+8. S. RHYNDAM.
+
+The sea has been exceedingly rough. The wild East wind, playing its snake-charmer’s bagpipe, has made a myriad of hissing waves raise their hoods to the sky. The rude handling by the sea does not affect me much, but the gloom and unrest and the
+
+--- Page 107 ---
+
+LETTERS FROM ABROAD 99 tremendous rise and fall of the waves, like a giant’s beating of the breast in despair, depress my mind.
+
+The sad thought very often comes to me, with an imaginary supposition, that I may never reach the Indian shore; and my heart aches with longing to see thd arms of my motherland extended into the sea with the palm leaves rustling in the air. It is the land where I gazed into the eyes of my first great sweetheart—my muse—who made me love the sunlight, touching the top of the cocoanut row through a pale mist of the serene autumn morning and the storm-laden rain-clouds rolling up from some abyss behind the horizon, carrying in their dark,folds a thrilling expectation of a mad outburst of showers,
+
+But where is this sweetheart of mine, who was almost the only companion of my boyhood, and with whom I spent my idle days of youth exploring the mysteries of dreamland? She, my Queen, has died; and my world has shut against me the door of that inner apartment of beauty, which gives the real taste of freedom. I feel like Shah-Jehan when his beloved Mumtaz was dead. Now I have left to me my own progeny,—a magnificent plan of an International University. But it will be like Aurangzeb, who will keep me imprisoned and become my lord and master to the end of my days. Every day my fear and distrust against it are growing in strength. For it has been acquiring powey,
+
+--- Page 108 ---
+
+100 LETTERS FROM ABROAD from outside my own resources, and it is material power.
+
+Santiniketan has been the playground of my own spirit. What I created on its soil was made of my own dream-stuff. Its materials are few; its regulations are elastic; its freedom has the inner restraint of beauty. But the International University will be stupendous in weight and rigid in construction; and if we try to move it, it will crack. It will grow up into a bully of a brother, and browbeat its sweet elder sister into a cowering state of subjection. Beware of organisation, my friend! They say organisation is necessary’jn order to give a thing its permanence, but it may be the permanence of a tombstone.! This letter ef mine will seem to you pessimistic. The reason is [am unwell.and utterly home-sick; and the vision of home, which haunts my mind, night and day. is Amader Shantiniketan, Our Shantiniketan, But the big towers of the Interna-tional University obstruct its view. Iam tired, tothe marrow of my bones, trying all these months for a purpose and working in a direction which is against the natural current of my inner being.
+
+S. S. RHYNDAM.
+
+You, who are given a stable and solid surface to work out your problems of daily life, cannot fully realise what a trial it has been for us, these two jays, to be tossed upon a wild sea every moment
+
+--- Page 109 ---
+
+LETTERS FROM ABROAD 101 of our existence. I do not feel sea-sick, but the great fact for us is, that we are the children of the land. This is an immovable fact—and yet, when this fact begins to move, it is not only misery but an affront to us. The whole sea seems to Jaugh loud at the conceited creatures, who only have a pair of tottering legs and not even a fraction of a fin.
+
+Every moment the dignity of man is outraged by making him helplessly tumble about in an infinite variety of awkwardness. He is compelled to take part in a very broad farce: and nothing can be more blmiliating for him than to exhibit a comic appearance in his very sufferings. It is like making the «audience roar with laughter by having the clown kicked into all manner of helpless absurd&- ties. While sitting, walking, taking meals, we are constantly being hurled about into unexpected postures, which are shamefully inconvenient.
+
+When Gods try to become funny in their sublime manner of perpetrating jokes, we, mortal creatures, find ourselves ata terrible disadvantage; for their huge laughter, carried by the millions of roaring waves, in flashing foam, keeps its divine dignity unimpaired, while we, on our side, find our self-respect knocked into pieces. Iam the only individual in this steamer, who is vying with the Gods by fashioning my misery into laughing words and refusing to be a mere passive instrument of an elemental foolery. A laughter, which is tyranny, has to be answered
+
+--- Page 110 ---
+
+102 LETTERS FROM ABROAD
+
+by another laughter which is rebellion. And this letter of mine carries the laughter of defiance. I had no other object in sitting down to write this morning; I had nothing particular to say to you—and to try to think when the ship is rolling in such an insane manner, is like trying to carry a full vessel of water while one is drunk; the greater part of the content is spilt. And yet I must write this letter, merely to show, that, though at the present moment I cannot stand erect on my legs, I can write. This is to assert, in the face of the ironical clapping of hands of the mighty Atlantic, that my mind, not only can stand up straight in its world of language, but can run, and even dance. This is my triumph.
+
+To-day is Tuesday—on the morning of ‘Thursday we are expected to reach Plymouth. I had been nourishing in my heart the expectation of finding your letters waiting for me in London; for I had hoped that R—had cabled to Thos. Cook’s about our movements. But I find that he has not, and a number of your letters will take nearly a month to find me. I cannot tell you what a disappointment it is for me. Your letters have helped me more than anything else during these extremely trying months of my exile—they have been like food and water to a soldier who is dragging his wounded and weary limbs, counting every step, across a difficult and doubtful road back to his camp-fire. However, © am coming to my journey’s end and intensely
+
+--- Page 111 ---
+
+LETTERS FROM ABROAD 103 hoping to see you, when I reach home. What I have suffered God only knows.—I am longing for rest. LONDON, April 10, 1921.
+
+I am glad to be in England again. One of the first men whom I happened to meet here was H. W. Nevinson; and I felt that soul was alive in this country which had produced such a man as that!
+
+A land should be judged by its best products, and I have no hesitation in saying that the best Englishmen are the best specimens of humanity.
+
+With all our grievances against the English nation, I cannot help loving your country, which has given me some of my dearest friends. Iem intensely glad of this fact, for it is hateful to hate. Just as a General tries, for his tactics, to attract a whole army of men into a cul-de-sac, in order to demolish them, our feeling of anger generalises the whole people of a country, in order mentally to give them a crushing blow on a tremendously big scale.
+
+Things that are happening in Ireland are ugly. The political lies, that are accompanying them, are stupendous, and in retaliation our anger seeks a victim adequately big; and we readily incriminate the whole people of England, though we know that a great number of Englishmen feel shame and sorrow for these brutalities quite as keenly as any disinterested outsiders.
+
+--- Page 112 ---
+
+104 LETTERS FROM ABROAD
+
+The fact that such a great proportion of people here—whose interest in keeping Ireland tied to the British Empire is so vital—can feel so keenly the tyranny inflicted on the Irish people, proves the inherent love of justice that thrives in the heart of this country in spite of all aberrations. The saving of a people depends upon the noble personalities holding up the moral tradition high above the floods of iniquities that occasionally deluge the land.
+
+Edmund Burke proves the greatness of Great Britain in spite of Warren Hastings; and we are grateful to Mahatma Gandhi for giving India the opportunity to prove that her faith in the Divine Spirit in man is alive still—in spite of a great deal ofh materialism in our religions, as they are practised, and a spirit of exclusiveness in our social system.
+
+The fact is, that the best people in all countries find affinity with one another. The fuel displays its differ-ences: -but the fire is one. When that fire comes before my vision in this country, I recognise it as the same thing which lights our path in India and illuminates our house, Let us seek that fire and know that whenever the spirit of separation is supreme, there reigns darkness. But with the realisation of unity comes truth and light. When we ignite our lamps, we at once send response to the eternal lights of heaven. You yourself area bearer of a lamp from your own land, and let me in
+
+--- Page 113 ---
+
+LETTERS FROM ABROAD 105 response light my own lamp with love for the great humanity revealed in your country.
+
+(The following letter was in answer to a lady who had complained that the poet had appeared to give vent to a feeling of anger against the British people in one of his lectures.)
+
+LONDON, April 12.
+
+I received your letter late that morning and was sorry td learn that you had come to this hotel while I was engaged.
+
+It.is not unlikely that some unsuspected remnant of race-sonsciousness in your mind made you imagine that I gave vent to my feeling of anger against the British people in my lecture. I deeply feel for all the races who are being insulted and injured by the ruthless spirit of exploitation of the powerful nations belonging to the West or the East. I feel as much for the Negroes, brutally lynched in America, often for economic reasons, and Coreans, who are the latest victims of the Japanese imperialism, as for any wrongs done to the helpless multi-tude of my own country. I feel certain that Christ, were he living at the present day, would have been angry with the nations who attempt to thrive upon the life-blood of their victim races, just as he was with those who defiled God's Temple
+
+--- Page 114 ---
+
+106 LETTERS FROM ABROAD
+
+with their unholy presence and profession. Surely he would have taken upon himself the chastisement of these miscreants, especially when those who professed to be his disciples, whose ostensible vocation was to preach peace and brotherhood of man, either kept a discreet silence whenever man’s history waited for a voice of judgment, or showed signs of virulence against the weak and the down-trodden greatly surpassing that of men whose profession it was blindly to kill human beings.
+
+On the other hand, though I sometimes congratu-late myself for my own freedom from race-consciousness, very likely a sufficient amount df it is lingering in my subconscious mind making itself evident to outsiders in my writings through special emphasis of pride at some great thoughts or good deeds of India, or special emphasis of indignation at any unjust suffering or humiliation she is made to undergo. I hope that I can claim forgiveness for this weakness considering that I never try to condone any wrongs done by my own countrymen against others belonging to different communities from ours.
+
+AUTOUR DU MONDE, PARIS, April 18, 1921.
+
+I have come back to the domain of dust from my short aeroplane career in the mid-air, when my namesake from the high heaven, the Sun,’ shed
+
+Referring to his name Rabi, which means the Sun.
+
+--- Page 115 ---
+
+LETTERS FROM ABROAD 107 upon me his smile of amused tenderness, and some vagabond clouds of the April sky seemed to wonder in their minds, if I were about to join their ranks.
+
+I am not going to stay in Paris more than & week this time; for I must finish my Con-tinental tour by the end of May and prepare for my return voyage to India. The days of my exile seem to be gaining in weight as they are approaching their end; and I wish I had a relay of minds so that I could charge them whenever they become exhausted. Having only one in my possession, [I had to be merciless toward it, even when it lacked the fod to which it had been accustomed. The result is, that it is beginning to doubt, almost to haté, the idea’ which it is made to carry through a rugged’and tortuous path.
+
+Whenever I find time and sit alone before the window, I gravely nod my head and say to myself in a sad voice: ‘‘ Those who have been born foolish can gladden the heart of God only when they have the freedom of solitariness and can spread their idle wings in the air and flit and hum for nothing atall. Yuu, poet, are one such creature—you have to be alonc to fulfil your nature. What is all this that you are planning? Must you guide the mul> titude and work with them for the building of an Institution?”
+
+All through my life, I have ever worked alone; for my life and my work have been one. I am like
+
+> That is to say, the idea of Visvabharati.
+
+--- Page 116 ---
+
+108 LETTERS FROM ABROAD
+
+the tree, which builds up its timber by its own living process; and therefore it needs leisure and space, sunlight and air—and not bricks and mortar, masons and the civil engineer.
+
+All my works have their roots in my dreams. But an International University needs a foundation, and not roots. It needs to be solidly built upon international boards and committees and funds contributed by men of prudence and foresight. Foresight is a gift which I wholly lack. I may have some insight, but no foresight at all. Foresight has the power of calculation: insight has the power of vision. He may have faith in insight to whom it belongs; and therefore he is not afraid of making mistakes or even of apparent failures. But forrsight is impatient of all deficiencies. It vonstantly dwells on the possibilities of mistakes, only because it has not the vision of the whole. There-fore its plans are mostly solid and inflexible.
+
+In the establishment of the International University, the foresight of the experienced will never forsake me; it will go straight to the helm and take charge; and only then the prudent who give money and the wise who give advice will be satisfied. But where will remain the place for the foolish and the irresponsible?
+
+The whole thing will have to be established on a permanent basis; but this so-called permanence is only bought at the cost of life and freedom. The cage is permanent, not the nest. And yet all that
+
+--- Page 117 ---
+
+LETTERS FROM ABROAD 109 is truly permanent has to pass through an endless series of impermanencies. The spring flowers are permanent, because they know how todie. The temple made of stone cannot make truce with death by accepting it. Proud of its bricks and mortar, it constantly opposes death, till it is defeated in the end.
+
+‘Our’ Santiniketan depends for its permanence upon life. But an International University tries to build its permanence with the help of rules and regulations. But—Never mind! Let me forget it for a moment. Possibly I am exaggerating. The reason is, the day is’ full of gloom. It has been snowing and raining; the road is muddy; and Iam home-sick.
+
+I-am requested by some association to read a paper at one of their meetings. They asked meeor a summary, which they will circulate among the members. I enclose a copy of it which I have given to them for circulation.
+
+’ NOTES OF LECTURE
+
+From the beginning of their history, Western races have had to deal with nature as their anta-gonist. This fact has emphasised in their mind the dualistic aspect of truth, the eternal conflict between good and evil. Thus it has kept up the spirit of fight in the heart of their civilisation. They seek victory and cultivate power.
+
+The environment in which the Aryan immigrants found themselves in India was that of the forget.
+
+--- Page 118 ---
+
+110 LETTERS FROM ABROAD
+
+The forest, unlike the desert, or rock, or sea, is living: it gives shelter and nourishment to life. In such surroundings, the ancient forest dwellers of India realised the spirit of harmony with the universe and emphasised in their minds the monistic aspect of Truth. They sought the realisation of their soul through union with all.
+
+The spirit of fight and the spirit of harmony both have their importance in the scheme of things. For making a musical instrument, the obduracy of materials has to be forced to yield to the purpose of the instrument maker. But music itself is a revelation of beauty, it is not an outcome of fight; it springs from an inner realisation of harmony. The musical instrument and the music both have their own importance for humanity.
+
+The civilisation that fights and conquers for Man, and the civilisation that realises for him the fundamental unity in the depth of existence, are complementary to each other. When they join hands, human nature finds its balance; and its pursuits, through rugged paths, attain their ultimate meaning in an ideal of perfection.
+
+AUTOUR DU MONDE, PARIS, Aprit 21, 1921.
+
+The letters from India this week have not reached me though long overdue. There was a squall in the Mediterranean Sea, and the mail bags have been damaged by the sea water. So there is a
+
+--- Page 119 ---
+
+LETTERS FROM ABROAD lll chance of my letters not coming at all, and it may become a Lent week for me. Your letters have been a never-failing source of sustenance for my mind all through my days of exile—and you have been so generously lavish in your supply.
+
+To-morrow I am going to start on a tour in Switzerfand, Germany, Denmark, Norway, and Sweden. I feel sure of the welcome awaiting me in those countries. I cannot imagine how I could have merited so great a reward. I feel that lam being greatly overpaid for my service, and one day I shall be called upon to refund the excess, and a great deal more!
+
+There was a proposal made by some friend of mine in England toform a Board of Trustees to help me in my wovk of Visvabharati. But it is needless go assure you that I am not going to allow my Institution to be tied to the tow-boat of any official body. I know it would have saved me from a great deal of trouble and opposition. But when, by some artificial protection, we save ourselves from trouble in the beginning, it crops up in a worse form in the end.
+
+My letters will grow more and more irregular till they meet their Nirvana in our meeting at Santiniketan.
+
+AUTOUR, DU MONDE, PARIS, april 24, 1921.
+
+When I sent my appeal for an International
+
+Institution to the western people I made use of
+
+--- Page 120 ---
+
+112 LETTERS FROM ABROAD
+
+the word ‘ University’ for the sake of convenience. But that word has not only an inner meaning, but also an outer association in the minds of those who use it; and that fact tortures my idea into its own rigid shape. It is unfortunate.
+
+I should not allow my idea to be pinned toa word for a foreign museum, like a dead butterfly. It must be known, not by a deposition, but by its own life growth.
+
+I saved my Santiniketan School from being trampled into smoothness by the steam roller of the Education Department. My school is poor in resources and equipment, but it has the wealtlf of truth in it, which no money can ever buy; and I am proud of the fact that it is not a machine-made article per-fectly modelled in a work-shop—it is ous very own.
+
+If we must have a University, it should spring from our own life and be maintained by our own life. Someone may say that such freedom is dangerous, and that a machine will help to lessen our personal responsibility and make things easy for us. Yes! Life has its risks, and freedom has its responsibility; and yet they are preferable on account of their own immense value, and not for any other ulterior results.
+
+So long I have been able to retain my perfect independence and self-respect because I had faith in my own resources and proudly worked within their sovereign limits. My bird must still retain its freedom of wings and not be tamed into a
+
+--- Page 121 ---
+
+LETTERS FROM ABROAD 113 sumptuous nonentity by any controlling agency outside its own living organism. ‘I know that the idea of an International University is complex, but I must make it simple in my own way. I shall be content if it attracts round it men who have neither name nor fame nor worldly means, but who have the mind and the faith; who are to create a great future with their dreams.
+
+Very likely, I shall never be able to work with a Board of Trustees, influential and highly respectable—for I am vagabond at heart. But the powerful people of the world, the lords of the earth, make it difficul? for me to carry out my work. I know it, and I have had expericnce of it in connexion with Santiniketan. But I am not afraid of failure. I am only afraid of being tempted away from trush, in pursuit of success. The temptation assaults me occasionally; but it comes from the outside atmosphere. My own abiding faith is in life and light and freedom. And my prayer is:
+
+“ Lead me from the unreal to Truth.”
+
+This letter of mine is to let you know that I free myself from the bondage of help, and go back to join the great ‘Brotherhood of the Tramps,’ who seem helpless, but are recruited by God for His own army.
+
+STRASBOURG, April, 29, 1921.
+
+Tam writing this from Strasbourg where I am going to read my lecture at the University this evening. 8
+
+--- Page 122 ---
+
+114 LETTERS FROM ABROAD
+
+I miss you very much at this moment; for I feel certain that it would overwhelm you with happiness could you be with me now, realising the great out-burst of love for me in the continental countries of Europe which I have visited. I have never asked for it, or striven for it, and I never can believe that I have deserved it. However, if it be more than is due to me, I am in no way responsible for this mistake. For I could have remained perfectly happy in my obscurity to the end of my days, on the banks of the Ganges, with the wild ducks as my only neighbours on the desolate sand islands.
+
+“T have only sown dreams in the air,” for the greater part of my life, and I never turned back to see if they bore any harvest. But the harvest-now sugprises me, almost obstructs my path, und I cannot make up my mind to claim it for my own. All the same, it is a great good fortune to be accepted by one’s fellow-beings from across the distance of geography, history and language; and through this fact we realise how truly one is the mind of Man, and what aberrations are the conflicts of hatred and the competitions of self-interest.
+
+We are going to Switzerland to-morrow and our next destination will be Germany. I am to spend my birth-day this yearin Zurich. I bave had my second birth in the West, and there is rejoicing at
+
+the event. But by nature all men are dwija or twice born—first they are born to their home, and then, for their further fulfilment, they have to be born to
+
+--- Page 123 ---
+
+LETTERS FROM ABROAD 115 the larger world. Do you not feel yourself, that you have had your second birth among us? And with this second birth, you have found your true place in the heart of humanity.
+
+It is a beautiful town, this Strasbourg—and to-day the morning light is beautiful. The sunshine has mingled with my blood and tinged my thoughts with its gold, and I feel ready tosing,——“ Brothers, let us squander this morning with futile songs.”
+
+This is a delightful room where I am sitting now, with its windows looking over the fringe of the Black | forest. Our hostess is a charming lady, with a fascinating little baby, whose plump fingers love to explore the mystery of my eye-glasses.
+
+We have a number of Indian students in t&is place, among whom is Lala Harkishen Lal’s son, who asks me to send you his respectful regards. He is a fine young man, frank and cheerful, loved by his teachers.
+
+We have missed this week’s letters which are now evidently lost beyond recovery. It is difficult for me to forgive the Mediterranea: for doing me this disservice! The present week’s mail is due, and if Thos. Cook and Son are prompt about it we shall find our letters to-day!
+
+GENEVA, May 2, 1921.
+
+It made me very anxious to hear that you fell ill
+
+after your strenuous work in Howrah. There is oge
+
+--- Page 124 ---
+
+116 LETTERS FROM ABROAD consolation owing to the delay in receiving letters from adistance. It is the hope that the evil tidings, which they bring, may have had time to give place to good tidings before their answer is received; and by this time I expect you have got over your illness. I am sure you need rest and change, and this was why I had been hoping that you would have been able to spend your summer vacation in Europe.
+
+I quite understand why it was not possible for you to accept my invitation, and what a great sacrifice it was for you. There are times when one has to be utterly reckless; but it seems to me, that, for you, those times never come to their end. However, it makes me eager to come to your rescue ard lure you away from your work ani drag you into the delicious depths of neglectfulness of duty.
+
+I am myself dreaming of such a glorious oppor-tunity; and when it does come, you may be sure that I shall claim your companionship in my path of idleness, strewn with unanswered letters, for-gotten engagements and books with uncut pages. But we are fast getting into the vicious habit of keeping ourselves busy. Before long, we shall lose all taste for leisure, for refinements of laziness.
+
+Perhaps a day will come, when I shall pine for doing my duty, and my pious example will be quoted in text books on which I shall have to pass my examination in my next birth! Please know that I am serious! I am afraid of trampling down the
+
+--- Page 125 ---
+
+LETTERS FROM ABROAD 117 limits of my arrested twenty-seventh year‘ in sheer haste for keeping appointed time! When one is not compelled to keep count of time, one forgets to grow old; but when you must constantly consult your watch, you are pushed into your twenty-eighth year directly you complete your twenty-seventh. Do we not have the example of Nepal Babu’ before our eyes? He never respects time; and therefore time fails to exact its taxes from him and he remains young. Inthis, he is an inveterate non-co-operator—he has boycotted the Government of Chronometry! And I want to register my name on the’ list of his chelas. I shall strew my path of triumphant unpunctuality with shattered watch dials, and miss iny trains that lead to the terminus of mature’ age.
+
+But, Sir, what about my International University? It will have its time-keeper, who is no respecter of. persons—not even of the special privileg®®*or some twenty-seventh year which has taken its Satya-graha vow never to move forward. I am afraid its bell will toll me into the haze of hoariness across the grey years of fifty. Pray for my youth, my dear friend, if it ever dies of old age, brought about by self-imposed responsibility of ambitious altruism!
+
+This is a beautiful country, a dwelling place of the Gods invaded by man. The town is so dainty
+
+‘ Referring to a child's remark that the Poet must always remain ‘at the age of twenty-seven,’ and never grow older.
+
+2 A teacher at the Ashram, loved by all.
+
+--- Page 126 ---
+
+118 LETTERS FROM ABROAD
+
+and clean with its river of limpid water and the sky unpolluted by the belching of smoke. The big towns, like New York and London, are vulgar because of their pretentious hugeness and perpetual bustle. In the streets here, motor cars are few and crowds are leisurely. It is a town that seems to have been created in the atmosphere of vacation. And yet it is not sluggish, or somnolent. Life here flows like its own bright river, hamming a song and breaking into merry peals of laughter.
+
+I fervently hope that you will not run away before I reach home. My mind is so full of plans, which it must discuss with you or else it will, burst. The kernel of a plan is for carrying it out, but the most delicious part of it is the pulp, which is merely for*discussion. I must have you for this game of agrecing and disagrceing, putting down figures on paper and then flinging them into the waste paper basket.
+
+_ GENEVA, “May 6, 1921.
+
+To-day is my birth-day. But I do not feel it; for in reality, it is a day which is not for me, but for those who love me. And away from you, this day is merely a date in the calendar. I wish I had a little time to myself to-day, but this has not been possible. The day has been crowded with visitors and the talk has been incessant, some part of which has unfortunately lapsed into politics, giving rise
+
+--- Page 127 ---
+
+LETTERS FROM ABROAD 119 to a temperature in my mental atmosphere of which I always repent.
+
+Politics occasionally overtakes me like a sudden fit of ague, without giving sufficient notice; and then it leaves me as suddenly, leaving behind a feeling of malaise. Politics is so wholly against my nature; and yet, belonging to an unfortunate country, born to an abnormal situation, we dnd it so difficult to avoid its outbursts. Now when I am alone, I am wishing that I could still my mind in the depth of that infinite peace, where all the wrongs of the world are slowly tuned un, out oF their discordance, into the eternal rhythm of the flowers and stars.
+
+But men are suffering all over the worid and my heart is sick. I wish I had the power to pierce ®@his suffering with music, and bring the message of abiding joy from the dceper regions of the world soul, and repeat to the people who areSngy and to the people whose heads are bowed down in shame—“ From joy all things are born, by joy they are maintained, and intojoy they proceed and find their end.”
+
+Why should I be the one to air cur grievances and give shrieking expression to the feeling of resentment? I pray for the great tranquillity of truth, from which have welled forth the immortal words that are to*heal the wounds of the world and soothe the throbbing heat of hatred into forbearance.
+
+--- Page 128 ---
+
+120 LETTERS FROM ABROAD
+
+The East and the West have met—this great fact of history has so far produced only our pitiful politics, because it has not yet been turned into truth. Such a truthless fact is a burden for both parties. For the burden of gain is no less than the burden of loss—it is the burden of the enormity of corpulence. The fact of the meeting of the Kast and the West still remains concentrated on the surface—it is external. The result is, all our attention is diverted to this surface where we are hurt, or where we can only think of material profits.
+
+But deep in the heart of this meeting is surely maturing the seed of a great future of union. “When we realise it, our mind regains its detachment from the painful tension of the immediate present and attaxns its faith in the eternal—it is relievea from the hysterical convulsions of exasperated despair. We have learnt from our ancestors that the Advaitam is the evv.nal significance of all passing events—which is the principle of unity in the heart of dualism. The dualism of East and West contains that unity, and therefore it is sure to be fulfilled in union.
+
+You have expressed that great truth in your life. In your love for India, you carry that message of Eternity. In you, the apparent conflict of the East and the West has unveiled the great beauty of its inner reconciliation. We, whe are clamouring for vengeance, only conscious of the separate-nesg, and therefore expecting absolute separation,
+
+--- Page 129 ---
+
+LETTERS FROM ABROAD 121 have not read right the great purpose of our history.
+
+For passion is darkness. It exaggerates isolated facts, and makes our minds stumble against them at every step. Love is the light, that reveals to us the perfection of unity, and saves us from the con-stant oppression of the detached -—of the immediate.
+
+And therefore I embrace you, take my inspiration from your love, and send you my birth-day nemaskar.
+
+NEAR ZURICH, “May 10, 1924.
+
+I have just received a hirth-day greeting from Germany through a committee consisting of men like Eudken, Harnack, Hauptmann, and others: and with it a most generous gift consisting of at least four hundred copies of valuable German books. It has deeply touched my heart, and I #2 Gervain that it will find response in the hearts of my countrymen.
+
+To-morrow I have my invitation at Zurich, and on the thirteenth of this month I leave Switzerland for Germany. Haven’t I said to you, in some letter of mine, that my life has followed the course of my celestial namesake, the Sun—and that the last part of my hours is claimed by the West? How genuine has been the claim, I never realised before I had visited the continent of Europe. I feel deeply thankful for this privilege, not only because jf is
+
+--- Page 130 ---
+
+122 LETTERS FROM ABROAD
+
+sweet to realise appreciation from one’s fellow-beings, but because it has helped me to feel how near we are to the people who in all appearance are so different from ourselves.
+
+Such an opportunity has become rare to us in India because we have been segregated from the rest of the world. This has acted upon the minds of our people in two contrary ways. It has generated that provincialism of vision in us, which either leads to an immoderate boastfulness, urging us to assert that India is unique in every way—absolutely different from other countries—-or toa self-depreciation which has the sombre attityde of suicide. If we can come into real touch with the West through the disinterested medium‘ of int@Mectual co-operation, we shall gain a true perspective of the human world, realise our own position in it, and have faith in the possibility of widening ¢nd decpening our connection with it. “We ought to know that a perfect isolation of life and culture is not a thing of which any race can be proud. The dark stars are isolated, but stars that are luminous belong to the eternal chorus of lights.
+
+Greece was not shut up in the solitude of her culture, nor was India, when she was in the full radiance of her glory. We have a Sanskrit expres-sion, ‘that which is not given is lost’. India, in order to find herself, must give herself. But this power of giving can only be perfected when it i accompanied by the power of receiving. That
+
+--- Page 131 ---
+
+LETTERS FROM ABROAD 123 which cannot give, but can only reject, is dead. The cry which has been raised to-day of rejecting western culture only means the paralysing of our own power to give anything to the West. For, in the human world, as I have said, giving is exchanging. It is not one sided. Our education will not attain its perfection by refusing to accept all lessons from the West, but by realising its own inheritance. This will give us the means to pay for such lessons. Our true wealth, intellectual as well as material, lies not in the acquisition itself, but in our own independent means of acquisition.
+
+So ng as our intellectual attainments were solely dependent on an alien giver, we have been accepting and not acquiring. Therefore these attainmeitts have mostly been barren of producgon, as L[ have discussed in my pamphlet on Education. But it would be wrong to blame the western culture itself for such futility. The blame liesmia'curc mbt using our own receptacle for this culture. Intel-lectual parasitism causes degeneracy in the intel-lectual organs of one’s mind. It is not the food, but the parasitism that has to be avoided.
+
+At the same time, I strongly protest against Mahatma Gandhi's trying to cry down such great personalities of Modern India as Ram Mohan Roy in his blind zeal for declaiming against our modern education. It shosvs that he is growing enamoured of his own doctrines—a dangerous form of egotism, that even great people suffer from at times.
+
+--- Page 132 ---
+
+124 LETTERS FROM ABROAD Every Indian ought to be proud of this fact, that, in spite of immense disadvantages, India still has been able to produce greatness of personality in her children, such as we find in Ram Mohan Roy. Mahat-majihas quoted the instances of Nanak, Kabir, and other saints of Mediaval India. They were great, because in their life and teaching they made organic the union of the Hindu and Muhammadan cultures-—and such realisation of the spiritual unity through all differences of appearance is truly Indian.
+
+In the modern age, Ram Mohan Roy had that comprehensiveness of mind to be able to realise the fundamental unity of spirit in the Hindu, Muham-madan and Christian cultures. Therefore he represented India in the fulness of truth, and this trueti is based, not upon rejection, but on perfect comprehension. Ram Mohan Roy could be perfectly natural in his acceptance of the West, only because his eutivuz.on had been perfectly eastern-—he had the full inheritance of the Indian wisdom. He was never a school boy of the West, and therefore he had the dignity to be the friend of the West. If he is not understood by Modern India, this only shows that the pure light of her own truth has been obscured for the moment by the storm clouds of passion.
+
+HAMBURG, May, £7, 1921.
+
+It has been a perpetual sunshine of kindness for
+
+me. all through my travels in this country. While
+
+--- Page 133 ---
+
+LETTERS FROM ABROAD 125 it delights me, it makes me feel embarrassed. What have I to give to these people? What have they received from me? But the fact is, they are waiting for the day-break after the orgies of night, and they have their expectation of light from the East.
+
+Do we feel in the soul of India that stir of the morning which is for all the world? Is the one string of her ektura being tuned, which is to give the keynote to the music of a great future of Man—the note which will send a thrill of response from shore to shore? Love of God in the hearts of the medizval saints of India—like Kabirand Nanak—came down in showers of human love, drowning the border-lines of separation between Hindus and Musalmans.
+
+They Were giants, not dwarfs, because theyghad the spiritual vision, whose full range was in the Eternal—crossing all the barriers of the moment. The human world in our day is much lag:a% usan in theirs; conflicts of national self-interest and race-traditions are stronger and more complex; the political dust-storms are blinding; the whirlwinds of race antipathy are fiercely persistent; the sufferings caused by them are world-wide and deep. The present age is waiting for a divine word, great and simple, which creates and heals. What has moved me profoundly is the fact that suffering man in Europe hae turned his face to the East.
+
+It is not the man of politics, or the man of letters, but the simple man whose faith is living. Let us
+
+--- Page 134 ---
+
+126 LETTERS FROM ABROAD believe in his instinct; let his expectation guide us to our wealth. In spite of the immense distractions of our latter day degeneracy, India still cherishes in her heart the immortal mantram of Peace, of Goodness, of Unity—Shantam, Shivam, Advaitam.
+
+The message of the One in the All which had been proclaimed in the shade of India’s forest solitude is waiting to bring reconciliation to the men who are fighting in the dark, who have lost the recognition of their brotherhood.
+
+Of all the men in Modern India, Ram Mohan Roy was the first and the greatest who realised this truth. He held up high the pure light of the Upanishads, that shows the path whereby-the conguerors of the self ‘enter into the htart of the all’-—the light which is not for rejection buf for comprehension.
+
+Musekecns had come to India with a culture which was agepressively antagonistic to her own. But in her saints, the snirit of the Upanishads worked in order to attain the fundamental har-mony between things that were apparently irrecon-cilable. In the time of Ram Mohan Roy, the West had come to the East with a shock that caused panic in the heart of India. The natural cry was for exclusion. But this was the cry of fear, the cry of weakness, the ery of the dwarf. Through the great mind of Ram Mohan Roy, the true spirit of India asserted itself and accepted the West, not by
+
+--- Page 135 ---
+
+LETTERS FROM ABROAD 127 the rejection of the soul of India, but by the comprehension of the soul of the West.
+
+The mantram which gives our spiritual vision its right of entrance into the soul of all things, is the mantram of India, the mantram of Peace, of Goodness, of Unity—Shantam, Shivam, Advaitam. The distracted mind of the West is knocking at the gate of India for this. And is it to be met there with a hoarse shout of exclusion?
+
+HAMBURG, May 20, 1921.
+
+We are leaving this town for Copenhagen to-morrow morning. [am noi an idea) traveller, and
+
+never enjoy the prospect of going toa strange country, csntinually stumbling upon the unexpegted and being held up by the unknown. This roving life tires me. I am sceking my lost universe of an easy chair, watched over by its guardian angel, Sadhucharan.!
+
+A persm like myself can never be a perfect vehicle for a mission. For i have noi the motor engine of anibifion in my heart to lend a steady movement onward. I have my flighty sails, fitfully puffed and pushed by erratic winds, But somehow, in haste, a motor has been joined to my boat. It is Rathi’s steadiness of purpose. With every roll of the waves, the engine knocks against the ribs of my heart—for it does not fully fit me. All tne
+
+1 The poet's servant at Santiniketan.
+
+--- Page 136 ---
+
+128 LETTERS FROM ABROAD
+
+same, in spite of the looseness of the screws, the engine gets the better of the recalcitrant boat—the mission goes on; the applauses are gathered; everybody is radiantly happy. Only I myself know what the jerks mean inside the aching framework; and I am not counting the successes, but the thumping kicks that are administered by the machine.
+
+I hope my voyage has now come toits end. Every moment, I hear the call of the beach and see the vision of the evening lamp watching behind the window for the return of the weary traveller. But there is one thought that never ceases to buzz in my mind. It is, that the weather-beaten baat, after its voyage across the sea, may be utilised at the ferry for the miscellaneous errands of daily traffic.
+
+Yo-day, life is nowhere normal in this world. The atmosphere is swarming with problems, Singers are not allowed to sing; they have to shout messages.a«-But, my friend, is my life to be one perpetual polar summer, an endless monotony of a day of lidless light, of ceaseless duties, with never a night of stars to open before my vision the gateway of the Infinite? Is the fact of death a mere fact of stoppage? Does it not speak to us of our right of entrance into a region beyond the boundaries of patriotism? When am [I going to make my final adjustment of life and be ready for the invitation to the world of the Spirit?
+
+We are taught by our western schoolmaster that there is nothing of importance that is not shown in
+
+--- Page 137 ---
+
+LETTERS FROM ABROAD 129 the national school map; that only my country is my earth and heaven; that only in my country are united my life and my immortality. And when we try to reject the West, in our pride of my country we, like a ragged scamp, pick the pocket of thesame West and pilfer that same spirit of rejection.
+
+But’ our fathers had a clearer consciousness of a truth of freedom, which was never clipped of its wings and shut up ina goographical cage. I feel that my time has come for the realisation of that truth; and I pray that I may never die as a patriot, or a politician, but as a free spirit; not as a journalist, but a poet.
+
+STOCKHOLM, “May 27, 19.21
+
+T hyve been following the track of Spring from Switzerland to Denmark, and from Denmark to Sweden, watching everywhere flowers b-eaking out in a frenzy of colours. And it seems to me like the earth’s shouting of victory, and flinging up its
+
+_coloured cap to the sky. My path in the West also has had the same exuberant outburst of welcome.
+
+At first, I felt the impulse to describe it to you in detail; for I was sure it would give you great de-light. But now I shrink from doing it. For somehow it does not cause exultation in my own mind, but makes me feal sad. It would be absurd for me to claim what has been offered to me as fully mine. The fact is, there is a rising tide of heart in the West
+
+
+--- Page 138 ---
+
+130 LETTERS FROM ABROAD
+
+rushing towards the shores of the East, following some mysterious law of attraction. The unbounded pride of the European peoples has suddenly found a check, and their mind agpears to be receding from the channel it had cut for itself,
+
+The weary giant is seeking peace; and as the fountain of peace has ever flowed from the East, the face of troubled Europe is instinctively turned to-day towards the East. Europe isa child, who has been hurt in the midst of her game. She is shunning the crowd and looking out for her mother. And has not the East been the mother of spiritual humanity, giving it life from its own life?
+
+How pitiful it is that we, in India, are unaware of this claim for succour from Europe which has com’ to our door; that we fail to realisd’the great honour of the call to serve humanity in her hour of need!
+
+Bewildere? at heart by the great demonstrations made in my honour in these countries, I have often tried to find out the real cause. I have been told that it was because I loved humanity. I hope that it is true, and all through my writings my love of man has found its utterance and touched human hearts across all barriers. If it be true, then let that truest note in my writings guide my own life henceforth!
+
+The other day, when I was resting alone in my room, in the hotel at Hamburg, timidly there entered two shy and sweet German girls, with a bunch
+
+--- Page 139 ---
+
+LETTERS FROM ABROAD 131 of roses for their offering to me. One of them, who spoke broken English, said to me—“I love India.” I asked her—“ Why do you love India?” She answered.—Because you love God.”
+
+The praise was too great for me to accept with any degree of complaisance. But I hope its meaning was in the expectation from me which it carried, and therefore was a blessing. Or possibly she meant that my country loved God, and therefore she loved India. That also was an expectation, whose meaning we should try to appreciate and understand. ~ The nations lowe their own countries; and that national love has only given rise to hatred and suspicion of one another. The world is waitin® for a @untry that loves Godand not herself. Only that eguntry will have the claim to beloved by men of all countries.
+
+When we cry ‘Bande Mataram’ from the house-tops, we shout to our neighbours “ You are not our brothers”. But that is not the truth. There-fore, because it is untrue, it pollutes the air, and darkens the sky. Whatever may be its use for the present, it is like the house being set on fire simply for roasting the pig! Love of self, whether national or individual, can have no other destination but suicide. * Love of God is our only fulfilment; it has in it the ultimate solution of ‘all problems and difficulties.
+
+--- Page 140 ---
+
+132 LETTERS FROM ABROAD
+
+On the day after to-morrow we shall be leaving Sweden for Berlin. The Czecho-Slovakian Government has promised us an air trip from Berlin to Prague, and from Prague to Munich. From Munich we are expected to visit Darmstadt, where a gathering of some notable persons of Germany will be held to meet us. It will be over on or about the fifteenth of June, and then through France and Spain we shall be able to take our ship at the beginning of July—if not earlier.
+
+BERLIN, May 28, 19.20,
+
+Iam leaving Germany to-night for Vienna. From. there I go to Czecho-Slovakia, and then to Paris-—and’ then, to the Mediterranean Sea! Our steamer sails on the 2nd of July- -and so this letter br-Likely to be my last letter.
+
+You can’ have no idea what an outbreak of love has followed me and enveloped me everywhere [ have been in Scandinavia and Germany. All the same, my Jonging is to go back to my own people—to the atmosphere of continual revilement. 1 have lived my life there, done my work there, given my love there, and I must not mind if the harvest of my life has not had its full payment there. The ripening of the harvest itself brings its ample reward for me. And therefore the cali comes to me from the field where the sunlight is waiting for me; wkKere the seasons, each in turn, are making their
+
+--- Page 141 ---
+
+LETTERS FROM ABROAD 133 enquiries about my home-coming. They know me, who all my life have sowed there the seeds of my dreams. But the shadows of evening are deepening on my path, and I am tired. ‘LE do not want praise or blame from my countrymen. I want to take my rest under the stars’
+
+BERLIN, June 4, 1921,
+
+To-day my visit to Berlin has come to an end. To-night we are starting for Munich. It has been a wonderful experience in this country for me!—Such mme as I have got I cannot take at all seriously. It is too readily given, and too immediately. It has not had the perspective of time. And this is why I feel frightened at ifgand tired:-and even sad. T am like a house-lamp, whose place isin a corner, and whose association is that of intimacy of love. But whgn my life is made to take part in a fire-work display, [ apologise to the stars and feel humble..
+
+I saw ‘ Post Office‘ acted in Berlin Theatre. The girl who took the part of Amal was delightful in her acting, and altogether the whole thing was a success. But it was a different interpretation from that of ours in our own acting in Vichitra. I had been trying to define the difference in my mind, when Dr. Otto of Marburg University, who was among the audience, hit upon it. He said that the German interpretation was suggestive of a fairy
+
+--- Page 142 ---
+
+134 LETTERS FROM ABROAD story, full of elusive beauty, whereas the inner significance of this play is spiritual.
+
+I remember, at the time when I wrote it, my own feeling which inspired me to write it. -Amal repre-sents the man, whose soul has received the call of the open road-~he seeks freedom from the comfortable enclosure of habits sanctioned by the prudent, and from walls of rigid opinion built for him by the respectable, But Madhab, the worldly-wise, con-siders his restlessness to be the sign of a fatal malady; and his adviser, the physician, the custodian of conventional platitudes—-with his quotations from prescribed text-books full of maxims—-gravely nods his head and says that freedom is unsafe, and every care should be taken to keep the sick may within walls. And so the prdcaution is taken.
+
+But there is the post office in front of his window,, and Amal waits for the king’s letter to come to him direct from the king, bringing to him the message of emancipation. At last the closed gate is opened by the king’s own physician; and what is ‘death’ to the world of hoarded wealth and of certified creeds, brings him awakening in the world of spiritual freedom.
+
+The only thing that accompanies him in his awakenment is the flower of love given to him by Sudha.
+
+I know the value of this flower of love, and there-fore my petition to the Queen was—
+
+--- Page 143 ---
+
+LETTERS FROM ABROAD 135
+
+“Let me be the gardener of thy flower garden "—the gardener, whose only reward is daily to offer his garlands to the Queen.
+
+Do you think that ‘ Post Office’ has some meaning at this time for my country in this respect that her freedom must come direct from the King’s Messénger, and not from the British Parliament; and that when her soul awakes, nothing will be able to keep her within walls? Has she received her letter yet from the King?
+
+Ask Dinu what is the original of the following translation—My era breaks out in a strange disquiet measure, * My hgart to-day is tremulous with the heart-throbs of the world. ho is the restless youth that comes, his mantle fluttering in the breeze. The woodland resounds with the s.:urmur of joy at the dance lyric of the light, The anklet beils of the dancer quiver in the sky in an unheard tinkle, To whose cadence the forest leaves clap their hands. The hope for the touch of a nearing foot-step spreads a whisper in the grass, And the wind breaks its fetters, distraught with the perfume of the Unknown.
+
+To-day is the fifth of June. Our steamer sails on
+
+the third of July!
+
+--- Page 144 ---
+
+136 LETTERS FROM ABROAD DARMSTADT, June 10, £921.
+
+In Darmstadt they have a gathering of people from all parts of Germany to meet me. We have our meeting in the Grand Duke of Hesse’s garden, where my audience will bring before me their questions. I give them monologues in answer, and Count Keyserling translates them into German for those who cannot follow my English.
+
+Yesterday I reached this place, and in the after-noon we had our first meeting.
+
+The first question put to me by a Cemadian German was, ‘ What is the future of this scientific civilisation?’
+
+After I had answered him, he again*asked me, ‘How is the problem of over-population.to be solved?’
+
+After my -nswer, I was asked to give them some idea about the true character of Buddhism.
+
+These three subjects took up fully two hours. It is delightful to feel the earnestness of these people. They have the habit of mind to think out the deeper problems of life; they deal seriously with ideas. In India. in our modern schools, we merely receive our ideas from text-books, for the purpose of passing examinations. Besides that, our modern school-masters are Englishmen; and they, of all the western nations, are the least susceptible to ideas. Thev are good, honest and reliable, but they have
+
+--- Page 145 ---
+
+LETTERS FROM ABROAD 137 a vigorous excess of animal spirits, which seek for exercise in racing, fox-hunting, boxing-matches, etc., and they offer stubborn resistance to all contagion of ideas.
+
+Therefore our English educationalists do not laspire our minds. We do not realise that ideas are necessary in order to enable us to live a true life. We do not have a genuine enthusiasm, but rather are losing our gift of aspiration, whichis the gift of the soul. Our principal object and occupation are going to be the dissipations of politics, whose goal is success, whose path is the zigzag of compromise—that politics, which in every country has lowered the standard of morality, has given rise.to a perpetual contest of lies and deceptions, cruelties ahd hypocrisies, and has increased inardi-nately rational habits of vulgar vain-gloriousness.
+
+Germany to-day has received a violent check on Her political ambitions. This has nroduced an almost universal longing in her midst to seek for spiritual resources within, in place of external guccess. Germany appears now to have set out on a voyage of spiritual adventure. And in spite of her dire poverty, she is not thinking mercly of the spinning wheel or of some new move in the political game of gambling, but rather of the achievement of that inner freedom, which gives us power to soar above the viciesitudes of circumstance.
+
+The other day, I met the British Ambassador in Berlin. While alluding to the enormous
+
+--- Page 146 ---
+
+138 LETTERS FROM ABROAD
+
+appreciation of my works in Germany, he expressed his feeling of gratification at the possibility of my supplying some philosophy, which might bring consolation to these people. He was glad, I am sure, from his British point of view. He seemed to me to imagine that philosophy was a soothing draught, which might lull the restless activity of the German nation into sleep, affording the victors a better security in their enjoyment of material bencfits. He would gladly concede the possession of soul and God to these people, only keeping for the share of his own nation, the possession of the worldly goods. He seemed to smile, as it were, in his sleeve and to imagine that his own British people would be the gainers in the bargain. Well! Let, them laugh and grow fat! Only Set us have the good sense not to envy them thcirwnaterial successes..
+
+8S. S. MOREa, July 5, 19.21.
+
+I know I need not write to you, for I am travel. ling towards your own nest in the Venu Kunja.' But the steamer is an ideal place for letter-writing. If ever I have the chance to visit Baghdad or Samarkhand, I am sure to go out shopping, simply because shopping will have a value for its own sake; it will be so delightfully. unnecessary, But
+
+Literally, ‘The Bamboo Cottage,’ a thatched cottage of Santiniketan.
+
+--- Page 147 ---
+
+LETTERS FROM ABROAD 139 Whiteaway and Laidlaw's! It is a humiliation to have to go there—to prove that man is compelled to sacrifice his precious leisure and even his good taste to the petty needs of respectability.
+
+Yn a steamer, I sit down to write letters, not because it is necessary, but because it is natural, and consequently above all needs. Yand has its claims upon you in return for its hospitality, but sea has none; it repudiates humanity with a magnificent indifference; its water is solely occupied in an eternal dialogue with the wind—the two inseparable companions, who retain their irresponsible infancy as on the first day of their creation.
+
+Lanid imposes op us our missions of usefulness,
+
+and, we have to be occupied with lectures and text-books* and our guardians have the right to rebuke us, when we waste good paper in making literary paper-boats. But the sea has no inspiration of moral obligation for us; it offers np foundation for a settled life; its waves raise their signals and have only one word of command: “ Pass on.”. I have observed, on board a steamer, how men and women casily give way to their instinct of flirtation, because water has the power of washing away our sense of responsibility, and those who on land resemble the oak in their firmness, behave like floating sea-weed when on the sea. The sea makes us forget that mon are creatures who have their innumerable roots, and are answerable to their soil.
+
+--- Page 148 ---
+
+140 LETTERS FROM ABROAD
+
+For the same reason, when I used to have my dwelling on the bosom of the great river Padma, I was nothing more than a lyrical poet. But since I have taken my shelter at Santiniketan, I have developed all the symptoms of growing into a schoolmaster, and there is grave danger of my ending my career as a veritable prophet! Already everybody has begun asking me for ‘ messages’; and a day may come when I shall be afraid to disappoint then. For when prophets do appear unexpectedly to fulfil their mission, they are stoned to death; and when those whom men warmly expect to be prophets, fail to act their part to the end, éhey are laughed to extinction. The former have their compensation; for they fulfil their purpose, oven threugh their martyrdom. But for the latter, their tragic end is utter wastefulness; it satisfies neither men, nor Gods.
+
+Who is there to save a poct from such a disaster? Can anybody give me back my good-for-nothingness? Can anyone restore to me the provision with which I began my life’s journey to the realm of inutility? One day, I shall have to fight my way out of my own reputation; for the call of my Padma river still comes to me through this huge and growing barrier. It says to me—“ Poct, where are you?” And all my heart and soul try to seek out that poet. It has become difficult to findhim. For the great multitude of men have heaped honours on him and he cannot be extricated from under them.
+
+--- Page 149 ---
+
+LETTERS FROM ABROAD 141 I must stop here—for the ship’s engine is throbbing in a measure which is not that of my pen. S. 8. MOREA, July 6, 19:21.
+
+I suppose you have read in the newspapers that in Europe I met with an enthusiastic welcome. No doubt, I was thankful to the people for their kind feelings towards me; but somehow, deep in my heart, 1 was bewildered-—almost pained.
+
+Any expression of feeling by a great multitude of men must have init a large measure of unreality. It canngt help exaggerating itself simply because of the Cumulative effect of emotion upon the crowd-mind. It is like a sound in a hall. which is echoed back from’ innumerable corners. An immense ampunt of it is only contagion-—~it is irrational and every member of the crowd has the freedom todraw upon his own imagination for building up his Opinion. Their idea of me cannot be the real me. I am sorry for it and for myself. It makes me feel a longing to take shelter in my former obscurity. It is hateful to have to live in a world made up of other people’s illusions. I have seen people press round me to touch the hem of my robe, to kiss it in reverence—it saddens my heart. How am I to convince these people that I am of them and not akove them, and that there are many among them who are worthy of ‘reverence from me?
+
+--- Page 150 ---
+
+142 LETTERS FROM ABROAD
+
+And yet I know for certain, that there is not a single individual in their midst who is a poet as I am. But reverence of this kind is not for a poet. The poet is for conducting ceremonial in the festival of life; and for his reward he is to have his open invitation to all feasts wherever he is ap-preciated. Ifhe is successful, he is appointed to the perpetual comradeship of man—not as a guide, but as'a companion. But if, by some mad freak of fate, I am set upon an altar, I shall be deprived of my own true seat-—which by right is mine and not another’s,
+
+It is far better for a poet to miss his reward in this life—rather than to have a false rewerd, or to have his reward in an excessive measure. Jhe man, who constantly receives honour from admiring crowds, has the grave danger of developing a habit of mental parasitism upon such honour. * He con-sciously, or unconsciously, grows to have a kind of craving for jt, and feels injured when his allowance is curtailed or withdrawn.
+
+I become frightened of such a possibility in me, for it is vulgar. Unfortunately, when a person has some mission of doing some kind of public good, his popu-larity becomes the best asset for him. His own people most readily follow him, when other people have the same readiness—and this makes it a matter of temptation for such an individual. <A large number of his followers will consider themselves as deceived by him, when the fickle flow of popularity changes its course.
+
+~
+
+--- Page 151 ---
+
+LETTERS FROM ABROAD 143
+
+My International University is sure to create such a risk for me. And yet the fulfilment of my life is never in any ambitious scheme such as this. Therefore a voice of warning is constantly troubling me in my heart. It cries:
+
+“ Poet, fly away to your solitude.”
+
+Curiofsly enough, it is an ambition which is not my own. It comes to me with a pressure from the out-side. I am called upon to make ready a field in which other people will find their best opportunity—and by some chance I happen to be the only man who can help them.
+
+S. S. MOREA,; July 7, 1921.
+
+In this modern age of the philosophy of relativity, I suppose I’cannot claim for myself the quality, of absolute poet-dom. It is cvident that the poet in me changes its features and spontaneously assumes the character of the preacher with the change of its position. I have evolved in mea certain philosophy of life, which has in it a strong emotional element; and therefore it can sing as wellasspeak. It is like a cloud that can break out in a shower of rain, or merely tinge itself in colours and offer decorations to the festival of the sky. Tor this reason, I give rise to expectations, which are almost of a contrary character—I am asked to give gladness, and I am asked to give help.
+
+To give gladness requires inspiration; to give help requires organisation—the one depends principally
+
+--- Page 152 ---
+
+144 LETTERS FROM ABROAD
+
+upon myself, and the other upon means and materials that are outside me. Here come in difficulties, which make me pause. Poesy creates its own solitude for the poet. The consequent detachment of mind, which is necessary for creative life, is lost or broken when the poet has to choose a constructive programme. The work of construction requires continuous employment of attention and energy: ~it cannot afford to grant leave to the poet to retire and come to himself.
+
+This creates conflict within my nature and very often makes me think that the guidance of the Good is not always for the Best. And yet, its call being natural to me, I cannot ignore it altogether. But what constantly hurts me is the fact, that in a wark of organisation I have to deal with and make use of men, who have more faith in the material part than in the creative ideal.
+
+My work, is not for the success of the work itself, but for the realisation of the ideal. But those. in whose minds the reality of the ideal is not clear, and love for the idea] is not strong, try to find their compensation in the success of the work itself; and they are ready for all kinds of compromise.
+
+I know that the idea which I have in mind requires the climination of all passions that have their place in the narrow range of life; but most peaple believe that these passions are the steam power, which gives velocity to our motives. They qupte precedents: they say that pure idea has
+
+--- Page 153 ---
+
+LETTERS FROM ABROAD 145 never achieved any result. But when you say that the result is not greater than the idea itself, then they laugh at you!
+
+During the last fourteen months of my campaign for an International University, I have said to my-self over and over again: ““ Never let your pride be hurt at any prospect of failure; for failure can never affect truth. Strenuously keep all your attention on being true.” My weakness creeps in where I love. When those whom I love feel exultant at the expectation of success, it urges me to procure this toy for them.
+
+S. S. MOREA, Tuly 8, 19.21.
+
+I must not exaggerate. Let me admit that’the readisation of ideals has its external part, which derends for its development upon materials. And materials—both human and non-human—offer resistance. To be overcoming such resistance is success, and therefore it must not be lightly spoken of,
+
+But what I had in my mind was this, that the mastery of grammar and the creation of literature may not coincide. IXmphasis upon grammar may hinder perfectness of expression. ‘Success in mate-rials may go contrary to the fulfilment of ideals. For material success has its temptation. @ften our idealism ds exploited for the sake of obtaining success-—-we have seen that in the late war. In
+
+
+--- Page 154 ---
+
+146 LETTERS FROM ABROAD consequence the battle has been won, but the ideal has not been reached.
+
+Ever since the scheme of the International University has been made public, the conflict in my mind has been unceasing-—the conflict between the vision of the idcal and the vision of success. The plan itself is big and has a great scope for the ambition of men, who love to show their power and gain it. It is not merely ambition which lures our minds; it is the wrong value which we set upon certain results. To be certain of the inner truth requires imagination and faith, and therefore it is always in danger of being missed, even when it is near at hand—whereas external success is obvious.
+
+You remember how Chitra, in my play of that name, became jealous of the physical beauty lent to her by the Gods—because it was a mere success, not truth itself. “Truth can afford to be ignored, but not to’ve allied to unreality for the sake of success.
+
+Unfortunately, facts are cited to show that all over the world the prudent and the wise are in the habit of making pact with Mephistopheles to build roads to reach their God. Only they do not know that God has not been reached—and that success and God are not the same thing. When I think of all this, I feel a longing for the simplicity of poverty, which, like the covering of certain fruits, conceals and protects the richness and freshness of the deeper ideal. All the same, as I have said, the
+
+--- Page 155 ---
+
+LETTERS FROM ABROAD 147 pursuit of success must not be abandoned for mere want of energy and spirit. Let it represent our sacrifice for the truth and not for itself.:
+
+S. S. MOREA, Suly 9, 1921.
+
+All true ideals claim our best, and it cannot be said with regard to them, that we can be content with the half, when the wholeis threatened. Ideals are not like money. They are living reality. Their wholeness is indivisible. A beggar woman may be satisfied with an cight anna bit, when sixteen annas are denied her; but a _ half-portion of her child she will nevey consent to accept f
+
+I -know that there is a call for me to work towards the true union of East and West. I have uifeon-scjously’been getting ready for this mission. When I wrote my Sadhana lectures, I was not aware that I had been fulfilling my destiny. Ad through my tour, I was told that my Sadhana had been of real help to my western readers. The accident which mado me translate Gitanjali, and the sudden and unaccountable longing which took me over to Europe at the beginning of my fiftieth ycar—all had combined to push mo forward to a path, whose destination I did not clearly know when I first took it. This, my last tour in Europe, has made it definitely known td me.
+
+But, ag [have said before, the claims of all great idegls have to be fully paid. Not mercly the negative
+
+--- Page 156 ---
+
+148 LETTERS FROM ABROAD
+
+moral injunction of non-violence will suffice. It is a truism to say that the creative force needed for true union in human society is love. Justice is only an accompaniment to it, like the beating of a tom-tom to the song. We inthe Hast have long been suffering humiliation at the hands of the West. It is enormously difficult for us, either to cultivate, or express, any love for Western races—especially as it may have the appearance of snobbishness or prudence. The talk and behaviour of the Moderate Party in India fail to inspire us because of this—- because their moderation springs from the colourless principle of cxpediency. The bond of expediency between the powerful and the weak must have seme element in it which is degrading. It brings to us gifts for which we can claim no credit whatever, except perhaps persistency of expectation and unbaffled employment of importunity.
+
+Self-sacrifice on the part of the gainer, and not solely on the part of the giver, imparts true value to the gift. When our claims are feeble, and our method of realising them is altogether unheroic, then the very boons granted to us make us poorer.
+
+That is why the Moderates in India look so pitifully obscure by the side of the Extremists, I feel almost certain that Englishmen themselves are somewhat ashamed of their partnership witha party suffering from the last stages of*moral anaemia.
+
+However, my point is that,{as an ‘idaalist, it is imn.ensely difficult for me to nourish any feeling
+
+--- Page 157 ---
+
+LETTERS FROM ABROAD 149 of love for those peoplc, who themselves are neither eager to offer it to us, nor care to claim it from us. But let mc never look at that condition as an absolute one. There are screens between us, which have to be removed-—possibly they are due to the too great inequality of circumstances and oppor-tunities between the two parties. Let us, by every means in our power, struggle against our antipathies—all the while taking care to keep wide open channels of communication through which individuals, from both sides, may have facilities to meet in the spirit of good fellowship,’ I cannot tell you how thankful I feel to you, who have made it easter for me to lpve your people. For, your own relationshin with India has not been based upon sense of | duty, but upon genuine love. It makes me feel sad when I see this lesson of your love being lost—when it fails to inspire our people with the realisation that love of hunAnity is with you far truer than patriotism.
+
+I deeply regret that you could not accompany me in my last tour in Europe, though I understand the reasons that prevented you. If you had been with me you would have been able fully to realise the great truth of the mission we have undertaken. To the majority of my countrymen, the course of experience, through which I passed, will ever remain vague; and my appeal to them toview the history ofsour owrf country in the large background of bumanity is not likely to carry any force. For
+
+--- Page 158 ---
+
+150 LETTERS FROM ABROAD my work, I shall ever depend upon your comrade-ship; and therefore I feel sad, that the reality of the ideal, which has possessed me, has missed its one signal chance of coming close to your heart. The perspective against which you have been recently setting up your scheme of life has been vastly different from mine. You have taken up responsibilities that may have to follow their own channels away from those that I shall have to choose; and the loneliness of my _ task, which has been my fatality in my past life, will follow me to the end of my days. But I must not complain. I shall follow the call of«smy pro-vidence and I know that to.respond to it, im my own manner, is fulfilment in itself, whatever-may be its results. 8. 8. Morka, - July, 1921.
+
+For the latt fourteen months my one thought was to bring India into touch with the living activities of the larger world of humanity. It was not because I thought that India would be the sole gainer by this contact, but because I was certain that when the dormant mind of India was roused from its torpor, she would bo able to offer something for the needs of the human race which would be valuable.
+
+Through different modes of political co-operation and non-co-operation, India has'assuirud up to the présent an attitude of asking boons from others, I
+
+--- Page 159 ---
+
+LETTERS FROM ABROAD 151 have been dreaming of some form of co-operation, through which she would bg in a position to offer her own gifts to the world. (In the West, the mind of man is in full activity. It is vigorously thinking and working towards the solution of all the probléms of life. This fulness of intellectual vigour itself gives its inspiration to mental vitality. But iu our Indian Universities, we simply have the results of this energy—not the living velocity itself. So our mind is burdened and not quickened by our education. This has made me realise, that we do not want schoolmasters from the West, but fellow-workers jn the pursuit of truth:
+
+My aspiration for my country is that the mind of India must join its own forces to the great movement of mind, which is in the present-day werld. Every success that we may attain in this effort will at once lead us directly to feel the unity of Man. Whether the League of Nations ackngwledges this unity or not, it is the same tous. We have to realise it through our own creative mind.
+
+The moment that we take part in the building up of civilisation, we are instantly released from our own self-seclusion-—-from our mental solitary cell. We have not yet gained the confidence, that we have the power to join hands with the great builders—the great workers of the world. Either our boastfulness breaks*its voice in unnatural shrieking, or our self,#nunoiation makes an abnormal display of ifgelf in an aggressive flutter of humility.
+
+--- Page 160 ---
+
+152 LETTERS FROM ABROAD
+
+But I am certain that we have every claim to this confidence, and we must do everything to realise it. We do not want bragging; we need for ourselves the dignity of the man, who knows that he has some purpose to fulfil for all people and for alltime. This has made me bold to invite students and scholars from different parts of the world to an Indian University to meet there our students and scholars in a spirit of collaboration, I wonder if this idea of mine will find any response in the hearts of my countrymen of the present day. But are you free to render me full help in this difficult undertaking?
+
+‘3. S. MOREA. July 13, 1921.
+
+In our music, each racini has its special scale in which some notes are absent and some are added, and the seqttence of them is different in different raginis. The idea of India in my mind has its different raginis, presenting different aspects.
+
+During my absence in the West, my idea of India had its own special grouping of notes, and con-sequently the vision had its own special emotional value. When, in my travels, | was communicating with you, I had not the least notion that your India and mine were vastly different at that moment. I came to,be aware of this fact, when, at Aden, a number of Indian newspapers ‘of dittwent dates cathe into my hands. I felt for the first tine in
+
+--- Page 161 ---
+
+LETTERS FROM ABROAD 153 these fourteen months, that I would have to make another attempt at adjustment between my aspir-ation and my country.
+
+But misgivings come to my mind as to whether any proper adjustment will be possible. I hate constant conflicts and bickerings—always to be shoutiag at the top of my voice in order to make myself heard above the shouts of other parties.
+
+The India, about which I had been dreaming, belongs to the world. The India which I shall reach shortly, belongs tremendously to itself. But which of these must I serve?
+
+Months ago, while sitting each day at my windoav’ in a New York Hotel, my heart had been aching morning alter morning for the time of my return—the day that should bring me back to the arms ofeMother India. But to-day my heart is sad—like this dark heav\ng sea, under the rainy sky. I have been wondering in my own mind, during the last few days, whether it was not my mission to remain in Europe at least another year, -where I was asked to stay. But it is too late now. From this time forward, I must make the effort to train my attitude of mind to a condition for which I am not yet ready.
+
+S. 8. MOREA, July 14, 1921.
+
+There is an ideaJism, which is a form of egotism egregiously, self-assertive. The confideuce which one has in one’s own ideas may not arise from an
+
+il
+
+--- Page 162 ---
+
+154 LETTERS FROM ABROAD
+
+unmixed love of truth. It may be a subtle form of bigotry of self. There is an idealism, ready to kill freedom in others, in order to find freedom for its own plan.
+
+I feel, at times, afraid lest such a tyranny of idealism should ever take possession of my own mind. For it would mean that my faith ih truth had grown weaker than my faith in myself. Pride of self insidiously creeps into our schemes for ameliorating the conditions of our fellow human beings; and when failure occurs, we are hurt because the schemes are our schemes,
+
+Egotism of this kind is blindly oblivious of other peoples’ missions in life. It tries to impuse one vast monotony of taste upon individuals who have temperament and capacities fit for other kinds of work. It is like the tyranny of cortscription which compels teach’/rs to dig and poets to kill their fellowmen. This, being against God’s own purpose, is terribly wasteful. In fact, all tyrants in idealism try to usurp the rights of Providence for their own purposes.
+
+The gloom of sadness, which has been brooding over my mind for the last few days, must be the shadow of my own egotism, whose flame of hope is dimmed by a fear. For some months, I was feeling sure that everybody would think my thoughts and carry on my work. But this confidence in me and in my plan has suddenly found a ches.andI am app rehensive.
+
+--- Page 163 ---
+
+LETTERS FROM ABROAD 155
+
+No, this is wrong for me, and it is also a source of wrong for others. Let me be glad because a great idea, with all its beauty and truth, has alighted upon my mind. I alone am responsible for carrying out its commands. It has its own wings of freedom to bear it to its own goal; and its call ig music and not an injunction. There is no failure for truth—failure is only for me—and what does that matter?
+
+‘Henceforth, I shall have the chance of talking with you face to face, Yet distance has its own significance, and letters have their power of speech, which tongues do not possess. And therefore, whene we meet, some part of our thoughts will remain unuttered for the want of a great medium of space and silence between us..
+
+$. S. MOREA, July 16, 1921,
+
+Before I finish this last letter to you, my friend, let me thank you with all my heart for your unfailing generosity in sending me letters allthrough my absence from India. They have been to me like a constant supply of food and water to a caravan travelling through a desert. I was sorely in need of them during the dreary months I spent in the United States. I promised to myself that I should try to pay you back in kind. I think I have kept my momise, and I hope you have got my letters in*a regular weekly series, unless there have
+
+--- Page 164 ---
+
+156 LETTERS FROM ABROAD
+
+been gaps owing to the suspicions of the professional eavesdroppers who watch over the destinies of the British Empire.
+
+I suppose that the first few weeks I was lazy and depended upon Pearson to supply you with news—and therefore now I am busy in makiyg up for the deficits. But about one thing I cam never hope to compete with you. Asa letter.writer you are incomparable! Mine are no more letters than lobsters are fish! They are like fragments of a book; like meteors that are shot offa planet. They are shot at you, and with a flash most of them vanish into ashes; whereas yours come down like showers of rain upon the thirsty land. Yet yous must consider one thing in my favotr—it is that Iain heavily handicapped in my race with you, because I write ina language which is not my own,‘and this greatly adds to the orig; nal inertia I always have to overcome in writing any letter in any language
+
+-whatsover. Gn the other hand, writing letters is as easy to you as it is easy for our Sal avenue to put forth its leaves in the beginning of the spring months. However, I wonder if even you will be able to cope with my correspondence on my return! It has grown amazingly exuberant. Good bye.
+
+“Printed by J. R. Aria at the Vasanta Prees, Adyar, Madras.
+
+--- Page 165 ---
+
+
+
+--- Page 166 ---
+
+
+
+--- Page 167 ---
+
