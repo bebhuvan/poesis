@@ -77,7 +77,8 @@ class RomanNumeralStrategy(ExtractionStrategy):
             # Extract text
             content = self._extract_between(ocr_text, start_page, start_line, end_page, end_line)
 
-            letters.append({
+            # Extract metadata
+            letter_data = {
                 'number': i + 1,
                 'marker': boundary['marker'],
                 'start_page': start_page,
@@ -85,7 +86,23 @@ class RomanNumeralStrategy(ExtractionStrategy):
                 'content': content,
                 'word_count': len(content.split()),
                 'strategy': self.name()
-            })
+            }
+
+            # Try to extract date
+            date_match = re.search(
+                r'((?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[,.]?\s+\d{1,2}(?:st|nd|rd|th)?[,.]?\s+\d{4})',
+                content,
+                re.IGNORECASE
+            )
+            if date_match:
+                letter_data['date'] = date_match.group(1)
+
+            # Try to extract recipient
+            recipient_match = re.search(r'(?:Dear|My dear)\s+([^,\n]{3,30})', content)
+            if recipient_match:
+                letter_data['recipient'] = recipient_match.group(1).strip()
+
+            letters.append(letter_data)
 
         return letters
 
@@ -432,8 +449,13 @@ class StrategyComparator:
                         'number': l['number'],
                         'marker': l['marker'],
                         'pages': f"{l['start_page']}-{l['end_page']}",
+                        'start_page': l['start_page'],
+                        'end_page': l['end_page'],
                         'word_count': l['word_count'],
                         'confidence': l['confidence'],
+                        'date': l.get('date', 'Unknown'),
+                        'recipient': l.get('recipient', 'Unknown'),
+                        'content': l['content'],  # Full content
                         'preview': l['content'][:200]
                     }
                     for l in letters

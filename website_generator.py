@@ -7,6 +7,7 @@ Creates a beautiful, minimal website to showcase the letters
 import os
 import json
 from pathlib import Path
+from typing import List, Dict
 
 
 class WebsiteGenerator:

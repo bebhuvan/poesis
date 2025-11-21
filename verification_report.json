@@ -1,0 +1,175 @@
+{
+  "summary": {
+    "total_letters_extracted": 10,
+    "total_pages": 210,
+    "overall_status": "WARN"
+  },
+  "verifications": {
+    "page_coverage": {
+      "total_pages": 210,
+      "pages_covered": 195,
+      "pages_missing": 15,
+      "coverage_percentage": 92.85714285714286,
+      "content_coverage_percentage": 97.43589743589743,
+      "missing_pages": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "status": "PASS"
+    },
+    "content_completeness": {
+      "total_ocr_words": 56986,
+      "total_extracted_words": 56234,
+      "completeness_percentage": 98.6803776366125,
+      "missing_words": 752,
+      "status": "PASS"
+    },
+    "letter_structure": {
+      "total_letters": 10,
+      "empty_letters": 0,
+      "very_short_letters": 0,
+      "very_long_letters": 4,
+      "missing_markers": 0,
+      "short_letter_details": [],
+      "long_letter_details": [
+        {
+          "number": 7,
+          "words": 5751
+        },
+        {
+          "number": 8,
+          "words": 35215
+        },
+        {
+          "number": 9,
+          "words": 5247
+        },
+        {
+          "number": 10,
+          "words": 6460
+        }
+      ],
+      "status": "PASS"
+    },
+    "metadata_quality": {
+      "letters_with_dates": 10,
+      "letters_with_recipients": 1,
+      "date_extraction_rate": 100.0,
+      "recipient_extraction_rate": 10.0,
+      "status": "PASS"
+    },
+    "content_quality": {
+      "total_error_count": 1050,
+      "error_types": {
+        "special_chars": 998,
+        "all_caps_words": 50,
+        "very_long_words": 2
+      },
+      "letters_with_many_errors": 5,
+      "error_details": [
+        {
+          "number": 5,
+          "errors": {
+            "special_chars": 17
+          }
+        },
+        {
+          "number": 7,
+          "errors": {
+            "special_chars": 123,
+            "all_caps_words": 13
+          }
+        },
+        {
+          "number": 8,
+          "errors": {
+            "special_chars": 552,
+            "very_long_words": 1,
+            "all_caps_words": 12
+          }
+        },
+        {
+          "number": 9,
+          "errors": {
+            "special_chars": 104,
+            "very_long_words": 1
+          }
+        },
+        {
+          "number": 10,
+          "errors": {
+            "special_chars": 166,
+            "all_caps_words": 22
+          }
+        }
+      ],
+      "status": "WARN"
+    },
+    "sequential_integrity": {
+      "total_gaps": 0,
+      "total_overlaps": 9,
+      "gaps": [],
+      "overlaps": [
+        {
+          "letter1": 1,
+          "letter2": 2,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 2,
+          "letter2": 3,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 3,
+          "letter2": 4,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 4,
+          "letter2": 5,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 5,
+          "letter2": 6,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 6,
+          "letter2": 7,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 7,
+          "letter2": 8,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 8,
+          "letter2": 9,
+          "overlap_pages": 1
+        },
+        {
+          "letter1": 9,
+          "letter2": 10,
+          "overlap_pages": 1
+        }
+      ],
+      "status": "WARN"
+    },
+    "statistical_analysis": {
+      "total_letters": 10,
+      "avg_words_per_letter": 5623.4,
+      "min_words": 501,
+      "max_words": 35215,
+      "avg_pages_per_letter": 20.4,
+      "min_pages": 3,
+      "max_pages": 117,
+      "status": "PASS"
+    }
+  }
+}

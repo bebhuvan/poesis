@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-11-21T04:07:32.217338",
+  "extraction": {
+    "best_strategy": "Roman Numeral Strategy",
+    "letters_extracted": 10,
+    "avg_confidence": 0.8200000000000001
+  },
+  "verification": {
+    "overall_status": "WARN",
+    "checks": {
+      "page_coverage": "PASS",
+      "content_completeness": "PASS",
+      "letter_structure": "PASS",
+      "metadata_quality": "PASS",
+      "content_quality": "WARN",
+      "sequential_integrity": "WARN",
+      "statistical_analysis": "PASS"
+    }
+  },
+  "website": {
+    "generated": true,
+    "location": "tagore_website/"
+  }
+}
