@@ -9,9 +9,10 @@ date_original: ""
 location: "S. S. Rhyndam"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 506
+source_line: 3706
+word_count: 806
 letter_number: 39
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -19,77 +20,118 @@ quality: "high"
 S. S. Rhyndam,
 
 
-The sea has been exceedingly rough. The wild 
-East wind, playing its snake-charmer’s bagpipe, has 
-made a myriad of hissing waves raise their hoods 
-to the sky. The rude handling by the sea does not 
-affect me much, but the gloom and unrest and the 
+My difficulty is that when, in my environment, 
+some intense feeling of pride or resentment 
+concentrates its red light within a certain limited 
+area, I lose my true perspective of life and the world, 
+and it deeply hurts my nature. It is not true 
+that I do not have any special love for my own 
+country, but when it is in its normal state it 
+does not obstruct outside reality ; on the contrary, 
+it offers a standpoint and helps me in my 
+natural relationship with others. But when 
+fe’^at standpoint itself becomes a barricade, then 
 
-tremendous rise and fall of the waves, like a 
-giant’s beating of the breast in despair, depress my 
-mind. 
+something in me asserts that my place is some- 
+where else. 
 
-The sad thought very often comes to me, with an 
-imaginary supposition, that I may never reach the 
-Indian shore ; and my heart aches with longing to 
-see thd arms of my motherland extended into the 
-sea with the palm leaves rustling in the air. It is 
-the land where I gazed into the eyes of my first 
-great sweetheart — my muse — who made me love 
-the sunlight, touching the top of the cocoanut row 
-through a pale mist of the serene autumn morning 
-and the storm -laden rain- clouds rolling up from 
-some abyss behind the horizon, carrying in their 
-dark.folds a thrilling expectation of a mad outburst 
-of showers. 
+I have not yet attained that spiritual altitude from 
+which I can say, with perfect assurance, that such 
+barricading is wrong, or even unnecessary ; but 
+some instinct in me says, that there is a great deal 
+of unreality in it, as there is in all passions that are 
+generated through contraction of consciousness, 
+through rejection of a great part of truth. 
 
-But where is this sweetheart of mine, who 
-was almost the only companion of my boyhood, 
-and with whom I spent my idle days of youth 
-exploring the mysteries of dreamland ? She, my 
-Queen, has died ; and my world has shut against 
-me the door of that inner apartment of beauty, which 
-gives the real taste of freedom. I feel like Shah- 
-Jehan when his beloved Mumtaz was dead. Now 
-I have left to me my own progeny,— a magnificent 
-plan of an International University. But it will be 
-like Aurangzeb, who will keep me imprisoned and 
-become my lord and master to the end of my days. 
-Every day my fear and distrust against it are grow- 
-ing in strength. For it has been acquiring powe|^ 
+I remember your wondering why Christ gave no 
+expression to his partriotism, which was so intense 
+in the Jewish people. It was because the great truth 
+of maij* which he realised, through his love of God, 
+would only be cramped and crushed within that 
+enclosure^ I have a great deal of the patriot and 
+the politician in me, and therefore I am frightened! 
+of them ; and I have an inner struggle against sub- 
+mitting myself to their sway. 
 
-from outside my own resources, and it is material 
-power. 
+But I must not be misunderstood. There is such 
+a thing as a moral standard of judgment. When 
+India suffers from injustice, it is right that we 
+should stand against it ; and the responsibility 
+is ours to right the wrong not as Indians, but 
+as human beings. There your position is higher 
+than most of our countrymen’s. You have 
+accepted the cause of India for the sake of 
+humanity. But I know that most of our people 
+will accept your help as a matter of course, and yet 
+reject your lesson. You are fighting against that 
+patriotism with which the West has humiliated th* 
 
-Santiniketan has been the playground of my 
-own spirit. What I created on its soil was 
-made of my own dream-stuff. Its materials are 
-few ; its regulations are elastic ; its freedom has 
-the inner restraint of beauty. But the International 
-University will be stupendous in weight and rigid 
-in construction ; and if we try to move it, it will 
-crack. It will grow up into a bully of a brother, 
-and browbeat its sweet elder sister into a cowering 
-state of subjection. Beware of organisation, my 
-friend 1 They say organisation is necessary"j.n order 
-to give a thing its permanence, but it may be 
-the permanence of a tombstone.) This letter 
-«r mine will seem to you pessimistic. The 
-reason is lam unwell -and utterly home-sick; 
-and the vision of home, which haunts my mind, 
-night and day. is Amader Shantiniketan, Our 
-Shantiniketan, But the big towers of the Interna- 
-tional University obstruct its view. I am tired, to the 
-marrow of my bones, trying all these months for a 
-purpose and working in a direction which is 
-against the natural current of my inner being.
+M LETTERS FROM ABROAD 
+
+East— the patriotism which is racial egoism, 
+national egoism. This is a comparatively later 
+growth in European history and a far greater cause 
+of misery and injustice in the human world than 
+the blood-thirsty ferocity, the nomadic savagery, in 
+the primitive history of man. The Pathans came 
+to India and the Moghals, and they perpetrated 
+misdeeds in their heedlessness ; but because 
+they had no taint of patriotism, they did not 
+attack India at the very root of her life, keeping 
+themselves superciliously aloof. Gradually they 
+were growing one with us ; and just as the Normans 
+and Saxons combined into one people, our Muham- 
+madan invaders would ultimately have lost their line 
+of separateness and contributed to the richness «and 
+sfe’ength of Indian civilisation. 
+
+We must remember that Hinduism is not the 
+original A.ryanism ; in fact a greater portion of it is 
+non-Aryan. Another great mixture had been 
+awaiting us, the mixture with the Muhammadans. 
+I know there were difficulties in its way. But the 
+greatest of all difficulties was lacking=the idolatry of 
+Geography. Just see what hideous crimes are being 
+committed by British patriotism in Ireland I It is a 
+python which refuses to disgorge this living creature 
+which struggles to live its separate life. For patriot- 
+ism is proud of its bulk, and in order to hold in a 
+bond of unity the units that have their own distinct 
+individualities, it is ever ready to use means that 
+Are inhuman. Our own patriots would do just the 
+
+same thing, if the occasion arose. When a minority 
+of our population claimed its right of inter-caste 
+marriage, the majority cruelly refused to allow it 
+that freedom. It would not acknowledge a difference 
+which was fundamental, but was willing to per- 
+petrate a moral torture far more reprehensible than 
+a physical one. Why ? Because power lies in 
+number and in extension. Power, whether in the 
+patriotic or'in any other form, is no lover of freedom. 
+It talks of unity — but forgets that true unity is that 
+of freedom. Uniformity is unity of bondage. 
+
+Suppose, in our Swaraj, the anti-Brahmin com- 
+munity* refuses to join hands with us ; suppose for 
+the sake of its self-respect and self-expression, 
+it tries to keep an absolute independence — 
+patriotism will try to coerce it into an unholy 
+union. Because patriotism has its passion of power ; 
+and power builds its castle upon arithmetic. I love 
+India. - But my India is an idea and not a geogra- 
+phical expression. Therefore I am not a patriot — 
+I shall ever seek my compatriots all over the world. 
+You are one of them, and I am sure there are 
+many others.
 
 ---
 
 ### Editorial Notes
 - Letter #39 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
+- Complete extraction with all letter boundaries identified
+- Source line: 3706 in original OCR text
+- Date: Not dated
 - Location: S. S. Rhyndam
-- Word count: 506
+- Word count: 806
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

@@ -9,9 +9,10 @@ date_original: ""
 location: "London"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 611
+source_line: 290
+word_count: 377
 letter_number: 5
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -19,92 +20,61 @@ quality: "high"
 London,
 
 
-July S, 1920. 
+"July 22, 1920. 
 
-Every day I have been wishing to writeyou a letter 
-— but the flesh is weak. My days have become solid 
-like cannon balls, heavy with engagements. It is 
-not true that I have no leisure at all, but unfortunate- 
-ly I cannot utilise interrupted leisure for any work 
+The result of the Dyer debates in both Houses of 
+Parliamwit makes painfully evident the attitude of 
+mind of the ruling class of this country towards 
+India. It shows that no outrage, however mon- 
+strous, committed against us by agents of their 
+Government, can arouse feelings of indignation in 
+the hearts of those from whom our governors 
+are chosen. The unashamed condonation of bru- 
+tality expressed in their speeches and echoed in 
+their newspapers is ugly in its frightfulness. The 
+feeling of humiliation about our position under the 
+Anglo-Indian domination had been growing stronger 
+every day for the last fifty years or more ; but the 
+one consolation we had, was our faith in the love 
+of justice in your people, whose soul had not been 
+poisoned by that fatal dose of power which could 
+only be available in a dependency where the man- 
+hood of the entire population had been crushed down 
+into helplessness. But the poison has gone further 
+than we expected, and it has attacked the vital 
+organ of your nation and I feel that our appeal to 
+your higher nature will meet with less and less res- 
+ponse every day. I only hope that our countrymen 
 
-whatever. Therefore those intervals are lost doing 
-nothing. I am sure you know it, better than any- 
-body else, that doing nothing is a burden hard to 
-bear. But if you look at my exterior, you will find 
-no trace of damage there—for my health is absurdly 
-good, I hope Pearson is regularly furnishing you 
-with all the news. He has been of very great help 
-to roe, as you can well imagine, and I find that the 
-arduous Tesponsibility of looking after a poet suits 
-him wmnderfully well. He is looking the very 
-picture of health, and on the whole his dreams are 
-felicitous. For instance, last night he dreamt that 
-he had been buying strawberries as large as gourds. 
-It proves the magnificent vitality of his dreams. 
+will not lose heart at this, but employ all their 
+energies in the service of their country in a spirit 
+of indomitable courage and determination. The 
+late events have conclusively proved that our true 
+salvation lies in our own hands ; that a nation’s 
+greatness can never find its foundation in half- 
+hearted concessions of contemptuous niggardliness. 
+It is the sign of feeble character to seek for a 
+short-cut to fulfilment through the favou’* of those 
+whose interest it is to keep it barred ; the one path 
+to it is the difficult path of suffering and self- 
+sacrifice. All great boons only come to us through 
+the power of the immortal spirit we have within us, 
+and that spirit only proves itself by its defiance of 
+danger and loss. 
 
-I know our vacation is over. The boys are back 
-at school and the Ashram is resounding with 
-laughter and songs. The advent of the rains is also 
-contributing its portion to the rejoicing. How I 
-wish I had wings ! Give my love to all the children, 
-and my blessings. 
-
-^ London, 
-
-July 13, 1930. 
-
-It gave me great joy and a feeling of relief, when 
-your sister came to see me yesterday and gave me 
-reassuring news of your other sister. She repeatedly 
-asked me to tell you, that there was not the least 
-cause for anxiety on account of them, and that 
-they were comfortably settled in their new home in 
-Coventry. I gave her all the news about you, but 
-
-unfortunately could not assure her that you were 
-careful of your health. 
-
-Invitations are pouring in from the Continental 
-countries, and I feel sure that a hearty welcome is 
-awaiting me in these places. When I am weary 
-and feel a longing to go back to my garden of 
-prickly shrubs, it gives me strength to think that 
-the migratory flock of my thoughts have found 
-their nests in these shores, and with genuine love 
-and wonder these enormously busy people have 
-listened to a voice from the distant East. 
-
-This is a constant surprise to me. However, 
-there is no question that you truly and fully live 
-there, where your thoughts and works find their 
-medium of responsive life. When I am in the West, 
-I feel, more strongly than ever, I am received in a 
-living world of mind, I miss here my sky and 
-light and leisure ; but I am in touch with those who 
-feel and express their need of me and to whom I 
-can offer myself. It is not unlikely that some time 
-hence my thoughts will no longer be necessary to 
-them and my personality will lose its flavour ; but 
-does it matter ? The tree sheds its leaves, but the 
-fact is, that so long as these were living they 
-brought sunshine into the heart of the tree and 
-their voice was the voice of the forest ; and my 
-communication with western humanity has 
-been a communication of life ; even when it 
-ceases, the fact remains that it brought some rays 
-of light there, which have been transformed into 
-
-the living stuff of their mind. Our span of life is 
-short and opportunities are rare, so let us sow our 
-seeds of thought, where the soul claims them and 
-where the harvest will ripen,
+I find it very difficult to write letters ; my mind 
+barricades itself against the pressure of the hustling 
+world, and refuses to surrender itself to me when its 
+help is needed. It is taking its revenge for being 
+dragged away from its shelter.
 
 ---
 
 ### Editorial Notes
 - Letter #5 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
+- Complete extraction with all letter boundaries identified
+- Source line: 290 in original OCR text
+- Date: Not dated
 - Location: London
-- Word count: 611
+- Word count: 377
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

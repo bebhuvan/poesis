@@ -9,9 +9,10 @@ date_original: "‘February 23, 1931."
 location: "Houston, Texas"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 2697
 word_count: 237
-letter_number: 32
-extraction_method: "comprehensive_multipattern"
+letter_number: 31
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -53,9 +54,10 @@ from this country is drawing near.
 ---
 
 ### Editorial Notes
-- Letter #32 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: ‘February 23, 1931. (ISO: 1921-02-23)
+- Letter #31 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 2697 in original OCR text
+- Date: ‘February 23, 1931.
 - Location: Houston, Texas
 - Word count: 237
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

@@ -1,108 +1,131 @@
 ---
-title: "Letter from S. S. Rhyndam"
+title: "Letter from S. RHYNDAM"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "S. S. Rhyndam"
+location: "S. RHYNDAM"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 602
+source_line: 3827
+word_count: 718
 letter_number: 40
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-S. S. Rhyndam,
+S. RHYNDAM,
 
 
-You, who are given a stable and solid surface to 
-work out your problems of daily life, cannot fully 
-realise what a trial it has been for us, these two 
-lays, to be tossed upon a wild sea every moment 
+Plato threatened to banish all poets from his 
+Republic. Was it in pity or in anger, I wonder ? 
+Will our Indian Swaraj, when it comes to exist, 
+pass a deportation order against all those feckless 
+creatures, who are pursuers of phantoms an<^ 
 
-of our existence. I do not feel sea-sick, but the 
-great fact for us is, that we are the children of the 
-land. This is an immovable fact— and yet, when 
-this fact begins to move, it is not only misery but 
-an affront to us. The whole sea seems to laugh 
-loud at the conceited creatures, who only have a 
-pair of* tottering legs and not even a fraction of a 
-fin. 
+fashioners of dreams, who neither dig nor sow, bake 
+nor boil, spin nor darn, neither move nor support 
+resolutions ? 
 
-Every moment the dignity of man is outraged 
-by making him helplessly tumble about in an infinite 
-variety of awkwardness. He is compelled to take 
-part in a very broad farce : and nothing can be 
-more tihmiliating for him than to exhibit a comic 
-appearance in his very sufferings. It is like making 
-the •audience roar with laughter by having the 
-clown kicked into all manner of helpless absur<M- 
-ties. While sitting, walking, taking meals, we are 
-constantly being hurled about into unexpected 
-postures, wfiich are shamefully inconvenient. 
+I have often tried to imagine the banished 
+hordes of poets establishing their own Republic 
+in the near neighbourhood of that of Plato, 
+Naturally, as an act of reprisal. His Excellency the 
+poet President is sure to banish from the Rhymers’ 
+Republic all philosophers and politicians. Just 
+think of the endless possibilities arising from feuds 
+and truces of these rival Republics — peace con- 
+ferences, deputations of representatives, institutions 
+with busy secretaries and permanent funds' Jiaving 
+for their object the bridging of the gulf between the 
+two adversaries. Then think of a trivial accident, 
+t^irough which a hapless young man and*-a melan- 
+choly maiden, coming from the opposite territories, 
+meet at the frontier, and owing to the influence of 
+the conjunction of their respective planets fall in 
+love with each other. 
 
-When Gods try to become funny in their sublime 
-manner of perpetrating jokes, we, mortal creatures, 
-find ourselves at a terrible disadvantage ; for their 
-huge laughter, carried by the millions of roaring 
-waves, in flashing foam, keeps its divine dignity un- 
-impaired, while we, on our side, find our self-respect 
-knocked into pieces. I am the only individual in this 
-steamer, who is vying with the Gods by fashioning 
-my misery into laughing words and refusing to be a 
-mere passive instnrment of an elemental foolery. 
-A laughter, which is tyranny, has to be answered 
+There is no harm in supposing that the 
+young man is the son of the President of the 
+Philosphers’ Republic while the maiden is the 
+daughter of that of the Poets. The immediate 
+consequence is the secret smuggling of forbidden 
+love-lyrics by the desperate youth into the very 
+heart of the commentaries and controversies of the 
+two contradictory schools of Philosophy — the one 
+professed by the yellow turbanned sages proclaiming 
+^hat one is true and two is nought, and the other. 
 
-by another laughter which is rebellion. And this 
-letter of mine carries the laughter of defiance. I 
-had no other object in sitting down to write this 
-morning ; I had nothing particular to say to you — 
-and to try to think when the ship is rolling in such 
-an insane manner, is like trying to car^ a full 
-vessel of water while one is drunk ; the greater 
-part of the content is spilt. And yet I must write 
-this letter, merely to show, that, though at the 
-present moment I cannot stand erect on my legs, I 
-can write. This is to assert, in the face of the 
+which is the doctrine of the green-turbanned sages, 
+asserting that two is truth and one is an illusion. 
 
-ironical clapping of hands of the mighty Atlantic, 
+Then came the day of the great meeting, presided 
+over by the Philosopher President, when the 
+pandits of opposite factions met to fight their 
+dialectic duels finally to decide the truth. The 
+din of debates grew into a tumultuous hubbub ; 
+the supporters of both parties threatened violence 
+and the throne of truth was usurped by shouts. 
+When these shouts were about to be transmuted 
+into blows, there appeared in the arena the 
+the pair of losrers, who, on the full moon light of 
+April were secretly wedded, though such inter- 
+marriage was against the law. When they stood in 
+the ppen partition between the two parties, a sudden 
+hush felUupon the assembly. 
 
-•* 
+How this unexpected and yet ever to be expected 
+event, mixed with texts liberally quoted from the pro- 
+scribedlove-lyrics, ultimately helped to reconcile the 
+hopeless contradiction in logic, is a long story. It is 
+well-known to those who have had the privilege to 
+pursue the subsequent verdict of the judges, that 
+both doctrines are held to be undoubtedly true ; that, 
+one is in two and therefore tivo must find itself in 
+one. The acknowledgment of this principle helped 
+to make the intermarriage valid, and since then 
+the two Republics have successfully carried 
+out their disarmament, having discovered for 
+the first time, that the gulf between them was 
+imaginary. 
 
-that my mind, not only can stand up straight in its 
-world of language, but can run, and even dance. 
-This is my triumph. 
+7 
 
-To-day is Tuesday — on the morning of'^Thursday 
-we are expected to reach Plymouth. I had been 
-nourishing in my heart the expectation of finding 
-your letters waiting for me in London ; for I had 
-hoped that R — had cabled to Thos. Cook’s about 
-our movements. But I find that he has not, and a 
-number of your letters will take nearly a month to 
-find me. I cannot tell you what a disappointment 
-it is for me. Your letters have helped me more 
-than anything else during these extremely trying 
-months of my exile — they have been like food and 
-water to a soldier who is dragging his wounded and 
-weary limbs, counting every step, across a difficult 
-and doubtful road back to his camp-fire. However, 
-5 am coming to my journey’s end and intensely 
+Such a simple and happy ending of this drama has 
+caused widespread unemployment and consequent 
+feeling of disgust among the vast number of secre- 
+taries and missionaries belonging to the institutions 
+maintained, with the help of permanent funds, for 
+the preaching of Union — those organisations which 
+were so enormously perfect in their machinery 
+that they could well afford to ignore the insigni- 
+ficant fact of their barrenness of result. A large 
+number of these individuals gifted with an ineradi- 
+cable passion for doing good are joining the opposite 
+organisations, which have their permanent funds, 
+in order to help them to prove and to preach that 
+two is two and ever the twain shall meet. 
 
-hoping to see you, when I reach home. What I 
-have suffered God only knows. — I am longing for 
-rest.
+That the above story is a true one will, I am qure, 
+b^ borne out by the testimony of even tbp august 
+shade of Plato himself. This episode of the game 
+of hide and seek of one in two should be sung by 
+some poet ; and therefore I request you to give it, 
+with my blessings, to Satyendranath Datta that he 
+may set it in those, inimitable verse forms of which 
+he is a master— and make it ring with the music of 
+happy laughter.
 
 ---
 
 ### Editorial Notes
 - Letter #40 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: S. S. Rhyndam
-- Word count: 602
+- Complete extraction with all letter boundaries identified
+- Source line: 3827 in original OCR text
+- Date: Not dated
+- Location: S. RHYNDAM
+- Word count: 718
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

@@ -9,9 +9,10 @@ date_original: "August 20, 1920."
 location: "Near Paris"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 2289
-letter_number: 10
-extraction_method: "comprehensive_multipattern"
+source_line: 448
+word_count: 2294
+letter_number: 9
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -248,6 +249,7 @@ September 12, 1920.
 I had invitations from Germany and I decided to 
 
 • go. But travelling frgm one country to another has 
+2 
 
 become so difficult nowadays that I had to give it 
 up. Specially, going from France to Germany is 
@@ -311,14 +313,19 @@ right to exist in this wonderful world ? Would we
 not burn it, destroy it ? Has not God’s creative 
 power given us our place in his universe ? Must we 
 forget that, when we judge and deal with our own 
-fellow beings ?
+fellow beings ? 
+
+20 
+
+LETTERS FROM ABROAD
 
 ---
 
 ### Editorial Notes
-- Letter #10 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: August 20, 1920. (ISO: 1920-08-20)
+- Letter #9 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 448 in original OCR text
+- Date: August 20, 1920.
 - Location: Near Paris
-- Word count: 2,289
+- Word count: 2,294
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

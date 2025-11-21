@@ -9,9 +9,10 @@ date_original: ""
 location: "Paris"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 803
 word_count: 1499
-letter_number: 11
-extraction_method: "comprehensive_multipattern"
+letter_number: 10
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -231,9 +232,10 @@ then I go to Paris.
 ---
 
 ### Editorial Notes
-- Letter #11 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
+- Letter #10 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 803 in original OCR text
+- Date: Not dated
 - Location: Paris
 - Word count: 1,499
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

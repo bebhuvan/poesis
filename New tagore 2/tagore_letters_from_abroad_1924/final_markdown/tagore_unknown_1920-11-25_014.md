@@ -9,9 +9,10 @@ date_original: "November 25, 1920."
 location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 1293
 word_count: 450
-letter_number: 15
-extraction_method: "comprehensive_multipattern"
+letter_number: 14
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -77,9 +78,10 @@ to us, let His cause tritimph ; for the future is His.
 ---
 
 ### Editorial Notes
-- Letter #15 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: November 25, 1920. (ISO: 1920-11-25)
+- Letter #14 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1293 in original OCR text
+- Date: November 25, 1920.
 - Location: New York
 - Word count: 450
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

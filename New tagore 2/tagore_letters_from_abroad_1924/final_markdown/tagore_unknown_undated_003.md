@@ -1,53 +1,62 @@
 ---
-title: "Letter from Red Sea"
+title: "Letter from London"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "Red Sea"
+location: "London"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 180
+source_line: 152
+word_count: 243
 letter_number: 3
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-Red Sea,
+London,
 
 
-^May '^4, 19 HO. 
+June 17, 19 HO, 
 
-Wo shall reach Suez this evening. It is already 
-beginning to grow cold, and now I feel that we 
-have reached a truly foreign part of the world and 
-it is under the rule of different gods than ours. 
-Our hearts are strangers in this region and even 
-tSe atmosphere of this place looks askance at us. 
-The people here want us to fight their battles and 
-supply them with our raw materials, but they keep 
-us standing outside their doors over which is 
-written on the notice board : “ Trespassers from, 
-Asia will be prosecuted.” When I think of this all 
-my thoughts shiver with cold and I feel home-sick 
-for the sunny corner in my Santiniketan bungalow. 
+Time is scarce and sugar and butter and a quiet 
+place where I can gather thoughts and recog- 
+nise myself. Do not expect from me letters, or 
 
-To-day is Monday, and on the next Sunday morn- 
-ing our steamer will reach Marseilles. But I am 
-already counting the days for my return journey ; 
-and I know the sight of the bare rocks of Aden will 
-give a thrill of delight to my heart while pointing 
-with lifted fingers the way to India.
+anything else. The fury of social engagements is 
+on me. It is a thing on which you cannot compose 
+an ode, like that on the West Wind. I am willing 
+to try, if it only would allow me some time to do it. 
+The poet Hafiz was willing to exchange the wealth 
+of Samarkand and Bokhara for a mole on the cheek 
+of his beloved maiden. I am willing to 'give 
+London away for my corner in Uttarayan. But 
+London is not mine to dispose of, — neither was the 
+wealth of Samarkand and Bokhara the Persian 
+poet’s. So our extravagance does not cost us any- 
+thing, nor does it bring us any help. 
+
+I am going to Oxford to-morrow. Then I shall 
+be knocking about in different places. Just at this 
+moment, I am starting for a tea party given in my 
+honour, from which I cannot absent myself on any 
+pretext, unless 1 can manage to be run over by a 
+motor car in the London street. It is a matter of 
+eternal wonder to me why this does not happen to 
+me four times a day. You won’t believe my scarcity 
+of time, if I run on to the end of this note-paper. 
+So I hastily bid you farewell.
 
 ---
 
 ### Editorial Notes
 - Letter #3 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: Red Sea
-- Word count: 180
+- Complete extraction with all letter boundaries identified
+- Source line: 152 in original OCR text
+- Date: Not dated
+- Location: London
+- Word count: 243
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

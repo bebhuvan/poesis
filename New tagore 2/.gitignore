@@ -15,6 +15,7 @@ all_letters_final/
 clean_extracted_letters/
 extracted_letters/
 complete_extraction/
+final_precise_extraction/
 
 # Large source files (available from Archive.org)
 abbyy_ocr

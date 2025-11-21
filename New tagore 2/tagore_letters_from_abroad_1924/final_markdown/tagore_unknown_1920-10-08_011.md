@@ -9,9 +9,10 @@ date_original: "October 8, 1920~."
 location: "Bonbon"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 1056
 word_count: 1009
-letter_number: 12
-extraction_method: "comprehensive_multipattern"
+letter_number: 11
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -162,9 +163,10 @@ never forget their mantram
 ---
 
 ### Editorial Notes
-- Letter #12 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: October 8, 1920~. (ISO: 1920-10-08)
+- Letter #11 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1056 in original OCR text
+- Date: October 8, 1920~.
 - Location: Bonbon
 - Word count: 1,009
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

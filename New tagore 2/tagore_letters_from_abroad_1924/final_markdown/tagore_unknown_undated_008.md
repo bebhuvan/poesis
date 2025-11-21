@@ -1,62 +1,51 @@
 ---
-title: "Letter from London"
+title: "Letter from Paris"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "London"
+location: "Paris"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 224
+source_line: 423
+word_count: 144
 letter_number: 8
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-London,
+Paris,
 
 
-Auffitst 4, 19. iO. 
+'Augtist 13, 1930. 
 
-Owing to change of plans and other reasons we 
-are still detained in London. We hope to leave it 
-the day after to-morrow. Now that the people 
-believe that we are away and also your weather 
-has ceased to persecute us, these last two days have 
-•been very restful for me. I Vvonder if you know at 
-the last moment we decided not to begin our tour 
-for Norway though our tickets were bought. I 
+I have come to Paris, not to stay here, but to 
+decide where to go. The sun is shining bright and 
+a spirit of exhilaration is in the atmosphere. Sudhir 
+received me at the station and made all arrange- 
+ments for us. Pearson has gone to stay with his 
+mother for some weeks before we start for America. 
+Therefore I am in the hands of Sudhir just at 
+present and he is taking proper care of me. Paris 
+is empty and there is no chance of our meeting the 
 
-am sure you arc ready to ascribe this to the 
-inconstancy of my mind I 
-
-P.S, I have just written this about Dr, Patrick 
-Geddes. 
-
-What so strongly attracted me in Dr. Patrick 
-Geddes when I came to know him in India, was not 
-his scientific achievements, but, on the contrary, 
-the rare fact of the fulness of his personality rising 
-far above his science. Whatever he has studied 
-and mastered has become vitally one with his 
-humanity. He has the precision of the scielitist 
-and, at the same time, the vision of the prophet. He 
-has also the power of an artist to make his ideas 
-visible through the language of symbol. His love 
-of man has given him the insight to see the truth of 
-man, and imagination to realise in the world the 
-infinite mystery of life, not merely its mechanical 
-aspect.
+people whom I should like to meet. Our stay in 
+England has been wasted. Your Parliament 
+debates about Dyerism in the Punjab and other 
+symptoms of the arrogant spirit of contempt and cal- 
+lousness about India have deeply aggrieved me and 
+it was with a feeling of relief that I left England.
 
 ---
 
 ### Editorial Notes
 - Letter #8 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: London
-- Word count: 224
+- Complete extraction with all letter boundaries identified
+- Source line: 423 in original OCR text
+- Date: Not dated
+- Location: Paris
+- Word count: 144
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

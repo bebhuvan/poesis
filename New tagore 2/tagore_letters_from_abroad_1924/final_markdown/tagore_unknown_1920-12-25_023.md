@@ -9,9 +9,10 @@ date_original: "December 25, 1920."
 location: "ISfEAR New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 1860
 word_count: 461
-letter_number: 24
-extraction_method: "comprehensive_multipattern"
+letter_number: 23
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -83,9 +84,10 @@ you and then go back together to Santiniketan.
 ---
 
 ### Editorial Notes
-- Letter #24 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: December 25, 1920. (ISO: 1920-12-25)
+- Letter #23 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1860 in original OCR text
+- Date: December 25, 1920.
 - Location: ISfEAR New York
 - Word count: 461
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

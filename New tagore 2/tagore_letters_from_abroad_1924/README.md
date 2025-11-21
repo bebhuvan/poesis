@@ -9,17 +9,18 @@
 
 ## Statistics
 
-- **Total Letters Extracted**: 49
+- **Total Letters Extracted**: 58
 - **Total Words**: ~39,000
 - **Date Range**: May 1920 - July 1921
 - **Locations**: Bombay, Near Aden, Red Sea, London, Paris, New York, Chicago, Berlin, Geneva, S.S. Rhyndam, S.S. Morea
 
 ## Key Features
 
+✅ **Complete collection** - All 58 letters extracted using comprehensive boundary detection
 ✅ **Clean extraction** - No mid-sentence fragments
-✅ **All ship letters included** - S.S. Rhyndam (3), S.S. Morea (3)
+✅ **All ship letters included** - S.S. Rhyndam (6), S.S. Morea (4)
 ✅ **Special locations** - Red Sea, Near Aden properly extracted
-✅ **Proper boundaries** - Each letter correctly separated
+✅ **Proper boundaries** - Each letter correctly separated using precise line numbers
 ✅ **High accuracy** - >95% OCR quality
 
 ## File Structure
@@ -28,11 +29,11 @@
 tagore_letters_from_abroad_1924/
 ├── README.md                    # This file
 ├── extraction_script.py         # Reproducible extraction code
-└── final_markdown/              # 49 letter files
+└── final_markdown/              # 58 letter files
     ├── tagore_unknown_undated_001.md (Bombay)
     ├── tagore_unknown_undated_003.md (Red Sea)
-    ├── tagore_unknown_undated_038.md (S.S. Rhyndam)
-    └── ... (49 letters total)
+    ├── tagore_unknown_1920-10-08_011.md (Bonbon)
+    └── ... (58 letters total)
 ```
 
 ## Historical Context

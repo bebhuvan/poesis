@@ -9,9 +9,10 @@ date_original: "January 14, 1921."
 location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 2180
 word_count: 597
-letter_number: 26
-extraction_method: "comprehensive_multipattern"
+letter_number: 25
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -105,9 +106,10 @@ the passage unbarred through all ramifications.
 ---
 
 ### Editorial Notes
-- Letter #26 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: January 14, 1921. (ISO: 1921-01-14)
+- Letter #25 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 2180 in original OCR text
+- Date: January 14, 1921.
 - Location: New York
 - Word count: 597
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

@@ -9,9 +9,10 @@ date_original: ""
 location: "London"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 227
+source_line: 386
+word_count: 224
 letter_number: 7
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -19,43 +20,45 @@ quality: "high"
 London,
 
 
-Auifust t, 1920. 
+Auffitst 4, 19. iO. 
 
-We live on the topmost floor of this house far 
-away from the surging life of the town. Only the 
-crest of the swell of the London street noise reaches 
-me, gently undulating like those clustering tree- 
-tops of Kensington Gardens, that I watch from my 
-window. The long and persistent spell of bad 
-weather seems to have exhausted its spite and the 
+Owing to change of plans and other reasons we 
+are still detained in London. We hope to leave it 
+the day after to-morrow. Now that the people 
+believe that we are away and also your weather 
+has ceased to persecute us, these last two days have 
+•been very restful for me. I Vvonder if you know at 
+the last moment we decided not to begin our tour 
+for Norway though our tickets were bought. I 
 
-mellowed light of the morning sun from behind the 
-fleecy clouds is greeting me like the smile of a child 
-whose eyes are still heavy with sleep. It is nearly 
-seven o’clock and every one of our party, including 
-Pearson, is fast asleep within shut dooi's and behind 
-drawn blinds. To-day is our last day in London 
-and I *am not sorry to leave it. I wish it were 
-the day for sailing home, but that day looks 
-hazily indictinct in the distance and my heart 
-aches. 
+am sure you arc ready to ascribe this to the 
+inconstancy of my mind I 
 
-I 8,m sure you have heard from Pearson all about 
-the performance of my plays and my lecture about 
-the Pauls. I am a bad historian. I cannot 
-remember facts, even the most recent, and most 
-important. For this reason, as a letter writer, I am 
-a failure as in many other vocations of life. 
-Fortunately I can talk upon nothing when I wish, 
-and this saves me, in my correspondence, from 
-utter disaster.
+P.S, I have just written this about Dr, Patrick 
+Geddes. 
+
+What so strongly attracted me in Dr. Patrick 
+Geddes when I came to know him in India, was not 
+his scientific achievements, but, on the contrary, 
+the rare fact of the fulness of his personality rising 
+far above his science. Whatever he has studied 
+and mastered has become vitally one with his 
+humanity. He has the precision of the scielitist 
+and, at the same time, the vision of the prophet. He 
+has also the power of an artist to make his ideas 
+visible through the language of symbol. His love 
+of man has given him the insight to see the truth of 
+man, and imagination to realise in the world the 
+infinite mystery of life, not merely its mechanical 
+aspect.
 
 ---
 
 ### Editorial Notes
 - Letter #7 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
+- Complete extraction with all letter boundaries identified
+- Source line: 386 in original OCR text
+- Date: Not dated
 - Location: London
-- Word count: 227
+- Word count: 224
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

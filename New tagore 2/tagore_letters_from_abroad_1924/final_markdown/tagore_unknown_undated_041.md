@@ -1,99 +1,97 @@
 ---
-title: "Letter from London"
+title: "Letter from S. S. Rhyndam"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "London"
+location: "S. S. Rhyndam"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 522
+source_line: 3952
+word_count: 506
 letter_number: 41
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-London,
+S. S. Rhyndam,
 
 
-April 10, 1921. 
+The sea has been exceedingly rough. The wild 
+East wind, playing its snake-charmer’s bagpipe, has 
+made a myriad of hissing waves raise their hoods 
+to the sky. The rude handling by the sea does not 
+affect me much, but the gloom and unrest and the 
 
-I am glad to be in England again. One of the 
-first men whom I happened to meet here was H. W. 
-Nevinson ; and I felt that soul was alive in this 
-country which had produced such a man as that 1 
-A land should be judged by its best products, and 
-I have no hesitation in saying that the best 
-Englishmen are the best specimens of humanity. 
+tremendous rise and fall of the waves, like a 
+giant’s beating of the breast in despair, depress my 
+mind. 
 
-With all our grievances against the English 
-nation, I cannot help loving your country, which 
-has given me some of my dearest friends. I«m 
-intensely glad of this fact, for it is hateful to hate. 
-Just as a General tries, for his tactics, to attract a 
-whole army of men into a cul-de-sac, in order to 
-demolish them, our feeling of anger generalises the 
-whole people of a country, in order mentally to give 
-them a crushing blow on a tremendously big scale. 
-Things that are happening in Ireland are ugly. 
-The political lies, that are accompanying them, are 
-stupendous, and in retaliation our anger seeks a 
-victim adequately big ; and we readily incriminate 
-the whole people of England, though we know that 
-a great number of Englishmen feel shame and 
-sorrow for these brutalities quite as keenly as any 
-disinterested outsiders. 
+The sad thought very often comes to me, with an 
+imaginary supposition, that I may never reach the 
+Indian shore ; and my heart aches with longing to 
+see thd arms of my motherland extended into the 
+sea with the palm leaves rustling in the air. It is 
+the land where I gazed into the eyes of my first 
+great sweetheart — my muse — who made me love 
+the sunlight, touching the top of the cocoanut row 
+through a pale mist of the serene autumn morning 
+and the storm -laden rain- clouds rolling up from 
+some abyss behind the horizon, carrying in their 
+dark.folds a thrilling expectation of a mad outburst 
+of showers. 
 
-The fact that such a great proportion of people 
-here — whose interest in keeping Ireland tied to the 
-British Empire is so vital — can feel so keenly the 
-tyranny inflicted on the Irish people, proves the 
-inherent love of justice that thrives in the heart of 
-this country in spite of all aberrations. The saving 
-of a people depends upon the noble personalities 
-holding up the moral tradition high above the 
-floods of iniquities that occasionally deluge the 
-land. 
+But where is this sweetheart of mine, who 
+was almost the only companion of my boyhood, 
+and with whom I spent my idle days of youth 
+exploring the mysteries of dreamland ? She, my 
+Queen, has died ; and my world has shut against 
+me the door of that inner apartment of beauty, which 
+gives the real taste of freedom. I feel like Shah- 
+Jehan when his beloved Mumtaz was dead. Now 
+I have left to me my own progeny,— a magnificent 
+plan of an International University. But it will be 
+like Aurangzeb, who will keep me imprisoned and 
+become my lord and master to the end of my days. 
+Every day my fear and distrust against it are grow- 
+ing in strength. For it has been acquiring powe|^ 
 
-Edmund Burke proves the greatness of Great 
-Britain in spite of Warren Hastings ; and we are 
-grateful to Mahatma Gandhi for giving Ind^ia the 
-opportunity to prove that her faith in the Divine 
-Spirit in man is alive still— jn spite of a great deal 
-of.n materialism in our religions, as they are 
-practised, and a spirit of exclusiveness in our 
-social system. 
+from outside my own resources, and it is material 
+power. 
 
-The fact is, that the best people in all countries find 
-affinity with one another. The fuel displays its differ- 
-ences -but the fire is one. When that fire comes 
-before my vision in this country, I recognise it as 
-the same thing which lights our path in India and 
-illuminates our house. Let us seek that fire and 
-know that whenever the spirit of separation is 
-supreme, there reigns darkness. But with the 
-realisation of unity comes truth and light. When 
-we ignite our lamps, we at once send response to 
-the eternal lights of heaven. You yourself are a 
-bparer of a lamp from your own land, and let me in 
-
-response light my own lamp with love for the great 
-humanity revealed in your country. 
-
-(The following letter was in answer to a lady 
-who had complained that the poet had appeared to 
-give vent to a feeling of anger against the British 
-people in one of his lectures.)
+Santiniketan has been the playground of my 
+own spirit. What I created on its soil was 
+made of my own dream-stuff. Its materials are 
+few ; its regulations are elastic ; its freedom has 
+the inner restraint of beauty. But the International 
+University will be stupendous in weight and rigid 
+in construction ; and if we try to move it, it will 
+crack. It will grow up into a bully of a brother, 
+and browbeat its sweet elder sister into a cowering 
+state of subjection. Beware of organisation, my 
+friend 1 They say organisation is necessary"j.n order 
+to give a thing its permanence, but it may be 
+the permanence of a tombstone.) This letter 
+«r mine will seem to you pessimistic. The 
+reason is lam unwell -and utterly home-sick; 
+and the vision of home, which haunts my mind, 
+night and day. is Amader Shantiniketan, Our 
+Shantiniketan, But the big towers of the Interna- 
+tional University obstruct its view. I am tired, to the 
+marrow of my bones, trying all these months for a 
+purpose and working in a direction which is 
+against the natural current of my inner being.
 
 ---
 
 ### Editorial Notes
 - Letter #41 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: London
-- Word count: 522
+- Complete extraction with all letter boundaries identified
+- Source line: 3952 in original OCR text
+- Date: Not dated
+- Location: S. S. Rhyndam
+- Word count: 506
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

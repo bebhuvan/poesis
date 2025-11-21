@@ -1,100 +1,97 @@
 ---
-title: "Letter from NEW York"
+title: "Letter from New York"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
-date_original: "'^February - 5 , lOiil,"
-location: "NEW York"
+date_original: ""
+location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 442
+source_line: 2622
+word_count: 456
 letter_number: 30
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-NEW York,
-'^February - 5 , lOiil,
+New York,
 
-Civilisation in the West is a magnifying glass. 
-It makes the most ordinary things hugely 
-big. rts buildings, business, amusements, are 
-exaggerations. The spirit of the West loves its 
-high-heeled boots, whose heels are much bigger than 
-itself, Since I came to this continent, my arithmetic 
-has become absurdly bloated. It refuses to be com- 
-pressed within decent limits. My ideal money bag 
-out here can easily put to shame D— and K — Babu 
-tied together. But I can assure you that to carry 
-such a burden in my imagination is wearisome. 
 
-Yesterday, some Santiniketan photographs came 
-by chance into my hands. I felt as if I was 
-suddenly wakened up from a Brobdignagian night- 
-mare. 1 say to myself, this is our Santiniketan. 
-It is ours, because it has not been manufactured by 
-a machine. It is truth itself — the truth which loves 
-’to be simple, because it is great. Truth is beautiful 
-— like woman in our own country. She never strains 
+Fehraary 8, 1921. 
 
-to add to her inches by carrying extravagances 
-under her feet. Happiness is not in success, not 
-in bigness, but in truth. 
+I have just read a letter published in Prabasi by 
+one who is at the Ashram and it has deeply hurt 
+me. This is the iigliest side of patriotism. For in 
+small minds, patriotism dissociates itself from the 
+higher ideal of humanity. It becomes the magni- 
+fication of self, on a stupendous scale — magnifying 
+our vulgarity, cruelty, greed ; dethroning God, to 
+put up this bloated self in its place. 
 
-What makes me feel so sad, in this country, is 
-the fact that people here do not know that they are 
-not happy. They are proud, like the sandy desert, 
-which is proud of its glitter. This Sahara is 
-mightily big ; but my mind turns its back upon it, 
-and sings : 
+The whole world is suffering from this cult of 
+Devil worship in the present age, and I cannot tell 
+you how deeply I am suffering, being surrounded in 
+this country by endless ceremonials of this hideous- 
+ly profane cult. Everywhere there is an antipathy 
+igainst Asia ventilated by a widespread campaign 
+of calumny. Negroes are burnt alive, sometimes 
+merely because they tried to exercise their right to 
+srote, given to them by law. Germans are reviled. 
+Conditions in Russia are deliberately misrepresent- 
+ed. They are furiously busy building their towers 
+of political civilisation upon the quagmire of mob 
 
-I will arise and go now, and go to Innisfree, 
-And a small cabin build there, of clay and 
-wattles made ; 
+6 
 
-Nino bean rows will I have there, a hive for 
-the honey bee 
+psychology, spreading over it a crust of deliberate 
+lies. They have to subsist upon a continual supply 
+of hatred, contempt, jealousy and lies and lies and 
+lies ! 
 
-And live alone in the bee-loud glade. 
+I am afraid I shall be rejected by my own people 
+when I go back to India- My solitary cell is await- 
+ing me in my Motherland. In their present state 
+of mind, my own countrymen will have no patience 
+with me, who believe God to be higher than my 
+country. 
 
-In the modern age, with all its facilities of 
-communication, the access to Innisfree has become 
-most difficult. Central Africa opens its secret to 
-the inquisitive man, and also the North and the 
-South Pole — but the road to Innisfree lies in an 
-eternal mystery. 
+I know such spiritual faith may not lead us to 
+political success ; but I say to myself, as India 
+has ever said. Even then— what ? 
 
-Yet I belong to that “ Isle of Innisfree ” : its true 
-name is Santiniketan. But when I leave it, and 
-cross over to the western shore, I feel occasionally 
-frightened lest I should lose my path back to it. 
+The more I live in this country, the more I under- 
+stand the true meaning of emancipation. It is for 
+India to keep her breast supplied with the true amrita 
+of wisdom, with which to feed the new-born age and 
+nourish it into a mighty future. 
 
-Oh 1 but how sweet is our Sal avenue, the breath 
-of autumn in our Shiuli groves, the rainy even- 
-ing resonant with music in Dinu’s absurd little 
+The ideas to which politicians still cling belong 
+to a past that is doomed. It is a wreck rushing to- 
+wards annihilation. The West is beginning to have 
+doubts about its shelter, but its habit of mind is 
+preventing it from leaving the old shelter for a new 
+one. But we unfortunate creatures are getting 
+ready to jump into the stream and swim across to 
+the sinking ship and fight for our place at its corner. 
+Yet I know that our huts are safer than that doomed 
+and drifting monster. 
 
-room : 
+I long to live in the heart of the Peace. I have 
+done my work, and I hope that my Master will 
 
-And I shall have some peace there, for peace 
-comes dropping slow, 
-
-Dropping from the veils of the morning to 
-where the cricket sings ; 
-
-There midnight’s all a glimmer and noon 
-a purple glow, 
-
-•And evening full of the linnet’s wings.
+grant me leave to sit by Him, and not to talk, but 
+to listen to His own great silence.
 
 ---
 
 ### Editorial Notes
 - Letter #30 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: '^February - 5 , lOiil, (ISO: N/A)
-- Location: NEW York
-- Word count: 442
+- Complete extraction with all letter boundaries identified
+- Source line: 2622 in original OCR text
+- Date: Not dated
+- Location: New York
+- Word count: 456
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

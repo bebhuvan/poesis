@@ -9,9 +9,10 @@ date_original: "February 38, 1921."
 location: "Chicago"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 2735
 word_count: 290
-letter_number: 33
-extraction_method: "comprehensive_multipattern"
+letter_number: 32
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -57,9 +58,10 @@ in a fit manner.
 ---
 
 ### Editorial Notes
-- Letter #33 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: February 38, 1921. (ISO: 1921-02-15)
+- Letter #32 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 2735 in original OCR text
+- Date: February 38, 1921.
 - Location: Chicago
 - Word count: 290
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

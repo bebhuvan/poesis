@@ -9,9 +9,10 @@ date_original: "October 28, 1920."
 location: "JNEW York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 1221
 word_count: 235
-letter_number: 13
-extraction_method: "comprehensive_multipattern"
+letter_number: 12
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -52,9 +53,10 @@ one great shrine of Humanity.
 ---
 
 ### Editorial Notes
-- Letter #13 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: October 28, 1920. (ISO: 1920-10-28)
+- Letter #12 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1221 in original OCR text
+- Date: October 28, 1920.
 - Location: JNEW York
 - Word count: 235
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

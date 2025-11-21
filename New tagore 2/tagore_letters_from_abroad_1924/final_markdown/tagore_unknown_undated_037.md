@@ -1,94 +1,24 @@
 ---
-title: "Letter from New York"
+title: "Letter from 'ST S. Rhyndam"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "New York"
+location: "'ST S. Rhyndam"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 1691
+source_line: 3534
+word_count: 536
 letter_number: 37
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-New York,
+'ST S. Rhyndam,
 
-
-March 18 , 1921 . 
-
-I wish that I could be released from my mission. 
-For such missions are like a mist that envelopes our 
-soul — they seem to shut us off from the direct touch 
-of God’s world. And yet I have such an immense 
-hunger for this touch. The spring-time has come — 
-the sky is overflowing with sunshine. I long to be 
-one with the birds and trees and with the green 
-earth. The call comes to me from the air to sing, 
-but, wretched creature that I am, I lecture— and by 
-doing it, I ostracise myself from this great wprld of 
-songs to which I was born. Manu, the Indian law- 
-giver, enjoins us not to cross the sea. But I have 
-done so : I have sailed away from my own native 
-universe— from the birth place of those morning 
-jasmines, from the lotus lake of Saraswati, which 
-greeted me when I was a child even as the finger 
-touch of my own mother. Now, when occasionally 
-I come back to them, I am made to feel that I have 
-lost my caste ; and though they call me by ray 
-name and speak to me, they keep themselves 
-apart. 
-
-I know that my own river Padma, who has so often 
-answered to my music with an amused gleam of 
-tender tolerance in her face, will separate herself 
-from me behind an invisible veil, when I come to 
-her. She will say to me in a sad voice : “ Thou 
-iibast crossed the sea ! ” 
-
-The losing of Paradise is enacted over and over 
-again by the children of Adam and Eve. We clothe 
-our souls with messages and doctrines and lose the 
-touch of the great life in the naked breast of 
-Nature. This letter of mine, carrying the cry of a 
-banished soul, will sound utterly strange to you in 
-the pfesent-day India. 
-
-We hold our mathematical classes in Santi- 
-niketan under the madhavi bower. Is it not good 
-for the students and others, that, even in the busiest 
-time of lessons, the branches overhead do not break 
-out into a shower of geometrical propositions ? Is it 
-not |jood for the world, that poets should forget all 
-about the resolutions carried at monster meetings ? 
-Is, it not right, that God’s own regiment of the 
-useless should never be conscripted for any military 
-contingency of the useful ? 
-
-When the touch of spring is in the air, I suddenly 
-wake up from my nightmare of giving ' messages 
-and remember that I belong to the eternal band of 
-good-for-nothings ; I hasten to join in their vaga- 
-bond chorus. But I hear the whisper round me : 
-“ This man has crossed the sea,” and my voice is 
-choked. 
-
-We are leaving for Europe to-morrow and my days 
-of exile are coming to an end. Very likely my 
-letters will be fewer in number from now, but 
-I shall make up for this when I meet you in 
-person under the shadow of the rain-clouds of 
-July. 
-
-Pearson is busy seeking health and happiness, 
-making himself ready for the time when he will 
-join us in India in the cold season. 
-
-'ST S. Rhyndam. 
 
 The very fact that we have turned our face 
 towards the East fills my heart with joy. Forme 
@@ -156,93 +86,15 @@ papers — every paragraph of them. But, for the
 present, even the poet is at a disadvantage — for 
 the sea is rough, my head is swimming and the 
 English language is extremely difficult to manage 
-in a rolling ship. 
-
-% S. Rhyndam. 
-
-Sometimes it amuses me to observe the struggle 
-for supremacy that is going on between the different 
-persons within me. In the present condition of 
-India, when the call is sure to come to me to take 
-some part, in some manner or other, in some political 
-affairs, the Poet at once feels nervous, thinking 
-tkat his claims are likely to be ignored,, simply 
-because he is the most useless member in the con- 
-federacy of my personality. He fully anticipates that 
-argument against him, and takes special pains to 
-glorify his deficiency even before any complaint has 
-been submitted by anybody on this point. He has 
-proudly begun to assert : “ I belong to the great 
-brotherhood of the supremely Useless. I am the 
-cupbearer of the Gods. I share the common privilege 
-with all divinities to be misunderstood. My purpose 
-is to reveal Purposelessness to the children of the 
-Immortal. I have nothing to do withcommittee meet- 
-ings or laying of foundation stones for structures 
-that stand against the passage of time and are sure 
-«+o be trampled to dust. I am to ply the ferry boat 
-
-that keeps open the traffic between this shore and 
-the shore of Paradise — this is our King’s mail-boat 
-for the communication of messages, and not for 
-carrying cargo to the markets.” 
-
-I say to him : “ Yes, I fully agree with you 
-but, at the same time, take my warning, that 
-your mail-boat may have to be commandeered for 
-other urgent purposes, wholly unconnected with 
-the Celestial Postal Department.” His cheeks 
-grow pale ; his eyes become bemisted ; his frail 
-body shivers like a cypress at the first breath of 
-winter, and he says to me : ” Do I deserve to be 
-treated like this? Have you lost all your love 
-for me, that you can talk of putting me under 
-martial law? Did you not drink your first cup of 
-Amrita* from my hand, and has not the Citizenslwp 
-of the Sphere of Music been conferred upon you 
-through my persuasion ? ” 
-
-I sit dumb, and muse and sigh, when sheaves 
-of newspaper-cuttings are poured upon my table, 
-and a leer is spread upon the face of the Practical 
-man ; he winks at the Patriotic man sitting 
-solemnly by his side ; and the man who is Good, 
-thinks it his painful duty to oppose the Poet, 
-whom he is ready to treat with some indulgence 
-within proper limits. As for me, who am the 
-President of this Panchayat, I have my deepest 
-sentiment of tenderness for this Poet, possibly 
-because he is so utterly good-for-nothing and always 
-the first to be ignored in the time of emergency 
-
-“92 
-
-The timid Poet, avoiding the observation of the 
-Practical and the Good comes to my side and 
-■whispers : “ Sir, you are not a man made for the 
-time of emergency — ^but for the time that transcends 
-it on all sides.” 
-
-The rascal knows well how to flatter and generally 
-■wins his case with me — especially when others 
-are too cocksure of the result of their appeal ; and 
-I jump up from my judgment seat, and, holding 
-the Poet by the hand, dance a jig dance and sing : 
-
-shall join you. Comrade, and be drunk and 
-gloriously useless.” Ah, my evil luck! I know 
-why the chairmen of meetings hate me, newspaper 
-editors revile me, the virile call me effeminate I So 
-I try to take my shelter among children, who have 
-thro gift of being glad with things and men that have 
-no value.
+in a rolling ship.
 
 ---
 
 ### Editorial Notes
 - Letter #37 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: New York
-- Word count: 1,691
+- Complete extraction with all letter boundaries identified
+- Source line: 3534 in original OCR text
+- Date: Not dated
+- Location: 'ST S. Rhyndam
+- Word count: 536
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

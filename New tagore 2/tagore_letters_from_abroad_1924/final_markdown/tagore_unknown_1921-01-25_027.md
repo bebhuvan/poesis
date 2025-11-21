@@ -9,9 +9,10 @@ date_original: "January 25, 1921."
 location: "Wellesley, Mass"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 2350
 word_count: 505
-letter_number: 28
-extraction_method: "comprehensive_multipattern"
+letter_number: 27
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -90,9 +91,10 @@ or scrappy-
 ---
 
 ### Editorial Notes
-- Letter #28 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: January 25, 1921. (ISO: 1921-01-25)
+- Letter #27 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 2350 in original OCR text
+- Date: January 25, 1921.
 - Location: Wellesley, Mass
 - Word count: 505
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

@@ -9,9 +9,10 @@ date_original: "January 23, 1921."
 location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 382
-letter_number: 27
-extraction_method: "comprehensive_multipattern"
+source_line: 2286
+word_count: 386
+letter_number: 26
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -66,14 +67,17 @@ sphere, But it is my tapasya. Lot me not bring
 a fetter of gold back for my Ashram, but 
 freedom of spirit, with its wedded companion. 
 Poverty — the pure, the simple, the tender, the 
-ciustere.
+ciustere. 
+
+LETTERS FROM ABROAD 59
 
 ---
 
 ### Editorial Notes
-- Letter #27 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: January 23, 1921. (ISO: 1921-01-23)
+- Letter #26 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 2286 in original OCR text
+- Date: January 23, 1921.
 - Location: New York
-- Word count: 382
+- Word count: 386
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

@@ -3,15 +3,16 @@ title: "Letter from New York"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
-date: "1920-12-00"
-date_confidence: "medium"
+date: ""
+date_confidence: "none"
 date_original: "December 1920 ."
 location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 1813
 word_count: 340
-letter_number: 23
-extraction_method: "comprehensive_multipattern"
+letter_number: 22
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -58,9 +59,10 @@ and girls, and my greetings of love to my friends.
 ---
 
 ### Editorial Notes
-- Letter #23 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: December 1920 . (ISO: 1920-12-00)
+- Letter #22 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1813 in original OCR text
+- Date: December 1920 .
 - Location: New York
 - Word count: 340
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

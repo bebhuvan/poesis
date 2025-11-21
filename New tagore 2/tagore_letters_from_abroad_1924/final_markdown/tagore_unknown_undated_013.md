@@ -9,9 +9,10 @@ date_original: ""
 location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 166
-letter_number: 14
-extraction_method: "comprehensive_multipattern"
+source_line: 1258
+word_count: 170
+letter_number: 13
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -42,14 +43,19 @@ strong for us and we succumb to the onslaught of
 the present time. Because the time is troubled and 
 the minds of men distracted all the more must we, 
 through our Ashram, maintain our faith in Shantam, 
-Shivam, Advaitam.
+Shivam, Advaitam. 
+
+32 
+
+LETTERS FROM ABROAD
 
 ---
 
 ### Editorial Notes
-- Letter #14 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
+- Letter #13 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1258 in original OCR text
+- Date: Not dated
 - Location: New York
-- Word count: 166
+- Word count: 170
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

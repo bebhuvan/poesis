@@ -1,58 +1,173 @@
 ---
-title: "Letter from Berlin"
+title: "Letter from AUTOUR DU Monde, Paris"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "Berlin"
+location: "AUTOUR DU Monde, Paris"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 212
+source_line: 4271
+word_count: 1016
 letter_number: 45
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-Berlin,
+AUTOUR DU Monde, Paris,
 
 
-Man W.J/. 
+April 18, 1921. 
 
-I am leaving Germany to-night for Vienna. From, 
-there I go to Czecho-Slovakia, and then to Paris — 
-and' then, to the Mediterranean Sea ! Our steamer 
-sails on the 2nd of July- -and so this letter K*Jikoly 
-to be my last letter. 
+I have come back to the domain of dust from my 
+short aeroplane career in the mid-air, when my 
+namesake from the high heaven, the Sun,^ shed 
 
-You can" have no idea what an outbreak of love 
-has followed me and enveloped me everywhere I 
-have been in Scandinavia and Germany. All the 
-same, my longing is to go back to my own people -- 
-to the atmosphere of continual revilement. I have 
-lived my life there, done my work there, given my 
-love there, and I must not mind if the harvest of 
-my life has not had its full payment there. The 
-ripening of the harvest itself brings its ample reward 
-for me. And therefore the call comes to mo from 
-the field where the sunlight is waiting for me ; 
-where the seasons, each in turn, are making their 
+* Referring to his name Rabi, which means the Sun. 
 
-enquiries about my home-coming. They know me, 
-who all my life have sowed there the seeds of my 
-dreams. But the shadows of evening are deepening 
-on my path, and I am tired. [ do not want praise 
-or blame from my countrymen. I want to take my 
-rest under the stars^
+upon me his smile of amused tenderness, and some 
+iraf?abond clouds of the April sky seemed to wonder 
+in their minds, if I were about to join their ranks. 
+
+I am not going to stay in Paris more than 
+a week this time ; for I must finish my Con- 
+tinental tour by the end of May and prepare for 
+my return voyage to India. The days of my exile 
+seem to be gaining in weight as they are approach- 
+ing their end ; and I wish I had a relay of minds so 
+that I could charge them whenever they become 
+exhausted. Having only one in my possession, I 
+had to be merciless toward it, even when it lacked 
+the food to which it had been accustomed. The 
+result is, that it is beginning to doubt, almost to 
+hatfe, the idea* which it is made to carry through 
+a rugged* and tortuous path. 
+
+Whenever I find time and sit alone before the 
+window, I gravely nod my head and say to myself 
+in a sad voice : " Those who have been born foolish 
+can gladden the heart of God only when they have 
+the freedom of solitariness and can spread their 
+idle wings in the air and flit and hum for nothing 
+at all. Y jv., poet, are one such creature— you have 
+to be alone to fulfil your nature. What is all this 
+that you are planning ? Must you guide the mul- 
+titude and work with them for the building of an 
+Institution ? ” 
+
+All through my life, I have ever worked alone ; 
+for my life and my work have been one. I am like 
+
+’ That is to say, the idea of Visvabharati. 
+
+the tree, which builds up its timber by its own 
+living process ; and therefore it needs leisure and 
+space, sunlight and air— and not bricks and mortar, 
+masons and the civil engineer. 
+
+All my works have their roots in my dreams. 
+But an International University needs a foundation, 
+and not roots. It needs to be solidly built upon 
+international boards and committees and funds 
+contributed by men of prudence and foresight. 
+Foresight is a gift which I wholly lack. I may 
+have some insight, but no foresight at all. Foresight 
+has the power of calculation : insight has the 
+power of vision. He may have faith in insight to 
+whom it belongs ; and therefore he is not afraid of 
+making mistakes or even of apparent failures. But 
+fomsight is impatient of all deficiencies. It constant- 
+ly dwells on the possibilities of mistakes, only 
+because it has not the vision of the whole. There- 
+fore its plans are mostly solid and inflexible. 
+
+In the establishment of the International 
+University, the foresight of the experienced will 
+never forsake me ; it will go straight to the helm 
+and take charge ; and only then the prudent who 
+give money and the wise who give advice will be 
+satisfied. But where will remain the place for the 
+foolish and the irresponsible ? 
+
+The whole thing will have to be established on a 
+permanent basis ; but this so-called permanence is 
+only bought at the cost of life and freedom. The 
+cage is permanent, not the nest. And yet all that 
+
+is truly permanent has to pass through an endless 
+series of impermanencies. The spring flowers are 
+permanent, because they know how to die. The 
+temple made of stone cannot make truce with death 
+by accepting it. Proud of its bricks and mortar, it 
+constantly opposes death, till it is defeated in the end. 
+
+Our Santiniketan depends for its permanence 
+upon life. But an International University tries 
+to build its permanence with the help of rules and 
+regulations. But — 
+
+Never mind ! Let me forget it for a moment. 
+Possibly I am exaggerating. The reason is, the 
+day is* full of gloom. It has been snowing and 
+raining ; the road is muddy ; and I am home-sick. 
+
+I ‘am requested by some association to read a 
+paper at 'one of their meetings. They asked merfor 
+a summary, which they will circulate among the 
+members. I enclose a copy of it which I have 
+given to them for circulation. 
+
+Notes of Lecture 
+
+From the beginning of their history. Western 
+races have had to deal with nature as their anta- 
+gonist. This fact has emphasised in their mind the 
+dualistic aspect of truth, the eternal conflict 
+between good and evil. Thus it has kept up the 
+spirit of fight in the heart of their civilisation. 
+They seek victory and cultivate power. 
+
+The environment in which the Aryan immigrants 
+found themselves in India was that of the forest. 
+
+110 LETTEES FROM ABROAD 
+
+The forest, unlike the desert, or rock, or sea, is 
+living : it gives shelter and nourishment to life. In 
+such surroundings, the ancient forest dwellers of 
+India realised the spirit of harmony with the 
+universe and emphasised in their minds the monistic 
+aspect of Truth. They sought the realisation of 
+their soul through union with all. 
+
+The spirit of fight and the spirit of harmony both 
+have their importance in the scheme of things. For 
+making a musical instrument, the obduracy of 
+materials has to be forced to yield to the purpose 
+of the instrument maker. But music itself is a 
+revelation of beauty, it is not an outcome of fight ; 
+it springs from an inner realisation of harmony. 
+The musical instrument and the music both have 
+thpir own importance for humanity. 
+
+The civilisation that fights and conquers for Man, 
+and the civilisation that realises for him the 
+fundamental unity in the depth of existence, are 
+complementary to each other. When they join 
+hands, human nature finds its balance ; and its 
+pursuits, through rugged paths, attain their ultimate 
+meaning in an ideal of perfection.
 
 ---
 
 ### Editorial Notes
 - Letter #45 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: Berlin
-- Word count: 212
+- Complete extraction with all letter boundaries identified
+- Source line: 4271 in original OCR text
+- Date: Not dated
+- Location: AUTOUR DU Monde, Paris
+- Word count: 1,016
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

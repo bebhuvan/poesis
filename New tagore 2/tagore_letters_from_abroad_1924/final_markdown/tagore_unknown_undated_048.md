@@ -1,90 +1,104 @@
 ---
-title: "Letter from S. 3. Morea"
+title: "Letter from Strasbourg"
 author: "Rabindranath Tagore"
 author_variants: ["Rabindranath Tagore", "R. Tagore", "Tagore"]
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "S. 3. Morea"
+location: "Strasbourg"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
-word_count: 420
+source_line: 4566
+word_count: 527
 letter_number: 48
-extraction_method: "comprehensive_multipattern"
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
 
-S. 3. Morea,
+Strasbourg,
 
 
-July 14. 1921. 
+April, £9, 1921. 
 
-There is an ideajism, which is a form of egotism 
-egregiousls^elf-assertive. The conAdeace which 
-one has in one’s own ideas may not arise from an 
+I am writing this from Strasbourg where I am go- 
+ing to read my lecture at the University this evening. 
 
-unmixed love of truth. It may be a subtle form 
-of bigotry of self. There is an idealism, ready 
-to kill freedom in others, in order to find freedom 
-for its own plan. 
+8 
 
-I feel, at times, afraid lest such a tyranny of 
-idealism should ever take possession of mf own 
-mind. For it would mean that my faith ifa truth 
-had grown weaker than my faith in myself. Pride 
-of self insidiously creeps into our schemes for 
-ameliorating the conditions of our fellow human 
-beings ; and when failure occurs, we are hurt 
-because the schemes are our schemes. 
+I miss you very much at this moment ; for I feel 
+certain that it would overwhelm you with happiness 
+could you be with me now, realising the great out- 
+burst of love for me in the continental countries of 
+Europe which I have visited. I have never asked 
+for it, or striven for it, and I never can believe that 
+I have deserved it. However, if it be more than is 
+due to me, I am in no way responsible for this 
+mistake. For I could have remained perfectly 
+happy in my obscurity to the end of my days, on the 
+banks of the Ganges, with the wild ducks as my 
+only neighbours on the desolate sand islands. 
 
-Egotism of this kind is blindly oblivious of other 
-peoples’ missions in life. It tries to impose, one 
-vast monotony of taste upon individuals who iiave 
-temperament and capacities fit for other kinds of 
-work. It is like the tyranny of cortscription 
-which compels teach'^rs to dig and poets to 
-kill their fellowmen. This, being against God’s 
-own purpose, is terribly wasteful. In fact, all 
-tyrants in idealism try to usurp the rights of 
-Providence for their own purposes. 
+“ I have only sown dreams in the air,’’ for the 
+greater part of my life, and I never turned back to 
+see if they bore any harvest. But the harvest.now 
+sucpriscs me, almost obstructs my path, tind I can- 
+not make up my mind to claim it for ray own. All 
+the same, it is a great good fortune to be accepted 
+by one’s fellow-beings from across the distance of 
+geography, history and language ; and through this 
+fact we realise liow truly one is the mind of Man, 
+and what aberrations are the conflicts of hatred and 
+the competitions of self-interest. 
 
-* 
+We are going to Switzerland to-morrow and our 
+next destination will be Germany. I am to spend 
+my birth-day this year in Zurich. I have had my 
+.second birth in the West, and there is rejoicing at 
+the event. But by nature all men are dwija or twice 
+born — first they are born to their home, and then, 
+fpr their further fulfilment, they have to be born to 
 
-The gloom of sadness, which has been brooding 
-over my mind for the last few days, must be the 
-shadow of my own egotism, whose flame of hope is 
-dimmed by a fear. For some months, I was feeling 
-sure that everybody would think my thoughts and 
-carry on my work. But this cocifidence in me and 
-in my plan has suddenly found ^ chCv’i.and I am 
-apD jehensive. 
+the larger world. Do you not feel yourself, that 
+you have had your second birth among us ? And 
+with this second birth, you have found your true 
+place in the heart of humanity. 
 
-No, this is wrong for me, and it is also a source 
-of wrong for others. Let me be glad because a 
-great idea, with all its beauty and truth, has 
-alighted upon my mind. I alone am responsible 
-for carrying out its commands. It has its own 
-wing\ of freedom to bear it to its own goal ; and its 
-call id music and not an injunction. There is no 
-failure for truth — failure is only for me— and what 
-does that matter ? 
+It is a beautiful town, this Strasbourg — and 
+to-day the morning light is beautiful. The sunshine 
+has mingled with my blood and tinged my thoughts 
+with its gold, and I feel ready to sing, — 
 
-Henceforth, I shall have the chance of talking 
-with you face to face. Yet distance has its own 
-significance, and letters have their power of speech, 
-which tongues do not possess. And therefore, 
-wji^* we ineet, some part of our thoughts will 
-remain unuttered Tor the want of a great medium 
-of space an*d silence between us.,
+“Brothers, let us squander this morning with 
+futile songs.” 
+
+This is a delightful room where I am sitting now, 
+with its windows looking over the fringe of the 
+Black ^Forest. Our hostess is a charming lady, 
+with a fascinating little baby, whose plump fingers 
+love ‘to explore the mystery of my eye-glasses. 
+
+We have a number of Indian students in t4^is 
+place, among whom is Lala Harkishen Lai’s son, 
+who asks me to send you his respectful regards. 
+He is a fine young man, frank and cheerful, loved 
+by his teachers. 
+
+We have missed this week’s letters which are now 
+evidently lost beyond recovery. It is difiicult for 
+me to forgive the Mediterranean for doing me this 
+disservice ! The present week’s mail is due, and if 
+Thos. Cook and Son are prompt about it we shall 
+find our letters to-day !
 
 ---
 
 ### Editorial Notes
 - Letter #48 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: Not dated (ISO: N/A)
-- Location: S. 3. Morea
-- Word count: 420
+- Complete extraction with all letter boundaries identified
+- Source line: 4566 in original OCR text
+- Date: Not dated
+- Location: Strasbourg
+- Word count: 527
 - Source: https://archive.org/details/in.ernet.dli.2015.97031

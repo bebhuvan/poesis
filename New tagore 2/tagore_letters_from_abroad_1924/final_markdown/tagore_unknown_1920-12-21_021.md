@@ -9,9 +9,10 @@ date_original: "December 21, 1920."
 location: "New York"
 source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
 source_collection: "Letters From Abroad (1924)"
+source_line: 1746
 word_count: 408
-letter_number: 22
-extraction_method: "comprehensive_multipattern"
+letter_number: 21
+extraction_method: "comprehensive_52_letters_final"
 extraction_date: "2025-11-21"
 quality: "high"
 ---
@@ -73,9 +74,10 @@ to the sea.
 ---
 
 ### Editorial Notes
-- Letter #22 from "Letters From Abroad" (1924)
-- Extracted using comprehensive multi-pattern detection
-- Date: December 21, 1920. (ISO: 1920-12-21)
+- Letter #21 from "Letters From Abroad" (1924)
+- Complete extraction with all letter boundaries identified
+- Source line: 1746 in original OCR text
+- Date: December 21, 1920.
 - Location: New York
 - Word count: 408
 - Source: https://archive.org/details/in.ernet.dli.2015.97031
