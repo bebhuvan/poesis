@@ -15,6 +15,13 @@ poems/
 logs/
 *.log
 
+# Tagore project data files (regeneratable)
+tagore_letters.pdf
+tagore_*.json
+tagore_letters_ocr/
+tagore_website/
+*.pyc
+
 # IDE
 .vscode/
 .idea/
