@@ -1,0 +1,20 @@
+# Data files (too large for git)
+data/images/*.jpg
+data/images/*.jp2
+data/images/*.png
+
+# Output files
+output/
+
+# Cache
+cache/
+__pycache__/
+*.pyc
+
+# Logs
+logs/*.log
+
+# Keep directory structure
+!data/images/.gitkeep
+!data/archive_original/.gitkeep
+!output/.gitkeep
