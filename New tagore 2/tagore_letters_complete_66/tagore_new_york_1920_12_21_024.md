@@ -6,7 +6,7 @@ date: "1920-12-21"
 date_confidence: "high"
 date_original: "December 21, 1920"
 location: "New York"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 1746
 word_count: 413
@@ -28,34 +28,25 @@ in myself such a heavy load of helplessness. Every
 moment I am made conscious of it, and I am 
 tired. When we have the banner of an idea to 
 carry against obstacles of indifference, the burden 
-of our personal self should be extremely light. 
-But I am so awkwardly cumbersome with my 
-ineptitude. 
-
-I remember, when I was young, how a blind old 
+of our personal self should be extremely light. But I am so awkwardly cumbersome with my 
+ineptitude. I remember, when I was young, how a blind old 
 beggar used to come to our door every morning led 
 by a boy. It was a tragic sight. The blindness of 
 the old man robbed the boy of his freedom. The boy 
 looked so wistful and eager for release. Our 
 incapacity is a fetter with which we tie others to 
 our limitations. Consciousness of this every day 
-adds to my feeling of weariness. But this depres- 
-sion of spirit is likely to do me a service. It has 
+adds to my feeling of weariness. But this depression of spirit is likely to do me a service. It has 
 led me to the brink of a discovery that a great 
-measure of one’s impotence is mmja. 
-
-Latterly I have constantly been giving myself a 
+measure of one’s impotence is mmja. Latterly I have constantly been giving myself a 
 shaking, trying to rouse myself from this stupor ot 
 self-delusion. During the greater part of my 
 life my mind has been made accustomed to travel 
-'the inner path of dreams, till it has lost all con- 
-fidence in its power to thread its way through the 
+'the inner path of dreams, till it has lost all confidence in its power to thread its way through the 
 zigzags of the outer world. In fact, its attention 
 has never been trained to accept the miscellaneous 
 responsibilities of the clamorous surface life of 
-society. Therefore the West is not my world. 
-
-And yet I have received the gift of love from 
+society. Therefore the West is not my world. And yet I have received the gift of love from 
 the West, and my heart acknowledges its claims 
 to my service and I must unreservedly offer myself 
 to her before I die. I do not belong to the present 

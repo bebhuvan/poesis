@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "Berlin"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 5307
 word_count: 213
@@ -19,15 +19,13 @@ ocr_corrected: true
 
 Berlin, 
 
-Man W.J/. 
+Man WJ/. 
 
 I am leaving Germany to-night for Vienna. From, 
 there I go to Czecho-Slovakia, and then to Paris — 
 and' then, to the Mediterranean Sea ! Our steamer 
 sails on the 2nd of July- -and so this letter K*Jikoly 
-to be my last letter. 
-
-You can" have no idea what an outbreak of love 
+to be my last letter. You can" have no idea what an outbreak of love 
 has followed me and enveloped me everywhere I 
 have been in Scandinavia and Germany. All the 
 same, my longing is to go back to my own people -- 
@@ -47,7 +45,7 @@ who all my life have sowed there the seeds of my
 dreams. But the shadows of evening are deepening 
 on my path, and I am tired. [ do not want praise 
 or blame from my countrymen. I want to take my 
-rest under the stars^
+rest under the stars
 
 ---
 

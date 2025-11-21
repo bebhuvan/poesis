@@ -6,7 +6,7 @@ date: "1920-11-04"
 date_confidence: "high"
 date_original: "November 4, 1920"
 location: "New York"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 1258
 word_count: 168
@@ -26,15 +26,10 @@ to you. Keep Santiniketan away from the turmoils
 of politics. I know, that the political problem is 
 growing in intensity in India and its encroachment 
 is difficult to resist. But, all the same, we must 
-never forget that our mission is not political. 
-Where I have my politics, I do not belong to 
-Santiniketan. 
-
-I do not mean to say that there is anything 
+never forget that our mission is not political. Where I have my politics, I do not belong to 
+Santiniketan. I do not mean to say that there is anything 
 wrong in politics, but only that it is out of harmony 
-with our Ashram. 
-
-We must clearly realise this fact, that the name 
+with our Ashram. We must clearly realise this fact, that the name 
 Santiniketan has a meaning for us, and this name 
 will have to be made true. I am anxious and 
 afraid lest the surrounding forces may become too 

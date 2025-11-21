@@ -1,12 +1,12 @@
 ---
-title: "Letter from S.S.S. Rhyndam"
+title: "Letter from SSS. Rhyndam"
 author: "Rabindranath Tagore"
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "S.S.S. Rhyndam"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+location: "SSS. Rhyndam"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 3616
 word_count: 612
@@ -17,17 +17,14 @@ quality: "high"
 ocr_corrected: true
 ---
 
-S.S. Rhyndam. 
-
-Sometimes it amuses me to observe the struggle 
+SS. Rhyndam. Sometimes it amuses me to observe the struggle 
 for supremacy that is going on between the different 
 persons within me. In the present condition of 
 India, when the call is sure to come to me to take 
 some part, in some manner or other, in some political 
 affairs, the Poet at once feels nervous, thinking 
 that his claims are likely to be ignored,, simply 
-because he is the most useless member in the con- 
-federacy of my personality. He fully anticipates that 
+because he is the most useless member in the confederacy of my personality. He fully anticipates that 
 argument against him, and takes special pains to 
 glorify his deficiency even before any complaint has 
 been submitted by anybody on this point. He has 
@@ -36,8 +33,7 @@ brotherhood of the supremely Useless. I am the
 cupbearer of the Gods. I share the common privilege 
 with all divinities to be misunderstood. My purpose 
 is to reveal Purposelessness to the children of the 
-Immortal. I have nothing to do with committee meet- 
-ings or laying of foundation stones for structures 
+Immortal. I have nothing to do with committee meetings or laying of foundation stones for structures 
 that stand against the passage of time and are sure 
 «+o be trampled to dust. I am to ply the ferry boat 
 
@@ -76,18 +72,16 @@ sentiment of tenderness for this Poet, possibly
 because he is so utterly good-for-nothing and always 
 the first to be ignored in the time of emergency 
 
-“92 
-
-LETTERS FROM ABROAD 
+"92
 
 The timid Poet, avoiding the observation of the 
 Practical and the Good comes to my side and 
-■whispers : “ Sir, you are not a man made for the 
-time of emergency — ^but for the time that transcends 
+whispers : “ Sir, you are not a man made for the 
+time of emergency — but for the time that transcends 
 it on all sides.” 
 
 The rascal knows well how to flatter and generally 
-■wins his case with me — especially when others 
+wins his case with me — especially when others 
 are too cocksure of the result of their appeal ; and 
 I jump up from my judgment seat, and, holding 
 the Poet by the hand, dance a jig dance and sing : 
@@ -106,5 +100,5 @@ no value.
 - Letter #42 from "Letters From Abroad" (1924)
 - Complete extraction with expanded OCR corrections
 - Source line: 3616 in original OCR text
-- Location: S.S.S. Rhyndam
+- Location: SSS. Rhyndam
 - Word count: 612

@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "New York"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 1813
 word_count: 345
@@ -18,7 +18,7 @@ ocr_corrected: true
 ---
 
 New York, 
-December 1920 . 
+December 1920. 
 
 To-day is the seventh of Paus, I wish it were 
 allowed to me to stand among you in the mandir 
@@ -30,24 +30,18 @@ for me than to be with my dear children and friends,
 this beautiful sunny morning of December, and 
 bow my head to our Father and dedicate my service 
 to Him, By that dedication our works become 
-great, and not by extension of external resources. 
-Oh, how simple is truth and how full of light and 
+great, and not by extension of external resources. Oh, how simple is truth and how full of light and 
 happiness ? Not to be distracted by the curiosity of 
 crowds, only to be rewarded by the approval of Him, 
-who knows our heart, is the fulfilment of our en- 
-deavour. I only hope that what I am doing here is 
+who knows our heart, is the fulfilment of our endeavour. I only hope that what I am doing here is 
 in response to the call of the Shantam, that ray lonely 
 celebration of seventh Paus in this Hotel room finds 
 its harmony with your festival. Let our faith in the 
 real be not overcome by the lure of the unreal. Let 
 come to us what is good and not what we desire. Let 
-us bow our head to the Good, to the supreme Good. 
-
-I have often felt the desire that you were with 
-me in my adventure. And yet I am deeply thank- 
-ful that you could remain in the Ashram while I 
-was away. For you understand me with the under- 
-standing of love, and, therefore, through you I seem 
+us bow our head to the Good, to the supreme Good. I have often felt the desire that you were with 
+me in my adventure. And yet I am deeply thankful that you could remain in the Ashram while I 
+was away. For you understand me with the understanding of love, and, therefore, through you I seem 
 to dwell in Santiniketan. I know that I am in 
 your mind to-day and you know that my heart is 
 with you. Is it not a great good fortune that there 

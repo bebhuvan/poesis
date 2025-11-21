@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "London"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 386
 word_count: 225
@@ -18,7 +18,7 @@ ocr_corrected: true
 ---
 
 London, 
-Auffitst 4, 19. iO. 
+Auffitst 4, 19 iO. 
 
 Owing to change of plans and other reasons we 
 are still detained in London. We hope to leave it 
@@ -32,10 +32,8 @@ for Norway though our tickets were bought. I
 am sure you arc ready to ascribe this to the 
 inconstancy of my mind I 
 
-P.S, I have just written this about Dr, Patrick 
-Geddes. 
-
-What so strongly attracted me in Dr. Patrick 
+PS, I have just written this about Dr, Patrick 
+Geddes. What so strongly attracted me in Dr. Patrick 
 Geddes when I came to know him in India, was not 
 his scientific achievements, but, on the contrary, 
 the rare fact of the fulness of his personality rising 

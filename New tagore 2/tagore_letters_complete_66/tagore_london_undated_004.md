@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "London"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 192
 word_count: 612
@@ -24,14 +24,12 @@ July S, 1920.
 Every day I have been wishing to writeyou a letter 
 — but the flesh is weak. My days have become solid 
 like cannon balls, heavy with engagements. It is 
-not true that I have no leisure at all, but unfortunate- 
-ly I cannot utilise interrupted leisure for any work 
+not true that I have no leisure at all, but unfortunately I cannot utilise interrupted leisure for any work 
 
  
 
 whatever. Therefore those intervals are lost doing 
-nothing. I am sure you know it, better than any- 
-body else, that doing nothing is a burden hard to 
+nothing. I am sure you know it, better than anybody else, that doing nothing is a burden hard to 
 bear. But if you look at my exterior, you will find 
 no trace of damage there—for my health is absurdly 
 good, I hope Pearson is regularly furnishing you 
@@ -41,17 +39,14 @@ arduous Tesponsibility of looking after a poet suits
 him wmnderfully well. He is looking the very 
 picture of health, and on the whole his dreams are 
 felicitous. For instance, last night he dreamt that 
-he had been buying strawberries as large as gourds. 
-It proves the magnificent vitality of his dreams. 
-
-I know our vacation is over. The boys are back 
+he had been buying strawberries as large as gourds. It proves the magnificent vitality of his dreams. I know our vacation is over. The boys are back 
 at school and the Ashram is resounding with 
 laughter and songs. The advent of the rains is also 
 contributing its portion to the rejoicing. How I 
 wish I had wings ! Give my love to all the children, 
 and my blessings. 
 
-^ London, 
+ London, 
 
 July 13, 1930. 
 
@@ -64,9 +59,7 @@ they were comfortably settled in their new home in
 Coventry. I gave her all the news about you, but 
 
 unfortunately could not assure her that you were 
-careful of your health. 
-
-Invitations are pouring in from the Continental 
+careful of your health. Invitations are pouring in from the Continental 
 countries, and I feel sure that a hearty welcome is 
 awaiting me in these places. When I am weary 
 and feel a longing to go back to my garden of 
@@ -74,9 +67,7 @@ prickly shrubs, it gives me strength to think that
 the migratory flock of my thoughts have found 
 their nests in these shores, and with genuine love 
 and wonder these enormously busy people have 
-listened to a voice from the distant East. 
-
-This is a constant surprise to me. However, 
+listened to a voice from the distant East. This is a constant surprise to me. However, 
 there is no question that you truly and fully live 
 there, where your thoughts and works find their 
 medium of responsive life. When I am in the West, 

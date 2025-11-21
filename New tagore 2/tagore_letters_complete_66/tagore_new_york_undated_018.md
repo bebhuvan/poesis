@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "New York"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 1359
 word_count: 286
@@ -31,20 +31,14 @@ sight of the gift waiting for me. This gift has not
 been my choice, but my God has chosen me for this 
 gift. And now I say to myself, that we prove our 
 worthiness for God’s gift of responsibility by 
-acceptance of it and not by success or anything else. 
-
-The past has been for men, the future is for Man. 
-Those men are still fighting for the possession of 
+acceptance of it and not by success or anything else. The past has been for men, the future is for Man. Those men are still fighting for the possession of 
 this world ; the din and the clash are deafening ; 
-the air is obscured with the dust rising from the- 
-trampled earth. Standing in the heart of this 
+the air is obscured with the dust rising from thetrampled earth. Standing in the heart of this 
 struggle, we have to build a seat for the one God 
 revealed in all human races. We may be mocked 
 and pushed away by the crowd, but the fact will 
 remain and invisibly grow into truth that we have 
-believed. 
-
-I was born a poet, and it is difficult for me 
+believed. I was born a poet, and it is difficult for me 
 to suffer myself to be rudely hustled in my path 
 by busy men who have no leisure for ideas. I am 
 not an athlete. I do not belong to the arena. The 

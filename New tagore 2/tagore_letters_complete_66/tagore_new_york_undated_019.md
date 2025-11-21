@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "New York"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 1402
 word_count: 440
@@ -20,7 +20,7 @@ ocr_corrected: true
 NEW York, 
 December 18, 19S0. 
 
-Our Seventh Pans Festival is near at hand. I ■ 
+Our Seventh Pans Festival is near at hand. I 
 cannot tell you how my heart is thirsting to join 
 you in your festival. I am trying to console myself 
 
@@ -39,8 +39,7 @@ Kingdom of Heaven is content with the depth of its
 seK-realisation, 
 
 There are some institutions which have for 
-their object some external success. But Santini- 
-ketan is there for giving us opportunity to realise 
+their object some external success. But Santiniketan is there for giving us opportunity to realise 
 ourselves in truth. This can never be done through 
 big funds, but through dedication of our life 
 in love. In this country, I live in the dungeon of 
@@ -54,14 +53,11 @@ nightmare it is for the human soul to bear this burden
 of the monster Arithmetic. It incessantly drives 
 its victims and yet leads them to nowhere. It raises 
 storms of battle which are for sowing broadcast 
-the seeds of future conflict. 
-
-The giant reptiles of the primitive earth were 
+the seeds of future conflict. The giant reptiles of the primitive earth were 
 proud of their hypertrophied* tails, which did 
 
 not save them from the doom of destruction. I 
-long to leave all this, totally reject this unreal- 
-ity, take the next steamer I can get and run 
+long to leave all this, totally reject this unreality, take the next steamer I can get and run 
 back to my Santiniketan and serve it with my 
 life and love as long as I live. That life, which I 
 dedicate to it, if it is true, will make it live. The 
@@ -70,10 +66,8 @@ for result and is only concerned with the expression
 of truth. This wisdom found its utterance in 
 India. But there is imminent danger of this being 
 drowned in the flood of noise which the votaries of 
-success are bellowing forth in the prosperous West. 
-My prayer is growing every day more and more 
-intense, to get away from this dark tower of un- 
-reality, from this dance of death trampling sweet 
+success are bellowing forth in the prosperous West. My prayer is growing every day more and more 
+intense, to get away from this dark tower of unreality, from this dance of death trampling sweet 
 flowers of life under its tread.
 
 ---

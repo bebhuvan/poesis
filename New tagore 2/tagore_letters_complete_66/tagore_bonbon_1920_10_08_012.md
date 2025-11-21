@@ -6,7 +6,7 @@ date: "1920-10-08"
 date_confidence: "high"
 date_original: "October 8, 1920"
 location: "Bonbon"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 1056
 word_count: 382
@@ -21,8 +21,7 @@ Bonbon,
 October 8, 1920~. 
 
 We are about to sail for Norway and Sweden, 
-and for some weeks you may not hear from me. 
-Never imagine any disaster happening to us; 
+and for some weeks you may not hear from me. Never imagine any disaster happening to us; 
 for if it does happen, the news will reach you 
 without any effort on my part. The weather 
 is wet and cold, and your people are trying 
@@ -35,14 +34,10 @@ your climate I
 
 There is a settled atmosphere of pessimistic 
 gloom in the minds of all Indians we meet, which 
-makes me feel hopeful of a change of psycho- 
-logy in our country which is greatly needed. 
-All our attention must come back to our own 
+makes me feel hopeful of a change of psychology in our country which is greatly needed. All our attention must come back to our own 
 resources, and the insults and disappointments 
 which give a proper direction to our straying 
-energies are welcome. 
-
-The enclosed letter I wrote to a great Russian 
+energies are welcome. The enclosed letter I wrote to a great Russian 
 artist. Show it to Nanda Lai and give him my 
 blessings. 
 
@@ -64,8 +59,7 @@ achieves its perfection when it opens for our mind
 the special gate of the infinite, whose key is in its 
 exclusive possession. When a picture is great, we 
 should not be able to say what it is, yet we should 
-see it and know. It is the same with music. 
-When one art can fully be explained by another, 
+see it and know. It is the same with music. When one art can fully be explained by another, 
 then it is a failure. Your pictures are distinct and 
 yet are not definable by words. Your art is jealous 
 of its independence, because it is great.”

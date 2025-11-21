@@ -6,7 +6,7 @@ date: "1921-03-05"
 date_confidence: "high"
 date_original: "March 5, 1921"
 location: "Chicago"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 2882
 word_count: 1489
@@ -28,8 +28,7 @@ of suffering which is waiting for me. I am striving
 with all my power to tune my mood of mind to be 
 in accord with the great feeling of excitement 
 sweeping across my country. But, deep in my 
-being, why is there this spirit of resistance maintain- 
-ing its place in spite of my strong desire to remove 
+being, why is there this spirit of resistance maintaining its place in spite of my strong desire to remove 
 it ? I fail to find a clear answer ; and through my 
 gloom of dejection breaks out a smile and a voice 
 saying, “Your place is on ' the seashore of worlds, 
@@ -37,8 +36,7 @@ with children ; there is your peace, and I am with
 you there.’’ 
 
 This is why lately I have been playing with 
-inventing new metres. These are merest no- 
-things that are content to be borne away by the 
+inventing new metres. These are merest nothings that are content to be borne away by the 
 current of time, dancing in the sun and laughing 
 
  
@@ -53,17 +51,13 @@ rushing stream of appearance. When I tease him
 and beg him to allow me to remain his little follower 
 and accept a few trifles of mine as the cargo of his 
 play-boat, he smiles and I trot behind him catching 
-the hem of his robe. 
-
-Butv» where am I among the crowd, pushed from 
+the hem of his robe. Butv» where am I among the crowd, pushed from 
 behind, pressed from all sides ? And what is this 
 noise about me ? If it is a song, then my own sUar 
 can 'catch the tune and I join in the chorus, for 
 I am a singer. But if it is a shout, then my 
-voice is wrecked and I am lost in bewilderment. 
-I have been trying all these days to find in it 
-a melody, straining my ear, but the idea of non- 
-co-operation, with its mighty volume of sound, 
+voice is wrecked and I am lost in bewilderment. I have been trying all these days to find in it 
+a melody, straining my ear, but the idea of nonco-operation, with its mighty volume of sound, 
 does not sing to me ; its congregated menace 
 of negation shouts. And I say to myself, " If you 
 cannot keep step with your countrymen at this 
@@ -72,9 +66,9 @@ right and the rest of them wrong ; only give up your
 role as a soldier, go back to your corner as a poet, 
 be ready to accept popular derision and disgrace.” 
 
-R— , in support of the present movement, has often 
+R—, in support of the present movement, has often 
 
-said to me .that passion for rejection is a stronger 
+said to methat passion for rejection is a stronger 
 power in the beginning than the acceptance of an 
 
 ideal. Though I know this to be a fact, I cannot 
@@ -84,9 +78,7 @@ glad to be rid of them. If we once claim strength
 from intoxication, then in the time of reaction our 
 normal strength is bankrupt ; and we go back again 
 and again to the demon who lends us resources in 
-a vessel whose bottom it takes away. 
-
-Brahma-vidifa, the cult of Brahma, the Infinite 
+a vessel whose bottom it takes away. Brahma-vidifa, the cult of Brahma, the Infinite 
 Being, has for its object mukti, emancipation, 
 while Buddhism has nirvana, extinction. It may 
 be argued that both have the same idea in different 
@@ -101,12 +93,9 @@ reach that truth. Therefore he emphasised the fact
 of dukha, misery, which had to be avoided. But 
 the Brahma-vidya emphasised the fact of Ananda, 
 Joy, which had to be attained. The latter cult also 
-needs for its fulfilment the discipline of self-abnega- 
-tion ; yet it holds before its view the idea of Brahma, 
+needs for its fulfilment the discipline of self-abnegation ; yet it holds before its view the idea of Brahma, 
 not only at the end, but all through the process of 
-realisation. 
-
-Therefore the idea of life’s training was 
+realisation. Therefore the idea of life’s training was 
 different in the Vedic period from that of the 
 Buddhistic. In the former it was the purification 
 
@@ -117,15 +106,11 @@ it. The abnormal type of asceticism to which
 Buddhism gave rise in India revelled in celibacy 
 and mutilation of life in all different forms. Yet 
 the forest life of the Brahmana was not antagonistic 
-to the social life of man, but harmonious with it. 
-It was dike our musical instrument tambura whose 
+to the social life of man, but harmonious with it. It was dike our musical instrument tambura whose 
 duty is to supply the fundamental notes to the 
 music to save it from straying into discordance. It 
-believed in Aiiandav^, the music of the soul, and its 
-own simplicity was not to kill it, but to guide it. 
-
-The idea of non-co-operation is political ascetic- 
-ism. Our students are bringing their offering of 
+believed in Aiiandav, the music of the soul, and its 
+own simplicity was not to kill it, but to guide it. The idea of non-co-operation is political asceticism. Our students are bringing their offering of 
 sacrifices to what? Not to a fuller education, but to 
 non-education. It has at its back a fierce joy of 
 annihilation, which at its best is asceticism, and at 
@@ -137,10 +122,7 @@ late war and on other occasions which came nearer
 to us. ‘ No’ in its passive moral form is asceticism, 
 and in its active moral form is violence. The 
 desert is as much a form of himsa, violence, as is 
-the raging sea in storm ; they both are against life. 
-
-I remember the day, during the Swadeshi move- 
-ment in Bengal, when a crowd of young students 
+the raging sea in storm ; they both are against life. I remember the day, during the Swadeshi movement in Bengal, when a crowd of young students 
 came to see me in the first floor hall of our Vichitra 
 house. They said to me that if I would order them 
 to leave their schools and colleges they would 
@@ -151,16 +133,10 @@ sincerity of my love for my motherland. And yet
 long before this popular ebullition of excitement, I 
 myself had given a thousand rupees, when I had not 
 five rupees to call my own, to open a Swadeshi store 
-and courted banter and bankruptcy. 
-
-The reason of my refusing to advise those 
+and courted banter and bankruptcy. The reason of my refusing to advise those 
 students to leave their schools was because 
 the anarchy of a mere emptiness never tempts 
-me, even when it is resorted to as a tempor- 
-ary measure. I am frightened of an abstrac- 
-tion which is ready to ignore living cedlity. 
-These students were no more phantoms ‘to me. 
-Their life was a great fact to them and to the All. I 
+me, even when it is resorted to as a temporary measure. I am frightened of an abstraction which is ready to ignore living cedlity. These students were no more phantoms ‘to me. Their life was a great fact to them and to the All. I 
 could not lightly take upon myself the tremendous 
 responsibility of a mere negative programme for 
 them, which would uproot their life from its soil, 
@@ -175,33 +151,25 @@ smallest fraction of reality. I wish I were the
 little creature Jack, whose one mission is to kill the 
 giant Abstraction, which is claiming the sacrifice 
 of individuals all over the world under highly 
-painted masks of delusion. 
-
- 
-
-I say again and again that I am a poet ; that I am 
+painted masks of delusion. I say again and again that I am a poet ; that I am 
 not a fighter by nature. I would give everything 
-to be one with my surroundings. I love my fellow- 
-beings and I prize their love. Yet I have been 
+to be one with my surroundings. I love my fellowbeings and I prize their love. Yet I have been 
 chosen by destiny to ply my boat there, where the 
 current is against me. What irony of fate is this 
 that I should be preaching co-operation of cultures 
-between East and West on this side of the sea ju.st 
-at the moment when the doctrine of non-co-opera- 
-tion is preached on the other side ? You know that 
+between East and West on this side of the sea just 
+at the moment when the doctrine of non-co-operation is preached on the other side ? You know that 
 I do not believe in the material civilisation of the 
 West, just as I do not believe the physical body 
 to be the highest truth in man. But I still less 
 believe In the destruction of the physical body, and 
-the ignoring of the material necessities of^-life. 
-What’ is needed is establishment of harmony 
+the ignoring of the material necessities of-life. What’ is needed is establishment of harmony 
 between the physical and spiritual nature of man, 
 the maintaining of balance between the foundation 
 and superstructure. I believe in the true meeting of 
 the East and the West. Love is the ultimate truth 
 of soul. We should do all we can, not to outrage 
-that truth, but to carry its banner against all opposi- 
-tion. The idea of non-co-operation unnecessarily 
+that truth, but to carry its banner against all opposition. The idea of non-co-operation unnecessarily 
 hurts that truth. It is not our hearth-fire, but the 
 fire that burns out our hearth and home.
 

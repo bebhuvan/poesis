@@ -1,12 +1,12 @@
 ---
-title: "Letter from S.S.S. Morea"
+title: "Letter from SSS. Morea"
 author: "Rabindranath Tagore"
 recipient: "Unknown"
 date: ""
 date_confidence: "none"
 date_original: ""
-location: "S.S.S. Morea"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+location: "SSS. Morea"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 5840
 word_count: 418
@@ -17,44 +17,34 @@ quality: "high"
 ocr_corrected: true
 ---
 
-S.S. Morea, 
+SS. Morea, 
 
-InUj 8, 19.21. 
+InUj 8, 1921. 
 
 I must not exaggerate. Let me admit that*the 
 realisation of ideals has its external part, which 
 depends for its development upon materials. And 
-materials —both human and non-human — offer re- 
-sistance. To be overcoming such resistance is 
+materials —both human and non-human — offer resistance. To be overcoming such resistance is 
 success, and therefore it must not be lightly spoken 
-of. 
-
-But what I had in my mind was this, that the 
+of. But what I had in my mind was this, that the 
 mastery of grammar and the creation of literature 
 may not coincide. Emphasis upon grammar may 
-hinder perfectness of expression. Success in mate- 
-rials may go contrary to the fulfilment of ideals. 
-For material success has its temptation. Gfton our 
+hinder perfectness of expression. Success in materials may go contrary to the fulfilment of ideals. For material success has its temptation. Gfton our 
 idealism is exploited for the sake of obtaining 
 success— we have seen that in the late war. In 
 
 consequence the battle has been won, but the ideal 
-has not been reached. 
-
-Ever since the scheme of the International 
+has not been reached. Ever since the scheme of the International 
 University has been made public, the conflict in 
 my mind has been unceasing — the conflict between 
-the vision of the ideal and the vision of success. 
-The plan itself is big and has a great scope for the 
+the vision of the ideal and the vision of success. The plan itself is big and has a great scope for the 
 ambition of men, who love to show their power and 
 gain it. It is not merely ambition which lures our 
 minds ; it is the wrong value which we set upon 
 certain results. To be certain of the inner truth 
 requires imagination and faith, and therefore it is 
 always in danger of being missed, even when it is 
-near at hand — whereas external success is obvious. 
-
-You remember how Chitra, in my play of' that 
+near at hand — whereas external success is obvious. You remember how Chitra, in my play of' that 
 name, became jealous of the physical beauty lent 
 to her by the Gods — because it was a mere success, 
 not truth itself. Truth can afford to be ignored, 
@@ -76,7 +66,7 @@ deeper ideal. All the same, as I have said, the
 
 pursuit of success must not be abandoned for mere 
 want of energy and spirit. Let it represent our 
-sacrifice for the truth and not for itself.i
+sacrifice for the truth and not for itselfi
 
 ---
 
@@ -84,5 +74,5 @@ sacrifice for the truth and not for itself.i
 - Letter #63 from "Letters From Abroad" (1924)
 - Complete extraction with expanded OCR corrections
 - Source line: 5840 in original OCR text
-- Location: S.S.S. Morea
+- Location: SSS. Morea
 - Word count: 418

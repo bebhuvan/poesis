@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "Paris"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 423
 word_count: 145
@@ -24,10 +24,8 @@ Paris,
 I have come to Paris, not to stay here, but to 
 decide where to go. The sun is shining bright and 
 a spirit of exhilaration is in the atmosphere. Sudhir 
-received me at the station and made all arrange- 
-ments for us. Pearson has gone to stay with his 
-mother for some weeks before we start for America. 
-Therefore I am in the hands of Sudhir just at 
+received me at the station and made all arrangements for us. Pearson has gone to stay with his 
+mother for some weeks before we start for America. Therefore I am in the hands of Sudhir just at 
 present and he is taking proper care of me. Paris 
 is empty and there is no chance of our meeting the 
 
@@ -36,8 +34,7 @@ is empty and there is no chance of our meeting the
 people whom I should like to meet. Our stay in 
 England has been wasted. Your Parliament 
 debates about Dyerism in the Punjab and other 
-symptoms of the arrogant spirit of contempt and cal- 
-lousness about India have deeply aggrieved me and 
+symptoms of the arrogant spirit of contempt and callousness about India have deeply aggrieved me and 
 it was with a feeling of relief that I left England.
 
 ---

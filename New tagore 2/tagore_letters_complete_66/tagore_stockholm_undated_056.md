@@ -6,7 +6,7 @@ date: ""
 date_confidence: "none"
 date_original: ""
 location: "Stockholm"
-source_archive: "https://archive.org/details/in.ernet.dli.2015.97031"
+source_archive: "https://archiveorg/details/inernetdli201597031"
 source_collection: "Letters From Abroad (1924)"
 source_line: 5194
 word_count: 748
@@ -19,7 +19,7 @@ ocr_corrected: true
 
 Stockholm, 
 
-^'MdH 19.21. 
+'MdH 1921. 
 
 I been following the track of Spring from 
 
@@ -28,29 +28,21 @@ Sweden, watching everywhere flowers L-eaking out
 in a frenzy of colours. And it seems to mo like the 
 earth’s shouting of victory, and flinging up its 
 coloured cap to the sky. My path in the West also 
-has had the same exuberant outburst of welcome. 
-
-At first, I felt the impulse to describe it to you in 
-detail ; for I was sure it would give you great de- 
-light. But now I shrink from doing it. For some- 
-how it does not cause exultation in my own mind, 
+has had the same exuberant outburst of welcome. At first, I felt the impulse to describe it to you in 
+detail ; for I was sure it would give you great delight. But now I shrink from doing it. For somehow it does not cause exultation in my own mind, 
 but makes me feal sad. It would be absurd for me 
-to claim what has been offered to me as fully mine. 
-The fact is, there is a rising tide of heart in the Wost 
+to claim what has been offered to me as fully mine. The fact is, there is a rising tide of heart in the Wost 
 
 rushing towards the shores of the East, following 
 some mysterious law of attraction. The unbounded 
 pride of the European peoples has suddenly found a 
 check, and their mind appears to be receding from 
-the channel it had cut for itself. 
-
-The weary giant is seeking peace ; and as the 
+the channel it had cut for itself. The weary giant is seeking peace ; and as the 
 fountain of peace has ever flowed from the’ East, 
 the face of troubled Europe is instinctively turned 
 to-day towards the East. Europe is a child, who 
 has been hurt in the midst of her game. She is 
-shunning the crowd and looking out for her mother. 
-And has not the East been the mother of spiritual 
+shunning the crowd and looking out for her mother. And has not the East been the mother of spiritual 
 humanity, giving it life from its own life ? 
 
 How pitiful it is that we, in India, are unaware 
@@ -59,7 +51,7 @@ com" to our door ; that we fail to realisdthe great
 honour of the call to serve humanity in her hop;* of 
 need ! 
 
-Bewildere"^ at heart by the great demonstrations 
+Bewildere" at heart by the great demonstrations 
 made in my honour in these countries, I have often 
 tried to find out the real cause. I have been told 
 that it was because I loved humanity. I hope that 
@@ -70,8 +62,7 @@ that truest note in my writings guide my own life
 henceforth ! 
 
 The other day, when I was resting alone in my 
-room, in the hotel at Hamburg, timidly there enter- 
-ed two shy and sweet German girls, with a bunch 
+room, in the hotel at Hamburg, timidly there entered two shy and sweet German girls, with a bunch 
 
  
 
@@ -81,37 +72,25 @@ love India.” I asked her — ‘‘Why do you love
 India?” She answered. — ‘‘Because you love 
 God.” 
 
-The^ praise was too great for me to accept with 
-any degree of complaisance. But I hope its mean- 
-ing was in the expectation from me which it carried, 
+The praise was too great for me to accept with 
+any degree of complaisance. But I hope its meaning was in the expectation from me which it carried, 
 and therefore was a blessing. Or possibly she 
 meant that my country loved God, and therefore 
 she loved India. That also was an expectation, 
 whose meaning we should try to appreciate and 
-undersJand. 
-
-The nations lo\»e their own countries ; and that 
+undersJand. The nations lo\»e their own countries ; and that 
 national love has only given rise to hatred and 
 suspicion of one another. The world is waiting for 
-a ft'^^’-Uelfry that loves God and not herself. Only that 
-^•(juntry will have the claim to be loved by men of 
-all countries. 
-
-When we cry ‘ Bande Mataram ’ from the house- 
-tops, we shout to our neighbours “ You are not our 
-brothers ”. But that is not the truth. There- 
-fore, because it is untrue, it pollutes the air, and 
+a ft'’-Uelfry that loves God and not herself. Only that 
+•(juntry will have the claim to be loved by men of 
+all countries. When we cry ‘ Bande Mataram ’ from the housetops, we shout to our neighbours “ You are not our 
+brothers ”. But that is not the truth. Therefore, because it is untrue, it pollutes the air, and 
 darkens the sky. Whatever may bo its use for 
 the present, it is like the house being set on fire 
 simply for roasting the pig ! Love of self, whether 
-national or individual, can have no other destina- 
-tion but suicide. * Love of God is our only fulfil- 
-ment; it has in it the ultimate solution of all 
-problems and difficulties. 
-
-On the day after to-morrow we shall be leaving 
-Sweden for Berlin. The Czecho-Slovakian Govern- 
-ment has promised ns an air trip from Berlin 
+national or individual, can have no other destination but suicide. * Love of God is our only fulfilment; it has in it the ultimate solution of all 
+problems and difficulties. On the day after to-morrow we shall be leaving 
+Sweden for Berlin. The Czecho-Slovakian Government has promised ns an air trip from Berlin 
 to Prague, and from Prague to Munich. From 
 Munich we are expected to visit Darmstadt, where 
 a gathering of some notable persons of Germany 
