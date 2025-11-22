@@ -6,3 +6,15 @@ html_reviews/images/*.png
 # Keep directory structure but exclude large files
 !raw_scans/.gitkeep
 !html_reviews/images/.gitkeep
+
+# V2 test outputs and large files
+v2/test_output/
+v2/strategies/
+v2/ocr_outputs/
+v2/reviews/
+v2/final_output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
