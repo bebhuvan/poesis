@@ -9,13 +9,11 @@
 ---
 
 
-3TTf'?T #trT
+PRINTED IN ENGLAND
+BY FREDERICK HALL
 
 
-THE LIFE AND LETTERS OF
-
-
-AT THE OXFORD UNIVERSITY PRESS
+BY
 
 
 WITH A FOREWORD BY
@@ -23,7 +21,7 @@ WITH A FOREWORD BY
 THE RIGHT HON. H. A. L. FISHER, M.P.
 
 
-OXFORD UNIVERSITY PRESS
+HUMPHREY MILFORD
 LONDON EDINBURGH GLASGOW COPENHAGEN
 NEW YORK TORONTO MELBOURNE CAPE TOWN
 BOMBAY CALCUTTA MADRAS SHANGHAI PEKING
@@ -178,6 +176,9 @@ H. A. L. FISHER.
 April 3, 1920.
 
 
+AUTHOR’S PREFACE
+
+
 Biogeaphy is a subject which untU recently Indian
 writers have somewhat neglected. The whole trend of
 India’s history and philosophy has been against it. This
@@ -302,6 +303,7 @@ January 20,1920,
 
 .FOBEWOED.
 
+AUTHOR’S PREFACE.
 
 CHAP.
 
@@ -403,8 +405,10 @@ Tobu’s Grave.
 
 ## Chapter I
 
-### THE DUTT FAMILY Among the poets whom the gods have loved there are, surely,
+### THE DUTT FAMILY
 
+
+THE DUTT FAMILY
 
 Among the poets whom the gods have loved there are, surely,
 few more remarkable than Toru Dutt. Writing in a foreign
@@ -462,7 +466,7 @@ regarded him as one of their chief friends. Maharaja Navakissen
 of Sobhabazar and Maharaja Nandkumar were constant visitors
 at his house. His opinions were so liberal and he himself was so
 sympathetic that many prominent Englishmen even among the
-Christian missionaries were his friends. When the missionary 
+Christian missionaries were his friends. When the missionary
 William Carey was destitute and without a home, harassed by
 his wife’s insanity and his children’s illness, Nilmoni gave him
 a home in his garden-house at Manicktollah, Carey never forgot
@@ -526,6 +530,8 @@ Hodder and Stoughton, London, 1879,
 B 2
 
 
+4 LIFE AND LETTERS OF TOEU DUTT
+
 before that ‘ what the Christian Eeformation did for Europe
 through the Greek tongue, the Eoman Law, and the Bible in the
 vernaculars, it would similarly do for India and Further Asia
@@ -546,7 +552,7 @@ were Eaja Earn Mohun Eoy, founder of the Brahmo Somaj, one
 of the earliest fruits of the new educational movement, who had
 gained a first-hand knowledge of the Bible by the study of Greek
 and Hebrew ; Dwarkanath Tagore and his cousin, Prosunno
-Kumar Tagore ; Earn Komul Sen ; ® Earn Gopal Ghose ; 
+Kumar Tagore ; Earn Komul Sen ; ® Earn Gopal Ghose ;
 and Easamoy Dutt, at that time ‘ Banian ’ to Messrs.
 Cruttenden, Mackillop and Co. The last mentioned was
 the most distinguished of the three sons of Nilmoni Dutt,
@@ -711,7 +717,7 @@ front rank of Indian writers of English in those days. He became
 a Christian, together with all his family. As a fuller account
 of these conversions to Christianity may be of interest, we quote
 the following extract from a letter sent home by Dr. W. S*
-Mackay dated Calcutta, 29th June, 1854 : 
+Mackay dated Calcutta, 29th June, 1854 :
 
 * Strange events are passing around us ; and though our
 fears exceed our hopes, no man can say what the issue may b
@@ -756,7 +762,7 @@ so far believers in Christianity that they were making preparations in their fam
 Lord in a body—their cousin, Shosee Chunder Dutt, with
 them. The wives were willing to remain with their husbands,
 but are still firm idolaters. We have had several interviews
-with them since of a very interesting nature, and Lai Behari 
+with them since of a very interesting nature, and Lai Behari
 has been particularly useful. ... If the whole family are
 baptized together, you may suppose what an excitement it
 will produce ; for, take them all in all, they are the most
@@ -794,6 +800,8 @@ Bengal Peasant Life and Folk Tales of Bengal,
 
 * Rasamoy Dutt.
 
+
+10 LIFE AND LETTEK8 OF TORU DUTT
 
 After further instruction all the families were baptized in*
 Christ Church, Cornwallis Square in 1862.
@@ -913,6 +921,9 @@ Indian thought and aspirations, a father’s anguish on the
  Aiai.
 
 ® The reference is to Toru.
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 death of a son is not surprising; but such anguish, touched
@@ -1118,6 +1129,9 @@ of which he translated into English as The Lake of Palms ;—
 all these works have passed through several editions in Bengali,
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 and all combine to place him in the front rank of Indian novelists.
 In consequence of the love he bore to his mother tongue, he was
 reluctant to accede to entreaties to translate his works into
@@ -1196,6 +1210,8 @@ an abundant harvest, and later on, their studies were continued
 under the care of Babu Shib Chunder Banerjea, an elderly
 man of exemplary Christian piety and character, who enjoyed
 
+
+18 LIFE AND LETTERS OF TOEU DUTT
 
 the love and confidence of his pupils. Toru, in describing her
 recollections of those early days, says ;
@@ -1296,6 +1312,8 @@ of the medical profession.
 0 2
 
 
+20 LIFE AND LETTERS OF TOEU DUTT
+
 The roads were very muddy, and Mamma, Aru, Papa arid
 myself walked a little, which made our clothes a little dirty.
 Papa hired a carriage; it was a very bad and broken one,
@@ -1380,7 +1398,7 @@ fruitful impressions on their minds. ‘ One would like to have
 fuller details ’, says M. James Darmesteter, ‘ of their brief
 sojourn in France, which had a wonderful influence on the
 ideas and imagination of Toru. French became her favourite
-language and France the country of her election.’ 
+language and France the country of her election.’
 
 After several months Mr, Dutt went to Paris with his family.
 Twenty-five hours of continous railway travel had so completely exhausted his companions that he resolved to make
@@ -1435,7 +1453,7 @@ poetry is intolerable, and that mediocre poetry deserves perhaps
 1862 to March 1867.
 
 
-VISIT TO EUROPE 
+VISIT TO EUROPE
 
 
 even a harsher epithet. There is a glut of both in the market.
@@ -1590,6 +1608,8 @@ With every plague for wretched man—lie hid,
 Let not these loose to range the world afar.
 
 
+26 LIFE AND LETTERS OF TOEU DUTT
+
 Think on that pile, to Addison so dear,
 
 Where Sully feasted, and where Kogers’ song
@@ -1691,6 +1711,8 @@ was born in Calcutta and was a relative of Mr. Eitchie, our
 Advocate-General in Calcutta." " Do you know Thackeray’s
 
 
+28 LIFE AND LETTERS OF TOEU DUTT
+
 daughters ? they are living in your neighbourhood ? ** ** No.*
 [We did not then. But afterwards we made the acquaintance
 of Miss Thackeray at the house of the Master of Trinity College
@@ -1747,15 +1769,13 @@ c(m
 mvcv ;rr£,
 
  f?nS-?c 5YnE??vJ2\
-*vy tSnfw “tf j ;mi» «jn9iJ3’
 
 fQ
 
  ZfY9? 4W 11
 
- m «5; Wz 
 
-3lt?l(r SK? z 
+3lt?l(r SK? z
 
 
 Facsimile of Toru’s Bengali Letter,
@@ -1765,11 +1785,9 @@ Facsimile of Toru’s Bengali Letter,
 
 ( vCX JiidtT (&Ciii
 
-orW JYT% 5Xl"«•5rTIIVilJ.
 
-5YpT fi 
+5YpT fi
 
-f»l'j;i» vtrsTrcT? ifW, i3r
 
 oTt
 
@@ -1777,11 +1795,10 @@ viTarji a
 
  t52p/<9|2| 55V
 
-(5»a j <3f?Tn( Wa» j
 
 @51 7 : 7 ijf
 
-" y g* T 
+" y g* T
 
 §? <01 W
 
@@ -1956,6 +1973,8 @@ in the snow. Was not this pleasant ? In this cold weather
 
 D 2
 
+
+86 LIFE AND LETTERS OF TORU DUTT
 
 too? On Thursday I got another fall in the snow. But,
 excluding the falls that I got, it was very pleasant (though I am
@@ -2151,6 +2170,9 @@ affectionately.
 of Emily Shore *.
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 somewhat rough weather, which had now passed away, and
 they were both enjoying the present beautiful weather and the
 sunsets. The pets, guinea-pigs, &c., were doing well so far, and
@@ -2239,6 +2261,9 @@ only you and I; once we had A. L. with us and papa used to
 come at nine or ten to take me back to our lodgings. Do you
 think we shall see each other again ? I do not think we shall,
 but we shall meet in that happier world. I long to see our
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 darlings again, and each day past but brings us nearer to the
@@ -2389,6 +2414,9 @@ Babylone 62, k Paris,
 
 P.S. Ainsi que vous me I’ecrivez, mademoiselle, c’est dans
 I’lnde que sera publi6e votre traduction anglaise. Ce ne serait
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 qae dans le oas od cette version serait publie en Angleterre
@@ -2592,6 +2620,9 @@ la maladie a pu atteindre cette vive organisation que revele
 votre portrait ? Ces beaux yeux pleins de feu ont pu s’alanguir ?
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 Oh ! mais alors, cela n'a pu 6tre qu’iin choc accidentel ? Vous
 Stes tout k fait retablie, n’est-ce pas, a Theure actuelle ? Et,
 & l'6poque de I’Exposition, vous viendrez dans notre doux pays
@@ -2636,7 +2667,7 @@ fleur rit toujours, meme dessechee. Je trouve que par cela
 meme e’est un vrai embl4me de Taffection. La fleur que je
 vous envoie provient de ma petite chapelle domestique.
 Puisse-t-elle vous apporter une douce b6nediction du Seigneur
-en meme temps que mon fidele souvenir ! 
+en meme temps que mon fidele souvenir !
 
 1 This correspondence first appeared in a memoir of his daughter,
 written by Mr. Dutt, in the edition of A Sheaf gleaned in French Fields,
@@ -2671,8 +2702,10 @@ member of the Dutt family.
 
 ## Chapter IV
 
-### December 1873-De€ember 1875 The letters of any well-known character are of twofold
+### LETTERS TO MISS MARTIN
 
+
+LETTERS TO MISS MARTIN
 
 The letters of any well-known character are of twofold
 interest: the one biographical, the other literary. In many
@@ -2708,6 +2741,9 @@ sunshine falling through the window bars.
 Apart from the keen artistic sense, which the letters of
 Toru reveal, their prevailing characteristics are naturalness
 and sincerity, and in these they remind one of the letters
+
+
+LETTERS TO MISS MARTIN, 1873-5
 
 
 of Cowper. Like his, too, is the quiet vein of humour running
@@ -2754,6 +2790,8 @@ My dear Mary, —I got your welcome and very interesting
 letter some days ago. I could not answer it before ; the reason
 is, we were very busy settling ourselves for the first several
 
+
+64 LIFE AND LETTERS OF TORU DUTT
 
 days. I hope you will excuse this delay iu writing on’ my
 part.
@@ -2842,6 +2880,8 @@ is very good.
 We are very comfortable here in our own garden-house. The
 
 
+56 LIFE AND LETTERS OF TORU DUTT
+
 Calcutta residence is so hedged in, as it were, by other buildings,
 that there is hardly room enough to walk about. The Garden
 is all that can be wished in that respect. Though it is December
@@ -2884,6 +2924,9 @@ The other day we killed a snake in our garden; it was a pretty
 large one, about four feet, but it was not very poisonous.
 We see plenty of wild monkeys; it is very pretty to see the
 young ones play with each other; their mothers are very fond
+
+
+LETTERS TO MISS MARTIN, 1873-6
 
 
 of them, and embrace them as affectionately as any human
@@ -2976,6 +3019,9 @@ I wish you could see the basket of beautiful flowers, roses
 especially, which Papa gathers for me from our Garden every
 
 
+LETTERS TO MISS MARTIN, 1873-5
+
+
 morning: they are so lovely and fragrant. There is very
 little fragrance in English flowers compared with ours. Mamma’s
 English flower plants have grown and budded, hyacinths,
@@ -3022,6 +3068,8 @@ and sometimes even come into the dining and bed rooms !
 
  The late Mr. A. M. Bose, barrister-atdaw, hist Bengali Wrangler.
 
+
+60 LIFE AND LETTERS OF TORU DUTT
 
 I was so glad to receive Miss A. L.’s photograph; I will try
 and write a note to her this mail.
@@ -3075,6 +3123,9 @@ Best love from me and every one to yourself. The Lord
 be with us all wherever we are.
 
 
+LETTERS TO MISS MARTIN, 1873-5
+
+
 Baugmaree Garden House,
 May 9, 1874.
 
@@ -3114,6 +3165,9 @@ daily what we want. It is difficult to keep the fruit trees ourselves, for then 
 is to let them out—and it saves trouble and expense. I wish
 I could send you a basket of our fruits of the season. It would
 gladden your eyes ! Yellow or vermilion mangoes, red leechies.
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 white jumroolfl and deep violet jams; this last resembles .the
@@ -3165,6 +3219,9 @@ also got a turkey chicken: some turkey’s eggs were given to
 us by our grandfather, our hens sat upon those eggs, and
 
 
+LETTERS TO MISS MARTIN, 1878-5
+
+
 hatched five young turkeys. One has been, unhappily, carried
 off by a kite, and three others have died. The one that is
 living has grown big and strong and is likely to live. Aru's
@@ -3210,6 +3267,9 @@ Church, Cambridge.
 2 The proprietors of Regent House, where the Dutts lodged in Cambridge.
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 you going to leave Cambridge HouBe ? I do so want to see
 your dear old face again! ‘ Oh, to be in England now that
 April’s there ! ’ sing I with Robert Browning.
@@ -3248,6 +3308,9 @@ All the poultry are shut up in a room at night. There
 were some holes in the floor of the room, and the serpent,
 no doubt, came out from one of them; the goose very likely
  The school at Malvern Wells where her friend lilis Martin was.
+
+
+LETTERS TO MISS MARTIN, 1873-5
 
 
 pecked at the reptile and so was bitten. This morning, one of
@@ -3299,6 +3362,8 @@ Please write to me as often as you can, for your letters are
 F
 
 
+66 LIFE AND LETTERS OF TORU DUTT
+
 a source of great pleasure and enjoyment to me. I have to
 thank you also for the photograph of Cambridge House, which
 you enclosed in your last letter but one. I penned a letter to
@@ -3318,7 +3383,7 @@ that jolly ?
 I hope you will have better weather by and by. I believe
 it rains a good deal up in Westmoreland. The items in your
 letter are very interesting. I remember Miss Pullen very
-well; she used to attend the French lectures. Mr. Jebb 
+well; she used to attend the French lectures. Mr. Jebb
 too, you say, is to wed an American widow—he is such a shy
 man, he dared hardly deliver his lectures to us with his face
 towards the class; he used almost to have his back towards
@@ -3340,6 +3405,8 @@ the Appendix of the Dutt Family Album is from his pen ; it
 ‘ AfterwaTds Sir Richard Claverhouse Jebb, Public Orator; Fellow of
 Trinity; Professor of Greek, Cambridge.
 
+
+LETTERS TO MISS MARTIN, 1873-5 67
 
 was written in answer to one of Papa’s poems. I should so
 like to go back to Cambridge and have a look at you all.
@@ -3419,11 +3486,14 @@ are always very interesting and instructive, we get the volumes
 from the Calcutta Public Library, of which Papa is a shareholder—we can get as many books as we like at a time and
 keep them as long as it pleases us—unfortunately there are
 not many French works, I mean readable French works, in the
+Library, but the volumes of the Bewc des Deux Mondes make
 ample compensation for this defect. The library possesses all
 the volumes of the Bevue from the be ginnin g. I had also
 been lately reading a tale recently published from the pen of
 Victor Hugo— Quatre-vingt-treize is its title. It is a very interesting work and treats of the French Revolution of ’98. I liked
 
+
+LETTERS TO MISS MARTIN, 1878-5 69
 
 #
 
@@ -3470,6 +3540,8 @@ he is pretty well now.
 
 I am sorry to hear of your father’s indisposition, I hope
 
+
+70 LIFE AND LETTERS OF TORU DUTT
 
 he is now quite well, I suppose you will leave Cambridge
 House soon. Did you not write sometime before that you will
@@ -3602,6 +3674,9 @@ have not seen it yet; my uncles and aunts and numerous
 cousins have been to see it, and wonder that we do not follow
 
 
+LETTERS TO MISS MARTIN, 1873-6
+
+
 their example. What is a floating bridge to people who have
 seen the Suez Canal, and have been through the underground
 railway in England ?
@@ -3645,6 +3720,8 @@ We are all well at present, only my cough troubles me;
 1 hope I shall soon get rid of it, for it’s a long time that I have
 had it,
 
+
+74 LIFE AND LETTERS OF TOEU DUTT
 
 We puipoBe going to thfe Garden in the motmnga tor waling
 and exercise ; would you believe it ? I have hardly walked
@@ -3731,6 +3808,8 @@ Our cow, at least one of them, for we have got two, has
 got a calf. The milk which we get is therefore very fresh
 
 
+76 LIFE AND LETTERS OF TORU DUTT
+
 and good ; we make onr own butter and cream, for it is a very
 good cow and gives plenty of milk.
 
@@ -3779,6 +3858,9 @@ there.
 * William Webster Fisher, Downing Professor of Medicine.
 
 
+LETTERS TO MISS MARTIN, 1878-5
+
+
 I have not done any arithmetic lately. It is optional to
 me to do it or not, as I have finished it; Papa means to go
 on to geometry and algebra, but I am afraid I am too thickheaded for that.
@@ -3825,6 +3907,7 @@ seven of the nine eggs she was sitting upon; the young turkeys
 are so nimble, and it is so funny looking at them, when they
 
 
+78 LIFE AND LETTERS OF TOEU DUTT
 
 pick up their rice or grain with their tiny beaks. Two of the
 bulbuls died, so we let go the third one for fear it should
@@ -3867,6 +3950,9 @@ such a number of blisters put on my chest and back, that they
 are quite sore—luckily they heal up in a day or two. Papa
 wishes to call in Dr. Cayley again—but I tell him, that one doctor
 is enough, for—*
+
+
+LETTERS TO MISS MARTIN, 1878-5
 
 
 Paut des docteurs ; pas trop n’en faut;
@@ -3918,6 +4004,8 @@ so, when she is to go. When I shall hear definitely about it,
 I shall let you know. It will be indeed very sad for her, if she
 
 
+80 LIFE AND LETTERS OF TOEU DUTT
+
 does go, !or she has never been from home, even for a day.
 Many thanks for the trouble you have taken for me. I shall
 write to Miss Fletcher either by this mail or the next; it is
@@ -3960,6 +4048,9 @@ de gdnie of the French army, became one of the leaders of the
  Mademoiselle Veny, Miss Martin’s French governess, who resided for
 many years at Park Terrace till her pupil went to school at Cambridge
 House, Malvem-Wells, in 1872.
+
+
+LETTERS TO MISS MARTIN, 1873-5
 
 
 Commune; but if he had lived, he would have been one
@@ -4005,6 +4096,9 @@ father and mother.
 P.S.—Beading over my letter, I find I have written twice
 over about our going to Church, but never mind, you will
 excuse all such bStises,
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 12, Manicktollah Street,
@@ -4055,6 +4149,8 @@ We expect our books from England on Thursday next; I am
 looking forward for it,
 
 
+LETTEB& TO MISS MARTIN, 1873-6 83
+
 April 6th. We went to the Garden on Saturday last, and
 spent the day there. My uncle and aunt joined us there in the
 afternoon, and we took a walk when the sun had set. Papa and
@@ -4100,6 +4196,9 @@ Mr. George Macfarren (who is one of the candidates for the
 o2
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 Cambridge professorship) we knew in London; his wife, Natalia
 Macfarren, was our singing mistress during our long sojourn in
 that city. I hope Mr. Macfarren all success with my whole heart.
@@ -4143,6 +4242,8 @@ much cooler and pleasanter here than in town. We came here
 on the 15th instant.
 
 
+LETTERS TO MISS MARTIN, 1873-5 85
+
 The books we sent for from England have at last come to hand;
 there are only two more to come, Those that we have already
 received are: Les Chdiiments, by Victor Hugo, a book which
@@ -4185,6 +4286,8 @@ now, and Mamma stays at home for him. My uncle and aunt
 came to see us yesterday.
 
 
+86 LIFE AND LETTERS OF TOEU DUTT
+
 26th, Monday. Last evening we received a letter of receipt
 from Messrs. Hachette & Co., accompanied by the last book of
 those we sent for. It is the Seines historiques, by Mme de Witt,
@@ -4224,6 +4327,9 @@ them by lots of eighteen or twenty at a time ! I hope you are all
 quite well. By the time this letter reaches you, you would have
 left Cambridge House for good, I suppose. Where are you going
 this summer during the vacation ? What do you think of
+
+
+LETTERS TO MISS MARTIN, 1873-5
 
 
 coming out here for a summer-trip ? We should be charmed to
@@ -4289,6 +4395,7 @@ jOh, poor birdlings, be dumb ;
 But they moan, the weak things, and they moan.
 
 
+LIFE AND LETTERS OF TORU DUTT
 
 
 The shepherd ? Gone or fled.
@@ -4359,6 +4466,8 @@ Wherefore this silence and this sorrow ?
 —step that came here, comes no more.
 
 
+LETTERS TO MISS MARTIN, 18736
+
 —Closed window, sign of some disaster !
 
 Garden, where never flowers are seen !
@@ -4416,6 +4525,8 @@ enclose the letter in yours. Please kindly send it over to her.
 
 I have still got the cough, but have nothing else to complain
 
+
+90 LIFE AND LETTERS OF TOEU DUTT
 
 of. Papa iB quite well, he had an acute attack of the gout lately,
 but is now very well. We have left the Garden House, as the
@@ -4549,6 +4660,8 @@ suffering very much from them and can hardly see ; the doctor
 says she will get well in a month.
 
 
+LETTERS TO MISS MARTIN, 1873-6 93
+
 We got a letter from Messrs. Hachette & Co.; we learn
 from it that our books will 6ome to hand by the 1st of August.
 They write that they have still a balance of one pound and odd
@@ -4592,6 +4705,8 @@ All the bigwigs are still up at Simla. I believe Lord Northbrook, our Governor-G
 to receive the Prince of Wales there. Our new Chief-Justice,
 Sir Bichard Garth, has been entertained at dinner by the
 
+
+94 LIFE AND LETTERS OF TOED DUTT
 
 barristers of Calcutta at the Town Hall. He seems to have
 pleased everybody by his warm and hearty manner.
@@ -4728,6 +4843,9 @@ are now living. We kept only three guinea-pigs and sold off
 the others, but yesterday, on going into their room, I saw the
 
 
+LETTERS TO MISS MARTIN, 1873-5
+
+
 number increased to six! Three little ones had been born overnight. The four canaries and the goldfinch are thriving. The
 young bulbul which I had in the Garden has grown into a very
 fine bird now. The fruits in season now are custard-apples
@@ -4814,6 +4932,8 @@ et admirablement rendu en quelques coups d’un savant pinceau :
 la vermeille Orleans, Limoges aux trois sveltes chchers, I’Aveyron
 
 
+LETTERS TO MISS MARTIN, 1873-5 99
+
 murmurant entre des pelouses pleines de parjums, les graves
 pensives du Tescoud,le Tarn/awve eifuyanty la Garonne aux longs
 flots, aux earn conmlsives od nagent des navires iruns et des this
@@ -4862,6 +4982,8 @@ Papa has hired a piano and I am practising away all the
 
 h2
 
+
+100 LIFE AND LETTERS OF TOEU DUTT
 
 morning. Varfina, my little cousin, has a great ear for music. He
 knows almost all Mr. Sankey’s hymns and sings them in English,
@@ -4963,6 +5085,9 @@ He nourishes her with bitter tears,
 Unseon, unknown of all.
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 He spreads the clouds her head above,
 
 He tries her hour by hour,
@@ -5038,6 +5163,8 @@ A tant d’amour il eut 6te sensible,
 
 S’il I’avait su.
 
+
+LETTERS TO MISS MARTIN, 1873-5
 
 S*il avait su tout ce qu’on peut attendre,
 
@@ -5118,6 +5245,9 @@ Wilt thou say when thou knowest ?—‘ Oh heart I have broken
 If I had known !'
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 I must close my letter now. I am sure you are quite tired
 deciphering it, by this time. I shall cover the next page and
 then close.
@@ -5163,6 +5293,8 @@ man’s finger so as to bring forth a few drops of blood, but of
 course it did the man no barm, as the poison tooth was broken.
 
 
+LETTERS TO MISS MARTIN, 1873-5 106
+
 There is a root called in Latin, Aristolochia Indica, which has
 a marked effect on the most poisonous snakes ; the man held
 this to the serpents and it was marvellous how it cowed them at
@@ -5205,6 +5337,8 @@ of his daughters, Mary Frere, is the authoress of a book of
 Indian Tales, called Old Deccan Days ; it is a very readable
 volume, and is illustrated by one of her sisters, I believe.
 
+
+106 LIFE AND LETTERS OF TOEU DUTT
 
 I am sorry to hear that Mrs. Hall is ailing, I hope she will soon
 be better. I trust your father too is quite well. I am sure you
@@ -5250,6 +5384,8 @@ Landseer, Eeynolds, Delaroche, &c. Our Lieutenant-Governor
 is a little bit of an artist in his way, and is very fond of paintings.
 Have you ever been to the Eoyal Academy in London ? I re-
 
+
+LETTERS TO MISS MARTIN, 18786 107
 
 membered how we enjoyed the pictures all the three seasons
 that we went there during our stay in England. I am exceedingly fond of pictures, though I cannot draw the easiest cottage,
@@ -5355,6 +5491,9 @@ Ouvre bien doucement la porte,
 Et ne dis rien, mon 6ouyer !
 
 
+LETTERS TO MISS MARTIN, 178-6
+
+
 (Translation)
 
 To horsG, my squire ! To horse and quick !
@@ -5426,6 +5565,7 @@ Hate-potions sometimes, and then straightly
 Love-philters that distress me sore.
 
 
+110 „ LIFE AND LETTERS OF TOEU DUTT
 
 But she whose name I love innately,
 
@@ -5479,6 +5619,9 @@ regards to your father, and with the very best love to yourself.
  Professor Cowell and his wife.
 
 2 Cousins of the Martin family.
+
+
+LETTERS TO MISS MARTIN, 1873-5
 
 
 in
@@ -5590,6 +5733,8 @@ way we were stopped by a great crowd, with shrieking musical
 instruments in a narrow lane. It was some Hindu Festival.
 
 
+LETTERS TO MISS MARTIN, 1873-5 113
+
 Jeunette got a little frightened and excited, and threw up her
 head and shook her silky mane in a manner that filled Papa’s
 heart with terror and mine with admiration : Jeimette looked
@@ -5633,6 +5778,8 @@ Amritsar for her destination; he says that there a - great
 
 I
 
+
+114 LIFE AND LETTERS OF TOEU DUTT
 
 field is open for Zenana teachers and that there are not half so
 many teachers there as are wanted. Ada is to go there by the
@@ -5721,6 +5868,8 @@ I am not so reduced in circumstances just yet!
 I 2
 
 
+116 LIFE AND LETTERS OF TORU DUTT
+
 We are very very sorry indeed to hear of poor Mrs. HaU’s
 serious illness. We liked her very much, and dear Aru and I
 were very fond of her good motherly ways. It will be indeed
@@ -5766,6 +5915,8 @@ days the Prince will stay in his dominions.
 During the Prince’s sojourn in Bombay he visited Lady Sas-
 
 
+LETTERS TO MISS MARTIN, 18735 117
+
 soon, a Parsee lady: her husband is very rich, and they have
 bought a house and lands somewhere near London. On the landing of the Prince, Parsee maidens, daughters of rich and influential men in Bombay, went before him, scattering flowers and
 singing a welcome. One day when the Prince was out driving,
@@ -5806,6 +5957,8 @@ the Garden soon, and then set sail for England! So Miss A. L.
 is making quite a sensation, and is the ‘ toast of a’ the town*.
 Please give her my love, when you next write to her.
 
+
+118 LIFE AND LETTERS OF TORU DUTT
 
 I hope you like M. Boquel. He is rather rough with ladies,
 but he has a great sense of justice and wrong, and gives every
@@ -5923,6 +6076,8 @@ a little bald near the forehead. Bussell described him, when
 he was going to be married to the Princess, in the well-
 
 
+LETTERS TO MISS MARTIN, 1876 121
+
 kuown lines of Scott, only varying one or two words for the
 occasion.
 
@@ -6011,6 +6166,9 @@ them anything seiious. On the night of the 27th December (the
 night of the Belgachia entertainment) she returned at about
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 eight o’clock from witnessing the street illuminations ; at four
 in the morning she was taken ill with one of her attacks of pain,
 and in half an hour she died. Her death was so sudden and
@@ -6052,6 +6210,8 @@ are extremely handsome; some have ears quite drooping, and
 hiding their pretty faces : they also give more milk than the
 Calcutta cows. My own Jeanette and Gentille are doing well.
 
+
+124 LIFE AND LETTERS OF TOEU DUTT
 
 I often apply to them (when speaking of them to any one) the
 words which M. Scaufflaire, in Hugo’s Les Misirables applied
@@ -6155,6 +6315,8 @@ a fortnight or more that I have been obliged to keep my bed.
 the words: ‘ Here I fell asleep ! *
 
 
+126 LIFE AND LETTERS OF TOEU DUTT
+
 Now I am able to get up and iove about a little and take
 a drive in the afternoon, according to the doctor’ orders. The
 dysentery is gone, and though the fever comes on now and then,
@@ -6202,6 +6364,8 @@ The Serapis and the Osborne left Calcutta a few weeks ago; they
 are now at Bombay, waiting for the Prince. Lord Northbrook
 
 
+LETTERS TO MISS MARTIN, 1876 127
+
 will leave Calcutta in a day or two, to meet the Prince at
 Allahabad and bid him farewell. The Governor of Madras,
 His Grace the Duke of Buckingham, is at present in Calcutta.
@@ -6239,6 +6403,9 @@ the whole night through, so did Papa; grandfather and I
 slept. I hope father will not get ill. Grandmother has now
 gone to the Garden-House ; she will come again in the afternoon ; she is an invaluable person during illness, so patient and
 careful.
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 March 3rd. Mamma is a great deal better to-day. I hope
@@ -6283,6 +6450,8 @@ the veterinary art! I have also now got a veterinary medicine-
 chest. I make a tincture or an ointment myself now and then,
 according to the prescriptions in one of my veterinary books,
 
+
+LETTERS TO MISS MARTIN, 1876 129
 
 and I myself doctor Jeunette and Gentille when they want it,
 which I am happy to say is very seldom.
@@ -6331,6 +6500,9 @@ Jt will be very interesting reading, as it will give me a good
 K
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 insight into the old Hindu legends, which I hope to be able
 to read in a couple of years in the original Sanskrit.
 
@@ -6375,6 +6547,9 @@ and which makes the place more inviting. On the second floor,
 beginning from the right, first, there is the window of our
 dining-room (the staircase is just below that window), then the
 next window belongs to a small room, which is generally known
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 as the ‘clock-room’ (because our clock is kept there), and
@@ -6525,6 +6700,9 @@ Ghosts of Grecian deities.
 Now Pan is dead !
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 Jove, that right hand is unloaded,
 
 Whence the thunder did prevail,
@@ -6535,7 +6713,6 @@ Thou art staring the stars pale !
 And thine eagle blind and old.
 
 Boughs his feathers in the cold.
-«•••••
 
 Bacchus, Bacchus ! on the panther
 He swoons, bound with his own vines ;
@@ -6578,6 +6755,8 @@ came downstairs for the first time since her illness.
 
 The weather is extremely hot now, and the punkah has
 
+
+LETTERS TO MISS MARTIN, 1876 136
 
 become a necessity. A large banian tree which stood on
 a piece of ground lately bought by a neighbour (and in front
@@ -6665,6 +6844,8 @@ Fran 9 ois Coppee, and lie conscrit, a tale by Henri Conscience.
 I have not read them yet, so I am unable to pass any judgement on them.
 
 
+LETTERS TO MISS MARTIN, 1876
+
 Have you been to see the Misses Hall ? Please give them my
 love when you go to see them. I have not read GovindaSamanta;
 I am glad you like it. I am sure the author, Mr. Dey, would
@@ -6710,6 +6891,9 @@ inward qualms that a Sikh made up his mind to cross the
 Bloch Waters, that is the seas. Anoop Singh is said to be
 a most handsome man, well made, with a striking appearance,
 * Afterwards Maharaja Sir Jotendro Mohun Tagore, K.C.S,I.
+
+
+188 LIFE AND LETTERS OF TORU DUTT
 
 
 and he will in all probability attract much attention as a sort
@@ -6758,6 +6942,8 @@ Our Governor-General, Lord Northbrook, is going away on
 the 7th proximo. He will be a great loss to this country, for
 
 
+LETTERS TO MISS MARTIN, 1876 189
+
 he was beloved by the Bengalis, and he highly deserves to
 be so.
 
@@ -6800,6 +6986,8 @@ Ou seule vous tiez, nu-tSte, en robe blanche.
 
 Gaoh par le taillis, j’observais. Une branche
 
+
+140 LIFE AND LETTERS OF TOEU DUTT
 
 Lourde sous les fruits murs vous barrait le chemin
 Et se trouvait h la hauteur de votre main.
@@ -6869,7 +7057,6 @@ water without,
 Nau tu Bamong bina dahay thistaytu momo
 not but Bam without (in) body shall live my
 
-jibitom «
 
 life.
 
@@ -6949,6 +7136,9 @@ on light literature, had learnt ‘ les verbes irr6guUers ’ by heart!
 I must * shut up ’ now. I am really ashamed of my scrawl.
 Give our best regards to your father and mother, and my
 best love to your dear self.
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 Calcutta,
@@ -7042,6 +7232,9 @@ the grand legend of Ram and Sita.
 Mademoiselle Bader thus sums up the character of Sita;
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 ‘ D’ailleurs, dans quel siecle, dans quel pays, dans quelle
 litt6rature chercher un type plus admirable que celui de Sita ?
 Quelle lyre jamais chanta plus pure et plus touchante heroine ?
@@ -7087,6 +7280,8 @@ Papa went to see the sale of the last lot of Lord Northbrook’s
 L
 
 
+146 LIFE AND LETTERS OF TOEU DUTT
+
 horses. There was a splendid Irish gelding, brown, bred by
 the late Lord Mayo, and his favourite riding-horse, aged eleven
 years. It was bought for Lord Lytton ; there were also some
@@ -7131,6 +7326,8 @@ send you one with this letter !
 What beautiful cold weather you are having at present!
 I wish I was there!
 
+
+LETTERS TO MISS MARTIN, 1876 147
 
 Do tell me which of the pieces in my book your papa and
 your dear mother like ? You see I am full of my book ! Entre
@@ -7225,6 +7422,9 @@ Many an oath thy priests have broken.
 Many a flight thy guards have fled :
 
 
+LETTEE8 TO MISS MARTIN, 1876
+
+
 But thine ancient Consecration
 Sealed as oft by stern libation,
 
@@ -7279,6 +7479,9 @@ England. . In the streets, horses are often falling down,
 smitten by heat apoplexy. The other day we saw one : poor
 
 
+150 LIFE AND LETTERS OF TOEU DUTT
+
+
 animal! it seemed to suffer terribly; it was unable to rise,and
 dashed its head against the pavement in vain efforts to do so ;
 water, large bucketfuls, was thrown over it to relieve its pain,
@@ -7326,6 +7529,8 @@ not remember anything that had happened the minute before.
 
 BAUGMAREE GARDEN-HOUSE
 
+
+LETTERS TO MISS MARTIN, 1876 151
 
 We thought she had received a sunstroke, and it was very like
 one; however, eau-de-Cologne, cold water, and an unripe
@@ -7410,6 +7615,8 @@ There is something about me in the paper to-day; Papa is
 reading it aloud, so goodbye for a moment.
 
 
+LETTERS TO MISS MARTIN, 1876 153
+
 It is now 2 p.m., and the sun is at its height; it is quite
 dazzling to look on the scene before me, tanks, lawns, and trees.
 There is nothing for us to do, but shut up all the shutters, and
@@ -7454,6 +7661,9 @@ our guinea-pigs is afflicted with a goitre. It is very hideous
 and distressing to look at, the poor animal has got quite thin ;
 it will soon die, I hope, for existence in its present state is
 a calamity.
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 Last night Papa and I, sitting out in the verandah, were
@@ -7503,6 +7713,9 @@ Oubliez-moi.
 
 The piece is of about eight verses; I should have copied it out
 for you, but unfortunately I have not got the book with me. It
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 ends with the poet’s sa 3 nng that if some one of bis acquaintances
@@ -7559,6 +7772,8 @@ Turned noiselessly in memory’s wards.
 To set a thought of sorrow free.
 
 
+166 LIFE AND LETTERS OF TOEU DUTT
+
 * Why, Grandmamma,’ exclaimed I, ‘ this flower used to grow in
 your old house at Oonnaghur, near your seven Hindu temples! ’
 She was astounded. ‘ Can you remember it all, dear ? ’ quoth
@@ -7600,6 +7815,9 @@ How vividly you recollect old times ! Do you keep a diary
 that you even remember months and dates ? I remember the
 first visit I paid you, after dear Aru’s return to Eegent House.
 It was in the morning, at about ten ; you had a sprained ankle,
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 and obliged to keep at home. How you fretted at not being able
@@ -7645,6 +7863,7 @@ quiet. At nights when I wake, it is so strange and beautiful to
 look at the moonlight on the floor of my room. Our windows
 
 
+m LIFE AND LETTERS OF TORU DUTT
 
 have got bars, iron ones, it is safer; and how bright the shadows
 of the bars fall on the floor in the faint yet clear beams of the
@@ -7690,6 +7909,8 @@ I am glad that ‘ Maddy ’ as you term her (what is her name ?
  Milo Vorry.
 
 
+LETTERS TO MISS MARTIN, 1876 169
+
 I do not remember it, though I remember her very well indeed)
 is at last able to come to you. I am sure you would show
 her my book, I should like to know what she thinks about it;
@@ -7733,6 +7954,8 @@ scandal are in full swing. But the Garden, dear old Baugmaree, is
 free from every grievance, so quiet and peaceful; I asked Papa
 which was the place he would like to live his days out in ; he
 
+
+160 LIFE AND LETTEE8 OF TOEU DUTT
 
 answered, ‘ Baugmareo or St. Leonards ’; I quite agree with
 him.
@@ -7779,6 +8002,9 @@ love to your dear self.
 How carefully and neatly my letter begins and with what a
 scribble it ends! On inspection of the leaves, I’d better not send
 them; they are pitiably dried—shrivelled would be the word.
+
+
+LETTEE8 TO MISS MARTIN, 1876
 
 
 Baugmaree Garden House*
@@ -7846,6 +8072,8 @@ Dans ton gouffre ouvert toujours ?
 M
 
 
+162 LIFE AND LETTERS OF TORU DUTT
+
 La rose dit: — Tombeau sombre,
 
 De ces pleurs je fais dans I’ombre
@@ -7894,6 +8122,8 @@ surgeons in England, has, I fervently hope, set it all right long
 ere this. We all liked Dr. Humphrey very much; he was
 
 
+LETTERS TO MISS MARTIN, 1876 168
+
 so attentive and kind during dear Aru’s severe illness at
 Cambridge.
 
@@ -7934,6 +8164,8 @@ our windows ; some had young ones in their arms. They would
 not go ofif in spite of our threatening gestures, till at last I
 brought out Papa’s revolver and pointed it, unloaded as it was.
 
+
+164 LIFE AND LETTERS OF TORU DUTT
 
 as though I were going to shoot them, when they all scampered
 off in the greatest hurry. It is, in my opinion, very heartless to
@@ -7998,6 +8230,8 @@ More bright than those of old put on,
 At royal birthdays, by the nice
 Beau Skeffington.
 
+
+LETTERS TO MISS MARTIN, 1876
 
 Hpy the man, again I sing,
 
@@ -8103,6 +8337,8 @@ The Zoological Gardens of Calcutta are now open to the public,
 but they are far from being complete as yet. Its menagerie
 
 
+LETTERS TO MISS MARTIN, 1876 167
+
 at present consists of a jackal, an otter, a pair of leopards,' a
 black bear, and a wild cat!
 
@@ -8195,6 +8431,9 @@ a Bengali farmer; of course he protested. He was told to
 they came to blows; one soldier was severely beaten; the
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 others decamped, leaving nine Bengalis dead and some seven
 Bengalis wounded. The case was brought before the magistrate ; and what do you think his judgement was ? The
 villagers were fined each and all; the soldiers acquitted :
@@ -8234,6 +8473,8 @@ arms !'’ &c. We had an old Sikh porter, who had formerly
 been a soldier. It was he who first brought us the news of the
 outbreak at Barrackpore. We were at that time in the Garden.
 
+
+170 LIFE AND LETTERS OF TOEU DUTT
 
 When questioned about it he used to shake his grey head and
 say sadly, ‘ Ah ! the English have mismanaged the whole
@@ -8277,6 +8518,8 @@ Stockmar memoirs in a condensed and interesting form, truly
 delightful.
 
 
+LETTERS TO MISS MARTIN, 1876 171
+
 The papers say that Lord Lytton will resign and return to
 England by the end of the next year. It is said that he thinks
 India is very unhealthy. He has been suffering from constant
@@ -8318,6 +8561,8 @@ it is a quiet peaceful sort of life.
 misery at last, for the way it was maltreated by the wretches
 (I mean the grooms) was simply atrocious.
 
+
+172 LIFE AND LETTERS OF TORU DUTT
 
 One of our relations, a second cousin of mine, is going to
 England very soon ; I think he starts on the 11th of next
@@ -8362,6 +8607,8 @@ are said to be born thus ; the she-bear vomits clots of blood,
 which are subsequently hatched, shapen, and developed into
 perfect animals by the warmth of the mother’s body. The
 
+
+LETTERS TO MISS MARTIN, 1876 173
 
 porcupine is regarded as an animal of ill omen, and a quill
 stuck in the thatched roof of a hut is considered sufficient to
@@ -8451,6 +8698,8 @@ achievements, in this volume of poetry by a young Bengali
 lady. To expect translations made from one foreign language
 
 
+LETTERS TO MISS MARTIN, 1876 176
+
 into another by one so young, as we understand Miss Toru Dutt
 to be, would be to expect a miracle. Yet, there are pieces in
 the work before us, which, though they must have presented
@@ -8534,6 +8783,8 @@ other Indian papers. The only little funny mistake in the
 notice was that * Toru was printed with a ‘ Z ’—Zoru. Are
 
 
+LETTERS TO MISS MARTIN, 1876
+
 you tired or shall I go on with a few more notices ? The
 Madras Standard says: * A Sheaf gleaned in French Fields is
 a title of a volume published in Calcutta, containing translations in English of various French authors, most of whom
@@ -8570,6 +8821,8 @@ the accomplished authoress is yet in her teens. Miss Toru Dutt
 belongs to a fomily distinguished for its literary talents, the
 Dutt family of Rambagan, in this city. Her father, Babu Govin
 
+
+178 LIFE AND LETTERS OF TORU DUTT
 
 Ghander Dntt, is the editor of the DuU Family Album, and she
 resided with him for some years in England and learned
@@ -8657,6 +8910,9 @@ of Botany, who died in 1896. He was author of the Manual of British
 Botany, now in the fourth edition. His widow died in 1919.
 
 N 2
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 and return to Europe. Their daughter, Jenny, is now with
@@ -8765,6 +9021,8 @@ D’admirateurs nouveaux pour s’en aller en qufite,
 Et chercher sans vergogne en faire la conquyte.
 
 
+182 LIFE AND LETTERS OF TORU DUTT
+
 Pont toi, mon seal amour, je porte oes bijoux,
 
 Pour toi seul, mon aim6, pour toi, mon cher 6poux,
@@ -8864,6 +9122,9 @@ been altered a little, and the charges have been lessened ; now
 a letter not exceeding J an ounce costs only six annas, formerly
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 it was eight annas. The charges too for newspapers and parcels
 have been decreased.
 
@@ -8906,6 +9167,9 @@ Far more than I can utter.
 
 They can’t expect me in such
 A climate as Calcutta.
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 Second ditto:
@@ -8967,6 +9231,7 @@ as will suit you. But I think the better plan is to do away with
 
 i
 
+186 LIFE AND LETTERS OF TORU DUTT
 
 all ‘ traits * and rules, except of course the very essential ones,
 and only read the French poets, enter into their spirit, understand and appreciate them thoroughly, see how they manage
@@ -9059,6 +9324,8 @@ We have sent for two books from H6bchette & Co. by this
 i
 
 
+188 LIFE AND LETTERS OF TOEU DUTT
+
 mail, namely, an illustrated edition of Hugo’s Les Misahles and
 a new work, Son Excellence M. Engine Bougon, by M. Zola. The
 latter work treats of the flourishing days of the Second Empire;
@@ -9101,6 +9368,9 @@ wards of Calcutta.
 The Zoological Gardens of Calcutta are not advancing much,
 as to the menagerie: a fox, an otter, a few birdSy that
 is all.
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 Give Mamma’s and Papa’s best regards to your father and
@@ -9232,6 +9502,9 @@ could not say whether Mr. F. would have been convicted of
  It is thought better to use initials instead of the full names.
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 a more serious offence, such as that of causing grievous hurt or
 that of culpable homicide, had he been charged with it. But this
 he could say, that in consequence of Mr. F.’s illegal violence
@@ -9320,6 +9593,8 @@ years ago ? If you have not, do so; I am sure it will amuse you
 and that yon will thank me for telling you about it.
 
 
+194 LIFE AND LETTERS OF TOEU DUTT
+
 August 8th. I had no fever last night (though I perspired
 a good deal towards the morning) thanks to the eight grains of
 quinine which I took in one dose last evening.
@@ -9359,6 +9634,9 @@ to-day. I am afraid I must stop here, dear, for I feel a little
 tired. Papa’s and Mamma’s and my own kindest regards to
 your father and mother, and their love to you, and best
 love to your dear self, from me.
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 12, Manicktollah Street,
@@ -9409,6 +9687,8 @@ to your heart’s content. Give my love to A. L. Is she as fond
  Afterwards Sir Roper Lethbridge.
 
 
+196 LIFE AND LETTERS OF TORU DUTT
+
 as ever of Byron ? I like Byron’s ‘ Siege of Corinth ’ very much.
 There are some very fine and spirited lines in it, especially
 at the end: the description of ‘Alp, the Adrian renegade’
@@ -9455,6 +9735,8 @@ Your last letter was very nice, dear, I read it several times
 over.
 
 
+LETTERS TO MISS MARTIN, 1876
+
 If oar Garden conld be sold, we could start for England
 immediately. It is a pity, Papa says, that it is so difficult to
 sell off. Of course, it would be very nice to be able to go to
@@ -9499,6 +9781,8 @@ Shall I describe to you the bed-room in which I am now
 lying ? As I have nothing better to write about, I had better
 
 
+198 LIFE AND LETTERS OF TOED DDTT
+
 *
 
 I think. The room has four windows, two to the east, one to
@@ -9540,6 +9824,8 @@ once while we were at St. Leonards. I never passed a pleasanter
 evening. He read selections from Shakespeare, Dickens, and
 other well-known authors ; but the best was his rendering of
 
+
+LETTERS TO MISS MARTIN, 1876
 
 the ‘ Vagabond a poem by an American author; I forget the
 name, but I have the piece in one of our books.
@@ -9586,6 +9872,8 @@ from whom we have not received any acknowledgement. The
 number amounts to sixteen; the friends are of our most
 intimate ones, and not likely to let a letter remain unanswered.
 
+
+200 LIFE AND LETTERS OF TOEU DUTT
 
 This makes us half-afraid that the letters and books have been
 lost, or that some of the post-office men must have tampered
@@ -9634,6 +9922,8 @@ garden. One of our neighbours had very recently bought
 a pair of Walers ; they were a very vicious pair, at least one
 
 
+LETTERS TO MISS MARTIN, 1876 201
+
 of the pair was in the habit of biting and kicking his grooms.
 Well, the day before yesterday, my uncle and I were sitting on the
 perron of his house when we heard a hubbub, and in a second
@@ -9675,6 +9965,8 @@ I received a small book from Mrs. Cowell by the last mail.
 It is entitled Oliver of the Mill and is beautifully got up. It is
 written by her sister. Miss Charlesworth, author of Ministering
 
+
+202 LIFE AND LETTERS OF TOEU DUTT
 
 Children and a great many other books. I have been reading
 it and I like it very much. Have you ever seen Miss Charles-
@@ -9724,6 +10016,9 @@ Booksellei-s,
 Dalhousie Square, E. Calcutta, India.
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 Little Varuna has been ill, but is now quite well. He is so
 intelligent. He knows all about Moody and Sankey. Some
 months ago he had a book about them in his hand ; I was
@@ -9770,6 +10065,8 @@ sea-sick; we remained all wrapped in our cloaks, with our faces
 buried against the cushions of the miserable little private
 cabin ; the steward shook his head, I recollect, on seeing our
 
+
+204 LIFE AND LETTERS OF TORU DUTT
 
 woebegone attitude! I have heard that very few people cross
 the sea from France to England without feeling sea-sick.
@@ -9863,6 +10160,7 @@ he was seriously hurt at the time; he seemed only a good
 deal braised; Papa )xad him immediately carried to the Medical
 
 
+206 LIFE AND LBTTEBS OF TORU DUTT
 
 College Hospital, which was not far off. The sargeon in attendance did not find the man much hurt, but the old man has
 since died ; isn’t this dreadful ? The man was so infirm that he
@@ -9905,6 +10203,8 @@ present, you must excuse me, dear.
 Papa and Mamma have gone to see Uncle Qirish, who is
 
 
+LETTERS TO MISS MARTIN, 1876 207
+
 ailing a little from a slight attack of feverishness. 1 am going
 there, so good-bye for the present.
 
@@ -9943,6 +10243,8 @@ dassing in the street, from their house, his triumphant cry of
 ‘ Uncle! * or ‘ Tom ! ’ as the case might be, is the most gladdening and joyous sound that can be heard. You told me to write
 to you about him; I hope you are not yet tired of hearing
 
+
+208 LIFE AND LETTERS OF TORU DUTT
 
 about his little winsome ways. The other day his mother
 forbade him to bother Papa about his gold watch. He
@@ -9988,6 +10290,8 @@ ago, before we went to England, but I read it over again a few
 
 ' Now Lady Sandys of Cambridge.
 
+
+LETTERS TO MISS MARTIN, 1876 209
 
 days ago and it is very interesting. Papa thinks it is Thackeray’s
 masterpiece, and I quite agree with him.
@@ -10129,6 +10433,7 @@ gentleman. The child burst into tears, and Papa and 1 took
 p 2
 
 
+m LIFE AND LETTERS OF TORU DUTT
 
 him away. * He is a very naughty man/ said VarAna, as he
 walked Bobbing between me and Papa. ‘ Yes.’ Then in
@@ -10225,6 +10530,9 @@ drives rather too fast, and Jeunette went off at a rattling pace.
 Fortunately there was no accident. The Waler could not keep
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 pace with Jeunette and ehe had to draw the carriage and the
 heavy Waler into the bargain! She came home rather essoufflie,
 but neighing and impatient to see Gentille.
@@ -10282,6 +10590,8 @@ my previous letters that I had been unable to write to you on
 account of illness. I am now resolved to write to you by every
 
 
+LETTEE8 TO MISS MARTIN, 1876 216
+
 mail unless I am prevented by illness or anything very serious ;
 else I shall not be able to be square with you; you are such
 a good correspondent! I wrote to you by the last mail and
@@ -10289,7 +10599,6 @@ I wrote three letters besides by the same mail, so I have been
 very busy last week, you see.
 
 iWe did not go to Church yesterday, as Gentille has been laid
-up for the last four days with a bad foot. She is better to«day,
 but not quite well; I am afraid I shall have to get a new horse,
 and sell Gentille off, as she is not a very hardy animal. Jeunette
 is never unwell, and she is forced to remain idle during all the
@@ -10322,6 +10631,8 @@ stole some milk from the milkmaid’s can, and he paid the milkwoman without tel
 knew that the children would then be punished. There was
 ‘ disette ’ at Faverolles, and one night, made desperate with
 
+
+216 LIFE AND LETTERS OF TORU DUTT
 
 the pitiful cries of the children, he went out, and breaking the
 pane of a window in a baker’s shop, put in his hand and stole
@@ -10358,6 +10669,9 @@ k Dieu.’ The story is very long; it tells how the ‘for 9 at*,
 Jean Valjean, prospered, but was again and again tracked and
 hunted down by the police. His character is powerfully drawn,
 also that of Javer, the police ‘mouchard ’. Monseigneur Bienvenu
+
+
+LETTERS TO MISS MARTIN, 1876
 
 
 and his sister Mademoiselle Baptistine stand out in pure clear
@@ -10549,6 +10863,8 @@ yesterday a copy of the Courrier de VEurope with a small
 notice of my book in it by the Chevalier de Chatelain, It is
 
 
+LETTERS TO MISS MARTIN, 1876
+
 a very short notice, in which he. remarks that the English is
 ‘ de bon aloi ’ and that the translator is a very young lady of
 Calcutta, ‘ qui vient d’atteindre sa vingtime aimde.’
@@ -10592,6 +10908,8 @@ six months, and was unable to get up from bed all that time.
 He had to sell off the animal; it was an incorrigible rearer,
 
 
+232 LIFE AND LETTERS OF TORU DUTT
+
 Papa used to have Burma ponies. They are a race ol very
 small ponies, and they come from Burma, as their name implies;
 they are very hardy, and have a very pretty way of trotting
@@ -10634,6 +10952,9 @@ to give us the least inkling of its genesis.... It is obvious, then,
 that to have translated pieces from the best French poets, such
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 as might come under a pupil’s notice in any ordinary school
 anthology, into English prose, would have been a respectable
 feat for an Indian girl. What, then, is our surprise, to find
@@ -10671,6 +10992,9 @@ seems to profess to be, a genuine Hindu product, is an important
 landmark in the history of the progress of culture.’ I wish
 I could have given you the whole article, but it is very long
 and you are already tired enough, I am sure.
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 I got a rather amusing packet by the post to-day, containing
@@ -10766,6 +11090,9 @@ One of my cousins, whom we had not seen for some years,
 Q
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 and who is just married, came to see us the other day. She is
 just seventeen, and is now a tall young bride ; when we saw
 her last she was a child of eight or nine. She is a Christian
@@ -10805,6 +11132,8 @@ reign in his place ! I must stop now, for it is rather late.
 
 17th. I could not write more of my letter yesterday, as
 
+
+LETTERS TO MISS MARTIN, 1876 227
 
 my maternal uncle and his favourite wife (whom we call
 amongst ourselves, Suruchee, vide the Legend of Dhruva), and
@@ -10855,6 +11184,7 @@ kitten from the hands of the children of the lodger next door.
 Q 2
 
 
+LIFE AND LBTTEES OF TOEU DUTT
 
 
 They were tormenting it fearfully, and when they had ill-used
@@ -10906,6 +11236,9 @@ St. James’s Hall, while we were in London ; I have the song
 and the music with me here.
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 The weather is getting to be splendid now ; I am very glad
 of this, for the sooner the weather gets better and more dry the
 sooner we shall be able to go and live at Baugmaree. Papa
@@ -10950,6 +11283,8 @@ airing with at least half a dozen dogs, terriers, pugs, and spaniels,
 as companions. Well, I resemble that ‘ Aunt ’ somewhat;
 
 
+230 LIFE AND LETTERS OF TOEU DUTT
+
 instead of dogs I have cats ! I cannot help smiling to myself
 when I see around me Day and May playing about on the
 green sward of 13, Manicktollah Street.
@@ -10991,8 +11326,9 @@ awe.
 Have you read Th6ophile Gautier’s well-known lines addressed
 to Zurburan the celebrated painter ? It is a long piece, but
 a very fine one. It is on a celebrated picture of monks by
-Zurbu»*an.
 
+
+LETTEE8 TO MISS MARTIN, 1876 231
 
 Moines de Zorbuian, blanos chartreax qui, dansl’ombre,
 Glissez silencienx sur les dalles des morts,
@@ -11049,6 +11385,9 @@ state.
 I must shut up now. Excuse the shortness of this letter.
 Papa’s and Mamma’s kindest regards and mine too, to your
 father and mother, and with best love to your dear self.
+
+
+282 LIFE AND LETTERS OF TORU DUTT
 
 
 12, Manicktollah Street,
@@ -11197,6 +11536,9 @@ remains might be buried in his native country. I remember
 seeing that very snuff-box which Napoleon gave to Lady
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 Holland, and on which those well-known lines were written,
 commencing with:
 
@@ -11243,6 +11585,9 @@ of gold and silver studded with precious stones ; his umbrellas,
 chmse-numches, flags, &c., are all brilliant with precious stones
 and diamonds. His horses, four in number, one dark bay,
 two grey, and one white, were beautifully caparisoned with
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 chains of pearls round their necks, and brilliant and costly
@@ -11334,6 +11679,8 @@ plenty, but not good ones), and a very imposing building
 in it.
 
 
+288 LIFE AND LETTERS OF TORU DUTT
+
 A few nights ago I was bitten by a scorpion ; I was at that
 time very ill with my cough. I was fast asleep in bed, within
 mosquito curtains, when I was sharply awakened by a sting;
@@ -11376,6 +11723,8 @@ Was it not a dreadful thing to dream about ?
 
 We shall have our carriage back from Messrs. Cook & Co.
 
+
+LETTERS TO MISS MARTIN, 1876 289
 
 in three weeks; my cousin’s carriage is a great deal too light
 for Jeunette and Gentille; it is so amusing to watch the different
@@ -11474,6 +11823,9 @@ pleased with it. And, though this is Christmas Day, 1 must
 write to you.
 
 
+LETTERS TO MISS MARTIN, 1876
+
+
 I have four of your dear letters lying unanswered in my
 desk. Is it not shameful on my part, and after all my fine
 promises, too, of writing to you by every mail! But you know
@@ -11520,6 +11872,7 @@ course, by a very, very few.
 n
 
 
+242 LIFE AND LBTTEB8 OF TOEU DUTT
 
 B6q 4 was a Iring and a great patron of the Troubadours; you
 will find an account of him in any book of ancient French
@@ -11659,6 +12012,8 @@ was the clear shadow of a tall coco-nut palm, reflected in our
 jheel (small lake). We passed a most pleasant afternoon at
 
 
+LETTERS TO MISS MARTIN, 1876 245
+
 Baugmaree. Mr. Clifford is going to Delhi, where he hopes
 he will get a sitting from the Maharaja of Cashmere, and
 perhaps also from other Chiefs and Bajas. He is coming back
@@ -11751,9 +12106,10 @@ and with best love from me to your dear self.
 
 ## Chapter VI
 
-### JULY 1877
+### LETTERS TO MISS MARTIN: JANUARY 1877-
 
 
+LETTERS TO MISS MARTIN: JANUARY 1877-
 JULY 1877
 
 12, Manicktollah Street,
@@ -11793,6 +12149,9 @@ SainteBeuve’s becoming a Protestant, while the abb6 :
 Plus ferme en Saint Pierre y fohda son repos.
 
 These very interesting facts I gathered from a biographical
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 notice of Sainte-Beuve in one of the numbers of the Bevue des
@@ -11838,6 +12197,8 @@ wants to know more of me and mine. Major Luard was not
 known to us before; he read my book and asked my cousin
 if Toru Dutt was a relation of his; Hem (that is my cousin’s
 
+
+LETTERS TO MISS MARTIN, JAN.~JULY 1877 249
 
 name) of course said * Yes ’, and that is how we came to pay
 a visit to him on Friday.
@@ -11885,6 +12246,9 @@ now to Baugmaree; ‘ If you should fall ill there,’ he says to
 me ;and of course I cannot promise not to fall ill, can I ?
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 But I think the place is now dry enough, and that there is
 no fear of fever there now.
 
@@ -11904,7 +12268,6 @@ Believe me, yours very affectionately,
 
 Toru Dutt.
 
-«#
 
 12, Manicktollah Street,
 Calcutta.
@@ -11933,6 +12296,8 @@ business during the mornings. There are daily thirty or forty
 horses, waiting their turn to be put in the brake; some of ■
 them are very fine and spirited animals, but the majority look
 
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 261
 
 Oramont’s sonnets are very fine; and Papa and I are
 congratulating ourselves for having had the brilliant idea of
@@ -11979,6 +12344,8 @@ his (Sampad’s) supper. He went down with a lantern, and
 a sight met his eyes which made him soon return to the boat:
 
 
+262 LIFE AND LETTERS OF TOEU DUTT
+
 dead bodies of men and of cattle were lying about. He said
 that all the village was strewn with corpses and dead cattle.
 Bodies were seen hanging on the trees, as if in the last struggle
@@ -12019,6 +12386,9 @@ twelve copies of my piece due to me, as a contributor, are jent
 in before this mail leaves.
 
 How fast you are getting on with the Ramayana. I would
+
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 253
 
 
 advise you to read La Femme dans VInde Antique ; you will
@@ -12155,6 +12525,8 @@ Is it not nice and convenient ?
 We went to-day to see an old friend of ours. Miss Pigot, who
 
 
+256 LIFE AND LETTERS OF TOEU DUTT
+
 has just returned from Europe. She went there on account of
 her health. She had a dreadful cough before she went, but
 she has now got quite rid of it, she said. She had tried many
@@ -12198,6 +12570,9 @@ amongst the women-folk concerning the order issued some time
 ago that all ladies going to Government House would have to
 wear trains. Now trains cost a great deal, especially as they
 are generally brought out from England; but fortunately
+
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 257
 
 
 yesterday's paper announced that trains were not absolutely
@@ -12244,6 +12619,8 @@ The Mohammedan festival, Mohorrun, will take place on
 
 B
 
+
+268 LIFE AND LETTERS OF TOEU DUTT
 
 Friday, to-morrow. There will be no driving to-morrow, for
 all Mohammedans will have a holiday, and all coachmen and
@@ -12292,6 +12669,8 @@ game knowingly; and I am of that opinion still, I am such
 a bad player. Do you know Lord Lytton’s pretty little piece
 of poetry commencing:
 
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 259
 
 My little love, do you remember,
 
@@ -12345,6 +12724,8 @@ home-made butter every morning. Mamma has got two
 b2
 
 
+260 LIFE AND LETTERS OF TOEU DUTT
+
 grown-up cows, and two heifers. The cows are very fierce and
 bad-tempered, but they are very pretty and rather small in size ;
 they are so nice to look at, as they graze around the jheel, or
@@ -12384,6 +12765,9 @@ anxious.
 
 My grandfather and grandmother came to see us this afternoon. Grandmamma gave me a beautiful ivory comb which
 my ‘ new ’ aunt (Suruchee) had brought from Delhi for me.
+
+
+LETTERS TO MISS MARTIN, JAN.JULY 1877 261
 
 
 It is a long time since I saw grandmamma, and I was very glad
@@ -12433,13 +12817,15 @@ of days more I hope to finish all.
 Uncle and aunt have just been here. Mamma, I and aunt
 
 
+262 LIFE AND LETTERS OF TOEU DUTT
+
 fell to talking about England and Europe. Auntie wanted to
 hear again of our English friends ; I assured her of the warm
 welcome she would assuredly receive from you and your mother,
 dear, if ever Uncle Girish and she go to Cambridge. Then she
 exclaimed: ‘ Why, all your best friends seem to be those at
 Cambridge, the Halls, the Cowells, the Babingtons, and now the
-Martins ! ’ 
+Martins ! ’
 
 13th. We went for a drive this morning. The other day
 we had a very long drive of about twelve miles ; the day
@@ -12475,6 +12861,9 @@ I have so little news to give you, that I have half a mind to
 Miss Martin and her parents had the pleasure of meeting them both in
 London and in Cambridge. The news of Tom’s death in August reached
 them on their way back to India.
+
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 263
 
 
 tear up this letter, and try to write a more interesting one
@@ -12537,6 +12926,9 @@ The gaolers tremble ;—but he drops anew ;
 Not long has he to pine on dungeon floor;
 
 He chokes for freedom: death must soon ensue.
+
+
+264 LIFE AND LETTERS OF TORU DUTT
 
 
 Eagles (Wordsworth)
@@ -12633,6 +13025,9 @@ got a bad cold just now, but he is a little better.
 * Just as I am ’—an old favourite of ours ; I dare say you
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 know it. Our new bishop was duly installed in the Cathedral
 last Sunday; he has preached his first sermon; the subject
 was ‘ Charity I hear he has brought his sister with him.
@@ -12677,6 +13072,8 @@ of an evening.
 I was reading an article on the rising French novelists, in
 the Bevm des Deux Mondes; the principal romanciers ara
 
+
+LETTERS TO MISS MARTIN, JAN.~JULY 1877 267
 
 Theuriet, G. Droz, V. Cherbuliez, A. Daudet, and Flaubert
 and Zola. I have read a novel or two of all except Daudet and
@@ -12763,6 +13160,8 @@ and fair; he is teething, which makes him a little querulous
 sometimes.
 
 
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 269
+
 Have you read Daniel Deronda, George Eliot’s last novel ?
 I was reading an abstract and review of it in one of the numbers
 of the Bevue des Deux Mondes. It seems interesting, in an
@@ -12803,6 +13202,8 @@ only taking the hypophosphate of lime now, which is very
 sweet and nice to the taste; I am glad to get rid of the cod-
 liver oil; it used to interfere with my appetite.
 
+
+270 LIFE AND LETTERS OF TOEU DUTT
 
 As we were taking our drive this morning, we saw a poor
 horse, with its mouth bleeding from the effects of a bad bit;
@@ -12892,6 +13293,8 @@ a pair of goats.
 The great news of the week is—I have finished Les
 
 
+272 LIFE AND LETTERS OF TOEU DUTT
+
 Mi$4rdble8 ! I am so glad ! I have already been reading some
 of the lives of Sainte-Beuve’s Femmes calibres, and I found them
 very interesting.
@@ -12933,6 +13336,9 @@ any amount of work.
 Everybody seems to be going away from Calcutta; Dr. Cayley
 is going in April; Dr. Smith is going too ; the Eev. Mr. Macdonald is gone, Mr. Clifford is gone, all the Missionaries and
 their families seem to be going, and last, we too perhaps. If
+
+
+LETTERS TO MISS MARTIN, JAN.JULY 1877 273
 
 
 we go to England first, and stay in London or Hastings, or
@@ -12984,6 +13390,8 @@ with him beforehand that we would take him up from the
  Afterwards Sir W. W. Hunter.
 
 
+274 LIFE AND LETTEB8 OF TOEU DUTT
+
 ‘ Ward’s Establishment ’ at Manicktollah where he had some
 business on that day with Eajendra Lai Mitter, the Bengali
 antiquarian. We took Dr. Hunter first to Baugmaree. He
@@ -13022,6 +13430,9 @@ all very much pleased with him.
 10th. We went yesterday morning. Papa and I, to the City
 Press, to have some of my later translations printed. The
 office of the Press was not opened, and Papa had to talk through
+
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 275
 
 
 the locked glass doors to a sleepy bearer, who directed us to
@@ -13067,6 +13478,9 @@ perhaps get tired, and then, there is sure to be a large concourse of people, an
 T 2
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 through a crowd, at least I think so now ; formerly I rather
 liked it, just to show how well I could take care of myself in
 a crowd !
@@ -13107,6 +13521,9 @@ soft and warm, and will be of great use to me. I was sitting
 in my uncle’s garden when it arrived, and everybody was
 eager to have a look at it, and I took it out triumphantly and
 put it immediately over my fihoulders, all the time thinking
+
+
+LETTERS TO MISS MARTIN, JAN.~JULY 1877 277
 
 
 of the dear kind fingers that had worked it. Perhaps I shall
@@ -13191,6 +13608,9 @@ foreign lands, ‘ sans feu ni lieu.’
 and June 18th.]
 
 
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 279
+
+
 12, Manicktollah Street,
 Calcutta.
 
@@ -13235,6 +13655,9 @@ With best love.
 PS. Your notice of my book pleased me very much. There
 is a notice of the Sheaf in the Eeviie de$ Deux Mondes for
 February 1877.
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 12, Manicktollah Street,
@@ -13289,13 +13712,10 @@ promised to procure her a copy of the Sheaf, fox she has none.
 Her letter is very kind ; and she says she is most touched with
 
 
-9 /&" 
+9 /&"
 
 
 •♦>T,
-
-
-#«>''»"'*-«/ dO€/f-
 
 
 fku.
@@ -13305,6 +13725,9 @@ fku.
 
 
 FacBimile of Toni’s last English letter.
+
+
+LETTERS TO MISS MARTIN, JAN.-JULY 1877 283
 
 
 what I say about dear Aru. She also had a sister, she says,
@@ -13414,6 +13837,8 @@ them!
 Their fondness for, and acquaintance with French literature
 
 
+286 LIFE AND LETTERS OF TORU DUTT
+
 is attested by the constant references to their reading. Toru
 was, in fact, in a position to act as counsellor and guide to her
 English friend. Miss Martin, in that matter.
@@ -13507,6 +13932,8 @@ So full of eager interest in all that goes on around her is
 the young authoress, so full of life, and joy in life, that it is
 
 
+288 LIFE AND LETTERS OF TOEU DUTT
+
 with something of a shock we read such a sentence as the
 following:
 
@@ -13587,6 +14014,9 @@ among her MSS., and sent by her father.
 
 Her book was first published in 1876, without any preface,
 by the Saptahik Sambad Press, Bhowanipore, and was dedicated
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 to Mrs. Govin Chunder Dutt. It bore as its motto the following
@@ -13703,6 +14133,8 @@ But where art thou ?
 ‘ When poetry is as good as this it does not much matter
 
 
+292 LIFE AND LETTERS OF TOEU DUTT
+
 whether Eouveyre prints it upon Whatman paper, or whether it
 steals to light in blurred type from some press in Bhowanipore.’
 
@@ -13763,6 +14195,7 @@ diverged to novel-writing.
 
 Toru’s book does more, however, than reproduce for English-
 speaking readers specimens of the poetry of the above-named
+authors of the Eomantic School and also of the subsequent
 Parnasse, She starts earlier in that century, with poets of
 the transition period like Chenier, Courier, B6ranger, and
 Lamartine. She goes back even farther, and gives glimpses
@@ -13791,6 +14224,8 @@ epic grandeur of style, his power of description, his lyrical
 skill, his humanitarian feeling, and his deep patriotism. The
 next two poets in place of importance in this volume are
 
+
+298 LIFE AND LETTERS OF TOEU DUTT
 
 F. de Gramont (seventeen pieces) and J. Soulary (thirteen
 pieces). Soulary was probably chosen because of the excjuisite
@@ -13872,6 +14307,8 @@ He was the thinker among the poets of his time and stood to
 some extent apart, and his picture of Moses climbing Pisgah’s
 height is the personification of the burden of loneliness that
 
+
+300 LIFE AND LETTERS OF TOEU DUTT
 
 often has to be borne by genius. Barbier’s admiration for
 Italy and its artists, Gautier’s proclivity for unusual words, not
@@ -13963,6 +14400,9 @@ Shall haply beg some gossip old,
 By stories of a former day.
 
 To while the livelong hours away.
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 ‘ Some say that he has done us wrong,
@@ -14093,6 +14533,9 @@ reference to Aru’s work. Her few translations, so limited in
 quantity, yet in quality deserve a place by her sister’s productions. She appears to have kept perhaps more closely to the
 original than Toru often did, though she has left scarcely
 sufficient work behind her to warrant a very decided opinion
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 on that point. A couple of examples of her work will enable
@@ -14300,8 +14743,10 @@ Tom Thumb, Tom Thumb !
 
 ## Chapter IX
 
-### LAST DAYS In a family where that dread disease, consumption, had
+### LAST DAYS
 
+
+LAST DAYS
 
 In a family where that dread disease, consumption, had
 already carried off a sister, it was but natm'al that the father
@@ -14391,6 +14836,8 @@ twenty-one and a half, when the tender and eager spirit of Toru
 passed to eternal rest, * firmly relying on her Saviour Jesus
 Christ, and in perfect peace.* She was buried in the C. M. S.
 
+
+310 LIFE AND LETTERS OF TOEU DUTT
 
 Cemetery in the Upper Circular Eoad, Calcutta, by the side
 of her beloved brother and sister, and on her tombstone
@@ -14496,6 +14943,8 @@ envy my wife her softer woman’s nature, but a perusal of one
 of your letters always brings the mist into my eyes, and I find
 
 
+312 LIFE AND LETTERS OF TOEU DUTT
+
 much relief. . . . Toru’s MS. French novel has been received
 by Mile Bader, and she thus writes of it in her latest letter to
 me from Paris: “ It is extraordinary that a young Indian
@@ -14591,6 +15040,8 @@ he lent me some papers about both Padre Long and Miss Dutt.'
 See p. 434 of the Life aiid Letters of E, B, Cowell, by George Cowell,
 F.R.C.S.
 
+
+314 LIFE AND LETTERS OF TOEU DUTT
 
 To quote Mile Bader once more:
 
@@ -14779,6 +15230,9 @@ in all the force and vigour of his manhood. Bianca was a great
 favourite of Willie’s, who was charmed to have her play with
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 him. The elder son returns home unexpectedly, and his mother
 is vexed because he finds Bianca there. He escorts her to her
 home later on, and returning comes to the determination to
@@ -14860,6 +15314,9 @@ present day.
 Miss Tom Dutt—left off here. Was it illness that made the pen drop from
 the weary fingers ? I do not know. I think not. The sketch was a fiirst
 attempt probably, and abandoned. I am inclined to think so, because the
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 Le Journal de Mademoiselle d’Arvers
@@ -14951,6 +15408,8 @@ evidences in it of Oriental customs and modes of thought,
 which stamp it, so to speak, with the hall-mark of the authoress’s
 own personality. Le Journal de [Mademoiselle [d'Arvers, in
 
+
+822 LIFE AND LETTERS OF TORU DUTT
 
 spite of the thoroughly French form and inspiration, ‘ reminds
 us of exotic flowers transplanted in our country, which, though
@@ -15095,7 +15554,7 @@ mind, the unselfish devotion and unworldliness exhibited by
 Marguerite. She is the butterfly of the story—attractive and
 beautiful but without qualities of solidity, and was possibly
 suggested by one of the types of French girlhood that the
-ground, are nevertheless carefully worked out, viz. the aristocratic and elderly aunt, a relic from a previous generation and
+authoress had met. Two other characters, though in the background, are nevertheless carefully worked out, viz. the aristocratic and elderly aunt, a relic from a previous generation and
 yet keenly interested in the young life around her, and Th6r6se,
 the old and devoted domestic who had been in the service of the
 family for so many years. The character of Marguerite herself,
@@ -15207,6 +15666,8 @@ and sacrifice. We see in it a heart that was more susceptible
 to the shadows than to the sunshine of life, and that had
 
 
+328 LIFE AND LETTERS OF TOEU DUTT
+
 premonitions of a premature decease. And when we reach
 the final page and read there the description of Marguerite’s
 passing away, we wonder if Toru was hoping that it would
@@ -15262,6 +15723,8 @@ Bengal Magazine of October 1876. The second, ‘ The Royal
  See ‘ Introductory Memoir * to the edition published by Kegan Paul
 & Co. in 1882.
 
+
+330 LIFE AND LETTERS OF TOEU DUTT
 
 Ascetic and the Hind * from Blmratopahhyanam, in the Calcutta
 Beview of January 1877. Toru’s studies in Sanskrit extended to
@@ -15354,6 +15817,8 @@ gladly to die in her husband's stead. She gives up without
 a pang her happiness in his love and in her home to go out alone
 into that sunless land of the shades, the melancholy Elysium of
 
+
+882 LIFE AND LETTERS OF TORU DUTT
 
 the Greeks, which held in it nothing of attraction for a people
 with so keen a zest for life as they. It takes the mighty hero
@@ -15458,6 +15923,9 @@ Kama’s behalf, and excited appeals to Lakshman. The latter’s
 fine vindication of his brother’s courage, and his absolute
 
 
+LIFE AND LETTEE8 OF TOEU DUTT
+
+
 faith in his ouconquerableness, serve merely to set Sita at bay.
 The implied reproach for her lack of faith, containing, as it
 does, a germ of truth, causes her to turn and rend one who
@@ -15549,6 +16017,9 @@ Oh what a nice and lovely fit!
 
 The use of the word ‘ Manse * for the priest’s house is rather
 naive, and one feels that the village scene is English rather than
+
+
+LIFE AND LETTERS OF TOEU DUTT
 
 
 Indian. This, however, is the chief flaw in what is undoubtedly
@@ -15644,6 +16115,9 @@ from the brake ’, and the wild deer bound through the glades.
 The gold of the forest corn glints in the distance, where the
 
 
+LIFE AND LETTERS OF TORU DUTT
+
+
 blue smoke rises from the altars near the dwelling of the
 ‘ poet anchorite
 
@@ -15687,7 +16161,7 @@ alike.
 the mysticism which lay deep in Tom’s nature. The poem is an
 account of those daylight visions which come to mortals but
 rarely. Biographically, it is of interest as the last poem
-written by her. The opening line is vividly suggestive : 
+written by her. The opening line is vividly suggestive :
 
 Broad daylight, with a sense of weariness !
 
@@ -15904,6 +16378,8 @@ poet, far inferior in genius but dying equally young, Kirke White,
 in the touching close of his Christiad —all this forms a whole
 
 
+344 LIFE AND LETTERS OF TORU DUTT
+
 of remarkable strength and beauty, and should achieve her
 hope of placing the tree of her childhood’s memories among
 those immortalized by
@@ -15999,6 +16475,8 @@ impression on him when he fimt read them. If for the Notes
 alone, The Sheaf merits republication.
 
 
+346 LIFE AND LETTERS OF TOEU DUTT
+
 Toru’s letters, now first presented to the world by Mr. Das,
 are valuable for the way they enable us to see the home-life
 out of which her life and work sprang. It is impossible to
@@ -16076,6 +16554,8 @@ and so much from year to year should continue to be said,
 yet so little should be done. Whatever reasons may have
 
 
+848 LIFE AND LETTERS OF TORU DUTT
+
 existed for the introduction of the purda system, those reasons
 have long ceased to be operative ; and with a freer life for the
 mothers of the people, not only would the misery of seclusion
@@ -16135,7 +16615,7 @@ star in a heaven of many lights.
 I
 
 TEANSLATION OF THE COEEESPONDENCE
-BETWEEN Mlle BADEE AND TORU
+BETWEEN Mlle BADEE AND TOEU
 
 Mile Clarisse Bader, Paris, to Miss Toru Dutt, Calcutta.
 
@@ -16229,6 +16709,9 @@ begin the work.
 I cannot say, dear mademoiselle, how much your affection—
 for you love them ; your book and your letter show it plainly—
 for my countrywomen and my country touches me ; and I am
+
+
+362 LIFE AND LETTERS OF TOEU DUTT
 
 
 proud to be able to say that the heroines of our grand epics
@@ -16334,6 +16817,8 @@ photographs were taken in the country by an amateur, an
 
 a a
 
+
+854 LIFE AND LETTERS OF TOEU DUTT
 
 ofiScer of high rank and one of our friends. My father is with
 me in one of these, and he also aged wonderfully during that
@@ -16551,6 +17036,9 @@ found both her and her parents calm and brave. On more than
 one occasion I gave the family (just the three) the Holy Sacrament
 of Christ. Toru usually lay on a mattress on the floor propped
 up with white pillows. I never saw in her the slightest sign of
+
+
+LIFE AND LETTERS OF TORU DUTT
 
 
 fear of deaths though her memory of her brother’s and sister’s
@@ -16846,10 +17334,12 @@ Leonards, 39; return to India,
 43; commences Sanskrit (q.v ),
 44 ; correspondence with Mile
 Clarisse Bader, 44-61, 350-5;
+letters to Miss Martin, 52-283;
 her translations from the
 French, 74 ei sqq.; reading,
 see English Literature, French
 Literature, and individual
+authors ; her horses and other
 pets, see Horses, Jeujiette and
 Gentille, Pets, &o.; A Sheaf
 gleaned in French Fields, 119-
@@ -16927,6 +17417,9 @@ French Literature, 21, 34. 43, 65,
 242, 249, 257, 261, 267,274, 278,
 346. See also About, Erckmann-
 Chatrian, Hugo, &c.
+
+
+862 LIFE AND LETTERS OF TOEU DUTT
 
 
 Frere, Sir Bartle, and family, 22,
@@ -17252,6 +17745,9 @@ Turkey, 162, 212-13, 218, 227-9,
 233.
 
 
+LIFE AND LETTERS OF TOEU DUTT
+
+
 Varfiua, 94, 100, 174, 203, 207,
 210-12, 226, 241, 247-8, 262-8.
 Vaughan, Mr., 105.
@@ -17328,8 +17824,6 @@ Acc No.
 -fiiiHiL >ar HfiR.
 
 
-LAL BAHADUR 8HA8TRI
-
 National Academy of Administration
 
 
@@ -17337,13 +17831,10 @@ may have to be recalled earlier if urgently required.
 
 per volume will be charged.
 
-3. Books may be renewed on request, at
 the discretion of the Librarian.
 
-4. Periodicals, Rare and Refrence books
 may not be issued and may be consulted only in the Library.
 
-5. Books lost, defaced or injured In any
 way shall have to be replaced or its
 double price shall be paid by the
 
