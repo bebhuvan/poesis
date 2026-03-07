@@ -1,0 +1,1845 @@
+Your models are only as good as your
+ability to follow them. Is trend
+following dead? Essentially is the usual
+headlines. One thing I've noticed
+actually over the years, why is it that
+CTAs or trend followers tend to make
+most of the money on long-sided trades?
+I think the strength of trend following
+is the fact that we don't predict
+anything. And I think this is still the
+reason why trend following works. Just
+follow the price. That's kind of our
+philosophy and then the rest really
+takes care of itself.
+Neils, thank you so much for taking time
+out to talk to us. For those of you who
+don't know Neils, our guest today is
+Neils Castup Larsson, one of the most
+respected names in the systematic trend
+following space with over 30 years of
+experience across leading global CTAs.
+He currently serves as the managing
+director for Europe at Dun Capital,
+helping guide one of the industry's most
+successful long-term trend following
+program. Neils is also the founder and
+the host of top traders unplugged. For
+me, it is a go-to resource in the
+systematic investing space, and I love
+Neil's candid in-depth conversations
+with top managers and macroinkers.
+Neils, I must say you have
+singlehandedly made the world of
+systematic trading and investing
+accessible to a global audience. Your
+work especially with TTU has been
+phenomenal. Thank you so much. So we are
+right now Neils as we speak uh you know
+right at the end of 2025.
+How has this year been in terms of trend
+following systematic investing? How do
+you uh how is this year? Well, first of
+all, let me just say thanks very much
+for having me and for the invitation.
+That's very kind of you. Um, and I very
+much look forward to our conversation
+today. So, 2025 has been an interesting
+year. Um, maybe a little bit unusual uh
+year and I say that in the context maybe
+for for the audience um that I started
+out in the trend following space 35
+years ago. Um, and every time you come
+to the end of a year, especially if it's
+been a a kind of a challenging year, you
+feel, oh, this was different. This was
+unusual. But I'm pretty sure that this
+is actually not that unusual when when
+when we go back and we analyze it. It
+has been a year where there's been fewer
+long-term trends. Um, there's been a lot
+more noise. um mostly coming from uh
+political uh noise. I would say that has
+had a major impact on financial markets.
+But on the other hand, you could say the
+beauty of trend following and and and
+why I fell in love with it all those
+years ago is that it doesn't really um
+require everything to work out in a
+specific way, so to speak. The the
+strength of trend following really is
+the fact that it adapts. Now, when it
+adapts, of course, there will be periods
+of time where you're going to be losing
+some money along the way during these
+transitions. And this year, uh, for
+those who follow markets, has been a
+year of transition in a sense. The
+equity market specifically, for example,
+has not so much transitioned from long
+to short, um, but has more been seeing
+these political uh, reversals, let's
+call them that, that has not been long,
+but they've been deep uh, from time to
+time. But you have to look at other
+places in your portfolio to see
+transitions. For example, in fixed
+income markets, this has really been an
+area where you've had um very r a wide
+range of expectations during the year in
+terms of are we going to have lower
+rates, are we going to have higher
+rates, what about inflation? And the way
+it translates into portfolios uh of
+trend followers is that you've seen
+signals shift from you know long signals
+with quite a lot of conviction at times
+to short signals with a lot of
+conviction at times and and of course
+when there is no follow through and the
+signals just change from long to short
+it's going to cost you money and because
+fixed income is generally a large sector
+within the CTA space and trend following
+portfolios it's it's been costly. uh so
+far this year to be uh to be trading
+those markets. There's been a few other
+markets like that. energies uh I would
+also um say has been a year where we've
+seen changes or I would say rather see
+we've actually seen large trading ranges
+but when you get to the upper part of
+the range trend following system often
+gets triggered to go long and then vice
+versa when we've seen the lower part of
+the range in the early say $60 and $66
+thereabouts in that range that's when we
+get triggered to go short um energy. So
+it's been tricky I would say but if we
+take sort of a broad perspective this is
+not unusual in my in my experience. um
+we go through these periods where uh
+there just are fewer trends and this is
+where you know we're called upon to
+manage our risk well and to make sure
+that these uh losses don't get uh you
+know out of hand and I think generally
+speaking within the the larger
+well-established community of of
+managers u that's really what we excel
+at trend following is something where
+you often start uh really looking at it
+from a risk perspective so I would I
+would say that we are risk risk managers
+first and foremost. And that might be a
+little bit counterintuitive to many
+people because they think, oh no,
+they're just trying to design models
+that can make a lot of uh money from the
+markets. But that's actually not the
+truth because the truth is that we don't
+know what the market's going to give us
+in terms of trends and in terms of
+performance, but we do have some control
+over the risks we are willing to take.
+And that's why I say we are actually
+risk managers first and foremost. And we
+spend a lot of time making sure on many
+levels that we have uh well controlled
+uh systems in place uh and that we
+follow it with discipline. That's the
+other very important part of trend
+following is of course that your models
+only as good as as as your ability to
+follow them as you well know. So uh so
+we this is important. So yeah so a
+tricky year so far. It's the year is not
+over and sometimes we do see um some
+interesting market um action in the last
+month or so of the year. Um but so far I
+think overall the industry is pretty
+flat for the year but with some
+outliers. Some people have done uh much
+better than flat. Some people have done
+somewhat worse than that. So uh a bit of
+more dispersion maybe between the best
+and the worst this year.
+&gt;&gt; Cool. U I'll double click on that. So I
+I remember listening to you sometime in
+April or May and u most of what I
+understood at that point of time from my
+hearing of the TTU and systematic
+investor podcast was it was a very bad
+month one of the worst in maybe a
+decade. So uh can you tell me what how
+bad was it and what which assets were
+kind of you know causing the harm in in
+the in the larger portfolio at that
+point of time.
+&gt;&gt; Yes. So, April was a difficult month and
+this was all triggered by the news of uh
+the new administration in the US
+introducing tariffs. Um and markets
+really got spooked by that. So equity
+markets fell quite a lot in a short
+space of time and going into April from
+memory um a lot of trend followers would
+have been uh quite long equities because
+they were uh making new all-time highs
+and therefore models would generally be
+long at that stage. So clearly a lot of
+the losses uh came from simply equity
+markets moving down against long
+positioning. Um which uh is not unusual
+of course and you will uh essentially
+just see models starting to derisk uh
+the positions and so on and so forth.
+But the thing what happened was that
+when you get shocks to the system like
+that it often spills over into other
+sectors. And I have to say I don't
+remember the exact market moves in April
+but I would not be surprised if uh some
+of the other positions that we had on uh
+in various sectors could be fixed income
+could be energies some of those that are
+sensitive to economic news like that um
+that they would also have had a
+knee-jerk reaction um that could well
+have gone against trend followers as
+well. So the thing is when we talk about
+it's been it could have been one of the
+worst months uh on record. It's not
+we're not talking about you know down
+20% for the CTA industry or anything
+like that. It it might be down four or
+5% and that's still a bad month but
+compared to equity markets for example
+uh and and you know over a very long
+period of time trend followers has been
+a lot less uh prone to delivering uh
+deep draw downs. From memory, I think
+the sock gen trend index which has been
+around for 25 years, its worst draw down
+is around 20% from a monthly high to a
+monthly low. And of course, we can
+compare that to equity markets where
+we've seen 50% plus drawd downs uh at
+times such as the uh great financial
+crisis and so on so forth. So I I don't
+want people to be uh of the impression
+that uh the trend following is quote
+unquote as risky uh as just investing in
+a long only equity index. I don't think
+it is. Um on the other hand, equity
+indices can have very strong uh bull
+markets as we've seen in the last 1015
+years where they can also way
+outperform. So the risk and reward goes
+hand hand in hand as as it should. Um
+but you know when we talk about really
+bad month it's not something where
+people will lose half their money um
+like we see in in some other types of
+investments.
+&gt;&gt; Got it. Thanks. Thanks for setting that
+context. And uh so uh out of um memory
+would you remember when was this 20%
+that you talk about uh which which could
+have been the worst year or the month
+for trend follow I mean the CTA
+industry. When was that?
+&gt;&gt; Yeah. So, so we definitely at the end of
+April or May of this year reached uh I
+think the second largest draw down for
+the sock gen trend index and that was
+around 20%. But the worst draw down is
+probably a a few years ago. I'm thinking
+maybe it could have happened um sometime
+during 2019 because 2018 was a a a
+difficult year and it kind of continued
+a little bit into 2019. But this is a
+little bit guessing and but I do
+remember that that draw down was
+slightly deeper. So maybe you know
+another percent or so worse than than
+what we saw this year uh at the low
+point. Now since then the C ct industry
+has actually had a very good recovery in
+the third quarter. So a lot of the
+losses have been erased uh by now and
+most indices I was just looking at it
+last night. most CTA indices are kind of
+flat for the year uh so far. Um so we'll
+we'll see if we can maybe squeeze out a
+little bit of positive performance in
+the last few weeks and and maybe end the
+year in in in the black, but it won't be
+a it's not going to go down in history
+as a great year for trend following.
+That's for sure.
+&gt;&gt; I get that. I I I wish you come out and
+uh you know your numbers are in black by
+the end of the year. So uh with that I I
+would kind of transition into some very
+specific trend following related
+questions and uh I I do run u some trend
+following strategies myself. So I've
+always had this curiosity to understand
+from you. So a lot of these questions
+come from that curiosity. So one is uh
+when we talk about at a very basic level
+uh identification of trends historically
+it's been uh breakouts or moving
+averages one of these. Now the question
+that I have for you is have you observed
+that one method is better than other
+generally or um it could be specifically
+about a product also that for certain
+products breakouts work better versus
+moving averages. What's your take on
+that? So I'm I'm very fortuitous in the
+sense that I actually work for one of
+the uh oldest uh CTAs in the world,
+trend followers in the world, done
+capital management. And so we've been
+doing this for more than 50 years. And
+back in the 70s,
+um I'm not entirely sure if moving
+averages had been quote unquote
+discovered by the time. It it could
+have, but a lot of the early CTAs, early
+trend followers back then, including
+Don, we started out with breakout uh
+meth, you know, a breakout of volatility
+breakout system. Um, only in the 1980s
+when the turtles uh became known. Uh, I
+would say is where the price breakout
+really uh took off as a a methodology.
+Although dungeon channels could well
+have been um you know also uh known
+about beforehand uh which is essentially
+what price breakout is. Moving averages
+I think became more popularized in the
+80s when the Europeans like AHL
+um started out. I think they were more
+um going in that direction. And then in
+the early 2000s, I would say another
+very important uh methodology that came
+about could have been AQR that kind of
+made that popular is what we call now
+time series momentum. Now, there will be
+a few more for sure. There's probably
+another, I don't know, five or 10 or so
+that you could use and and have been
+documented and and and described.
+But I would say that overall when you
+look at the industry of managers if you
+take the very long term a lot of these
+systems or a lot of these managers is
+certainly if you adjust for um
+volatility they're not too different but
+uh during shorter periods of time they
+can be quite different and incidentally
+I saw yesterday another manager uh
+publishing a report where they were
+looking at I think specifically um
+moving average uh crossover systems with
+different um look back periods as well
+as breakout with different uh look back
+periods over a 25- year period. There
+was some uh difference in performance.
+Uh but that is also very much depending
+on your uh the other thing that's very
+uh important is the market universe you
+apply these uh models to but also the
+speed at which you uh apply them. So,
+are you using kind of very long-term
+trend following or are you using more
+shorter term um time frames? So, I think
+it's hard to say which one um is best
+over time. I have a feeling that at
+least the larger managers probably mix a
+few different approaches because one of
+the things that we really truly believe
+in is diversification. So not only
+diversification in terms of the
+portfolio but also diversification in
+terms of the signal generation but so
+it's hard to say uh we still actually
+use um a version of breakout I would
+call it uh 51 years after u we started
+out and um we also use time series
+momentum um and some other techniques as
+well um but you know certainly moving
+average crossovers over continue to work
+uh price breakouts continue to work.
+It's just important for the audience to
+know that these things don't work all
+the time. And of course, one of the
+challenges with trend following, as I'm
+sure you found maybe in your own uh
+experience, is that you can go through
+these fairly long periods where either
+you get into a draw down of of a
+meaningful size or nothing really
+happens and you start questioning
+yourself, does re this really still
+work? We see that a lot over time and
+every time there is a challenging period
+like 2025,
+journalists and other commentators will
+question has trend following finally met
+its um you know challenge and has
+stopped working. Is it is trend
+following dead essentially is the usual
+headlines. Um I don't think it is but uh
+we will certainly accept that it's not a
+consistent strategy. It's a very lumpy
+return profile that we deliver, but we
+deliver something uh usually when most
+other strategies don't deliver or is in
+trouble. And that's the beauty and the
+the reason why trend following should be
+in um in in all portfolios in my opinion
+um because it's one of those truly
+non-correlated return streams. And as as
+you may have heard Ray Delio talk about,
+if you can identify 10 15 uncorrelated
+return streams, that's really how you
+built the the holy grail of investing.
+Now I do think it's a little bit
+difficult to find 10 to 15 un truly
+uncorrelated return streams but I would
+argue that trend following is one of
+them and therefore it's really a
+valuable tool uh in a world where um
+especially the protector of portfolio or
+equity portfolios namely the the bonds
+the fixed income have kind of changed
+the way they trade relative to equities
+meaning the correlation between stocks
+and bonds have changed in the last few
+years uh after we started to see
+inflation come back and so on and so
+forth and and I think this has made it
+even more important today uh for people
+to have some exposure uh to trend
+following strategies.
+&gt;&gt; Got it. So um double clicking on a
+couple of things which you said. So when
+we talk about a very generic uh managed
+futures program, how many assets are we
+talking about? So I'm sure you would
+have looked at some assets which are
+uncorrelated but typically in terms of
+numbers how many assets would be there
+on which trend following the strategy is
+run.
+&gt;&gt; So this is where there's been a really
+big change in the last uh few years. So
+I would get I would say that um 10 15
+years ago uh and pretty much up up to
+that time a typical trend following
+portfolio was somewhere between 50 and
+100 markets and you would diversify
+across all the major sectors. So you
+would have your your currencies, your
+equities, your fixed income markets both
+long rates and short rates. You would
+have your energies, you would have your
+um agriculturals or the grains. You
+would have your meats, uh you would have
+your soft commodities and you would have
+your precious metals and your base
+metals. So a very diversified portfolio
+about 10 years ago or so. The first uh
+change was really that people started to
+expand into uh less liquid and a bit
+more alternative markets and you saw
+these universe really uh grow from say
+50 to 100 markets to maybe 200 to 300
+markets. Um and and you still have um a
+a group of managers who maintain that uh
+profile and that is kind of one way of
+differentiating yourself. Um the
+argument um was made that if you trade
+more markets you would have more
+opportunity to find these uh large
+trends that occur um not always but from
+time to time. Of course that argument is
+true. But the pro problem is that the
+other side of that is that when you
+trade so many markets, your exposure to
+one single market is quite small. And
+that means that even if you get on a
+great trend in a in a market like that,
+maybe the portfolio impact is a little
+bit um smaller than people would expect
+it to be and therefore the performance
+difference is really not uh that great.
+Now that being said, clearly if you
+trade all these uh alternative markets
+um then you uh will perform differently
+uh which is not a bad thing of course.
+Now those uh of us uh who do not
+subscribe to the fact that you should go
+into all these markets, one of the
+reasons we do that is that in order to
+find these alternative markets, you have
+to go away from the futures exchanges.
+And if you if you remember one of the uh
+really core foundations of of the CTA
+industry is that it is a highly
+regulated it's a highly liquid um
+strategy and it's all done on regulated
+futures exchanges which are also very um
+efficient in terms of costs and so on
+and so forth. So for example, firms like
+Don Capital, we we don't embrace going
+off exchange for example for liquidity
+reasons, for counterparty reasons and so
+on and so forth. But it's not to say
+that other people haven't found um you
+know some some some joy in in doing so.
+The number of markets
+Yes. So the funny part is that in the
+last few years
+people have also gone gone the other way
+because you have now these replication
+uh funds that try to replicate uh the
+return stream of of CTAs or trend
+followers. Um they do that not by divide
+uh developing their own models but they
+do that by analyzing the returns of
+trend followers. So they're they're
+known as replicators and what they do is
+they trade a lot fewer markets. actually
+they may only trade 10 markets uh or or
+20 markets for that matter and because
+they're trying to do something slightly
+different although they are trying to
+recreate the benchmark returns
+um you now have actually a very wide
+range of size of of portfolios uh in our
+industry um so different people have
+different preferences um I think uh
+certainly from from our perspective we
+prefer highly liquid markets of which I
+would say there's probably 75 to 100
+very liquid markets that you could
+easily trade at decent size. Uh but of
+course size is an important word because
+if you want to be really big in this
+industry well then you end up having to
+trade the most liquid markets and of
+those that are probably not um you know
+that many as as two or 300 I would say.
+&gt;&gt; Got it. Got it. And uh when you were
+speaking about these alternative assets
+which are not exchangeraded
+um what can you give me an example of
+what these um products or assets are?
+&gt;&gt; Some people for example trade um
+interest rate swaps. So that's an off
+exchange product and there can be some
+price moves that they can pick up in in
+these products. Um another market that
+to me at least is alternative would be
+markets uh in mainland China. it that's
+not a usual market. It's not an easy to
+access market. It can be done, I'm told.
+Um, so that would also be an alternative
+market. Then you have some uh exchange
+traded markets that are just smaller
+like milk, like orange juice and and and
+again for me that's kind of an
+alternative market even though it's a
+well-known market but it's just
+alternative in the sense that it's small
+and therefore um you cannot uh deploy
+that much capital when you trade those
+markets. But those would be some some
+examples. And there's a lots of emerging
+market uh markets as well uh that you
+could probably classify as as being um
+more alternative than than what we
+normally uh trade in a in a CTA
+portfolio.
+&gt;&gt; Got it. Orange juice reminded me um a
+few weeks back I was interviewing Tom
+Bezo and he trades a lot of orange juice
+off late is what he said. So
+&gt;&gt; yeah, well it has a big it it has had a
+big move um uh this year. So uh yeah
+good for him.
+&gt;&gt; So moving on to another question. So
+this is about specifically about the
+time frame of trading. So let's say
+there you have uh 10 or 20 or 100 assets
+or 100 markets that you're trading. Do
+would you trade all these markets on the
+same time frame? Let's say it's a daily
+time frame or a weekly time frame or
+whatever that is. Or would each asset or
+each product be on a different time
+frame optimized for that asset? Well,
+you you kind of mentioned the word the
+key word optimized, right? And and and
+this is where I think you have to be
+really careful because clearly you can
+get all markets to look great from a
+trend following perspective in a back
+test if you optimize it for the right
+quote unquote the right time frame. Uh
+but that's a dangerous game because you
+probably won't be able to replicate that
+in in your future returns. I do think
+that some firms probably do trade uh
+some markets slightly different in terms
+of uh look back period um and
+parameters. Uh but at least at Don we we
+trade all markets the same. It doesn't
+mean we have just one single time frame.
+Of course we have many many different
+time frames but um generally speaking
+trend following tends to work best if
+you have a slower approach or longer
+term time frame approach. So anything um
+longer than 100 days in your look back
+tends to work better than than shorter
+periods of time. Uh and that's been
+proven in in many different pieces of
+research. It's also something that we
+see in our own internal research. I
+would I would argue that trend following
+is not really well suited for short-term
+uh investors. I I don't I don't think
+so. there is too much transaction cost
+uh involved in doing short-term uh trend
+following. And if you look at the um the
+various indices that you have in our
+industry, there is one for short-term uh
+traders, it's called the Sochen
+short-term traders index, and it has
+really struggled to make any money since
+it was launched, I think um you know 15
+years ago. comparing that to the uh uh
+say the trend uh index which was
+launched uh around 25 years ago um you
+see much better performance there. So my
+guess is that most trend followers today
+are medium to long-term, but you will
+see big differences between even medium
+and long-term from time to time. And
+this year in particular, not something I
+would have necessarily looked for uh
+every year, but this year I have noticed
+that medium-term models have really
+struggled relative to even short-term
+models and the long-term models. Um so
+that's something to be aware of uh for
+sure. So I would recommend medium to
+long-term and uh but but actually
+diversifying your look you know having
+many different look back periods to to
+make it more robust. I wouldn't optimize
+single markets uh for with specific uh
+look backs. I think that's a bit of a
+dangerous game. And um and then just
+pick a range or a cloud of different uh
+trading speeds. Uh that's probably a a
+safer way, but it does require you know
+uh hard work uh technology to to to do
+it for you. Uh number crunching uh and
+and somewhat maybe more capital in order
+to deploy all of these different time
+frames uh on a portfolio. That's the
+challenge and that of course is what
+people pay um professional managers to
+do. But if they want to try it
+themselves, they um they do need to
+ensure that they can get enough um
+diversification also in terms of markets
+uh so they don't end up with too much
+concentration um when when they trade.
+&gt;&gt; I got it. So I I I think I I did not
+articulate my question properly. One of
+the things was so while uh when you say
+something is medium-term or short-term
+the granularity of data that you're
+looking at is a daily data. Let's say
+you can have a daily data and then you
+look you have a look back of 10 days or
+50 days or 100 days but then do you go
+below a daily uh time frame in terms of
+the granularity of data that you're
+looking at or would you stick with
+something which is daily and then
+greater than daily. If if you're a
+medium to long-term, you would you would
+use daily data only. There's no point in
+being medium to long-term and look at
+intraday data. It makes no difference.
+Um if you're a short-term manager and
+your holding period is, you know, say
+less than a week, you probably look at
+intraday data in order to get any kind
+of signal, right? So, so yeah, I think
+th those two things uh really will
+depend on your um you know, what holding
+period you're looking to to have. Um so
+um but as I said short-term um trend
+following or short-term trading um is um
+again we have all different definitions
+of that. In my view maybe short-term is
+is less than two weeks holding but for
+some people short-term is less than one
+day holding. So it's kind of difficult
+to uh to generalize uh about that. But
+the industry is really be has been built
+on um people using daily data. Uh people
+generally holding uh positions for you
+know 3 months up to a year on average.
+Uh sometimes of course we can hold
+positions for multiple years if the
+trend continues. Uh for sure like gold
+uh gold probably has been a long
+position with trend followers for a
+couple of years by now. Um and a few
+years back we saw short fixed income
+markets or short bond markets being a
+position that was held probably also for
+a couple of years. Um or even cocoa uh
+people might remember Coco from the
+beginning of 2023 into 2024 and all of
+that. So so this is I mean this is where
+trend following excels and that is when
+you get these very long-term trends
+because they're going to end up paying
+for all the small losses you have along
+the way. Uh this is also why I think
+that being shortterm
+makes it harder because how are you
+going to make a lot of money if your
+holding period is less than 24 hours? Uh
+unless you use a lot of leverage of
+course that brings me to the point of
+leverage. So typically uh on the
+portfolio level how do you measure your
+leverage and um what are those metrics
+that you look at on a uh you know that
+you keep keep your eye on in terms of
+how much leverage is uh because you're
+trading futures at the end of the day.
+So how do you decide your leverage and
+how do you manage that?
+&gt;&gt; I think this is a little bit different
+from firm to firm uh in terms of how
+they uh apply it. Um and um I mean at at
+our firm we use value at risk as the way
+we we monitor risks. Um we can certainly
+calculate which we do the notional level
+of our position. So for many people who
+come from the equity world they'll be
+more familiar with are you 200% long or
+are you 500% long or you 50% long. But
+when you trade commodities and and you
+know oil and corn and and all of these
+things, it really doesn't make a lot of
+sense to talk about notional leverage. U
+so we would rather look at what the
+expected daily volatility would be for
+each position. Um and we can then manage
+that both on a on a position by position
+level. So you have a maximum of how much
+you're willing to risk in any one
+market. And if the market gets more
+volatile, you have to reduce that
+market. But also, you should do it on a
+portfolio level. You should aggregate
+all of these things. You should take
+into account the correlations between
+your positions on a daily basis. And in
+and the way we do it is we put on a
+maximum as well uh on those uh so that
+we we feel we have some level of control
+with the expected volatility of the
+portfolio. Now sometimes of course even
+the expected volatility will be breached
+right and that's completely normal um
+but you don't want it to be breached too
+many times in a year because then
+there's something wrong with the way you
+measure uh your your um expected
+volatility I think so but I'm sure other
+people do it differently now one and
+then maybe that may be very relevant to
+to your audience um which I'm not that
+familiar with but of Of course, the uh
+other school of of thought in our world
+is that you only really manage your risk
+at the point of entry uh from a sizing
+point of view. So you you once you once
+you get a new signal um you would
+calculate how many contracts to trade
+and based on where the price is and
+where your stop loss would be and you
+can then calculate how many uh percent
+you're willing to to risk uh which
+obviously should be a very small number
+in in my in my opinion. Um but then you
+kind of leave that uh position. Um you
+just leave it and you kind of accept the
+fact that the volatility to increase uh
+it could decrease for that matter as
+well. But you have your protective stop
+and of course this is a much uh easier
+way to manage risk. uh you need to
+understand it well of course and the
+open risk uh you know can be significant
+of course because in some markets if you
+have a massive move uh in the direction
+of your of your position you might
+initially end up making a lot of money
+but unless your stop losses are moving
+uh in in you know in sync with so to
+speak the the where the market is
+heading you may end up with very large
+open risks uh in your portfolio. So
+that's something you need to uh also be
+aware of. And this is something we talk
+a lot about on on the podcast. We have
+different opinions uh different biases.
+Uh some people prefer to to use the
+classical way with a stop-loss and and
+not touch the trade during the uh the
+lifetime of the trade. Um we come from a
+slightly different school of thought
+where we think we you you should manage
+your risk on a daily basis and adjust
+your positions. The great thing about it
+uh Sandep is actually that both things
+work. And and I think this is a
+testament to the to the robustness of
+the underlying strategy that you can use
+two completely different ways of
+managing risk and you can still over
+time uh get a positive uh expected
+return. Um and a uh an experience where
+very few managers uh I can't really even
+think of one that I would call a true
+established manager has blown up. Yes,
+we can take on some losses and we can
+have deep draw downs. Um, and some
+people of course will call it quits
+during a draw down, but I don't
+necessarily regard that as a blow up as
+you would see otherwise in other
+products where you basically end up
+losing all your money. I I can't I can't
+think of of a strategy that has done
+that except
+if they use excessive leverage. And so
+that is something that that we argue
+that you should never do. um because
+leverage is is really a two-edged sword.
+It's great when it goes in your favor um
+but it is uh dangerous in if you apply
+it um and it goes against you.
+&gt;&gt; So is there a ratio that you generally
+follow or not you in a sense in the
+industry in terms of a multiplier
+leverage multiplier is there a number
+that you could share? It's difficult to
+say because when you again when you look
+at the notional leverage of a CTA
+portfolio, I would say this is very
+generalized by the way. I would say uh a
+when you just calculate the notional
+leverage of a CTA portfolio, um let's
+just say it is a system or a portfolio
+that annualizes say a 20% annual
+standard deviation. So kind of healthy
+risk level, not not crazy risk, but but
+healthy volatility.
+I think you could easily see um at the
+low on the low side uh something like
+five times notional leverage, but but it
+could easily go up to 15 times notional
+leverage um when you have positions on
+especially in short-term interest rates
+of some size because there the contract
+size is so big. But if you have a stop
+or if you have another way of managing
+the risk, it doesn't mean that your
+position necessarily is equally risky.
+But it just means that notionally uh you
+have a lot of exposure on um and that's
+why we don't find it that helpful. Some
+people even look at what what we would
+call as the margin to equity meaning how
+much margin do you have to put up with
+the futures broker to have all your
+positions on. Uh and here you can see
+margin ratios from you know 10% at the
+low side and and even up to 40 45% on
+the very high side. Again uh very
+difficult to I would say manage risk
+based on just um margin to equity but
+it's a way to express for sure uh the
+leverage in in in in your strategy.
+&gt;&gt; Got it. Thanks. So uh talking about it u
+you know one of the recently I don't
+know if it was recent but I remember uh
+in one of your episodes I don't know I
+don't remember the guest but uh the
+point that was being made was u exits
+are more important than entries and uh
+I'm not sure if you remember I I I
+thought you know if you could help me
+understand what did you mean when you
+say exits are more important than
+entries especially in a trend following
+context. Yeah, we've brought it up a few
+times. I think most recently it was
+actually Dave Drews that may have
+brought it up uh in his conversation uh
+on the podcast, but um I have used it a
+lot actually over the years and uh of
+course uh the first people will say well
+no the entry is most important because
+you need to get into the market before
+you can even talk about an exit. And of
+course that is true. So uh let's take
+that for a given uh that you take all
+your entry signals when they come. The
+reason why I tend to say that the exit
+is more important than the entry is for
+two reasons. One is that I think you
+mentioned these different types of trend
+following system. Moving averages versus
+breakout versus time series momentum
+versus uh price breakout. I I would I
+would guess that a lot of these
+different methodologies tend to identify
+the entry point more or less at the same
+time. Sometimes a little bit
+differently, but but generally speaking,
+they will pick up a new trend more or
+less at the same time. Either the market
+has a V breakout, the moving or the
+moving averages crosses or something
+moves once the momentum in a certain
+direction starts to to appear, it's
+going to get picked up. So this is why
+I'm saying well whether you use moving
+averages or volatility breakout it's not
+that important you're going to get into
+that trade uh either way. The reason I
+then go and say well the exits might be
+more important is that the exit will
+then define how much of that trend did
+you capture.
+uh and there you can say that uh
+sometimes you have great trends to begin
+with and you have a lot of you build up
+a lot of open profits uh in that trade
+but of course it's not a profit until
+you booked it meaning until you've
+exited that trend and there it really
+depends on how quickly is that uh
+reversal happening. So uh if there's a
+quick reversal then clearly you need
+something that is quick to pick up uh
+that here you need to exit. If it's a
+slower reversal, maybe it's not that
+important. So, of course, it's a little
+bit cheeky to say that the exit is more
+important than the entry. Um, they're
+both important, but that's what I mean
+by it, that sometimes
+the this the exit can somehow better
+capture that open profit. Um, and and
+and you know, but it's not a it's not a
+scientifically uh based argument. It's
+more observations that you can see that
+that and the final thing I would say
+about it uh is that one thing I've
+noticed and and that's very um also
+discussed in our industry is why is it
+that CTAs or trend followers tend to
+make most of the money on long-sided
+trades when markets go up and of course
+you could argue well actually most
+markets tend to go up more time more of
+the time than they go down and that's
+true for some markets for
+But you could also think of it as how
+markets turn and because now we are into
+this fear and greed uh and human
+behavior.
+And often when markets are in a really
+uh strong bare market, uh they tend to
+turn uh more quickly than if they are in
+a very long bull market where it can
+take, you know, weeks or months for
+people to kind of give up on that trade
+and accept that maybe it's time for a a
+correction um to the downside. And I
+think this is actually something to do
+with human behavior. It also has
+something to do with central bank policy
+because if the if the equity markets is
+in a bare market, they'll come in and
+support it. We've seen that uh over the
+last 20 years or so. So that obviously
+makes the the V-shaped recovery as a
+term uh more relevant uh today than it
+was maybe 20 years ago where central
+banks didn't really uh worry too much
+about uh market movements. Um so so
+that's another thing to be uh to be
+aware of uh in terms of speed of of your
+your uh turns and exits. Yeah.
+&gt;&gt; So since you spoke about this whole
+positive drift in many assets um have
+you or are there trading systems where
+we trade only one side in the sense you
+know because the back test or historical
+data suggests that a given asset doesn't
+really go down much. So or whichever way
+it is or doesn't go up much. It's
+usually downtrending or it'll be
+uptrending more often than not. So does
+it make sense to have certain assets
+trade only one side and you don't trade
+the signals which are on the other side.
+Does that happen? Is that a part of
+design for some assets?
+&gt;&gt; Yeah. Well, I think it's designed for
+some managers that you could have a long
+bias design. You could make it more hard
+to get short signals. You could
+obviously eliminate short signals. You
+could cap uh long exposure in equities
+if you don't want to get too much
+exposure in equities because people that
+invest with you may have equities
+themselves. There are all sorts of way
+you can you can skin the cat so to
+speak. I don't think that you should do
+it. And the reason being is that nobody
+knows the future just because we've had
+10 years of of equity markets moving
+higher. If you had asked someone um back
+in the mid70s um and said, "Oh, we're
+going to not trade the short side of of
+equities." it wouldn't have been a great
+um period to be a trend follower for
+sure. So I would be cautious about
+putting too many uh you know limitations
+too much opinion. I think the strength
+of trend following is the fact that we
+don't predict anything and I think this
+is still the reason why trend following
+works. It's not it's it's a
+non-predictive strategy and it but it's
+also an an adaptive strategy. So should
+markets go down a lot okay we'll have
+more short exposure than long but should
+markets have you know very long bull
+runs like equity markets generally
+speaking we'll be more long than short
+and that's perfectly fine but we are not
+here to make any predictions we have no
+crystal ball um we don't believe anyone
+can uh you know forecast the future so
+so uh just follow the price that's kind
+of our philosophy um and then the rest
+really takes care of itself
+&gt;&gt; got Since we were talking about exits,
+are there strategies where we enter a a
+trade based on a breakout or a moving
+average crossover, but we exit it with a
+different set of criteria. So is that is
+that a design that you have observed
+somewhere?
+&gt;&gt; Yes, I I would say that that's probably
+uh something that managers build in that
+there could be other uh things that
+trigger them to to exit. Um it's also
+something I would say we do incorporate
+uh at done that we don't have to
+necessarily wait for a reversal signal
+uh to reduce risk. You probably would
+wait for a reversal signal to enter a
+new tri a new short position if you were
+long for sure. Um but to reduce risk um
+I don't think it's unusual to have other
+triggers. I mean for example a stop in
+itself is uh not really a signal. It's
+that's a riskmanagement tool. So I think
+that would be one example where you
+would use different rules to to reduce
+risk. Um and I think that's perfectly
+valid. Uh for sure
+&gt;&gt; and and there would be a period of no
+trade as well then. So so let's say yeah
+&gt;&gt; there could be. So if you at the very
+extreme only had one system and it was a
+moving average crossover system, you
+would either be long or short all the
+time. But people don't use just one
+parameter set for say moving averages.
+uh I would uh hazard to to argue. So
+therefore you can build up exposure
+using many smaller entry points and you
+can also reduce exposure and get close
+to flat um in in that sense. So I don't
+think it's unusual for managers to have
+very little exposure but to be totally
+out you would probably have to have then
+a breakout model um with a neutral zone
+which you could have like a Ballinger
+band model for example that would have a
+neutral zone. On the other hand, then
+you would only have one uh time frame,
+which would be unusual. So often we have
+more than one time frame. Often one of
+them uh the shorter term one would
+either be long or short and then the
+longer term uh version would would
+amplify that long or short exposure at a
+later stage. U but you know there's
+nothing wrong. I mean being being
+neutral is also a signal. It's also a
+position in my opinion and you don't
+have to be involved in in every single
+market and clearly one of the um one of
+the uh how should I say um the alphas
+that you could produce essentially would
+be if you had very good detection of
+what is a strong trend and what is a
+weak trend and if you can avoid some of
+those reversals
+not sure how you would uh completely
+avoid them but if you can reduce the
+damage done uh when markets don't have
+strong momentum uh that could benefit uh
+your your your approach to trend
+following um and and I'm sure uh a lot
+of researchers are trying to uh so to
+speak separate the noise from the true
+signals um so so yes
+&gt;&gt; I'm sure we all want clean signals you
+know that we go long and then a trend
+happens and then when we go short but
+life's not that easy so okay
+&gt;&gt; unfortunately
+Unfortunately not. Yeah. Or so u so
+moving on I have a question about draw
+down. So let's say you have you know as
+an example you have 20 markets that you
+trade and there is a particular market
+where your historical draw downs that
+you have seen in data we hitting that
+right now as we speak. So what how do we
+take a call on that uh particular market
+on at that point of time
+&gt;&gt; when you make changes to your either to
+the market universe you trade or to the
+models um you you you you have to do
+that with great care right because again
+we don't know what the future holds. I
+think one of the best examples of what
+you're describing is actually what
+happened with uh Coco as a market. Coco
+for the longest time I can remember
+probably from 2005 all the way to 2022
+or thereabouts was really difficult
+market. It it it kind of range traded a
+lot and uh you as as a trend follower
+you weren't really making money um in in
+a market like that. So you could
+conclude that that would be a market
+that wouldn't be worth continuing to
+trade. But then 2023 and 2024 happened
+um and that market really took off and
+it became the main uh contributor in
+terms of performance in 2024 uh for most
+long-term trend followers. So again it
+goes back to this philosophy about not
+predicting what the future holds. Um so
+if we don't know what the future holds
+uh one philosophy could be and that's
+one philosophy that we actually hold at
+Dawn and that is that we believe that
+all markets has the ability to trend. Um
+we don't know of course it would be up
+or down but we don't see any reason why
+they they they wouldn't have the ability
+to trend from time to time. Now certain
+external factors
+um especially in the financial markets
+can limit their um uh ability to trend
+for a while. And what I mean by here is
+when if you remember a few years back
+when central banks lowered short-term
+interest rates to zero and kept it at
+zero. Clearly short-term interest rate
+contracts didn't really move if you were
+trading too close to the uh to the
+current price. Luckily, there are
+interest rate contracts that looks at
+the interest rate what it would be in
+two years, meaning you could go out a
+little bit further to trade these
+contracts, and that did have some
+movement. Um, but really short-term
+interest rates did not move for a period
+of time. But then comes 2021, 2022,
+um you know, led by the pandemic and led
+by the resurgence of inflation and
+suddenly these short-term interest rates
+were some of the best performing markets
+in the CTA portfolios. So I think it
+proves the the point about not being too
+clever and thinking, "Oh, I know for
+sure which markets are going to trend
+and which markets are not." So be very
+open-minded.
+um and and and don't tinker too much
+about you know with your portfolio about
+um in in a sense let me rephrase that a
+bit better I think trend following once
+you've established your models and what
+you truly have trust in in terms of your
+methodology and so on and so forth it
+really should be a portfolio um that you
+don't impose your own opinions upon so
+to speak you can do that with other
+parts of your portfolio if you think
+trend Equities are going to go up, go
+buy some equities. If you think they're
+going to go down, sell them. But your
+trend portfolio, you should leave to do
+what it do does best. And that is just
+follow the price. And and and it should
+not be influenced um by your personal
+opinions. And I say that to my clients
+as well. And it's very difficult for
+them. they they they find it very
+difficult to not impose uh a view on
+what will happen because they often are
+paid for having a view on many things.
+Um but when it comes to trend following
+I I I would recommend them not to have a
+strong view and leave it just to us to
+add this uh different investment process
+to their portfolio. That's the best
+thing we can do for them. Um, and I
+think that's the best they can do for
+their clients is just leave the trend
+following part as a relatively static
+core allocation. Whether it's 5% or 25%,
+that's clearly up to to them to do their
+analysis to find out. Um, but it's not
+2% in my opinion anymore. Um, it is a
+much more substantial part. And if you
+follow the recent
+um narrative around the financial um you
+know the investment world alternative
+investments are being spoken about much
+more now especially the systematic
+strategies uh big asset managers like
+Fidelity like Black Rockck they're all
+entering this space they're all
+launching trend products in 2025
+and why because they know it's important
+uh I interviewed Black Rockck only a
+couple of days ago and it's coming out
+um in in uh in December that episode and
+they were very bullish in my opinion on
+trend as a uh a useful tool for their
+clients to have in their portfolio and
+that's why they had to launch their own
+so that they can give the the full
+service so to speak and have have you
+know the the full range of products uh
+at hand for their for their clients and
+that's great news even though the money
+may not flow to the underlying managers
+like like Don uh or any of our
+colleagues, but it's great for the
+investors if they get exposure to trend
+for the first time as as a core
+allocation um because it's going to help
+them in the long run or remember Sandy
+that there's never been a white paper
+written that suggested that trend
+following doesn't improve the uh the the
+risk adjusted performance of of any
+traditional portfolio. And that's that's
+you know that's over a 50 year plus uh
+time frame uh that these research papers
+all come to the same conclusion. So
+object objectively speaking trend
+following is a great strategy to have in
+in your portfolio.
+&gt;&gt; Going back to one of the things what I
+understood um from what you said was
+when it comes to draw downs we don't
+look at it at an individual market level
+but maybe at a portfolio level. So if
+you are looking at the draw down, it
+will be the portfolio's draw down and
+not a specific assets draw down. Is that
+correct?
+&gt;&gt; Well, you know, certainly managers when
+we report performance, we obviously
+report performance for the whole
+portfolio and that's what you would see
+um in in in the different databases. So
+when you talk about drawdowns of the of
+a CTA, yes, that what that was for the
+whole portfolio. Now we as managers
+it's our job to ensure that the draw
+down on any one position doesn't get out
+of hand. As we talked about there are
+different ways you can do it. You can
+use stop-loss orders, you can manage it
+using value at risk or other techniques.
+Um so that is our job as risk managers
+um making sure that um that that is well
+controlled. But um if you are trading
+trend following yourself, of course you
+you have the same responsibility to
+yourself to make sure that the draw down
+doesn't or the risk doesn't get out of
+hand in any one market. Um but of course
+you would monitor that uh yourself to to
+uh in order to ensure that you do have
+to look at attribution market by market
+as a manager. Some clients will still
+want to know what the attribution is um
+for the for the manager they invested
+with and that's perfectly fair and
+managers should be transparent about it.
+But other than that, I don't think it's
+it's very useful. And again, going back
+to this philosophy about not predicting
+anything, we don't really worry about
+whether we're going to be making money
+in soybeans um or in in the Japanese
+yen. It it doesn't really matter to us.
+We're not we're not you know we're not
+falling in love with any position for us
+it's just a return stream um that we're
+trying to to build for uh for the
+benefit of our clients.
+&gt;&gt; H interesting. So um so I have another
+question. So let's say you when you are
+evaluating
+a a strategy a trend following strategy
+what kind of metrics do you look at and
+uh you know over years what is that you
+know one or two metrics which kind of
+are holy grail for you in terms of okay
+if these things are in place I'm fine
+with including an asset or I'm fine with
+a given u you know product.
+&gt;&gt; Sure. I mean, first I should obviously
+um tell your audience that I'm not one
+of the quants at Dawn. So, it's not me
+actually evaluating these things. We
+have very talented much more talented
+researchers than me. But but clearly
+when you when you build a model, you
+want to see kind of how it handles uh
+overall in terms of its uh returns, in
+terms of its draw downs, in terms of its
+uh volatility.
+But you you do pay attention I you know
+especially through stressful periods.
+how did it handle certain things? And
+you could even drill down and look at
+specific uh you know uh positions, how
+they evolved during um you know more
+risky uh times in in the market so to
+speak in order to build a comfort level
+uh and also get a feel for how quickly
+it reacts um which can be important or
+how slowly it reacts which can also be
+uh beneficial. So, so yes, you look at
+its, you know, it's it its returns, you
+look at its draw downs, um, and its
+volatility. I know there's nothing real
+new in in what I'm saying, but but these
+really are the metrics. Then people will
+have favorite metrics you know whether
+it's uh you know a sharp ratio or satino
+ratio or um you know there there are
+different a number of different metrics
+you can you can look at but I think deep
+down raw data is pretty uh tells you a
+lot uh in terms of just uh how how the
+returns were uh were were done and also
+the the path uh of how those returns uh
+stacked up. I would probably be more
+cautious about looking at average
+returns. They they don't really tell you
+how the ride was. And if there's one
+thing that people complain about trend
+following is of course that it's not an
+it's not always an easy ride to hold on
+to. So uh and and then of course
+sometimes people will blame managers for
+trying to smooth out the rides with by
+adding bells and whistles to their to
+their um uh model and that is going to
+hurt the model long term and for some it
+will uh for those who are very good it
+shouldn't. So there are different things
+uh but ideally if you can I I guess it
+comes down to some extent to to the risk
+adjusted returns right I mean um if you
+were just going to look at at that but
+people will have different preferences
+what they mean by risk adjusted returns
+uh there's even something called the
+serenity ratio which is much more
+complic complicated
+um I think maybe we wrote a blog post on
+top traders unplugged uh about the
+serenity ratio they can search and it is
+an interesting ratio because it takes
+into account the path of those returns
+um and how much pain you really had to
+go through in order to to generate those
+returns. So that might be something that
+is kind of the the gold standard to some
+extent but but but it all it's also
+complicated to calculate um and
+therefore uh it may not be something for
+that everyone would would gravitate to.
+&gt;&gt; Got it. So talking about draw downs I
+have a question about trading
+psychology. I know uh as an individual
+trader trend following is difficult.
+It's difficult on your gut because it
+hits you and you you take many small
+losses and you wait for that large trend
+to happen. But then as a manager is that
+do you go through a similar feeling when
+you're managing other people's money? Uh
+is that uh equally gut-wrenching as um
+you know managing your own money? Well,
+first of all, I would say that um at
+least I can I can say that uh from from
+from our own perspective at Dawn. I
+mean, we have a significant amount of
+our own uh money invested alongside our
+clients. So, so you know, always make
+sure that if you choose a manager that
+they are invested completely uh
+alongside yourself, right? Um I mean, so
+there there are two I think as a manager
+there are two things here, right? One is
+of course that we uh we feel the draw
+down on on our own investments. We feel
+the draw down on behalf of our clients.
+We are the ones who uh talk to them.
+It's our job to also make them uh more
+comfortable doing these draw downs. It's
+our job to uh make sure they understand
+that this is a completely natural part
+of a trend following journey that you're
+going to be spending most of your time
+and I really do mean most of your time
+in some level of draw down. Uh which is
+the weird thing and I think even once I
+saw an article talking about a stock
+like Amazon most of the time like 95% of
+the time it's below its most recent
+all-time high yet we all know how well
+that stock has done. It's a little bit
+the same with trend following. We spend
+most of our time not at a new all-time
+high but somewhat below that. Um so so
+that's important. But here's to answer
+your question. Clearly when you've been
+doing it for a very long time with
+decades you do feel more comfortable
+having these drawdowns along the way.
+It's not to say that it feels easy and
+you don't pay attention to it and all of
+that. Um and sometimes it can feel a
+little bit more um it you know that you
+can feel the butterflies in your stomach
+a little bit more than than usual. Um
+but we also have a lot of faith in in
+what we do. Uh we know we've done our
+research uh thoroughly. We know we've
+got you know in our case 50 plus years
+experience with these strategies. Um but
+one should never get complacent and it
+would be weird if you didn't feel some
+level of discomfort uh if your money if
+you'd lost 25% um in in 6 or 8 months of
+course but the thing is though that
+trend following has so much evidence on
+its side in terms of coming out of draw
+downs and and making new all-time highs
+and building uh this positively sloped
+uh equity curve and I think that should
+be the bigger takeaway. way um for sure
+but never be complacent in anything that
+would be my my advice.
+&gt;&gt; Absolutely. So I have a related uh but a
+slightly different question. Let's say
+if there is an asset which has a very
+limited historical uh data to itself. It
+could be bitcoins or it could be
+something else. So how do you deal with
+it and at what point would you decide to
+include an asset like that into the
+portfolio? I I think with Bitcoin as an
+example um that's probably been around
+for what 15 years now. I I think that
+probably first of all I think a lot of
+managers didn't start to include it
+until there was a futures uh that they
+could trade um that had some liquidity
+and and all of that stuff. Now of course
+the price data if you looked at the cash
+uh Bitcoin would have been longer but in
+order to build confidence in in an
+instrument um you do need some level of
+data. Now, of course, people could argue
+that, well, if it's a market that has
+high volatility and it's going to move,
+then by definition, it's going to work
+fine for trend following. That may be
+true. However, I think it's also our job
+to um you know to run proper research uh
+and tests before we just include a
+market in in the portfolio. But it will
+depend a little bit from firm to firm
+how much data they require. Clearly, the
+more data we can get the better. Um but
+I think it's a little bit different um
+between manager by manager as to how
+little data they will have. But you need
+a few years of data if you want to make
+an an a real analysis on its potential.
+Um but as I said I've also heard people
+who just said well you know it's going
+to move and that is the you know that's
+what we need from any market as a trend
+follower. So, I'm going to, you know,
+I'm going to trade it because now it's
+liquid uh and I and I can trade I can
+get in and out uh when I want. That that
+could be another argument.
+&gt;&gt; Okay. So, since we were talking about uh
+Bitcoin and crypto, is that now a usual
+part of the larger CDA portfolios?
+&gt;&gt; For some, not for all. Uh there are
+still some regulatory restrictions
+depending on what type of uh investment
+vehicles you run. Um so for example in
+usage funds in Europe uh as far as I
+know you cannot include it and so some
+managers um if they have usage funds
+they may not include it because then
+they can't trade all accounts in the
+same way uh using the same market
+universe but a lot of CTAs today trade
+um uh Bitcoin and and and other um
+crypto assets and you know as long as
+they can get the liquidity they need um
+you know it's a perfectly fine acid to
+to trade.
+&gt;&gt; Got it. Um I have another question and
+this one I since I listen to a lot of
+what you discuss every week, we we talk
+about market efficiency and how that
+could impact uh trend following and then
+you know I've generally heard you saying
+that yes you know there's a there will
+be academics who talk about efficient
+markets but we've seen trend following
+work all these years but I have a
+slightly more nuanced question. Have you
+seen uh the efficiency of trends
+reducing consistently over years? So for
+example um you know a given trend
+strategy would deliver X u a decade back
+but that X is kind of slightly reducing
+across over years maybe because markets
+are becoming more efficient and the and
+that particular asset or a product is
+not trending as much as it used to. So
+that that's my question. Have you
+noticed something like that across uh
+assets?
+&gt;&gt; Yeah, I think a lot of people actually
+think about it. It's a great question.
+Um I think a lot of people also um that
+gotfield would say well we now have
+access to um you know second by second
+data, everyone can see it. Um so many
+more people um you know invests and
+therefore markets must be more
+efficient. And that might be true, but
+it doesn't change the fact that markets
+are only efficient part of the time.
+Sometimes they're not very efficient,
+and that's when you have these big
+market moves. So again, it comes back to
+the strength of trend following, namely
+being adaptive. And uh so I think that
+we can go through periods of time and it
+depends of course of of how you define
+efficiency. If efficiency just means
+that there is a good um you know balance
+between buyers and sellers. So the
+markets don't really move. Yeah, we'll
+go through some of that um from time to
+time, but we also can observe that
+markets do have big moves from time to
+time and and so um so it's very hard for
+me really to to be convinced that
+something has fundamentally changed. I I
+don't know that it has. I do think
+though that during the 2010s
+uh not all of that decade uh there were
+times where central banks were pretty
+good at keeping both global growth and
+global inflation levels pretty stable.
+That stability I think was more
+challenging for for trend followers to
+deal with. Um and so if you didn't have
+all the commodities in your portfolio,
+you could have struggled um you know
+with that. Having said that, then
+following that difficult period, we had
+probably one of the best trend following
+years um we've had in the last 25 years,
+which was 2022. So so it depends on how
+how long a period of time you define
+these um observations over. Um so I I I
+wouldn't say that just because there are
+more participants and and information is
+readily available to everyone that
+markets have become more efficient. They
+are they're efficient part of the time
+they're unefficient um or inefficient um
+you know at other parts of the time. So
+that's what I like about I actually like
+the the um maybe more the Andrew Low
+definition of the adaptive market
+hypothesis.
+Um but there are other people who smart
+people who talk about the the impact of
+positioning the impact of flow uh and
+all of that you know much more
+complicated stuff. Um I think at the end
+of the day for me at least it comes down
+to the fact that information uh will be
+um will be known but it may not be that
+people react to that information at the
+same time. And that really is a big
+driver of why trends form uh and build
+up. Uh also because some people can't
+react quickly. Big institutions, they
+certainly don't react as quick as
+individual investors uh or even the pot
+shops. Um they can react much more
+quickly. So I'm I'm optimistic that
+trend following will continue to work.
+Um you know because it's deep down a lot
+of it is based on on human behavior and
+how we interpret news uh differently.
+Got it. And it's a related question that
+comes to my mind. The idea of crowding
+in a specific asset, does it negatively
+affect trend following in that asset or
+it kind of amplifies the trend? How do
+you look at that?
+&gt;&gt; I think you could argue both. I mean, it
+it hurts when people uh rush for the
+exit and there's only a small narrow
+time window to get out. That's where
+crowding hurts. And that's I think what
+people think about when they think about
+crowding is they use that as a kind of a
+negative term. Um but for trend
+following if more people buy the same
+market actually it amplifies as you
+rightly put uh the trend. So I think it
+goes both ways. Maybe we can go back to
+this point about the exit being more
+important than the entry. So if you have
+exits that are not obvious and not where
+everybody else is running for the door,
+maybe that's where the uh the skill uh
+of the manager uh might might you know
+show up more more clearly.
+&gt;&gt; Got it. So I I think we're coming
+towards you know close of our time
+window but I have a couple of questions
+more. uh we talking about uh have you
+noticed you you did say that you're not
+a part of the quant team which looks at
+the strategies but uh has machine
+learning made any inroads in terms of
+trend following or at a fundamental
+level it continues to be as simple as
+you know perhaps what Don Chain started
+with
+&gt;&gt; well I think you you used the right word
+you didn't use AI you used machine
+learning and I think machine learning is
+something we've all been familiar with
+and have all used and I say the the
+royal or uh you know that we we've all
+uh used in meaning the larger firms in
+our industry. We're certainly familiar
+with machine learning techniques and we
+certainly apply some of that I'm sure
+for most people because it goes into
+different parts where you need to be a
+little bit more sophisticated uh um
+perhaps. So I think machine learning for
+sure AI um some people uh would would
+would use that. Um I we don't do AI at
+Don. Uh let me put it like that. We we
+we know exactly why um and can calculate
+uh our exposure in every single market
+um using very transparent uh rules. I'm
+more skeptical about the use of AI if AI
+means that you're not entirely sure why
+you have the position on but just
+because some AI has um you know
+magically worked out that you should be
+long um live cattle I mean that may be a
+good position but if you don't know why
+you're long live cattle I don't think
+you should go down that route so I think
+it's a little bit of a question mark uh
+in terms of how quickly quote unquote AI
+uh will be adopted But for some people
+it's already part of their um their
+strategy. Um but I think for many people
+it will take longer to get comfortable
+with the notion of that. Maybe AI is
+more applicable to short-term trading
+where
+perhaps there are patterns that can be
+identified only by using those kind of
+techniques. But as you rightly put, I'm
+not an expert. I'm not a quant. Um but I
+think we we are certainly on our side
+much more cautious and skeptical about
+the value but maybe also because we we
+continue to find uh good opportunities
+um just using more traditional and fully
+transparent rules that we understand and
+that we can uh you know essentially make
+sure are working the way they're
+intended to work.
+&gt;&gt; Got it. Since you brought up AI, I have
+to ask you what's your individual take
+on all that the buzz around AI and this
+is not a trend following question. This
+is more of a general macro observation.
+Uh how do you see it? Do you think it's
+a bubble or uh you know this is
+something which is really groundbreaking
+and it's going to change the world. How
+do you see it?
+&gt;&gt; I mean there's no doubt that it's
+groundbreaking. Uh and um the question
+is then just you know how do you value
+it? Um and and and you know and and I'm
+really no expert in whether Open AI is
+should be valued at at what its level is
+or or half of that or or a tenth of
+that. I have no idea. Um I I do think
+it's an interesting um technology. also
+think it's a dangerous uh technology um
+especially if we get to the point where
+AI can kind of develop itself uh
+generative AI which is probably coming
+at some point. There's a lot of
+different um opinions about how far we
+are with this. Is it as groundbreaking
+as when we invented electricity? I I
+don't know. But will it shape our
+future? Uh for sure. But this is again
+the beauty and I I hate to sound like a
+broken record but the beauty of AI and
+the impact on markets is as a trend
+follower we don't really need to worry
+about it right if we were a trend
+follower trading stocks like you know
+Nvidia which we don't by the way I
+should say we don't trade any individual
+stocks but if we were we couldn't care
+less about whether they're beating their
+earnings or not if the price is going up
+we're going to be long if the price is
+going down we're going to be short So
+this is really why I'm so excited even
+after three and a half decades in the
+industry that it's such an applicable
+strategy especially when you have things
+coming to the world that nobody has seen
+before. What's a better strategy uh to
+deal with that is that of course is a
+non-predictive strategy. So yeah I'm
+excited.
+&gt;&gt; Absolutely. So I I I think that's a
+great note to end this conversation on
+and u Neil thank you again for your
+time. I'm sure uh and I hope tw you know
+December which is still left for the
+year kind of makes up for all that we
+all the pain that we tolerated uh till
+November. So I hope so that the end the
+year ends on a positive note for you and
+uh look forward to have you again with
+us sometime soon. Well, first of all,
+thank you so much for uh the invitation
+again. I I thoroughly enjoyed our
+conversation and um and and appreciate
+what you do to educate um you know, your
+followers around different uh things and
+um yes, a nice end to the year would be
+nice, but again, it's just a calendar
+year. So, uh for me, I'm not too uh I'm
+not too worried about it. Um, but of
+course every time we can put a a
+positive number on a calendar year, um,
+I think a lot of our clients would
+appreciate that and and that's why it
+does feel better.
+&gt;&gt; It does feel better for sure. But I wish
+you all the very best and and again,
+thank you for the invitation and thank
+you for the support of Top Traders
+Unplugged and listening to our
+conversations. You clearly had picked up
+a lot of the themes that we we talk
+about. Um, and you know, it's a journey,
+right? So there's no wrong or right.
+It's a journey. and and you're uh you
+know you're doing great in in helping
+educating people. We try to do the same
+uh on our side uh about something we
+truly are passionate about. Um and um so
+those thank you again for for for the
+invitation.
+&gt;&gt; Thank you Neil. Thank you. Thank you.
