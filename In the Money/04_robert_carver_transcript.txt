@@ -1,20 +1,78 @@
-You never fully obviously understand the
-markets, right? A thing that develops
-over time. There are about a hundred
-different ways of identifying trends and
-they all kind of do the same thing. Will
-that extra year of data be sufficient to
-give me more evidence that one strategy
-is doing better than another? The answer
-is no. First thing to say is that max
-draw down is an absolutely terrible
-performance metric. I trade basically
-pretty much every liquid future in the
-world. There's a general rule like
-things that are uncorrelated become more
-correlated in crisis events.
-&gt;&gt; [music]
-&gt;&gt; Rob, thank you so much for taking time
+================================================================================
+IN THE MONEY — Episode 04
+================================================================================
+
+Guest:    Robert Carver
+Title:    Systematic Futures Trading, Robustness, and the Danger of Overfitting
+Recorded: Late 2025
+
+ABOUT THE GUEST
+Robert Carver is an independent systematic futures trader, investor, writer,
+research consultant, and visiting lecturer at Queen Mary University of London
+where he teaches systematic trading at the master's level. He began his career
+at Barclays trading exotic interest rate derivatives, but quickly realized that
+discretionary, high-stress floor trading wasn't where good decision-making
+thrived. In 2006, he joined AHL (Man Group), one of the world's largest
+systematic hedge funds, where he built a systematic global macro strategy and
+later managed the firm's entire fixed income portfolio — roughly 40% of the
+risk of a $30 billion fund. Since 2013, he has traded independently, running a
+fully automated futures portfolio across ~250 instruments based on systems he
+personally designed. He is the author of several influential books on
+systematic trading, including "Systematic Trading," "Leveraged Trading," and
+"Advanced Futures Trading Strategies." His approach emphasizes simplicity,
+robustness, and statistical rigor over optimization.
+
+TOPICS COVERED
+- From computer science dropout to accidental trader at Barclays
+- Exotic interest rate derivatives: mentally challenging, not intellectually stimulating
+- The transition from Barclays to AHL
+- Managing your own money vs. a $30 billion fund
+- Start simple: one market, one rule, then build
+- 100 ways to identify trends — they all do the same thing
+- The myth of finding the "right" trend system
+- Why overfitting your entry/exit rules is dangerous
+- Time frames: trends work between weeks and a year, then mean reversion
+- Cost-awareness: S&P vs. milk futures
+- 60% trend, 40% carry: portfolio composition
+- Mean reversion strategies: long-term and short-term
+- Max drawdown is a terrible performance metric
+- Statistical significance and the evidence problem
+- "Things were different after 2008" — why this framing is wrong
+- Diversification: square root of N, correlation, and 250 instruments
+- Overnight drift: real but too expensive to trade in isolation
+- AI and LLMs in trading: an emphatic no for production code
+- Tax arbitrage: stamp duty, spread bets, and India's STT
+- Active vs. passive: costs, ETFization, and implications for trend following
+- April 2025: correlation spikes and the limits of diversification
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[COLD OPEN — Key moments from this conversation]
+
+  "You never fully obviously understand the"
+  "markets, right? A thing that develops"
+  "over time. There are about a hundred"
+  "different ways of identifying trends and"
+  "they all kind of do the same thing. Will"
+  "that extra year of data be sufficient to"
+  "give me more evidence that one strategy"
+  "is doing better than another? The answer"
+  "is no. First thing to say is that max"
+  "draw down is an absolutely terrible"
+  "performance metric. I trade basically"
+  "pretty much every liquid future in the"
+  "world. There's a general rule like"
+  "things that are uncorrelated become more"
+  "correlated in crisis events."
+  "[music]"
+
+
+--- INTRODUCTION ---
+
+
+>> Rob, thank you so much for taking time
 out to talk to us. You know, when I
 think about systematic traders or
 investors who have had an influence on
@@ -37,7 +95,7 @@ stress, floor trading wasn't where deep
 thinking and good decision-making
 thrived. That realization led him to
 quantitative and systematic trading. And
-in 2006, he joined EHL, one of world's
+in 2006, he joined AHL, one of world's
 largest systematic hedge funds. During
 his tenure there, Rob built and managed
 strategies that went well beyond
@@ -70,7 +128,11 @@ was your idea of markets? Did you even
 think about uh that you would end up
 making a career in stock markets? What
 was it then?
-&gt;&gt; Oh, no. Absolutely not. I mean, so I
+
+--- AN ACCIDENTAL PATH TO TRADING ---
+
+
+>> Oh, no. Absolutely not. I mean, so I
 actually started my my first degree I
 started was in computer science. So I
 was a proper nerd if you like. Um and
@@ -135,13 +197,18 @@ years break the last 20 odd years u
 getting on for 25 years that's what I've
 been doing so so the world works in
 mysterious ways
-&gt;&gt; it does it sure does and what what a
+
+--- EXOTIC DERIVATIVES AT BARCLAYS ---
+
+
+>> it does it sure does and what what a
 lovely accident That was so generally
 you you said that you didn't like the
 environment at Barclays, the way things
 were being treated. What was what kind
 of trading was it at Barclays?
-&gt;&gt; Um so I was working um for Barclay's
+
+>> Um so I was working um for Barclay's
 investment bank which at the time was
 called Barclay's Capital and I was
 working in on the exotic interest rate
@@ -184,7 +251,11 @@ and just wanted to go home and go to
 bed. So so yeah it wasn't something that
 suited my my kind of talents or the sort
 of life I enjoy really.
-&gt;&gt; So so by the time you you spent let's
+
+--- DEVELOPING A BROADER MARKET UNDERSTANDING ---
+
+
+>> So so by the time you you spent let's
 say a few years at Barclays what was
 your sense of markets in general? So,
 where were you? You you started off as a
@@ -269,6 +340,9 @@ normally actually detrimental to think
 outside that and to think kind of big
 wide thoughts because it would just
 distract you from your core job.
+
+--- FROM BARCLAYS TO AHL ---
+
 So at what point would you say you had a
 a more meta better understanding of the
 broader markets be it and different
@@ -279,7 +353,7 @@ late 90s um you know during the the tech
 bubble um that that I'm obviously not
 everyone's old enough to remember now
 but it was a big deal at the time um and
-when I started at ManHl I was then
+when I started at Man AHL I was then
 trading the first product I launched was
 was an equity index uh strategy so you
 know um I think most people in finance
@@ -292,9 +366,9 @@ the most popular, you know, so at the
 end of the news, they don't tell you how
 the um the kind of Barclay's government
 bond index has done, do they? No, they
-tell you whether the foots in in, you
-know, where the foots is up or down or
-the nifty or you know, the S&amp;P or
+tell you whether the FTSE in in, you
+know, where the FTSE is up or down or
+the nifty or you know, the S&P or
 wherever it is that you're living. Um so
 I think everyone understands the equity
 markets. Um but the because I then was
@@ -340,11 +414,15 @@ time to think which is very hard to do
 when you're faced with the day-to-day
 pressures of you know managing other
 people's money.
-&gt;&gt; I get that.
+
+--- MANAGING YOUR OWN MONEY VS. A FUND ---
+
+
+>> I get that.
 So um so I have a question I would you
 said you manage your own money and how
 how different um is managing your own
-money versus what you were doing at AFL
+money versus what you were doing at AHL
 and uh because it's your own money the
 psychology of managing your money could
 be different I'm assuming compared to
@@ -352,7 +430,9 @@ managing someone else's money or a fund.
 Um well the most obvious difference is
 there's a few zeros missing off the end
 of the numbers, right? So
+
 [gasps]
+
 um and um I guess there's a bit like it
 feels worse to lose
 um like $10,000 of your own money than
@@ -407,7 +487,7 @@ um, is I mean, it's not, you know, don't
 get me wrong, it's not still not easy,
 but it gets easier. I mean, I've been
 trading my own money for 12 years and um
-now I barely look at my P&amp;L. Um if you
+now I barely look at my P&L. Um if you
 ask me how much money I've made this
 year, I could guess and get be kind of
 probably within 5% but I couldn't tell
@@ -420,7 +500,7 @@ what my performance was like because it
 was something that we used to look at
 and obsess over and perhaps obsess over
 too much as well because um you know
-just looking at your P&amp;L doesn't make it
+just looking at your P&L doesn't make it
 go up, you know, just worrying about it
 doesn't make it go up. Um, and in fact,
 if you're trading systematically, it can
@@ -471,7 +551,11 @@ off as they say. Now, when you are
 managing your own money, do you have
 people or you know, you reflect more or
 how do you manage that part?
-&gt;&gt; Yeah, it's a really good point. So, um I
+
+--- THE ECOSYSTEM: REPLACING OFFICE COLLEAGUES ---
+
+
+>> Yeah, it's a really good point. So, um I
 guess the main thing I miss perhaps the
 only thing I miss about about kind of
 well apart from the money obviously like
@@ -531,7 +615,11 @@ yeah, it's not quite the same as being
 able to just turn to somebody and say,
 "Hey, you know, what do you think about
 XY Z?" But, but it's pretty good.
-&gt;&gt; Got it. Got it. I I think you'll build a
+
+--- FIRST STRATEGY: START SIMPLE ---
+
+
+>> Got it. Got it. I I think you'll build a
 far bigger, larger community. uh which
 which extends all over the globe today
 than what it was when you were with AHL.
@@ -592,13 +680,15 @@ it more complex. Um, it's not that I'm
 obsessed with trend following or that
 it's the only thing I do. It's just that
 it's a really good starting point.
-&gt;&gt; Okay. So, if I had to double tick on it,
+
+>> Okay. So, if I had to double tick on it,
 so let's say you you you say you picked
 up an asset. Was it an equity index kind
 of an asset or was it some commodity and
 when you designed a trend model on it?
 Um what would be its and rules like
-&gt;&gt; um okay I mean so um the the the
+
+>> um okay I mean so um the the the
 important thing about the first and any
 asset you trade is it's got to have
 certain characteristics. The principle
@@ -612,7 +702,7 @@ people. Um it has to be also has to be
 cheap to trade. You don't want to trade
 something that's too expensive. Um so if
 you in in I mean if you look at say the
-S&amp;P 500 you know if you trade the S&amp;P
+S&P 500 you know if you trade the S&P
 500 as a future or as an ETF it's dirt
 cheap. Uh it's one of the you know the
 most pretty much the most liquid asset
@@ -638,10 +728,14 @@ than other assets. So I' I'd say yeah,
 keep it simple. Trade something like um,
 you know, the the SPY ETF for example,
 which is just a dirt cheap ETF that has
-very low costs trading the S&amp;P for 100
+very low costs trading the S&P for 100
 as a starting point and then yeah, build
 build on that.
-&gt;&gt; Okay. So um so my question let's spend a
+
+--- TREND IDENTIFICATION: 100 WAYS, ALL THE SAME ---
+
+
+>> Okay. So um so my question let's spend a
 bit of time on trend following for that
 matter and when we talk about I do a
 fair bit of trend following myself but
@@ -718,6 +812,9 @@ example. Um, or introducing other kinds
 of strategies in there. Um so yeah don't
 don't like really don't get hung up on
 trend identification.
+
+--- TRENDS ON THE SHORT SIDE ---
+
 Uh while we are talking about trend
 there there's there's something which
 I've noticed when I test certain
@@ -732,12 +829,13 @@ maybe uh the uh GFC crash in 2008 where
 we had some sort sustained uh a few
 months of um down move but other than
 that we don't get that here in India.
-I'm I'm sure that's the case in S&amp;P as
+I'm I'm sure that's the case in S&P as
 well. So would you recommend that in in
 products like that we take trends only
 on one direction? How would you trade an
 instrument like that?
-&gt;&gt; Um I mean basically what you're saying
+
+>> Um I mean basically what you're saying
 is that markets go down more often they
 go up in a market where there's a real
 like what economists call a risk
@@ -794,7 +892,11 @@ of a bigger investment portfolio that
 has already has allocation to equities
 then I'd argue it doesn't make as much
 sense.
-&gt;&gt; Makes sense. Makes sense. So there's
+
+--- TRAILING STOPS AND THE DANGER OF OVERFITTING ---
+
+
+>> Makes sense. Makes sense. So there's
 another question which I had on my mind
 when we talking about let's say a long
 only equity. Uh I have seen certain
@@ -804,7 +906,8 @@ the trailing stop which we kind of run
 over it would be based on a different
 logic and have you seen that kind of a
 thing work? So to give you an example,
-&gt;&gt; I mean what you're describing to me is
+
+>> I mean what you're describing to me is
 overfitting basically. I'm really sorry.
 You're I'm sure you're intro you're
 introducing additional parameters into a
@@ -841,18 +944,24 @@ Like it doesn't it's not going to give
 me any benefit and it's it's just
 fraught with danger with introducing
 those additional parameters.
-&gt;&gt; Got it. So that brings me to another
+
+--- TIME FRAMES: WHERE TRENDS WORK ---
+
+
+>> Got it. So that brings me to another
 question which I had. Now when we talk
 about trend, we usually are measuring
 the trend on a given time frame. So it
 could be for instance daily, hourly or
 weekly.
-&gt;&gt; What has been your experience in
+
+>> What has been your experience in
 capturing trends across time frames? So
 are certain time frames for certain
 assets better? How how how do you think
 about that?
-&gt;&gt; Okay. Well, let's first of all divide
+
+>> Okay. Well, let's first of all divide
 the question into two parts. pre-cost
 and postcost. So pre-ost ignoring cost
 completely I have not seen strong
@@ -892,7 +1001,7 @@ that's a sort of weakish effect. Um, and
 there are some other kind of weakish
 effects, but none of them are sort of
 strong enough for me to to actually say,
-well, yes, no, you should trade S&amp;P with
+well, yes, no, you should trade S&P with
 a trend length of two weeks and you
 should trade Nifty with a trend length
 of two months because that's the optimal
@@ -906,12 +1015,12 @@ those and and use that to to build your
 forecast with and that's what I actually
 do um now then but that of course
 ignores costs and you know if we take
-say the S&amp;P and milk which are both
-things I trade the S&amp;P is orders of
+say the S&P and milk which are both
+things I trade the S&P is orders of
 magnitude cheaper to trade than milk.
 Uh, and that means that I'd be perfectly
 happy to to trade say a two week or or a
-one month trend with S&amp;P, but I would
+one month trend with S&P, but I would
 not be happy to trade that with milk
 because it's just too expensive. With
 that, I'm looking at much much slower
@@ -925,7 +1034,11 @@ that you tested for yourself that
 perhaps you're still using? Um I'm I'm
 just curious to know more about that
 strategy and how it's working and such.
-&gt;&gt; Um yeah, so whenever you're setting up a
+
+--- THE FIRST SYSTEM: EWMA CROSSOVER ON S&P FUTURES ---
+
+
+>> Um yeah, so whenever you're setting up a
 new system and whenever you start this
 advice I actually give to people when
 they start trading is to start with
@@ -950,11 +1063,11 @@ futures are perceived as a cheap thing
 to trade and generally that's true there
 sort of orders of magnitude of
 difference in cost between say trading
-the S&amp;P 500 and trading I don't know
+the S&P 500 and trading I don't know
 milk futures or some of the more obscure
 commodities which aren't very liquid. So
 you let I can't even I wouldn't be able
-to tell you whether it was the S&amp;P 500.
+to tell you whether it was the S&P 500.
 It's quite a long time ago now, but it
 would have been a future like that
 that's very easy to trade um and very
@@ -1002,8 +1115,8 @@ less money you can expect to make in
 theory. So that that effect kind of
 kicks in. So I would that's sort of the
 starting point for any system I was
-building would be something like S&amp;P 500
-future 1664 day explanary weighted
+building would be something like S&P 500
+future 1664 day exponentially weighted
 moving average crossover but um you know
 as I've said I would actually trade in
 practice a variety of different speeds
@@ -1015,7 +1128,8 @@ that's really where you get massive
 diversification benefits. So Rob, when
 you say speed, do you mean look back
 periods of the EMA or do you mean the
-&gt;&gt; Yeah. Yeah. Yeah. So exactly that. So um
+
+>> Yeah. Yeah. Yeah. So exactly that. So um
 so because it's exponentially weighted,
 it's actually the halflife, not the look
 back, but you know, to a first
@@ -1027,10 +1141,12 @@ the sort of price in the last kind of
 say 3 weeks because we're talking about
 business days here, um versus the the
 price of the last 3 months or so.
-&gt;&gt; Mhm. Got it. Got it. Do you do you do
+
+>> Mhm. Got it. Got it. Do you do you do
 you still use similar systems or you
 know in your current?
-&gt;&gt; Yeah. Yeah. Yeah. So, so you know, if I
+
+>> Yeah. Yeah. Yeah. So, so you know, if I
 were to break down my my my system by
 kind of forecast, so about 60% are
 things that are sort of like trend and
@@ -1046,7 +1162,11 @@ but rather than 100% where they started
 because I've got more diversification
 through different forecasting rules in
 there.
-&gt;&gt; Got it. Now um a related question to
+
+--- INTRADAY DATA AND THE DEAD ZONE ---
+
+
+>> Got it. Now um a related question to
 trend following if if you for a moment
 forget about cost as a part of the
 function and have you tested a strategy
@@ -1056,7 +1176,8 @@ versus a 4hour bar versus a day bar or a
 weekly bar. And does trend manifest
 differently when we kind of look at them
 on these different time periods?
-&gt;&gt; So
+
+>> So
 I don't really like this question. I'll
 be honest with you. Okay. So um let's
 say you're going from hourly to daily
@@ -1069,12 +1190,13 @@ multiplied by 8. Um, which is, I think,
 is 128 hours, you know. So, 128 and a
 512h hour crossover would broadly
 speaking be pretty similar
-&gt;&gt; be similar to the daily. It won't be
+
+>> be similar to the daily. It won't be
 exactly the same obviously um but but it
 could be because you know there's be
 sort of a richness of things that are
 going on an inday basis, but if you
-plotted the positions in the P&amp;L on top
+plotted the positions in the P&L on top
 of each other, they would line up very
 well, right?
 So, so that that's kind of a the
@@ -1132,7 +1254,11 @@ benefit you would get is your your
 estimate of volatility would probably be
 better but but otherwise I'd say it be
 pretty similar.
-&gt;&gt; Awesome. Thanks. That that was my
+
+--- OVERNIGHT DRIFT ---
+
+
+>> Awesome. Thanks. That that was my
 question. Now uh I'll move on to another
 related question since we are on trends.
 Um there is this whole thing I'm sure
@@ -1144,22 +1270,28 @@ know equity indexes is something which I
 uh have read about. So u what are your
 thoughts on playing that or are there
 ways have you explored that in in any of
-&gt;&gt; sorry for my could you just clarify
+
+>> sorry for my could you just clarify
 exactly what you mean by that?
-&gt;&gt; So what I mean by overnight drift is the
+
+>> So what I mean by overnight drift is the
 index moves through gaps overnight and
 during the day it does not move. So that
 that that that's that's what it means.
 So
-&gt;&gt; yeah. So B B B B B B B B B B B B B B B B
+
+>> yeah. So B B B B B B B B B B B B B B B B
 B B B B B sort of to sort of turn that
 into language of a quant then the the
 volat volatility is much higher when the
 market is closed than when the market is
 open.
-&gt;&gt; That's correct. That's correct.
-&gt;&gt; Yeah. Yes.
-&gt;&gt; Um so I have seen Yeah, I have seen some
+
+>> That's correct. That's correct.
+
+>> Yeah. Yes.
+
+>> Um so I have seen Yeah, I have seen some
 research on that. Obviously to capture
 that you need to be trading basically um
 every day at the open and the close um
@@ -1174,8 +1306,10 @@ actively trade actively kind of put an
 order into the market and so you got to
 cross the bid offer So it's going to
 cost, you know, way too much basically.
-&gt;&gt; Got it. Got it.
-&gt;&gt; So it's not it's the the research I've
+
+>> Got it. Got it.
+
+>> So it's not it's the the research I've
 seen like from good um for example some
 sal there's some good sales research out
 there and mostly what they say is this
@@ -1183,18 +1317,23 @@ effect cannot be traded in isolation but
 you could use it as a like a basically
 as an execution a confirmation if you
 like. So in other words if you were
-planning to buy the S&amp;P this morning
+planning to buy the S&P this morning
 anyway and the overnight drift effect
 says you should well then maybe you
 should buy a bit more basically. Got it.
 So it works complemented with something
 else but by itself no too expensive.
-&gt;&gt; Got it. Got it. So um I go back to the
+
+--- PORTFOLIO COMPOSITION: 60% TREND, 40% CARRY ---
+
+
+>> Got it. Got it. So um I go back to the
 question where you said around 60% of
 your portfolio is trained today and
 what's in the rest of 40% of it. What
 what what happens there?
-&gt;&gt; Um so there's carry um which in futures
+
+>> Um so there's carry um which in futures
 basically means you're looking at the
 the sort of slope of the futures curve.
 So is it in contangoquidation?
@@ -1204,7 +1343,7 @@ returns recently, I would go along and
 vice versa. Um there's some long-term
 mean reversion. So you know if
 something's
-let's say if if the S&amp;Ps outperformed
+let's say if if the S&Ps outperformed
 say the the Nifty in the last couple of
 years, then it would bet on that
 reverting back to equilibrium. Um,
@@ -1217,7 +1356,8 @@ remember what's in it. But I think
 that's most of what's in that other
 bucket, but I I could probably check if
 you want me to.
-&gt;&gt; No, no. I I I just want to get a sense
+
+>> No, no. I I I just want to get a sense
 of uh so I was I was trying to get to uh
 mean reversion systems and um so my
 question is when you when when you say
@@ -1261,16 +1401,22 @@ um quite significant amounts of leverage
 and again also they're quite expensive.
 So, it's not something I'm looking at at
 the moment myself.
-&gt;&gt; Got it. So they are a bit similar to the
+
+--- MEAN REVERSION AND STAT-ARB ---
+
+
+>> Got it. So they are a bit similar to the
 statup kind of strategies where uh you
 you kind of look at two products and
 whether they are deviating from their
-&gt;&gt; Yeah. Yeah. So with statup you're
+
+>> Yeah. Yeah. So with statup you're
 basically looking for um um two things
 that move like seem to move together and
 the technically you were looking for
 co-integration not correlation. Correct.
-&gt;&gt; And that that's a very popular um equity
+
+>> And that that's a very popular um equity
 index um strategy. Um, I've kind of
 toyed with those things in in futures,
 but um, you know, not not really found
@@ -1320,7 +1466,11 @@ money, it will buy them more because it
 thinks it's a more promising trade and
 vice versa. So you need to have uh risk
 management in there.
-&gt;&gt; Got it. Got it. And um you u since we're
+
+--- RISK MANAGEMENT VS. OPTIMIZATION ---
+
+
+>> Got it. Got it. And um you u since we're
 talking about mean reversion and risk
 management at the moment, I have a
 related question and uh when you are
@@ -1331,13 +1481,17 @@ uh for the book and would you do some
 kind of a rebalance across strategies if
 if one is performing well uh or how how
 does it work?
-&gt;&gt; Never.
-&gt;&gt; Okay.
+
+>> Never.
+
+>> Okay.
 So how how do you risk manage the book?
-&gt;&gt; Well so you what you're describing I
+
+>> Well so you what you're describing I
 wouldn't call risk management. I
 describe it as optimization.
-&gt;&gt; Okay. Okay. Um so so you know so just
+
+>> Okay. Okay. Um so so you know so just
 just to briefly explain why I wouldn't
 do that or I don't do that in practice.
 Um so my my strategies trade fairly
@@ -1384,7 +1538,11 @@ scale down my risk appropriately. That's
 risk management, not not dialing up or
 dialing down strategies that make or
 lose money. That's optimization.
-&gt;&gt; So that makes sense. And um talking
+
+--- COMPARING BACKTEST TO LIVE PERFORMANCE ---
+
+
+>> So that makes sense. And um talking
 about these um you know running
 different strategies, the other thing
 that comes to my mind is do you compare
@@ -1471,7 +1629,11 @@ particular back test. Um so absolutely I
 definitely recommend it's something that
 people should do. It's just that I I'm I
 can kind of get away without doing it.
-&gt;&gt; Got it. So talking about draw downs um
+
+--- MAX DRAWDOWN IS A TERRIBLE METRIC ---
+
+
+>> Got it. So talking about draw downs um
 you know what I I'm talking about
 individual traders here. So let's say
 I'm um I I run a strategy which
@@ -1482,7 +1644,8 @@ is an 18% draw down. So how do I deal
 with that? I'm I'm almost about to get
 there and I'm I'm right almost there. So
 how how do I kind of reason this out?
-&gt;&gt; Oh well max first thing to say is that
+
+>> Oh well max first thing to say is that
 max draw down is an absolutely terrible
 performance metric. Um because it first
 of all it's exposed to outliers. Um
@@ -1587,6 +1750,9 @@ rather than just look comparing a max
 draw down in live and a max draw down in
 in back test then yes potentially you
 you should turn it off or modify it in
+
+--- EVALUATING STRATEGY EFFECTIVENESS OVER TIME ---
+
 some way. Okay. So I extend the question
 from there. How would we or how do we
 evaluate a strategy's effectiveness over
@@ -1594,15 +1760,18 @@ time? So how do I know whether it's
 performing uh as well as it used to in
 the past or um so any any specific
 metrics that you look at?
-&gt;&gt; Well again so yeah so you you know
+
+>> Well again so yeah so you you know
 you've got so first of all you need an
 evaluation period. So that could either
 be all the entire history you've been
 trading the thing or you might want to
 look at a rolling period. It's like the
 last one year, two year, 5 years.
-&gt;&gt; What works better?
-&gt;&gt; Well, again, it's so
+
+>> What works better?
+
+>> Well, again, it's so
 it's going to depend on the speed of
 trading, right? And how quickly you're
 getting new information. So if you're a
@@ -1638,7 +1807,11 @@ something. Well, unless they're higher
 frequency traders, the the the
 fundamental answer to that is usually
 no.
-&gt;&gt; Okay. So, that brings me to another
+
+--- "THINGS WERE DIFFERENT AFTER 2008" ---
+
+
+>> Okay. So, that brings me to another
 question since you've said you got data
 for 50 years. Now, something that I read
 and I'm sure you would have observed to
@@ -1697,6 +1870,9 @@ or even if, you know, because it's
 unlikely I'll have seen changes large
 enough to throw away data from 1970 to
 2008 and only keep data since then
+
+--- NEW PRODUCTS WITH LIMITED HISTORY ---
+
 because there just isn't enough
 statistical significance. Got it. Got
 it. Thanks. So, so I have an extension
@@ -1773,9 +1949,9 @@ would be find something that's very
 similar um and fit a system on that. So
 you know a very obvious case is um in in
 futures a lot of futures have got
-different um sizes. So in in the S&amp;P
+different um sizes. So in in the S&P
 there used to be this thing called the
-S&amp;P contract that that I can't remember
+S&P contract that that I can't remember
 the tick size but it was massive and
 then they brought in this thing called
 the E- mini and then they brought in
@@ -1801,19 +1977,28 @@ advice would be don't trade things
 differently and therefore it's not a
 problem anyway. Um but then there are
 other things you can do as I said.
-&gt;&gt; Great. Great. And uh since we're talking
+
+--- BACKTESTING: OWN DATABASE, OWN CODE ---
+
+
+>> Great. Great. And uh since we're talking
 about back test as of today when when
 you do a back test do you have your own
 price database and you run the code on
 it or do you use some kind of a product
 or a platform uh to run your back test?
 How how does it work?
-&gt;&gt; I've got my own price database which is
+
+>> I've got my own price database which is
 updated every day from my using from my
 broker because I'm already paying my
 broker for data. So it's not like I need
 to pay another data source.
-&gt;&gt; Okay, got it. And um we live in an age
+
+--- AI AND LLMs IN TRADING: AN EMPHATIC NO ---
+
+
+>> Okay, got it. And um we live in an age
 of AI and u you know LLM. So do you
 still write your own code or or do you
 use uh LLMs to help you assist uh
@@ -1861,15 +2046,25 @@ doing it myself. Um but absolutely I
 would not use it for you know for any
 production level code at all. Definitely
 never. No. Absolutely not. Never. No.
+
 [laughter]
-&gt;&gt; Okay. That was an emphatic no. I'll move
+
+
+--- AI'S IMPACT ON AUTOMATED TRADING ---
+
+
+>> Okay. That was an emphatic no. I'll move
 on.
-&gt;&gt; He was.
-&gt;&gt; So since we're talking about AI and
+
+>> He was.
+
+>> So since we're talking about AI and
 since you were
-&gt;&gt; not insist on you insist on talking
+
+>> not insist on you insist on talking
 about AI.
-&gt;&gt; Okay. So I yeah the reason I I I'm
+
+>> Okay. So I yeah the reason I I I'm
 insistent is how do you look at AI
 impacting uh because of of course the
 way you look at it is different but a
@@ -1935,11 +2130,13 @@ scammers, and grifters who will make
 money off the vulnerable by selling
 them, you know, AI trading bots rather
 than just trading bots. coin bots.
-&gt;&gt; Yeah. I mean, just the same the same
+
+>> Yeah. I mean, just the same the same
 rubbish but with a slightly with a nice
 AI sticker on it. That's my cynical
 answer to be honest with you.
-&gt;&gt; Yes. Yes. So, I do I mean I do
+
+>> Yes. Yes. So, I do I mean I do
 appreciate that there's people for whom
 coding is a barrier. But to be honest
 with you, I think it's extremely
@@ -1963,7 +2160,11 @@ if it's AI code that you've kind of
 supervised the writing of. I'd just be
 terrified. I really would. Absolutely
 terrified. I think it's very dangerous.
-&gt;&gt; I'm sure. So I I'll go up a bit Rob to
+
+--- TAX ARBITRAGE: OPTIONS VS. FUTURES ---
+
+
+>> I'm sure. So I I'll go up a bit Rob to
 uh options as a product. In India, we
 have a tax called ST which stands for uh
 securities transaction tax and u this
@@ -1974,9 +2175,11 @@ the product if you calculate it would be
 greater where at the same time if you
 create a a synthetic future using
 options
-&gt;&gt; the the turnover would be lesser because
+
+>> the the turnover would be lesser because
 it's premium
-&gt;&gt; and and that's one reason why our
+
+>> and and that's one reason why our
 volumes and options are greater and a
 lot of other things. So have you noticed
 markets where uh people create such
@@ -1985,7 +2188,8 @@ more costefficient or this is a very
 India specific thing which I observe I u
 you know I I don't hear it much
 elsewhere so I was just curious.
-&gt;&gt; Yeah but tax tax arbitrage is all you
+
+>> Yeah but tax tax arbitrage is all you
 know it happens all over the world
 right. So for example in the UK there's
 a thing called the stamp duty tax on
@@ -2029,7 +2233,8 @@ contract. I mean, generally speaking,
 tax authorities really struggle with
 derivatives trading. It's just weird,
 right?
-&gt;&gt; Uh particularly if as a as a retail
+
+>> Uh particularly if as a as a retail
 trader. Um you know, so um um I actually
 had to write my own software to to write
 to do my tax return because as a futures
@@ -2038,7 +2243,11 @@ are, you know, pretty complicated. So I
 had to write my own computer software to
 do it. So, so yeah that I this sort of
 stuff happens all over the world.
-&gt;&gt; Okay. Okay. Cool. That uh I'll move on
+
+--- DIVERSIFICATION: THE SQUARE ROOT OF N ---
+
+
+>> Okay. Okay. Cool. That uh I'll move on
 to a question which is um to do with
 diversification and um again the context
 is a bit like this. I when I read about
@@ -2059,7 +2268,8 @@ you're talking about managed futures. Um
 are are there upper limits beyond which
 there there is no diversification
 benefit?
-&gt;&gt; So I'm going to get a bit theoretical
+
+>> So I'm going to get a bit theoretical
 and nerdy. That's okay. Yeah. So um the
 the upper limit on diversification is
 the square root of the number of assets
@@ -2078,7 +2288,7 @@ you're playing this game in in in US
 stocks and you're a long only US stock
 trader, um well, you know, the kind of
 average correlation of of stocks in the
-S&amp;P 500 is like 7 maybe. Um and what
+S&P 500 is like 7 maybe. Um and what
 will happen is you add your first few
 stocks, you're going to be adding stocks
 that are very different. So, you're
@@ -2103,7 +2313,8 @@ this line?
 Yeah. Cool. So square root um of n would
 be like that.
 Yes.
-&gt;&gt; So obviously you'd get reducing returns
+
+>> So obviously you'd get reducing returns
 as you added more assets, but it would
 still you'd still see the slope of the
 line. So for example, you know, a
@@ -2147,9 +2358,11 @@ more benefits for diversification
 because the correlations are lower and
 also it takes more time before I lo kind
 of get to a a C if you like.
-&gt;&gt; So rather than 20 stocks it might be 50
+
+>> So rather than 20 stocks it might be 50
 stocks.
-&gt;&gt; Now let's move to futures where I trade.
+
+>> Now let's move to futures where I trade.
 Well in futures um the average
 correlation of is is correlations are
 much lower um because I can trade across
@@ -2165,7 +2378,8 @@ again the curve gets shifted up again
 um and and now you're seeing appreciable
 improvements in performance up to about
 100 assets.
-&gt;&gt; So that that's that's the answer to your
+
+>> So that that's that's the answer to your
 question of maths maths and kind of um
 empirical results. So to to get to get a
 better a better outcome for diversifying
@@ -2177,21 +2391,24 @@ and you want to be trading assets that
 in themselves are already uncorrelated.
 So across asset classes um so just to
 give you some maths some sort of hard
-numbers um the the average um P&amp;L from
+numbers um the the average um P&L from
 trend following in my system for an
 individual instrument is about 0.2
 two.25
 something like that. Um, if I go from
 one to 100 instruments, I get a four and
 a halffold increase in performance.
-&gt;&gt; Wow.
-&gt;&gt; So, it's it's substantial. And then it's
+
+>> Wow.
+
+>> So, it's it's substantial. And then it's
 it's starting to tail off at that point.
 And but, you know, I have 250
 instruments in my portfolio. I wouldn't
 have that if there wasn't some benefit
 in in in doing that.
-&gt;&gt; But then the the number tapers around
+
+>> But then the the number tapers around
 200. Is it because of lack of products
 with adequate liquidity or is it some
 empirical reason for or some statistical
@@ -2217,7 +2434,11 @@ could include. I suppose it's just I
 think the benefits from adding them are
 probably limited but maybe at some point
 I will.
-&gt;&gt; Okay. So um I have a question about um
+
+--- ACTIVE VS. PASSIVE ---
+
+
+>> Okay. So um I have a question about um
 I'm moving on to this whole since we are
 active investors or traders. There is a
 whole lot of literature around passive
@@ -2233,7 +2454,7 @@ fees. Okay. So as an active investor,
 your costs are much higher and your your
 you you know if you're investing in an
 active fund rather than a passive fund
-than you know so to to buy an S&amp;P
+than you know so to to buy an S&P
 passive ETF costs like five basis points
 a year to invest in an active hedge fund
 costs hundreds of basis points a year in
@@ -2288,7 +2509,11 @@ something that really unduly has an
 impact on me but but obviously it's
 quite an interesting thing that's
 happened. Definitely.
-&gt;&gt; Got it. In India, we don't have as many
+
+--- APRIL 2025 AND CORRELATION IN CRISES ---
+
+
+>> Got it. In India, we don't have as many
 liquid products for us to invest and nor
 do we have uh managed futures kind of
 products for us to even observe. But I
@@ -2308,11 +2533,13 @@ would have reversed our positions and
 gone short and then made a lot of money
 on the downside. Um but they didn't.
 They bounced back up again.
-&gt;&gt; So what what happens to the other other
+
+>> So what what happens to the other other
 half of your portfolio which is
 non-correlated which is which is
 supposed to kind of go
-&gt;&gt; I I' I'd have to go back and look at
+
+>> I I' I'd have to go back and look at
 look at the numbers to be honest. I
 don't it's not something I pay close
 attention to but but um I guess well as
@@ -2334,19 +2561,23 @@ equities have been going up and there's
 a crisis then then those things will
 reverse as people close pairs of
 positions. So
-&gt;&gt; that that probably something like that
+
+>> that that probably something like that
 happened. But um
-&gt;&gt; but um yeah I' I'd have to to go back
+
+>> but um yeah I' I'd have to to go back
 and see where the the kind of losses and
 gains were.
-&gt;&gt; It's also possible. I think there must
+
+>> It's also possible. I think there must
 have been assets like gold and other
 precious metals which went up but then
 the weightage of those in the overall
 portfolio could have been lesser. So not
 enough to offset the losses from the
 other assets maybe. I'm just guessing.
-&gt;&gt; Yeah. Yeah. I mean obviously one one
+
+>> Yeah. Yeah. I mean obviously one one
 thing that that results in big
 dispersion between performance of
 different managers is is their
@@ -2395,7 +2626,11 @@ minimum standard of liquidity and costs
 um because I don't I you know I don't
 have massive amounts of money to put
 into the market.
-&gt;&gt; Got it. Got it. Um I have a question
+
+--- ADVICE FOR BEGINNERS ---
+
+
+>> Got it. Got it. Um I have a question
 around um let's say uh for someone who's
 just getting started in systematic
 trading or investing and uh that there's
@@ -2424,8 +2659,13 @@ time to list all the books um but if if
 you go on my on my um blog there's a
 page there where you can find that
 information
-&gt;&gt; but yeah start with my books obviously
-&gt;&gt; I'm sure I'm sure absolutely so uh so
+
+>> but yeah start with my books obviously
+
+>> I'm sure I'm sure absolutely so uh so
+
+--- CLOSING THOUGHTS AND UPCOMING BOOK ---
+
 that's u you know uh that's pretty much
 I had uh for you um Rob and uh thank you
 so much for taking time out to talk to
@@ -2439,11 +2679,14 @@ forward to your new book coming up uh
 I'm not sure when that is but um you
 know uh look forward to it. um uh next
 year at some point
-&gt;&gt; is the answer to that.
-&gt;&gt; And what what is that going to be about?
+
+>> is the answer to that.
+
+>> And what what is that going to be about?
 What's what's the area? What's the focus
 area of that?
-&gt;&gt; Um so um it's basic it's a it's a book
+
+>> Um so um it's basic it's a it's a book
 for relative new newcomers and
 noviceses. So the book um and it's also
 a lot of my books are focused on
@@ -2460,7 +2703,8 @@ should start with leveraged instruments
 although obviously we would discuss the
 example of options where that might
 might make sense in some markets but
-&gt;&gt; but um yeah so that that's the focus. So
+
+>> but um yeah so that that's the focus. So
 um the three products it discusses are
 um stocks, ETF and crypto which are kind
 of the three non-leveraged instruments
@@ -2476,15 +2720,18 @@ include it in the book and kind of give
 people all the warnings and then say
 well if you still want to trade it this
 is how you should do it. So, uh, got it.
-&gt;&gt; So, yeah, that that should hopefully be
+
+>> So, yeah, that that should hopefully be
 out next year, and I'd love to tell you
 the title, but the title's not yet been
 decided yet. So, uh, wait and see.
-&gt;&gt; Great. Thanks, uh, and all the best, and
+
+>> Great. Thanks, uh, and all the best, and
 I hope the the the your strategies end
 in black u by end of the year. And, um,
 yeah, so uh, have a great festive season
 and look forward to connect with you
 perhaps, uh, once your book is out.
-&gt;&gt; Yeah. Excellent. Thanks very much.
+
+>> Yeah. Excellent. Thanks very much.
 Cheers. Bye-bye. Bye.

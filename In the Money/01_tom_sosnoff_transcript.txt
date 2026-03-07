@@ -1,16 +1,65 @@
-Nobody could watch more ticks in the
-S&amp;Ps than I have over the last 40 years.
-So that should give me an edge, but it
-doesn't. There's no advantage to open
-interest.
-&gt;&gt; Makes sense. Makes sense completely.
-&gt;&gt; I think degrees are invaluable. I have
-been scalping for 43 years.
-&gt;&gt; So what what are you looking at when you
-when you're scalping?
-&gt;&gt; I mean, there's no question that AI is
-going to be an extremely valuable tool
-in helping traders
+================================================================================
+IN THE MONEY — Episode 01
+================================================================================
+
+Guest:    Tom Sosnoff
+Title:    Options, Contrarianism, and Building Financial Media
+Recorded: Late October 2025
+
+ABOUT THE GUEST
+Tom Sosnoff is a legendary options trader and serial entrepreneur. He spent
+nearly two decades as a floor trader in the OEX pit at the CBOE, where he was
+one of the original traders of S&P 100 index options. In the late 1990s, he
+founded Thinkorswim, an online options brokerage that reshaped retail trading
+and was later acquired by TD Ameritrade for ~$700 million. He then built Tasty
+Trade (now Tasty Live), the first digital financial streaming network, which
+was acquired by IG Group for $1.1 billion in 2021. A pure contrarian at heart,
+Tom's trading philosophy is grounded in statistics, the law of large numbers,
+and probability-based decision-making. He is currently building Lost Dog, a
+venture focused on worker equity and compensation transparency.
+
+TOPICS COVERED
+- From political science to the CBOE trading floor
+- The early days of options trading and market making
+- Active vs. passive investing philosophy
+- Building Thinkorswim and the origins of retail options trading
+- Creating Tasty Trade: financial media done differently
+- Lost Dog and tackling worker inequity through data
+- The value of university education in the age of AI
+- Early misconceptions about markets and developing intuition
+- Managing tail risk through position sizing
+- Implied volatility as a core trading signal
+- Views on trend following (from a contrarian's perspective)
+- Diversification through non-correlated underlyings
+- Scalping after 43 years: intuition without charts
+- Zero-DTE options and their impact on US markets
+- Indian market regulation and the Jane Street controversy
+- AI as a trading tool vs. automated trading bots
+- Financial content creation and competitive moats
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[COLD OPEN — Key moments from this conversation]
+
+  "Nobody could watch more ticks in the"
+  "S&Ps than I have over the last 40 years."
+  "So that should give me an edge, but it"
+  "doesn't. There's no advantage to open"
+  "interest."
+  "Makes sense. Makes sense completely."
+  "I think degrees are invaluable. I have"
+  "been scalping for 43 years."
+  "So what what are you looking at when you"
+  "when you're scalping?"
+  "I mean, there's no question that AI is"
+  "going to be an extremely valuable tool"
+  "in helping traders"
+
+
+--- INTRODUCTION ---
+
 Thank you so much Tom for taking time
 out to talk to us and uh you have been
 an incredible influence to me especially
@@ -34,10 +83,10 @@ that. So, with that, uh let's just jump
 in. For those of you who don't know Tom,
 uh Tom is a true trailblazer in uh
 modern finance. He began his journey as
-a floor trader on the SIBO floor
-spending nearly two decades in the OEEX
+a floor trader on the CBOE floor
+spending nearly two decades in the OEX
 pit. He's one of the original traders of
-S&amp;P 100 index options. And from what I
+S&P 100 index options. And from what I
 know, he is a pure contrarian at heart.
 Late in the 1990s, he founded Think or
 Swim, an online options brokerage
@@ -85,16 +134,22 @@ you would wear your signature beret but
 looks like you know after uh Think or
 Swim and Tasty the beret is out. What's
 the story?
-&gt;&gt; The story is after 25 years of wearing
+
+--- FROM POLITICAL SCIENCE TO WALL STREET ---
+
+
+>> The story is after 25 years of wearing
 the beret um I decided to go natural um
 as I as I begin my next venture into
 building you know Lost Dog. So um uh
 it's been a beautiful run. I've had a
 great time.
-&gt;&gt; Yes. Um I've loved every minute of it
+
+>> Yes. Um I've loved every minute of it
 but um you know every once in a while
 you got to change things up.
-&gt;&gt; Absolutely. Absolutely lovely. So u so
+
+>> Absolutely. Absolutely lovely. So u so
 let me get started with you know I I I
 was just looking up a bit and um I I
 understand you have you studied
@@ -102,7 +157,8 @@ political science at Sunni Albany. So
 what was it at that point of time? What
 made you choose politics of all the
 things?
-&gt;&gt; I I'm I'm a boomer. So I was born um in
+
+>> I I'm I'm a boomer. So I was born um in
 an era where in America, you know, it
 was
 a lot of a lot of there was a there was
@@ -126,14 +182,16 @@ school, there weren't a lot of jobs and
 I got an interview on Wall Street and
 they offered me a job, so I took it.
 I've been here ever since.
-&gt;&gt; Lovely. Yeah. U so at at that point of
+
+>> Lovely. Yeah. U so at at that point of
 time after you got into this first job,
 what was your sense of markets? you were
 new to markets obviously but what was
 what what what was your initial sense of
 stock markets what did you know about it
 at that time when when you joined Drexel
-&gt;&gt; um I didn't know I didn't know a hell of
+
+>> um I didn't know I didn't know a hell of
 a lot because you know as a kid growing
 up um very middle class I I didn't
 really you know I never owned any stocks
@@ -148,12 +206,17 @@ ended up on the trading floors in
 Chicago because once I found out that
 existed, you know, I was I was in
 Chicago like basically next day.
-&gt;&gt; Lovely. So, so as you get to Chicago,
+
+>> Lovely. So, so as you get to Chicago,
 was options as a product new to uh you
 or was it new to America as well at that
 point of time? Was it an evolving
 product?
-&gt;&gt; It was an evolving product. Options
+
+--- THE EARLY DAYS OF OPTIONS TRADING ---
+
+
+>> It was an evolving product. Options
 started kind of in the mid70s as an
 offshoot from the board of trade, the
 commodity exchange, but they were just
@@ -170,7 +233,8 @@ quickly gravitated towards options. I
 loved it from the loved them from the
 first time I tried them. So I was I was
 basically hooked right from the start.
-&gt;&gt; But then was you today we have a lot of
+
+>> But then was you today we have a lot of
 it on the internet. We understand Greeks
 how options work, volatility, whatever.
 Uh but then did people understand all
@@ -180,7 +244,8 @@ information out there but what how did
 people understand this product and uh
 was it very different from how we
 understand it today?
-&gt;&gt; Oh yeah it was completely different.
+
+>> Oh yeah it was completely different.
 First of all at the time when options
 were you know first when they first came
 out and became you know even started to
@@ -197,25 +262,30 @@ um and it took a couple of decades and a
 lot of really innovative software
 starting in the early 2000s to change
 kind of the culture of option trading.
-&gt;&gt; But then who would take the other side?
+
+>> But then who would take the other side?
 Was it was it folks like you on on the
 floor who would take the other side when
 many were buying?
-&gt;&gt; When I first when I first started it was
+
+>> When I first when I first started it was
 me, you know, it was people like me.
 There was a few there was a few thousand
 people like me and we would take the
 other side of every trade. There were no
 high frequency firms.
-&gt;&gt; By 2000
-&gt;&gt; um everything was a done starting
+
+>> By 2000
+
+>> um everything was a done starting
 starting to get done. The other side of
 every trade is you know pretty much a
 prop firm or a high frequency firm. And
 today you know it's 99% of every trade
 is interacted with a high frequency
 firm.
-&gt;&gt; Okay. Yeah. Yeah. So uh so there was
+
+>> Okay. Yeah. Yeah. So uh so there was
 another question which I had. So floor
 traders like you or it could be others.
 How how did you make sense of the
@@ -226,7 +296,11 @@ have to use these words where would your
 thinking fit in? I mean I'm talking
 about the days when you were on the
 floor.
-&gt;&gt; Yeah. So I think the the popular
+
+--- FLOOR TRADING: TAKING THE OTHER SIDE ---
+
+
+>> Yeah. So I think the the popular
 misconception is that floor traders have
 any idea what's going on. The reality of
 being a floor trader, a pit trader was
@@ -241,7 +315,8 @@ difference. We just every day came in to
 work and took the other side of any kind
 of a customer order. That's all we cared
 about.
-&gt;&gt; And was there some metric to how much
+
+>> And was there some metric to how much
 risk you would you would take with you
 overnight and all of that? Was was there
 some math to it? I mean, as an exchange
@@ -255,18 +330,26 @@ out of business. So, you had to learn,
 you know, I did it for 20 years, so you
 had to learn pretty quickly how to
 survive.
-&gt;&gt; All right. And and what the people who
+
+>> All right. And and what the people who
 wouldn't survive, they don't learn it.
 I'm I'm assuming that they don't learn.
 They would just go out of business.
-&gt;&gt; They they trade too big. They have an
+
+>> They they trade too big. They have an
 opinion. Whatever it is, they don't just
 don't learn it.
-&gt;&gt; Okay. And and they would be out of
+
+>> Okay. And and they would be out of
 business obviously.
-&gt;&gt; Out of business in a short period of
+
+>> Out of business in a short period of
 time. Yep. [laughter]
-&gt;&gt; All right. Okay. So, uh so this is the
+
+--- ACTIVE VS. PASSIVE INVESTING ---
+
+
+>> All right. Okay. So, uh so this is the
 other thing which comes to my mind. I'm
 shifting a bit about um u when I read
 about you one of the things which I see
@@ -281,7 +364,8 @@ this a bit to understand what exactly do
 you mean by active and uh you know why
 is passive u not the best thing if at
 all that if if that's your idea.
-&gt;&gt; Well first of all I I don't have any I
+
+>> Well first of all I I don't have any I
 I'm not opposed to making passive
 investments by any stretch. I I don't
 want to I I I don't want to I don't want
@@ -319,7 +403,8 @@ really positive takeaways from active
 trading that there's nothing wrong with
 passive, but everybody should try
 active.
-&gt;&gt; I I I get that completely because the
+
+>> I I I get that completely because the
 number of decisions that we end up
 making while being active, that has a
 massive impact on uh of course we make
@@ -328,11 +413,13 @@ that's how we learn. instead. I mean, as
 as you said, there's definitely an
 option to be completely passive and not
 do anything about it.
-&gt;&gt; So, makes sense. I I I I see sense in
+
+>> So, makes sense. I I I I see sense in
 being active, especially when it comes
 to learning uh how to make better
 decisions.
-&gt;&gt; Yeah. I mean one of the most important
+
+>> Yeah. I mean one of the most important
 you know one of the most important
 things in life I don't care where you
 live I don't care what you do because
@@ -351,7 +438,8 @@ learn how important the speed is, never
 learn how to process things quickly and
 they kind of spend, you know, much of
 their life stuck in the same rut.
-&gt;&gt; How do you compare that with an idea of
+
+>> How do you compare that with an idea of
 thinking through things and then acting?
 So, doesn't it go against that idea?
 Um, you know, that's an interesting
@@ -374,8 +462,12 @@ Everybody already knows what they're
 going to do. Nobody ever says, nobody
 that's ever a a successful decision
 maker says, "Let me think about it."
-&gt;&gt; Got it. Got it. Makes sense. Is that how
+
+>> Got it. Got it. Makes sense. Is that how
 you came up with the names for all the
+
+--- NAMING COMPANIES: THINKORSWIM, TASTY, LOST DOG ---
+
 firms that you started, be it Think or
 Swim or Tasty or Lost Dog? Is that how
 you know intuitively you you you come up
@@ -389,7 +481,7 @@ I was walking, you know, in my house one
 night. Tasty Trade was a name I made up
 when we owned Thinkorswim. It's a name I
 made up that I had to negotiate when I
-left um Thinker Swim to keep because
+left um Thinkorswim to keep because
 because I bought it with the company
 credit card at the time and I and I
 wanted it. Um Lost Dog is a name that
@@ -401,19 +493,25 @@ companies doesn't mean much to me. It
 just needs to be something that's fun
 that I feel I can market. I feel that,
 you know, I've always felt that that
-&gt;&gt; we are we do a really good job at
+
+>> we are we do a really good job at
 organically marketing our products, our
 technology,
-&gt;&gt; and I think having a fun name has a lot
+
+>> and I think having a fun name has a lot
 to do with that.
-&gt;&gt; Absolutely. You sure do, Tom. Uh I I had
+
+>> Absolutely. You sure do, Tom. Uh I I had
 a thought when I I was thinking when
 when you decided to move out of pit to
 uh move out of trading to start a
+
+--- FROM TRADING PIT TO BROKERAGE ---
+
 brokerage. Was there any other business
 idea that you had that you kind of you
 know compared with should I start
-thinkers swim or a brokerage or should I
+Thinkorswim or a brokerage or should I
 maybe start a hedge fund? I don't know.
 So was was there some different ideas
 that you explored? There there were
@@ -445,11 +543,13 @@ building a listed option exchange. But
 we did have some ideas about you know
 this is 25 years before there was a
 decentralized world. So yeah.
-&gt;&gt; Yes. Got it. Got it. And did you did you
+
+>> Yes. Got it. Got it. And did you did you
 try that or you you just explored it
 with the regulator and you figured out
 it's not going to work?
-&gt;&gt; No, we we never tried it. We explored it
+
+>> No, we we never tried it. We explored it
 with the regulator. Um you know back
 then like I said there was no such thing
 as you know as a decentralized
@@ -458,15 +558,21 @@ thing as an overthec counter product.
 Um, so we explored it. We built some
 really cool technology, but we never
 launched it.
-&gt;&gt; Got it. Got it. Do you think it's
+
+>> Got it. Got it. Do you think it's
 possible today?
-&gt;&gt; Um, not in the US.
-&gt;&gt; Okay.
-&gt;&gt; I think there there are some there are
+
+>> Um, not in the US.
+
+>> Okay.
+
+>> I think there there are some there are
 some sites out there that do it in, you
 know, the digital asset world. Um,
-&gt;&gt; that that's that's exactly what I meant.
-&gt;&gt; Yeah. I mean, but it's hard because it's
+
+>> that that's that's exactly what I meant.
+
+>> Yeah. I mean, but it's hard because it's
 never been something that's been allowed
 in the US. And I'm, you know, since I'm
 based in Chicago, um I, you know,
@@ -474,15 +580,21 @@ there's not much I can do. I'm not
 moving to, you know, Bermuda or or um
 Cyprus, you know, so it's hard. It's
 hard for me.
-&gt;&gt; Got it. Got it. Got it. So, uh so after
-Think or Swim, um then we had Tasty. And
+
+--- BUILDING TASTY TRADE: THE FIRST STREAMING NETWORK ---
+
+
+>> Got it. Got it. Got it. So, uh so after
+Thinkorswim, um then we had Tasty. And
 when you started Tasty, was it the
 financial network first or was it the
 brokerage first? Was it the financial
 network first?
-&gt;&gt; Um, okay. When when we sold Thinkorswim,
-&gt;&gt; I and I loved Thinker Swim, but when we
-sold Thinker Swim, it was just the it
+
+>> Um, okay. When when we sold Thinkorswim,
+
+>> I and I loved Thinkorswim, but when we
+sold Thinkorswim, it was just the it
 was time, you know, it was just it was
 we were we were ready to move on. And
 I wanted to build something
@@ -524,13 +636,16 @@ before there was such a thing as
 streaming networks. We were the first
 streaming network. There was, it didn't
 exist. And so,
-&gt;&gt; so we built
-&gt;&gt; I'm sure even the bandwidths were pretty
+
+>> so we built
+
+>> I'm sure even the bandwidths were pretty
 low at that time. I don't know how
 people watched your show, but the
 bandwidth we we did not have the kind of
 broadband networks we have today.
-&gt;&gt; Um, you could watch it. It It was We
+
+>> Um, you could watch it. It It was We
 didn't It It worked fine. Um, yeah, it
 worked. It just It You're right. We
 didn't have the bandwidth we have today,
@@ -552,11 +667,13 @@ here. So for the next five years or six
 years we did just the network and then
 after after the sixth year we launched
 the brokerage firm.
-&gt;&gt; Lovely. And um when you did the network
+
+>> Lovely. And um when you did the network
 how how many hours in a day would you be
 live or how what was the format at that
 time? [snorts]
-&gt;&gt; I did with Tony I did three hours in the
+
+>> I did with Tony I did three hours in the
 morning and a half hour in the afternoon
 for 15 years.
 I so I did three and a half hours a day
@@ -569,12 +686,14 @@ looking back at it, you know. I mean,
 we we broadcast over a we've had well
 over a billions, you know, billions of
 views. It's insane.
-&gt;&gt; It must have been a lot of work because,
+
+>> It must have been a lot of work because,
 you know, it's not easy to be on a live
 show every day for five hours and then
 you you said you did something over the
 weekends as well. Must have been crazy.
-&gt;&gt; Um, it was. But you know what? I've been
+
+>> Um, it was. But you know what? I've been
 working my butt off for 40 years. I am a
 workaholic. I don't really care. So, the
 craziest thing is when I did my last
@@ -584,10 +703,12 @@ know, like I I didn't, you know, I'm
 like, all right, I'm ready. You know, I
 got to I got to, you know, I don't like
 to have nothing on my plate.
-&gt;&gt; Are are you at a point where you you're
+
+>> Are are you at a point where you you're
 not going to office? You're not working.
 So, how are you how's your day today?
-&gt;&gt; Oh, no, no, no, no, no. I'm I'm I've
+
+>> Oh, no, no, no, no, no. I'm I'm I've
 started a new company. Um I didn't even
 take a day off. I started a new company
 the next day. And I mean, we've been
@@ -596,6 +717,9 @@ over the next day. Took over as CEO. And
 um and now we have a really cool, you
 know, um AI slash uh streaming network
 that we're launching a brand new
+
+--- LOST DOG AND WORKER INEQUITY ---
+
 streaming network on November 10th.
 That's two weeks from today. Um, we're
 launching a new streaming network called
@@ -617,7 +741,8 @@ worker inequity and it's going to be
 very interesting to see you know what
 kind of takeaways what kind of demand we
 have for it. I don't know yet.
-&gt;&gt; Okay. And and um talking about worker
+
+>> Okay. And and um talking about worker
 inequity or you know compensation
 inequities. So do you think the existing
 market forces won't solve it and that's
@@ -641,13 +766,16 @@ you know and and and and how to build
 the confidence to go after what they're
 worth. And and and that's where Lost Dog
 comes in.
-&gt;&gt; That's where it comes in. Exactly.
+
+>> That's where it comes in. Exactly.
 That's the technology we're building and
 that is the network that we're building.
 Now,
-&gt;&gt; this is not something that's going to be
+
+>> this is not something that's going to be
 very easy
-&gt;&gt; and it's probably going to be hard to,
+
+>> and it's probably going to be hard to,
 you know, it's going to be hard for a
 lot of people to figure out right first
 what we're doing and how we're doing it.
@@ -661,11 +789,17 @@ and don't treat their employees fairly.
 And I'm going to empower those
 employees. And it's going to be one hell
 of a battle starting in two weeks,
-&gt;&gt; I'm sure. But you know this is when
+
+>> I'm sure. But you know this is when
 you're going to put your political
 science degree to work.
-&gt;&gt; But we'll see about that.
-&gt;&gt; Okay. So uh so coming back to financial
+
+>> But we'll see about that.
+
+--- THE FUTURE OF FINANCIAL CONTENT ---
+
+
+>> Okay. So uh so coming back to financial
 content, how do you uh you know you
 you've been at the forefront of creating
 online financial content even even when
@@ -677,7 +811,8 @@ broking firm is trying to create content
 to uh as as a means to engage with
 users. How do you see the space
 evolving?
-&gt;&gt; Well, you're right and everybody's
+
+>> Well, you're right and everybody's
 trying to kind of copy what we built
 over the last you know 15 years. The
 challenge is most of these firms are not
@@ -719,7 +854,8 @@ where technology has been commoditized,
 I think that you're talking about the
 one thing that you can't commoditize
 is truly creative content.
-&gt;&gt; I makes sense. Makes sense. Completely.
+
+>> I makes sense. Makes sense. Completely.
 So, in fact, I've been watching tra t
 tasty content for more than a decade now
 and I I don't think anyone has been able
@@ -729,22 +865,28 @@ that you created that makes it so hard
 for others to even copy it. Uh leave
 alone make it better. But even copying
 it seems to be a difficult task.
-&gt;&gt; Sure. I I agree with you that that's you
+
+>> Sure. I I agree with you that that's you
 know people always said to me you know
 TD just launched a network trader just
 launched a network. ID just launched a
 network. And I'm like okay but they
 don't have me.
-&gt;&gt; You know that was my whole thing. I okay
+
+>> You know that was my whole thing. I okay
 great tell them to do whatever they want
 to do I don't really care but they can't
 they can't copy us
-&gt;&gt; yeah so the other thought which I had on
+
+>> yeah so the other thought which I had on
 my mind while we are talking about
 content was today now what is your uh
 perspective with with all this content
 available on um on the internet be it
 web or YouTube what exactly is the value
+
+--- UNIVERSITY EDUCATION IN THE AGE OF AI ---
+
 of university education now with if
 someone has to go to um a university to
 learn finance versus learning stuff by
@@ -752,7 +894,8 @@ themselves on on the internet and we
 have AI as well to help now. So how do
 you how do you see this whole space u
 evolving?
-&gt;&gt; Well, I don't think that you can ever
+
+>> Well, I don't think that you can ever
 discount the value of a of a un of you
 know university um degree and
 undergraduate, graduate, PhD and
@@ -810,16 +953,24 @@ engaging with others and there's that
 human element which um which being at a
 university teaches is is is that what
 you're highlighting?
-&gt;&gt; Yeah, of course it's there's
-&gt;&gt; beyond the education of course
-&gt;&gt; it's the maturation process it's the
+
+>> Yeah, of course it's there's
+
+>> beyond the education of course
+
+>> it's the maturation process it's the
 networking process 100%.
-&gt;&gt; Got it. So um talking about um so one of
+
+--- EARLY MISCONCEPTIONS ABOUT MARKETS ---
+
+
+>> Got it. So um talking about um so one of
 the things which um I had on my mind was
 in I'm I'm I'm moving to trading right
 now in terms of uh specifically talking
 about markets volatility
-&gt;&gt; what uh what exactly uh were some early
+
+>> what uh what exactly uh were some early
 misconceptions that you had Tom about
 the markets and which which you kind of
 overcame over over time where which you
@@ -829,7 +980,8 @@ know maybe over years or a few months
 whenever that was uh it kind of okay
 this is not how it works. So so what was
 that?
-&gt;&gt; Well it takes a long time to convince to
+
+>> Well it takes a long time to convince to
 teach yourself a couple things
 probably most importantly because we all
 have you know big egos. We all have
@@ -840,7 +992,7 @@ had some kind of an edge because all I
 do is sit around and watch markets every
 day for four and a half decades. And I'm
 thinking to myself, nobody can nobody
-could watch more ticks in the S&amp;Ps than
+could watch more ticks in the S&Ps than
 I have over the last 40 years. So that
 should give me an edge. But it doesn't.
 And it took me a really long time to
@@ -858,7 +1010,8 @@ you know you would know it for sure but
 you would have a better intuitive sense
 compared to others having watched the
 markets
-&gt;&gt; you would like to think so
+
+>> you would like to think so
 I mean I'm a contrarian so I would like
 to think so but markets Market can be,
 as you know, markets can be incredibly
@@ -873,11 +1026,15 @@ know, to be different. It's it's
 difficult to um uh I'm always ch Let's
 put it this way. I'm always challenged.
 It's never easy.
-&gt;&gt; Interesting. So I I I I did think you
+
+>> Interesting. So I I I I did think you
 you would tell me that you figured out
 something and some some holy grail kind
 of stuff that but yeah it's it's
 difficult. I I I agree that uh you know
+
+--- MANAGING TAIL RISK AND POSITION SIZING ---
+
 but coming back to uh trading again you
 you you've been a proponent of premium
 selling but how do you deal with uh or
@@ -899,14 +1056,20 @@ better way to do it. It's one of the
 biggest takeaways of the last, you know,
 15 years is learning to keep my position
 size in check
-&gt;&gt; and and go with it. It will happen, you
+
+>> and and go with it. It will happen, you
 know, that it'll happen a few times a
 year and just uh
-&gt;&gt; yeah, I mean, I don't know that there's
+
+>> yeah, I mean, I don't know that there's
 I don't know that there's another way
 you can get around um outlier risk other
 than trade size.
-&gt;&gt; Mhm. Got it. Got it. And um if you uh
+
+>> Mhm. Got it. Got it. And um if you uh
+
+--- SYSTEMATIC STRATEGIES AND IMPLIED VOLATILITY ---
+
 when if you look at a trading strategy
 or do you are you a systematic trader in
 that sense? So that that's my first
@@ -917,7 +1080,8 @@ What's your thought on that? um in terms
 of designing trading strategies or
 thinking about trading in terms of
 systematic strategies,
-&gt;&gt; I think that uh what I do is I apply
+
+>> I think that uh what I do is I apply
 different strategies to different levels
 of implied volatility.
 Um, so it really depends for me. Um, I
@@ -934,7 +1098,8 @@ volatility. And if I think volatility is
 expensive, I will take on more risk
 because I feel like there's more
 opportunity.
-&gt;&gt; And uh would you also uh test it or
+
+>> And uh would you also uh test it or
 simulate stuff? Uh that there are tools
 available. I'm sure Tasty also has those
 features where you can kind of back test
@@ -969,7 +1134,11 @@ to carry a two standard deviation move.
 So, you can look at your buying power
 reduction as one way of, you know,
 getting to that number.
-&gt;&gt; I get that. I get that. Makes sense.
+
+>> I get that. I get that. Makes sense.
+
+--- OPEN INTEREST AND OTHER INDICATORS ---
+
 Makes sense. And um are there talking
 about in the in the in the world of
 options, are there any other than
@@ -991,26 +1160,33 @@ option pricing skew to see you know how
 much how much the market is pricing in
 you know upside or downside pricing
 skew.
-&gt;&gt; Got it. Got it. And here in India one of
+
+>> Got it. Got it. And here in India one of
 the things which a lot of traders look
 at is um open interest across different
 strikes. Um that's something which I
 don't see much in in the US especially.
 any any any idea as to whether it has
-anyformational advantage over uh other
-&gt;&gt; we we trade mostly liquid underlyings.
+any informational advantage over uh other
+
+>> we we trade mostly liquid underlyings.
 There's no advantage to open interest
 especially if you're trading indexes or
 um or liquid underlyings. I think the
 only time we'll ever look at open
 interest is if we're trading something
-that's very illlquid just because we'd
+that's very illiquid just because we'd
 like to know, you know, is anybody else
 trading it? But I stick to mostly
-&gt;&gt; 99% of my trades are very liquid
+
+>> 99% of my trades are very liquid
 underlyings. So open interest is not a
 factor.
-&gt;&gt; Got it. Thanks. So um I I'll move on to
+
+--- A CONTRARIAN'S VIEW ON TREND FOLLOWING ---
+
+
+>> Got it. Thanks. So um I I'll move on to
 the next one which is you know Tom I'm
 I'm a trend follower Tom and you you
 you've been the little that I've read
@@ -1020,8 +1196,10 @@ trend following from you. So, uh, what's
 your honest take on trend following? You
 know, you can speak your mind. I won't
 be I won't get offended. It's okay.
-&gt;&gt; Well, so
-&gt;&gt; I I'm a Curian, so I am not a trend
+
+>> Well, so
+
+>> I I'm a Curian, so I am not a trend
 follower. If anything, I fade trends.
 So, I have made my living fading trends.
 That's how that's who I am. I don't
@@ -1035,12 +1213,14 @@ crushed, things like that. But I I'm not
 somebody that believes that there's
 anything more to it than it's just a
 random case of multiple days in a row.
-&gt;&gt; Dan, um, how do you make sense of all
+
+>> Dan, um, how do you make sense of all
 these CTAs who run managed futures funds
 and all of that? There's a whole
 industry to it, billions of dollars to
 it. So, how do you make sense of it?
-&gt;&gt; Um, I don't try to I don't know exactly
+
+>> Um, I don't try to I don't know exactly
 what those guys do. I don't know how
 successful they are. I haven't seen
 results of a lot of um commodity trading
@@ -1054,7 +1234,11 @@ white instruments like futures it is
 very difficult to manage a you know a
 directional fund based on trends. That's
 just my
-&gt;&gt; Got it. Got it. So so that brings me to
+
+>> Got it. Got it. So so that brings me to
+
+--- DIVERSIFICATION THROUGH STRATEGY AND PRODUCTS ---
+
 the question what does diversification
 mean for you? Because if you are going
 to be a contrarian and if you are
@@ -1062,7 +1246,8 @@ especially in the context of let's say
 uh if you're in the business of premium
 selling how do you diversify there in
 that context if someone has to?
-&gt;&gt; Well the the challenge there is you
+
+>> Well the the challenge there is you
 diversify through um non-correlated
 underlyings and through strategy. I'm
 really good at using all the products
@@ -1073,16 +1258,21 @@ or silver or, you know, bonds that are
 not correlated to stocks. And so I think
 that that's a big part of, you know, how
 do we stay diversified?
-&gt;&gt; Got it. So but it's but the
+
+>> Got it. So but it's but the
 diversification is not in terms of
 strategy, but more in terms of products
 and assets is is is how is what you
-&gt;&gt; That's correct.
+
+>> That's correct.
 Got it. Got it. So, um I I remember
 there's another thing I'm not sure a few
 years back, it could be five or six
 years back or more, maybe a decade back,
 uh Tom and uh you know uh you you did a
+
+--- 43 YEARS OF SCALPING ---
+
 series on scalping with Tony. Okay. And
 um I I I remember it was like some five
 or six videos on scalping and it was
@@ -1097,13 +1287,14 @@ method to what you were doing? Uh I'm
 just curious a lot of people uh asked me
 that question. Um you know so I I
 thought I should ask you.
-&gt;&gt; Well I have been scalping for 43 years.
+
+>> Well I have been scalping for 43 years.
 So
 when you say is this something that's
 intuitive to me or something that I
 enjoy doing, the answer is yes. Because
 even today, you know, I've been scalping
-S&amp;P futures this morning. I've been, you
+S&P futures this morning. I've been, you
 know, scalping some some stocks um in
 addition to my position trading. So, you
 know, I mean, I've already made probably
@@ -1123,10 +1314,12 @@ but, you know, again, I've been doing a
 long time, but you know what? Um,
 I do it more because I love it than, you
 know, than anything else.
-&gt;&gt; Okay. But you also say you're not a
+
+>> Okay. But you also say you're not a
 chartist. So, what what are you looking
 at when you when you're scalping?
-&gt;&gt; Oh, I've never looked at a chart in, you
+
+>> Oh, I've never looked at a chart in, you
 know, in four decades. Um, not I'm not
 looking at anything on charts. I mean,
 I'm just looking at price. I mean, I I I
@@ -1138,12 +1331,16 @@ are or where we've been or anything like
 that. You know, I I promise you, you
 could not stump me on on where the
 market is or anything like that.
-&gt;&gt; Got it. Got it. Interesting.
+
+>> Got it. Got it. Interesting.
 Interesting. So, uh so yeah, so that
 that's something which I had on my mind.
 I'm so glad I you know I've been able to
 ask you this question. Um there's
 another question which comes to my mind
+
+--- ANOMALIES AND CHANGING MARKETS ---
+
 talking about strategies. So given that
 you've been in the markets for four
 decades, are there things that you saw
@@ -1152,7 +1349,8 @@ existed at one point of time but today
 you know it it makes no sense to trade
 them and what are they if if if you if
 you remember any of those?
-&gt;&gt; I mean there's some indexes that um I
+
+>> I mean there's some indexes that um I
 mean there's always going to be some
 indexes and some stocks that used to be
 super liquid and that just you know
@@ -1166,14 +1364,15 @@ trading, the most actively traded equity
 was IBM. You know, now IBM's not even in
 the top 100,
 you know, so it just depends. When I
-started trading, the S&amp;P 100, the OEX
+started trading, the S&P 100, the OEX
 was the most actively traded index.
 Today, it doesn't even trade anymore.
 So, you know, it really just depends. A
 lot of things change. I wouldn't read
 too much into that because there's tons
 there's tons of new stuff as well.
-&gt;&gt; So as a as a trader if if someone is
+
+>> So as a as a trader if if someone is
 starting right now do you think how do
 they think about it? So uh how do they
 kind of factor in um the the changing
@@ -1181,12 +1380,16 @@ possibility of products and so what what
 kind of an edge should one develop if I
 have to you know if I have to build a
 career in this area if I have to become
+
+--- ADVICE FOR NEW TRADERS ---
+
 a better trader? Well, I I think the key
 to becoming a better trader is to is to
 trade. You know, I know that sounds so
 basic, but I think it's the kind of um
 it's the kind of business where you just
-&gt;&gt; you have to you have to get involved in
+
+>> you have to you have to get involved in
 order to really understand, you know,
 there's a lot of knowhow. There's a lot
 of um experience that you get from just,
@@ -1195,7 +1398,8 @@ certain things. And I it's hard and I
 think you just need to experience it to
 see if it's something that that you like
 that gets you excited
-&gt;&gt; and
+
+>> and
 it's there I mean I I know it's related
 but then is is that how you think one
 can develop an intuitive sense of what's
@@ -1206,7 +1410,8 @@ you look at a strategy you say Okay, how
 do you develop that sense that hey, you
 know, this this approach to markets is
 not going to work. How do you uh
-&gt;&gt; I I think it's really important that you
+
+>> I I think it's really important that you
 figure that out. I think different
 people have different risk tolerances.
 Like, for example, some people are very
@@ -1229,11 +1434,17 @@ only like to sell naked puts. It really
 depends. I I'm not gonna I'm not going
 to guess on this one. I just think you
 need to play around and experiment.
-&gt;&gt; All right. I think it makes sense. You
+
+>> All right. I think it makes sense. You
 find out in each one of us would figure
 out our own sweet spot over time.
-&gt;&gt; I think that is the case truly.
-&gt;&gt; Okay. So uh so other thought which you
+
+>> I think that is the case truly.
+
+--- AUTOMATION, APIs, AND TRADING BOTS ---
+
+
+>> Okay. So uh so other thought which you
 you said you should punch in orders and
 all that that goes uh so there's a lot
 of talk about automation and using APIs
@@ -1245,7 +1456,8 @@ on that? Is that the future? Is that how
 a [snorts] lot of retail I'm I'm I'm
 talking more about retail here. Is that
 how retail is going to trade?
-&gt;&gt; I doubt it. I I don't believe so. I
+
+>> I doubt it. I I don't believe so. I
 believe that it's very difficult to um
 to code and to program um a trading bot
 to do to think for you. Um I'm a brains
@@ -1292,7 +1504,8 @@ retail technology as far as execution
 goes. If it doesn't work for them, I
 don't know how it could possibly work
 for a retail investor.
-&gt;&gt; So, you mean a lot of trading is will
+
+>> So, you mean a lot of trading is will
 for for for the foreseeable future is
 going to be manual. Is that I mean is
 there a number to it? I'm I'm sure you
@@ -1301,7 +1514,8 @@ users or subscribers um you know or
 customers who use um the API to kind of
 punch in their orders. Do you see a
 trend there?
-&gt;&gt; Um I mean it's a growing number of users
+
+>> Um I mean it's a growing number of users
 we but it's a very small percentage of
 the order flow. So when you're talking
 about percentage of order flow it's less
@@ -1310,7 +1524,8 @@ There's definitely a growing number of
 users who are experimenting but again
 the order flow percentage is really
 small.
-&gt;&gt; Got it. Got it. I'm quite bullish the
+
+>> Got it. Got it. I'm quite bullish the
 way I see it here. uh but it depends as
 I said the in I think the story is
 similar in India as well where the
@@ -1318,7 +1533,8 @@ number of as a percentage of the order
 flow it'll be very small but then if you
 if you look at it among traders a lot of
 them are excited about using technology
-&gt;&gt; I I I understand the excitement piece to
+
+>> I I I understand the excitement piece to
 it I get it but I just think that most
 people don't realize what you're up
 against so if you are doing something on
@@ -1349,7 +1565,11 @@ theoreticals than everything you have.
 And so
 my issue with it is you are totally
 disadvantaged right out of the shoot.
-&gt;&gt; Got it. So, so you you spoke about Jane
+
+--- THE JANE STREET CONTROVERSY IN INDIA ---
+
+
+>> Got it. So, so you you spoke about Jane
 Street and I'm not sure if you uh
 followed the story in India where um the
 regulator in India went against Jane
@@ -1357,14 +1577,17 @@ Street because they they claimed that
 Jane Street was manipulating the
 markets. I'm not sure if you heard about
 that.
-&gt;&gt; I followed it.
-&gt;&gt; Okay. So, what what do you have to say
+
+>> I followed it.
+
+>> Okay. So, what what do you have to say
 about that? Uh just curious what what's
 your thought. Was it market manipulation
 or was it a bad uh index in terms of how
 the index was structured? What what's
 your thought?
-&gt;&gt; So
+
+>> So
 again, we're going to get back to you
 know um the the Indian regulators cuz I
 I have spent a lot of time with Indian
@@ -1396,7 +1619,7 @@ kind of almost a normal situation as
 there's growth in the system.
 I'm sure Jane Street
 here. Jane Street is not
-they're not alter boys. Okay. It's not
+they're not altar boys. Okay. It's not
 they're they're they're they're a very
 competitive firm.
 My experience with them is their
@@ -1432,9 +1655,13 @@ bottom line of this whole James Street
 thing is that it's going to benefit the
 entire listed marketplace in India in a
 big way. Um that's how change happens.
-&gt;&gt; I I I really hope it does Tom. Um that
+
+>> I I I really hope it does Tom. Um that
 reminds me about another thing. I'm not
 sure uh if you followed this one. Now in
+
+--- ZERO-DTE OPTIONS AND WEEKLY EXPIRIES IN INDIA ---
+
 India post 2020 we had uh like like it
 happened in the US we had a boom in
 terms of uh trading as such not just you
@@ -1449,8 +1676,8 @@ products and um there were multiple
 indexes on which options were uh options
 were launched and each product had a
 expiry on a different day. So 5 days a
-week we would have some zerod expiry. So
-this is not exactly the zero DTE u uh
+week we would have some zero-DTE expiry. So
+this is not exactly the zero-DTE u uh
 what you have but then this is a new uh
 a different product expiring each day of
 the week and obviously it you know there
@@ -1475,11 +1702,13 @@ solved it. But then I'm not sure um you
 know if if that's the best way to deal
 with it. Uh do you have any thoughts on
 that?
-&gt;&gt; Well, it's not the best way to deal with
+
+>> Well, it's not the best way to deal with
 it because I mean you know the last
 thing you want is the regulators quote
 trying to protect you.
-&gt;&gt; Um that's you know they make things
+
+>> Um that's you know they make things
 worse not better. Um I'm all for you
 know as many products as possible. I I
 just think the challenge there's there's
@@ -1489,10 +1718,12 @@ like hands-on experience with the
 markets but from what I I have you know
 given um a lecture at the Mumb Mumbai uh
 stock exchange and
-&gt;&gt; um also you know I've met with the the
+
+>> um also you know I've met with the the
 head of the exchange and and a couple of
 the regulators there before um
-&gt;&gt; and my my gut instinct says that that
+
+>> and my my gut instinct says that that
 you know the the exchange is trying to
 play you
 What they're saying is they're trying to
@@ -1505,28 +1736,32 @@ protection is, then that's fine. But
 don't throw out like, you know, partial
 products. It doesn't make any sense to
 me.
-&gt;&gt; I wish I wish there there are more
+
+>> I wish I wish there there are more
 voices like you, Tom. Okay. So, so that
-uh you know how did US take to zero DT
+uh you know how did US take to zero-DTE
 talking about zero because we're talking
-about zerodt uh there were questions
+about zero-DTE uh there were questions
 about market stability and there could
 be you know some kind of systematic or
 systemic risk that could come in because
-of zerod and uh how did that play out in
+of zero-DTE and uh how did that play out in
 the US?
-&gt;&gt; Well, I mean take a look at it. It
+
+>> Well, I mean take a look at it. It
 hasn't had any impact at all. The
 market's at record highs and there has
 been no systemic risk that I can tell
-from zero GTE. So to this point it has
+from zero-DTE. So to this point it has
 not been a problem.
-&gt;&gt; All right. Well, but what what were
+
+>> All right. Well, but what what were
 there voices which said that you know
 this is not a good thing. You know zero
 DD doesn't add any value to to the
 market or the ecosystem.
-&gt;&gt; Well that's
+
+>> Well that's
 you know I I understand that but that
 assumes that you believe that the only
 value to the ecosystem is that you know
@@ -1539,7 +1774,7 @@ exchanges in the US which is you know is
 which is why we're the center of
 liquidity for the entire world. So I
 would argue that the exact opposite in
-that zerod and other trading instruments
+that zero-DTE and other trading instruments
 like that have kept the US as the true
 um largest pool of liquidity anywhere in
 the world 10 times over which helps to
@@ -1549,7 +1784,11 @@ shortsighted to think that okay you know
 the product doesn't bring any um doesn't
 doesn't serve any purpose. I completely
 disagree.
-&gt;&gt; Got it. Okay. So, uh uh you know, that
+
+--- CLOSING THOUGHTS ---
+
+
+>> Got it. Okay. So, uh uh you know, that
 brings us to the end, uh Tom, and I have
 a few questions. Now, you know, you you
 were telling me in your initial days,
@@ -1559,14 +1798,18 @@ there a specific routine that you follow
 to keep you going? U you know, how do
 you do that? That that's that's the
 question.
-&gt;&gt; I don't have any hobbies.
+
+>> I don't have any hobbies.
+
 [laughter]
+
 But then but is there a schedule that
 you follow in in in in terms of you know
 to make sure that you are right there uh
 just to keep you mentally uh going every
 day and that's not easy I'm sure
-&gt;&gt; um you know it's it's I think that's
+
+>> um you know it's it's I think that's
 personal in the sense that it has never
 been it has never been a problem for me
 to motivate myself and to get myself you
@@ -1575,7 +1818,8 @@ an issue for me. I I enjoy working. It
 keeps me alive. It keeps me, you know,
 young. It keeps me vibrant. I I It's
 important to me.
-&gt;&gt; I wish we all could have something like
+
+>> I wish we all could have something like
 that. So, u So, I I wish more more of
 that for you. So, so what what comes to
 my mind is I I'm I'm really happy that
@@ -1595,9 +1839,12 @@ and if I get to India I will um for sure
 let you know if if I get back and I I
 assume I will at some point. I just
 don't have it in my immediate plans.
-&gt;&gt; Lovely. Thank you so much Tom. Thank you
+
+>> Lovely. Thank you so much Tom. Thank you
 for taking time out and uh you know I
 hope to have you back again sometime on
 the show.
-&gt;&gt; Thanks. Thanks Andy. Appreciate it.
-&gt;&gt; Thank you. Thank you Tom.
+
+>> Thanks. Thanks Andy. Appreciate it.
+
+>> Thank you. Thank you Tom.

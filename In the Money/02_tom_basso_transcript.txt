@@ -1,15 +1,67 @@
-buy the dip and you're going to regret
-buying the dip. I think sharp is
-useless.
-&gt;&gt; Let me extend that conversation to this
-whole idea of active versus passive.
-&gt;&gt; I take it with a grain of salt. Trading
-is nothing more than solving your own
-financial problems. And uh my financial
-problems are different than other
-people's. Stay in the now. Don't predict
-and understand yourself.
-[music]
+================================================================================
+IN THE MONEY — Episode 02
+================================================================================
+
+Guest:    Tom Basso ("Mr. Serenity")
+Title:    Systematic Trend Following, Self-Mastery, and Enjoying the Ride
+Recorded: Late 2025
+
+ABOUT THE GUEST
+Tom Basso, known as "Mr. Serenity" — a name given by Jack Schwager in The New
+Market Wizards — is one of the pioneers of systematic trend following. A
+chemical engineer by training, he founded Trendstat Capital Management in the
+early 1980s, one of the first systematic trend following firms in the US,
+managing nearly $600 million at its peak. Tom is renowned for bringing an
+engineer's precision to trading: designing systems that turn market data into
+orders, emphasizing position sizing, volatility control, and diversification
+long before these concepts became mainstream. His philosophy centers on
+self-mastery over market prediction. After retiring from Trendstat in 2003, he
+continues to trade independently, managing a fully automated futures portfolio
+in under an hour a day. His motto: "Enjoy the ride."
+
+TOPICS COVERED
+- The meaning of "Mr. Serenity" and cultivating self-awareness
+- From chemical engineering to markets: an unlikely path
+- First mutual fund investments at age 12
+- Hand-charting markets and the origins of point-and-figure bar
+- The evolution from discretionary to systematic trading
+- Commodities as diversification: why coffee doesn't care about the S&P
+- Building trading systems from spreadsheets to automation
+- Position sizing: risk, volatility, and margin as percent of equity
+- Keltner bands, Bollinger bands, and volatility-adaptive indicators
+- Filling the potholes: combining long-term and short-term strategies
+- Law of large numbers and the psychology of single trades
+- The Sharpe ratio is useless (and why comfort ratios matter more)
+- COVID trading: 103% returns by just following the system
+- Active vs. passive investing: the academic blind spot
+- The Jane Street controversy in India
+- AI in trading: useful for coding, dangerous for strategy
+- Automation of execution: 100% automated, but human creativity matters
+- Managing your own money vs. client money: potential stressors
+- Advice for retail traders: build a business plan for your trading
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[COLD OPEN — Key moments from this conversation]
+
+  "buy the dip and you're going to regret"
+  "buying the dip. I think sharp is"
+  "useless."
+  "Let me extend that conversation to this"
+  "whole idea of active versus passive."
+  "I take it with a grain of salt. Trading"
+  "is nothing more than solving your own"
+  "financial problems. And uh my financial"
+  "problems are different than other"
+  "people's. Stay in the now. Don't predict"
+  "and understand yourself."
+  "[music]"
+
+
+--- INTRODUCTION ---
+
 Tom, thank you so much for taking time
 to talk to us. You've been one of the
 most quietly influential voices in the
@@ -18,7 +70,7 @@ disciplined approach has inspired
 generations of systematic traders. For
 those of you who may not know Tom, he is
 called Mr. Serenity, a name Jack
-Schwagger gave him in the book The New
+Schwager gave him in the book The New
 Market Wizards. He began his career as a
 chemical engineer, but what really set
 him apart was how he brought in an
@@ -58,12 +110,16 @@ Tom, it's a real honor to have you with
 us today. You influence many of us think
 about systems, risk, and the art of
 staying calm in chaos. Let me start with
+
+--- THE MEANING OF MR. SERENITY ---
+
 something simple. When people call you
 Mr. Serenity, what does that mean to
 you? And has that calmness always come
 to you naturally or did trading teach it
 to you?
-&gt;&gt; Uh I learned over a period of time. Uh
+
+>> Uh I learned over a period of time. Uh
 originally I was a 22year-old uh out of
 college uh drank way too much coffee. Um
 was trying to do too many things at the
@@ -120,7 +176,8 @@ before, I decided every half an hour, I
 put a uh little what they call a post-it
 note, you know, the little sticky note
 thing. I stuck it on my screen.
-&gt;&gt; And every time, you know, I I actually
+
+>> And every time, you know, I I actually
 would see that and it would say, "Be
 aware."
 And what that was a reminder to me of
@@ -144,7 +201,11 @@ middle of a golf swing. Yeah, it is.
 I've been doing it for 50 years or
 something. I don't know. It it So, but
 it's a learned skill.
-&gt;&gt; Got it. Got it. So, I've got to learn
+
+--- SCHOOL DAYS AND THE PATH TO CHEMISTRY ---
+
+
+>> Got it. Got it. So, I've got to learn
 that too because with these days, I'm
 sure um the the number of distractions
 that we have are way too many. Even when
@@ -153,11 +214,13 @@ way too many tabs open. And I have that
 bad habit of opening many tabs at a
 given time. So, I think I need that
 sticky note more than you do today. So,
-&gt;&gt; yeah, you you finish a tab and you get
+
+>> yeah, you you finish a tab and you get
 rid of it. I've got a total of uh well,
 see, two of the tabs are for you guys
 and I have three other tabs open.
-&gt;&gt; Yeah, I've got to learn that. So um so
+
+>> Yeah, I've got to learn that. So um so
 one of my questions which I had I I did
 research a bit about you but I didn't
 find much about what kind of a student
@@ -183,7 +246,11 @@ the scholarships really helped. Was
 chemical engineering out of choice or
 was that the in thing at that point of
 time?
-&gt;&gt; I loved chemistry. Uh still think it's
+
+--- FROM MONSANTO TO MARKETS ---
+
+
+>> I loved chemistry. Uh still think it's
 fascinating.
 I liked organic chemistry the best even.
 Uh but I I just like the sort of the
@@ -221,12 +288,20 @@ whatever, you know, and so it always
 fascinated me and I loved chemistry. So
 chemical engineering is the combination
 of math and chemistry.
-&gt;&gt; Lovely.
-&gt;&gt; Made my decision. And and from Clarkson
+
+>> Lovely.
+
+--- FROM CLARKSON TO MONSANTO ---
+
+
+>> Made my decision. And and from Clarkson
 you you joined Monsanto straight away.
-&gt;&gt; Yes. Right out of school.
-&gt;&gt; And what were you doing at Monsanto?
-&gt;&gt; Uh we were doing industrial chemicals.
+
+>> Yes. Right out of school.
+
+>> And what were you doing at Monsanto?
+
+>> Uh we were doing industrial chemicals.
 Uh I was helping to design new plants
 and uh bottleneck
 uh older plants that we needed more
@@ -242,10 +317,14 @@ for ways of squeezing down the uh
 efficiency squeezing up the efficiency
 of the process to either produce higher
 quality product more product or uh
+
+--- FIRST ENCOUNTERS WITH THE MARKETS ---
+
 reduce the energy usage. And when did
 markets happen during this phase? Was it
 in college or was it after college?
-&gt;&gt; High school. High school is when I
+
+>> High school. High school is when I
 started buying my first mutual fund. Uh
 but at that point I was not
 at all
@@ -273,14 +352,19 @@ money just kind of kept going into my
 mutual fund account and it built up more
 and more. Did someone tell you about in
 I mean I'm
-&gt;&gt; Yeah.
-&gt;&gt; I'm I'm curious. A 16-year-old boy
+
+>> Yeah.
+
+>> I'm I'm curious. A 16-year-old boy
 investing in a mutual fund. Did you know
 how did you figure that out?
-&gt;&gt; Oh, it was as as I was 12 years old when
+
+>> Oh, it was as as I was 12 years old when
 I started investing.
-&gt;&gt; Okay.
-&gt;&gt; Uh and how that happened was my father
+
+>> Okay.
+
+>> Uh and how that happened was my father
 who was a uh a postal delivery guy. He
 he would walk around routes and deliver
 people's mail. He uh some for some
@@ -310,12 +394,17 @@ realizing that and I then really got
 into charting and trying to sold out of
 the mutual fund and started managing my
 own money and use that as part of the
+
+--- HAND-CHARTING AND THE BIRTH OF A SYSTEM ---
+
 seed capital to start my own account.
-&gt;&gt; Interesting. And at that time what did
+
+>> Interesting. And at that time what did
 charting mean?
 Because we did not have these electronic
 tools I'm assuming.
-&gt;&gt; Yeah, that's for sure. I did a wore my
+
+>> Yeah, that's for sure. I did a wore my
 eyes out and my uh my poor fingers from
 holding on to a pencil and charting. Uh
 I would have chart paper. Everything
@@ -342,9 +431,9 @@ that works in my brain. It's not
 important. It's not magical. It's not uh
 uh the magic bullet or anything. It's
 going to have the same types of
-statistics as a Kelner band or a Boinger
+statistics as a Keltner band or a Bollinger
 band or a
-Donin channels and lots of other things.
+Donchian channels and lots of other things.
 It's just slightly different wrinkle to
 it. But when I got started doing that, I
 started realizing I looked down at a
@@ -374,8 +463,10 @@ work. And so I set out to do that. And
 um that probably was a few years a year
 to two years into the process and
 another
-&gt;&gt; when was this which year would
-&gt;&gt; this would have been back in the 70s. Uh
+
+>> when was this which year would
+
+>> this would have been back in the 70s. Uh
 probably around 76 to 80 right in there.
 or some place
 and it took four years but on the fourth
@@ -383,7 +474,11 @@ year I uh actually got to where I was
 finally slightly profitable
 and uh at that point it just got better
 and better.
-&gt;&gt; And um you know since we're talking
+
+--- BOOKS AND INFLUENCES: MARK DOUGLAS, VAN THARP ---
+
+
+>> And um you know since we're talking
 about markets did you read some books
 did you um were there people whose ideas
 influenced you right in the beginning in
@@ -391,7 +486,8 @@ those four years? Yeah, the Mark Douglas
 books on the psychology of trading. Uh I
 can't even remember the name of them
 now, but he's no long
-&gt;&gt; Yeah, Trading in the Zone is definitely
+
+>> Yeah, Trading in the Zone is definitely
 one of them and there's a couple of
 others he wrote. All of them are really
 good. Uh I did I do like now I don't
@@ -441,7 +537,11 @@ myself. Uh very fascinating uh education
 I would say. And all three of those
 areas have to be in place to be a
 successful trader I think.
-&gt;&gt; Right. So um talking about trend
+
+--- THE EVOLUTION TOWARD TREND FOLLOWING ---
+
+
+>> Right. So um talking about trend
 following was there um a natural
 inclination that you had towards trend
 following or did you explore during
@@ -452,7 +552,8 @@ following works better for you. So, how
 did that the evolution of trend
 following in your mind? How did that
 happen?
-&gt;&gt; I would say at first I was a little bit
+
+>> I would say at first I was a little bit
 more trying to be a fundamental guy
 trying to understand the supply and
 demand of a market or the the
@@ -509,20 +610,28 @@ awful lot of losses. And uh I think
 that's what I
 locked on to early on and uh just kept
 running it for what 45 50 years now.
-&gt;&gt; Got it. So you said you would you know
+
+--- COMMODITIES: THE DIVERSIFICATION ARGUMENT ---
+
+
+>> Got it. So you said you would you know
 you you started off being a fundamental
 person but then when we talk about
 commodities there's no fundamentals
 there it's it's largely demand and
 supply. So there different thing. Yeah
 there is
-&gt;&gt; there there are some fundamentals but
+
+>> there there are some fundamentals but
 yeah.
-&gt;&gt; Okay. Yep.
-&gt;&gt; So how did you get started with
+
+>> Okay. Yep.
+
+>> So how did you get started with
 commodities? What was the idea behind
 getting into commodities?
-&gt;&gt; It was diversification. Uh when I
+
+>> It was diversification. Uh when I
 started out the world was uh you know
 the Indian market was a lot younger.
 Japan market was out there. there were
@@ -573,8 +682,10 @@ like gold were interesting. Silver had a
 big run when the Hunts tried to corner
 it uh way back when. U there was lots of
 big moves that happened in commodities
-&gt;&gt; just the way it's happening right now.
-&gt;&gt; Yeah. Well, frosts in uh Florida for
+
+>> just the way it's happening right now.
+
+>> Yeah. Well, frosts in uh Florida for
 orange juice, coffee having a problem
 with a frost in Brazil and the crop is
 looking to be small and you know there
@@ -583,7 +694,7 @@ on. And when you sit back just not as a
 statistician, just as a human being, a
 logical thinking person, and you ask
 yourself, what does coffee care about
-what the S&amp;P 500 is doing? Nothing. They
+what the S&P 500 is doing? Nothing. They
 are diversified. They're two different
 completely different markets. One could
 go up and the other one goes up. One
@@ -610,7 +721,11 @@ energy and you know you can get pretty
 widely diversified very quickly in the
 futures markets where it's hard to do
 that in stocks anymore.
-&gt;&gt; Got it. So, so during this phase when
+
+--- BUILDING CONVICTION IN SYSTEMATIC TRADING ---
+
+
+>> Got it. So, so during this phase when
 now you have a sense of the markets,
 you're doing commodities, you you
 already done equity and now we have
@@ -702,7 +817,11 @@ That's more creative human endeavor and
 a lot more fun. uh the the actual
 running of the orders every day is the
 least exciting thing I do every day.
-&gt;&gt; I get that. So going back to your
+
+--- BACKTESTING IN THE PRE-COMPUTER ERA ---
+
+
+>> I get that. So going back to your
 spreadsheet days, was were you back
 testing on spreadsheets at that point of
 time or how did this whole idea of be it
@@ -745,7 +864,8 @@ my first PC and that that's when I
 started automating uh more in the
 computer and then things happened fast
 after that.
-&gt;&gt; Did you get prizes uh was there
+
+>> Did you get prizes uh was there
 databases on through which you could get
 prizes into uh a spreadsheet? Uh yeah,
 back then in 1980 I was able to tie into
@@ -766,23 +886,32 @@ they were scrambling to try to figure
 out, well, how can we get 10 years of
 history so these people can buy it from
 us?
-&gt;&gt; Buy it.
-&gt;&gt; But they did they hadn't been keeping
+
+>> Buy it.
+
+>> But they did they hadn't been keeping
 it. So, um, they had people were
 scrambling to try to figure out it was a
 it was the wild wild west.
-&gt;&gt; I I I I can I I get a sense of what it
+
+>> I I I I can I I get a sense of what it
 was.
-&gt;&gt; And also the data the data had flaws.
+
+>> And also the data the data had flaws.
 You had to run
-&gt;&gt; I'm sure
-&gt;&gt; data checks uh I I would find
-&gt;&gt; I would run a check like here's the high
+
+>> I'm sure
+
+>> data checks uh I I would find
+
+>> I would run a check like here's the high
 or low for the day and the high and low
 and the open was here
 up up above the high. How
-&gt;&gt; how can I
-&gt;&gt; the high and low it can't or the close
+
+>> how can I
+
+>> the high and low it can't or the close
 the close is below the low can't happen.
 So you'd spit it out and you'd have to
 go back and try to make sense of what
@@ -817,8 +946,12 @@ consume the electricity and and all
 that. So we were running server banks
 before they were server banks. I guess
 we were stacked
-&gt;&gt; stacked them up. We had uh we had had
+
+>> stacked them up. We had uh we had had
 good air conditioning in our little
+
+--- THE FIRST TRADING SYSTEM: PF BAR ---
+
 office at Trenstat. So uh so so if I go
 back to those days, was there a trading
 system that um you were running? I'm
@@ -826,13 +959,17 @@ sure there was. And what was that? Can
 you give me the the you know in a in a
 rudimentary sense? What what exactly was
 that first trading system that you had?
-&gt;&gt; In a rudiment frame were you trading?
-&gt;&gt; In a rudimentary sense, I was using
+
+>> In a rudiment frame were you trading?
+
+>> In a rudimentary sense, I was using
 point and figure philosophy
 on bar charts. So u for example X's go
 up on point and figure O's go down.
-&gt;&gt; Yes.
-&gt;&gt; So I would let the bar you know the bar
+
+>> Yes.
+
+>> So I would let the bar you know the bar
 chart would run up. That's a row of X's.
 It would peek out and go the other way.
 So that would be the kind of the top of
@@ -860,9 +997,11 @@ human uh driven. Uh as a human being,
 you're limited to how much you can
 handle. you just can't process, you
 know, a lot of stuff.
-&gt;&gt; Computers, you know, 200 markets is no
+
+>> Computers, you know, 200 markets is no
 problem.
-&gt;&gt; So, so can we call it was something on a
+
+>> So, so can we call it was something on a
 daily time frame or would you want to
 call it a weekly time frame because you
 were um I I know you were on point and
@@ -872,12 +1011,14 @@ there. So, but how did you at what point
 would you go back you know what was the
 interval at which you would go back and
 check prices?
-&gt;&gt; The uh it would be daily and remember
+
+>> The uh it would be daily and remember
 that we're using point and figure bar.
 The bar is daily. We're using point and
 figure concepts over top of the bar. So
 that's why I call it PF bar.
-&gt;&gt; Um so it's a it's a kind of a blend
+
+>> Um so it's a it's a kind of a blend
 between the two. But we'd update daily,
 get new prices, new orders, cancel and
 replace the entire set of orders. Uh, so
@@ -885,7 +1026,11 @@ a lot of orders were going in. We had
 like a few hundred clients and $600
 million and 40 computers and 10 people
 and a lot of stuff happening.
-&gt;&gt; Interesting. So um so if you now that
+
+--- EDGE DECAY AND THE ACCELERATION OF MARKETS ---
+
+
+>> Interesting. So um so if you now that
 you've seen 1980s and how trend
 following was then and then 90s 2000 all
 the way till today a lot of times when I
@@ -897,7 +1042,8 @@ given instrument the returns kind of
 reduce over a period of time did you
 observe something like that or do you
 observe that phenomena
-&gt;&gt; I don't observe oberve it as much as a
+
+>> I don't observe oberve it as much as a
 lot of people seem to think there is.
 But I do observe that those trends
 happen quicker. My theory of the whole
@@ -941,14 +1087,15 @@ in the 1970s because in the 70s you just
 had a lot of impediments to getting
 things done. You had to work hard to
 move the money.
-&gt;&gt; Nowadays it's you can do it on your
+
+>> Nowadays it's you can do it on your
 phone. It's ridiculous. So from anywhere
 in the world, you guys in India can
 trade around the world. I can trade
 India. It's getting to be a very small
 world out there. And I think because of
-that um bare market that back in 7374
-in S&amp;P uh down 50% in those two years.
+that um bear market that back in 7374
+in S&P uh down 50% in those two years.
 Now you can do say down 35 during COVID
 in about a month, month and a half and
 it has the same horrifying,
@@ -960,7 +1107,7 @@ instead of two years, it's only 35%, but
 it happens so quickly it scares the wits
 out of everybody.
 And uh then it turns around and makes
-new highs. Just one more bare market.
+new highs. Just one more bear market.
 I've lived through a lot of them over
 the years. But my thesis is that all of
 this stuff's happening with much much
@@ -968,7 +1115,8 @@ greater volatility. So you need to you
 need to think through how you deal with
 greater volatility and size your
 positions properly and be careful.
-&gt;&gt; I I get that. So, so in a sense what
+
+>> I I get that. So, so in a sense what
 you're saying is since things are
 happening faster, does it mean we have
 shorter trends and you know how does it
@@ -977,7 +1125,8 @@ terms of pullbacks in terms of um you
 know how the way the trend would
 manifest in a given product or an
 instrument?
-&gt;&gt; Um I think there's the potential
+
+>> Um I think there's the potential
 through speed of motion to have more
 psychological impact in a smaller amount
 of time. So my thesis is is that yes,
@@ -998,10 +1147,14 @@ But right now, that's working great. I
 think uh you still have to have the
 psychological euphoria of a good market
 and you need to have the psychological
-horror of a bare market. And I think
+horror of a bear market. And I think
 those are uh able to happen a lot
 quicker than they used to.
-&gt;&gt; I want to get to something more specific
+
+--- ADAPTING PARAMETERS: VOLATILITY-ADAPTIVE INDICATORS ---
+
+
+>> I want to get to something more specific
 when I ask that question. So let's say
 you you follow a breakout system or you
 follow a moving average kind of system
@@ -1020,21 +1173,25 @@ themselves. So if you examine the math
 behind a math is dry but if you can make
 math practical I like it. Uh so if you
 look at the math behind say a simple
-donin channel which I use a lot because
+Donchian channel which I use a lot because
 it's simple to describe it. It's the
 high of say the last 21 days and the low
 of the last 21 days. Well,
-&gt;&gt; yep.
-&gt;&gt; If you use 21 days and that's about a
+
+>> yep.
+
+>> If you use 21 days and that's about a
 month of trading
 including holidays and whatever. So, you
 got you got this uh kind of uh top and
-bottom band of the donins and the
+bottom band of the Donchian and the
 highest high and the lowest low. Well,
 if volatility gets greater,
-&gt;&gt; guess what happened to the don channels?
+
+>> guess what happened to the Donchian channels?
 It got wider.
-&gt;&gt; So, it adjusts itself over time.
+
+>> So, it adjusts itself over time.
 And I like indicators like that. I don't
 like things like um say a hardwired
 50-day moving average
@@ -1047,19 +1204,22 @@ indicator you might use to go across the
 21 days is is becoming more volatile.
 and you're not adjusting at all for
 that. That's worrisome. But things like
-Kelner adjust, things like Bowlinger re
+Keltner adjust, things like Bollinger re
 adjust,
-&gt;&gt; my point and figure bar adjusts, my Don
+
+>> my point and figure bar adjusts, my Don
 adjusts, all of those have that same
 volatility inherent adjustment to their
 indicator uh math that takes into
 account changing conditions, which I
 think is over time a lot more robust it
 seems to me.
-&gt;&gt; Makes sense. Did you ever use moving
+
+>> Makes sense. Did you ever use moving
 averages and what what's your um you
 know thought on that?
-&gt;&gt; I did use moving averages very very
+
+>> I did use moving averages very very
 early on and my thought on that was uh
 when I went back and tried to do an
 optimization of the moving averages to
@@ -1068,7 +1228,7 @@ it would always change. And so I
 thought, well, how can I do something
 with this that changes automatically
 because this is not working. And that's
-when I I saw Kelner uh could use the
+when I I saw Keltner uh could use the
 average true range on the top and bottom
 of a moving average and therefore expand
 or contract with changing volatility.
@@ -1081,9 +1241,15 @@ that flexibility with changing market
 conditions.
 and I abandon rigid uh moving averages
 kind of stuff.
-&gt;&gt; Got it.
-&gt;&gt; So,
-&gt;&gt; so uh so moving to I mean I I was
+
+>> Got it.
+
+>> So,
+
+--- FILLING THE POTHOLES: MULTI-TIMEFRAME STRATEGIES ---
+
+
+>> so uh so moving to I mean I I was
 listening to one of your interviews and
 uh you speak about something a concept
 called filling the potholes where among
@@ -1093,9 +1259,10 @@ strategies. So um could you help me
 understand what kind of strategies are
 those and what what are we what are we
 trying to do in those strategies?
-&gt;&gt; Okay. I don't do mean reversion myself.
+
+>> Okay. I don't do mean reversion myself.
 It is a good alternative to use to fill
-potholes. Lawrence Benorp whose book is
+potholes. Lawrence Bensdorp whose book is
 like right there um as a friend and he
 does a lot of multiple trading strategy
 uh research and and I think he trades
@@ -1106,7 +1273,8 @@ but I like it. It it gives me the image
 of the track record going up the page
 and then a draw down happening. And
 that's the pothole and I want to fill it
-&gt;&gt; and uh yeah draw downs are not fun for
+
+>> and uh yeah draw downs are not fun for
 anybody. If you look at a lot of those
 potholes with trend following you
 realize that mean reversion strategies
@@ -1115,7 +1283,7 @@ Lawrence does it a number of different
 ways. The way I deal with the same
 situation
 is, for example, let's say I take a
-21-day don
+21-day Donchian
 strategy and I've got the typical
 long-term trend following draw down that
 you're going to see in any kind of trend
@@ -1134,8 +1302,10 @@ short. So, the market comes off that
 peak and immediately your short-term
 strategy goes short. So, you got one up,
 you got the other one down,
-&gt;&gt; other down
-&gt;&gt; and you kind of cancels each other. kind
+
+>> other down
+
+>> and you kind of cancels each other. kind
 of cancel the other and you've you've
 taken the risk way down. You've improved
 your return to risk ratios, which is I'm
@@ -1162,19 +1332,27 @@ money. What I find when I do that uh you
 do use the long-term and short term uh
 marrying together helps the return to
 risk ratio a great deal.
-&gt;&gt; Interesting. So something you know some
+
+>> Interesting. So something you know some
 people call it multi-time frame.
-&gt;&gt; Uh
-&gt;&gt; yeah.
-&gt;&gt; So that's what it is.
-&gt;&gt; And I do it across 30 plus markets.
-&gt;&gt; I'm just curious how do you track all
+
+>> Uh
+
+>> yeah.
+
+>> So that's what it is.
+
+>> And I do it across 30 plus markets.
+
+>> I'm just curious how do you track all
 your positions today? So I'm sure it's
 easier than what you did that time.
-&gt;&gt; Yeah. I don't do it by hand anymore. I
+
+>> Yeah. I don't do it by hand anymore. I
 you can pull in your positions. You can
 pull in your
-&gt;&gt; um you know the various uh the markets
+
+>> um you know the various uh the markets
 and uh have have a computer actually go
 through and say do all these positions
 that the broker says that I have are
@@ -1185,7 +1363,11 @@ weird here. you're supposed to have uh
 two short and you only have one short.
 So then you go in and investigate and
 try to figure out what happened.
-&gt;&gt; Moving to um Tom, moving to position
+
+--- POSITION SIZING: RISK, VOLATILITY, AND MARGIN ---
+
+
+>> Moving to um Tom, moving to position
 sizing. I I I was listening to some of
 your interviews and
 you had some thoughts in terms of how
@@ -1196,9 +1378,10 @@ I if this idea of position sizing
 evolved over time and what were those
 triggers based on which you changed your
 thinking about position sizing?
-&gt;&gt; Uh my position sizing at first was
+
+>> Uh my position sizing at first was
 highly affected by reading the first
-market wizards book by Schwagger uh on
+market wizards book by Schwager uh on
 Larry Height uh of Mint. Mint was one of
 our largest CTAs back in the day when I
 first started, Commodity Trading
@@ -1206,7 +1389,8 @@ Advisor. They were handling about a
 billion dollars and that was back in
 1980.
 So that was worth a lot of money.
-&gt;&gt; And uh Larry was not
+
+>> And uh Larry was not
 uh I would call a rocket scientist. He
 was more of a street smart guy. And it
 just made sense to him that you got to
@@ -1313,7 +1497,11 @@ taking profits too uh as a as a plus.
 But I don't look at it that way. I look
 at it as managing the volatility and the
 risk.
-&gt;&gt; Got it. Got it. Lovely. So um there's
+
+--- LAW OF LARGE NUMBERS ---
+
+
+>> Got it. Got it. Lovely. So um there's
 another thing which I uh you know read
 and probably listened to in one of your
 podcasts and you refer to the idea of
@@ -1326,7 +1514,8 @@ putting it to the mental side of the
 trader is any one trade is just one data
 point in your next 10,00 trades. I say
 that over and over again.
-&gt;&gt; Uh that's the way I truly think of it.
+
+>> Uh that's the way I truly think of it.
 If you [clears throat] have an edge and
 you know that doing your simulations,
 you make $1.25
@@ -1346,7 +1535,8 @@ and allow that expectation to expectancy
 to come to real life. That's the way I
 would describe it generically and simply
 so that people could understand.
-&gt;&gt; I I get that. But I have another point
+
+>> I I get that. But I have another point
 there. So let's say um you have multiple
 trading strategies and there's one
 strategy which kind of is more active
@@ -1354,15 +1544,18 @@ than the other. So one would give you
 more opportunities, the other one would
 give you lesser. So if you were to kind
 of
-&gt;&gt; uh look at it from a law of large
+
+>> uh look at it from a law of large
 numbers, there's one strategy which
 gives you more opportunities, but it
 also means there's more cost to trading,
 right? I mean, if we if we kind of
-&gt;&gt; uh So how do you put that aspect into
+
+>> uh So how do you put that aspect into
 this? How do you build that in when we
 talk about
-&gt;&gt; we actually at Trendstat we kept track
+
+>> we actually at Trendstat we kept track
 of every trade and exactly what the
 costs were to that trade. So there's the
 cost of the bid s spread there's the
@@ -1402,6 +1595,9 @@ And uh so that's kind of the way we take
 care of it. on the simulations we
 actually try to put some money in there
 for those markets. So today when you
+
+--- BACKTESTING METRICS: MAR RATIO, COMFORT RATIO, AND SHARPE ---
+
 look at um a back test or a strategy are
 there some key metrics that you focus on
 let's say if I have to ask you about
@@ -1409,7 +1605,8 @@ your top four or five metrics you look
 at them and say you know that that's
 your first you know view of that
 strategy what would that be
-&gt;&gt; I would say the first thing I look at is
+
+>> I would say the first thing I look at is
 the maximum draw down
 and then uh I would say
 I would probably look at a simple very
@@ -1442,8 +1639,10 @@ ratio. And I like to look at that from
 the standpoint the higher higher the
 better. And uh so I use that measurement
 sometimes too when I'm
-&gt;&gt; it's a ratio of time.
-&gt;&gt; It's a ratio over the time period
+
+>> it's a ratio of time.
+
+>> It's a ratio over the time period
 measured particularly useful when
 comparing one strategy versus another
 strategy.
@@ -1461,43 +1660,60 @@ see how you can improve your return to
 risk ratios and make you as a a trader
 more serene. So you could be Mr.
 Serenity too.
-&gt;&gt; Absolutely. We all aspire to be. So um
+
+>> Absolutely. We all aspire to be. So um
 so other than that, any other ratios? So
 we we spoke about
-&gt;&gt; Well, I think sharp is okay.
-&gt;&gt; Useless. Um, I can't understand how the
+
+>> Well, I think sharp is okay.
+
+>> Useless. Um, I can't understand how the
 heck
-&gt;&gt; somebody
-&gt;&gt; uh well to me it's useless because it's
+
+>> somebody
+
+>> uh well to me it's useless because it's
 standard deviation. It's what it's
 saying is that uh movement of price and
 returns is somehow bad.
-&gt;&gt; Bad and that's [clears throat] what you
+
+>> Bad and that's [clears throat] what you
 want actually.
-&gt;&gt; It is. Yes. Exactly. And especially in
+
+>> It is. Yes. Exactly. And especially in
 an up market,
-&gt;&gt; uh it penalizes a move up like if you
+
+>> uh it penalizes a move up like if you
 were to make 100%.
-&gt;&gt; You're penalized on your sharp ratio
+
+>> You're penalized on your sharp ratio
 because you made too much money too
 quickly and it runs the denominator up.
 So Sortino attempts to take care of
 that, but it's still using only
 volatility as a measurement and it's
 negative volatility as a measurement of
-&gt;&gt; on the downside.
-&gt;&gt; Yeah.
-&gt;&gt; So it still doesn't quite capture it.
+
+>> on the downside.
+
+>> Yeah.
+
+>> So it still doesn't quite capture it.
 So, some of these types of I guess
 measurements that are on the normal
 packages out there, I you know, I
 they're there. I can glance at them, but
 I don't really think they're that
 useful.
-&gt;&gt; I prefer to my comfort ratios a lot more
+
+>> I prefer to my comfort ratios a lot more
 getting at the heart of what you should
 be looking at as a trader, I think.
-&gt;&gt; Makes sense. Makes sense. So, that uh
+
+--- DISCRETION VS. SYSTEM: THE COVID EXAMPLE ---
+
+
+>> Makes sense. Makes sense. So, that uh
 Tom, that brings me to the next
 question. you you've been a systematic
 trader, but then have there been moments
@@ -1531,8 +1747,10 @@ in my lifetime. Markets lined up
 perfectly with everything I was doing is
 just sheer aberant
 multiple standard deviation.
-&gt;&gt; Absolutely.
-&gt;&gt; Uh performance way way beyond what I
+
+>> Absolutely.
+
+>> Uh performance way way beyond what I
 would expect. I would expect you know 15
 20% would be a good year for me. 103 is
 insane. But it points to the just doing
@@ -1540,7 +1758,8 @@ what you're doing and understanding
 enough about it to be comfortable in an
 environment that's scaring the heck out
 of everybody else.
-&gt;&gt; Makes sense. In fact, my next question
+
+>> Makes sense. In fact, my next question
 on my list was about CO. I'm so glad you
 brought that up because so um but you
 answered my question and um talking
@@ -1561,12 +1780,16 @@ after a couple of, you know, like I'm
 thinking this, so I should do the
 opposite of that. But boy, that doesn't
 feel very comfortable. That
-&gt;&gt; I would that could also mess your head
+
+>> I would that could also mess your head
 up pretty badly. So I would
-&gt;&gt; Yes.
-&gt;&gt; I would guard against doing too much of
+
+>> Yes.
+
+>> I would guard against doing too much of
 that.
-&gt;&gt; No, it it's it's more in terms of how
+
+>> No, it it's it's more in terms of how
 bad my discretion always is. So it never
 works. That That's what I want to say.
 So u talking about co yeah I'm I'm I'm
@@ -1580,21 +1803,30 @@ and did you have that fear did you think
 about it and if you did was there a way
 to deal with it other and diversifying
 across different assets.
-&gt;&gt; Yeah, my position sizing kicked in big
+
+--- TAIL RISK AND THE DONCHIAN CHANNEL DURING COVID ---
+
+
+>> Yeah, my position sizing kicked in big
 time. Uh, as the stuff was going down,
 my stops were not coming down as fast as
 they they usually would because well,
-think about it. A 21-day dungeon, for
+think about it. A 21-day Donchian, for
 example, you go into the COVID crash.
 So, the the top and the bottom is here.
 Well, the COVID crash happens. So now
-&gt;&gt; this is going all the way down. But 21
+
+>> this is going all the way down. But 21
 days
-&gt;&gt; later,
-&gt;&gt; the highest high is still up here.
+
+>> later,
+
+>> the highest high is still up here.
 Hasn't moved.
-&gt;&gt; Yes. Yes.
-&gt;&gt; But now a Kelner, the Kelner is based on
+
+>> Yes. Yes.
+
+>> But now a Keltner, the Keltner is based on
 a moving average exponential I use. It
 starts getting dragged down with prices
 and the stops move. So, I had some
@@ -1670,9 +1902,9 @@ see what was going on. And our oil
 position, which was long, was up $8 a
 barrel from 32 to 40. And I'm thinking,
 what the heck happened? And come to find
-out that we had in uh invaded from Uwait
+out that we had in uh invaded from Kuwait
 to protect U8. We it was the first Iraq
-war. This was back during uh HW Bush's
+war. This was back during uh H.W. Bush's
 uh presidency. And it was going well,
 but war was breaking out in the Middle
 East. So, you know, oil prices spiked. I
@@ -1703,18 +1935,23 @@ itself. It's not perfect, but you're
 taking the stab in the right direction
 and and I think that you have a plan in
 place and you execute the plan.
-&gt;&gt; That that's that's where being
+
+>> That that's that's where being
 systematic helps. One of the questions
+
+--- EQUITY INDEXES AND THE TAX ADVANTAGE OF FUTURES ---
+
 which I had was in terms of uh today
 when you look at the instruments that
 that form a part of your trend following
 system do you have indexes the broader
-indexes like S&amp;P 500 or NASDAQ or um or
+indexes like S&P 500 or NASDAQ or um or
 it doesn't include that. So my question
 was around indexes.
-&gt;&gt; Yeah. What to give my equity exposure
+
+>> Yeah. What to give my equity exposure
 anymore because of the both the tax laws
-in the United States with marktomark uh
+in the United States with mark-to-market uh
 futures and straddles in the IRS code
 combined together with the lack of wash
 sale rules uh for securities. It's a lot
@@ -1731,7 +1968,8 @@ really bored, but um it doesn't make a
 lot of sense. It's so much easier for me
 to trade futures to get my stock
 exposure.
-&gt;&gt; Got it. And um as far as indexes are
+
+>> Got it. And um as far as indexes are
 concerned, have you again observed any
 changes in terms of their structure? I
 know you pointed out to the speed of
@@ -1740,10 +1978,12 @@ versus way it is today. But then is
 there anything else that you would want
 to add in terms of how indexes have
 changed?
-&gt;&gt; Uh they seem to be dominated by
-kind of like a few stocks. Uh the S&amp;P is
+
+>> Uh they seem to be dominated by
+kind of like a few stocks. Uh the S&P is
 capitalization weighted and
-&gt;&gt; you know the magnificent seven and all
+
+>> you know the magnificent seven and all
 that. you know, they they get bigger and
 bigger and become trillion dollar giants
 and they dominate some of the indexes.
@@ -1763,6 +2003,9 @@ hassle of doing that, the commissions of
 doing that, everything, uh tracking it,
 uh it's it's easier for me to get the
 exposure through an index futures.
+
+--- ACTIVE VS. PASSIVE: THE ACADEMIC BLIND SPOT ---
+
 Um let me extend that conversation to
 this whole idea of active versus passive
 which a lot of people talk about and
@@ -1779,7 +2022,8 @@ uh and uh all all that uh you know you
 you know story about you can't beat the
 index in the long run all of that how do
 you look at that
-&gt;&gt; I look at it is coming from a bunch of
+
+>> I look at it is coming from a bunch of
 people who don't know how to trade uh so
 I take it with a grain of salt uh you
 know I I think they don't understand the
@@ -1803,7 +2047,8 @@ to not only deal with my own biases and
 emotions, but I've got to deal with the
 clients trying to exert even more
 pressure on
-&gt;&gt; situation.
+
+>> situation.
 And so, the academics who don't
 understand trading just simply say,
 well, the easy way to do this is just
@@ -1834,7 +2079,8 @@ to buy and hold, I would submit to you
 it's a strategy that a client can live
 with a lot better than they can the buy
 and hold. M
-&gt;&gt; but then there there's also this you
+
+>> but then there there's also this you
 know trillions of money which is going
 into passive is that also the reason why
 you know dips get bought into and you
@@ -1842,7 +2088,8 @@ know it's it's essentially other than co
 we we we've largely had an upward drift
 so how do you see that which I don't
 think that existed maybe in 70s or 80s
-&gt;&gt; right and I'm not moving hundreds of
+
+>> right and I'm not moving hundreds of
 billions of dollars for myself uh in
 retirement So yeah, if you're moving
 billions, you have to start like if
@@ -1886,6 +2133,9 @@ doesn't care. So I have an advantage
 over the big guys because I can dance in
 and out anytime I want and the cost of
 moving the market is very minimal. H but
+
+--- THE JANE STREET CONTROVERSY IN INDIA ---
+
 you know since we're talking about
 institutional versus retail trading and
 the advantages each has I'm not sure if
@@ -1895,8 +2145,10 @@ India where this firm uh American firm
 Jane Street uh they uh they were accused
 of market manipulation here in India.
 Did you hear about that?
-&gt;&gt; I didn't.
-&gt;&gt; Okay. So the story is a bit like this.
+
+>> I didn't.
+
+>> Okay. So the story is a bit like this.
 So we have an index called Bank Nifty in
 India and it's a weird index because
 it's got very few stocks. So it's got
@@ -1915,7 +2167,8 @@ advantages but then institutions also
 maybe have some advantages I don't know
 so so so that's yeah that that's what uh
 running on my mind
-&gt;&gt; yeah they uh the institutional
+
+>> yeah they uh the institutional
 advantages would be extreme
 diversification
 they can play in a lot of games at the
@@ -1975,14 +2228,20 @@ we have a joint project to get this
 done. Uh where are we going with it and
 set up a plan to get to where you want
 to be?
-&gt;&gt; Uh it's not just oh let's turn on the
+
+>> Uh it's not just oh let's turn on the
 screen and oh cocoa looks good today.
 Let's go buy cocoa. You know that's
 that's not a plan. That's just making it
 up on the fly. It's
-&gt;&gt; got it. you're going to end up just
+
+>> got it. you're going to end up just
 along the way very frustrated.
-&gt;&gt; So talking about uh you know I'm kind of
+
+--- AI AND AUTOMATION IN TRADING ---
+
+
+>> So talking about uh you know I'm kind of
 shifting gears. So something that you've
 been doing for decades but then now with
 technology and um you know AI it's
@@ -1999,7 +2258,8 @@ people who want to automate their own
 trades and how do you look at it and
 what has been your experience uh in
 terms of automation?
-&gt;&gt; My experience is that uh AI is changing
+
+>> My experience is that uh AI is changing
 the way you code some fairly complex
 things. uh the example we were talking
 about before we came on uh where if I'm
@@ -2059,13 +2319,14 @@ better at describing to AI exactly what
 you want because AI will assume things
 if you don't tell it, you know, like
 people assume. Yes.
-&gt;&gt; Well, if you say something like, how
+
+>> Well, if you say something like, how
 about generic? I'll give you a stupid
 example. You say uh Grock or Claude AI
 or any of these AIs, you say, "Okay, AI,
 uh tell me the best way to produce the
 biggest return possible of trading the
-S&amp;P 500 futures index over the last two
+S&P 500 futures index over the last two
 years. It will analyze the data and it
 will come up with an answer for you. and
 the answer will be an overoptimization
@@ -2082,16 +2343,19 @@ of its knowledge base. And so you have
 to use your brain a little bit with AI.
 I think a lot of people are going to
 misuse it and um they'll learn.
-&gt;&gt; Yeah, that that's that's that's a part
+
+>> Yeah, that that's that's that's a part
 of the game. So So but specifically
 about um you know automation in the
 context of trading to what extent is
 your trading automated especially the
 execution bit not the analysis but the
 execution bit
-&gt;&gt; execution is 100% automated.
+
+>> execution is 100% automated.
 You just switch it on
-&gt;&gt; in
+
+>> in
 uh well it's yeah I just have to bring
 it up and hit a couple buttons and off
 it goes. So I I it automates the pull
@@ -2100,11 +2364,15 @@ prices first and gets them into storage
 and then secondarily then I hit other
 buttons and it executes the runs and I
 hit other buttons and I transmit. So for
+
+--- SHOULD RETAIL TRADERS AUTOMATE? ---
+
 retail traders who want to automate your
 I'm assuming you would suggest it's a
 it's a better way to trade than do it
 manually.
-&gt;&gt; I would say for most people probably yes
+
+>> I would say for most people probably yes
 but there are select people who I don't
 know for example uh let's say you came
 from a currency desk and you did nothing
@@ -2142,12 +2410,18 @@ That's not going to work. You can't pick
 up what I'm doing and translate it to
 him because he's got a different
 situation,
-&gt;&gt; different problem to solve. I
-&gt;&gt; I call it trading is nothing more than
+
+>> different problem to solve. I
+
+>> I call it trading is nothing more than
 solving your own financial problems and
 uh my financial problems are different
 than other people's.
-&gt;&gt; Absolutely. Absolutely. So uh so moving
+
+--- MANAGING STRESS: POTENTIAL STRESSORS ---
+
+
+>> Absolutely. Absolutely. So uh so moving
 on u Tom I had uh a a few couple of
 questions and then we'll close the day.
 So one is you've been uh known as
@@ -2170,7 +2444,8 @@ um you know types of people in the
 context of u being able to deal with the
 stress or whatever anxiety that comes
 with trading.
-&gt;&gt; I I would back up from both examples and
+
+>> I I would back up from both examples and
 say in life there are potential
 stressors.
 So, it could be something like
@@ -2206,8 +2481,10 @@ paying me money to manage his money. He
 has no idea what trading is all about.
 That's why he hired me. And um I will
 patiently answer his questions.
-&gt;&gt; That that's
-&gt;&gt; and then it doesn't become stress
+
+>> That that's
+
+>> and then it doesn't become stress
 anymore. So there's potential stressors
 everywhere and what you said with both
 examples is exactly true. But I think
@@ -2217,24 +2494,37 @@ those potential stressors and just uh be
 able to change your mental uh process uh
 towards those potential stressors and
 they be they no longer become stress.
-&gt;&gt; So Tom, can we say that your key message
+
+--- KNOW THYSELF ---
+
+
+>> So Tom, can we say that your key message
 is know thyself. So know yourself better
 and the answers are all there.
-&gt;&gt; Yeah, that would be a pretty good
+
+>> Yeah, that would be a pretty good
 summary. Stay in the now. Don't predict.
 Just stay in the now and understand
 yourself.
-&gt;&gt; So uh so a couple of more things. Um you
+
+--- WHAT KEEPS YOU GOING AFTER 50 YEARS ---
+
+
+>> So uh so a couple of more things. Um you
 know you you've been you you've been
 watching markets for close to 50 years
 and you've seen these cycles and
 everything. What keeps you going even
 today? Now you're still trading as we
 speak.
-&gt;&gt; So
-&gt;&gt; yes,
-&gt;&gt; what is it?
-&gt;&gt; It is the um the brain tease of finding
+
+>> So
+
+>> yes,
+
+>> what is it?
+
+>> It is the um the brain tease of finding
 the next trading strategy, the next
 market to trade. Uh it's fun to be
 creative. I think human beings,
@@ -2269,15 +2559,23 @@ maybe a future program, research
 project, whatever, and you might end up
 with another strategy in your uh your
 portfolio.
-&gt;&gt; That's the fun stuff.
-&gt;&gt; So but then um we also social beings
+
+>> That's the fun stuff.
+
+--- SOCIAL CONNECTIONS AND TRADING IDEAS ---
+
+
+>> So but then um we also social beings
 Tom. So are there people who you speak
 with about these trading ideas and you
 know uh how how does that work?
-&gt;&gt; Uh I usually get interviewed and I talk
+
+>> Uh I usually get interviewed and I talk
 to millions of people like
-&gt;&gt; at least tens of thousands
-&gt;&gt; u through various podcasts and
+
+>> at least tens of thousands
+
+>> u through various podcasts and
 interviews and um exposts and uh
 Substack articles that I write every now
 and again. Um
@@ -2287,14 +2585,20 @@ I called it enjoy the ride.world instead
 of.com is not only was com taken at the
 time butworld applies to my followers,
 they're all around the world. So
-&gt;&gt; yeah, indeed indeed.
-&gt;&gt; So u you you spoke about options. So it
+
+>> yeah, indeed indeed.
+
+--- OPTIONS AS A PRODUCT ---
+
+
+>> So u you you spoke about options. So it
 it kind of occurred to me. Have you
 traded options? And you said you did a
 bit. Uh what what's your view on options
 as a product? um given your trading
 style,
-&gt;&gt; you know, it it can be very profitable
+
+>> you know, it it can be very profitable
 for somebody who wants to be more
 manually involved. Uh I don't think
 options lend themselves to the way I
@@ -2314,7 +2618,11 @@ and uh collecting it time decay stuff.
 uh easy once a week decision making you
 can do it manually doesn't lend itself
 to automation very much
-&gt;&gt; okay okay got it so yeah I think um
+
+--- CLOSING THOUGHTS ---
+
+
+>> okay okay got it so yeah I think um
 thank you uh Tom that brings us to the
 end of this um longish maybe an hourong
 conversation and um I I I I could I mean
@@ -2331,7 +2639,9 @@ to India at some point we would uh love
 to host you and if I show up at uh in
 that part of the world I would love to
 see you. Oh
-&gt;&gt; you're very welcome.
-&gt;&gt; All right thank you and let's enjoy the
+
+>> you're very welcome.
+
+>> All right thank you and let's enjoy the
 ride.
 Perfect.

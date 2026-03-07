@@ -1,41 +1,95 @@
-Your models are only as good as your
-ability to follow them. Is trend
-following dead? Essentially is the usual
-headlines. One thing I've noticed
-actually over the years, why is it that
-CTAs or trend followers tend to make
-most of the money on long-sided trades?
-I think the strength of trend following
-is the fact that we don't predict
-anything. And I think this is still the
-reason why trend following works. Just
-follow the price. That's kind of our
-philosophy and then the rest really
-takes care of itself.
-Neils, thank you so much for taking time
+================================================================================
+IN THE MONEY — Episode 03
+================================================================================
+
+Guest:    Niels Kaastrup-Larsen
+Title:    CTAs, Trend Following Discipline, and the Art of Not Predicting
+Recorded: Late 2025
+
+ABOUT THE GUEST
+Niels Kaastrup-Larsen is one of the most respected names in the systematic
+trend following space, with over 30 years of experience across leading global
+CTAs. He currently serves as the Managing Director for Europe at Dunn Capital
+Management, one of the industry's oldest and most successful long-term trend
+following programs (50+ years of track record). Niels is also the founder and
+host of Top Traders Unplugged, a go-to podcast in the systematic investing
+space known for candid, in-depth conversations with top managers and macro
+thinkers. His work has made systematic trading and investing accessible to a
+global audience.
+
+TOPICS COVERED
+- 2025 performance: a "tricky but not unusual" year for trend followers
+- The April 2025 tariff shock and its impact on CTAs
+- Historical drawdowns: context from the SocGen Trend Index
+- Trend identification: breakouts vs. moving averages vs. time series momentum
+- "Is trend following dead?" — the perennial question
+- Market universe: from 50-100 to 200-300 markets (and back)
+- Alternative markets: interest rate swaps, mainland China, orange juice
+- Time frames: why medium-to-long-term works best
+- Leverage in CTA portfolios: value at risk vs. notional
+- Exits matter more than entries (and why)
+- Why CTAs make more money on long-sided trades
+- Drawdowns at market vs. portfolio level
+- Evaluating strategies: returns, drawdowns, the serenity ratio
+- Trading psychology: managing client expectations during drawdowns
+- Bitcoin and new assets: how much data do you need?
+- Market efficiency: the adaptive market hypothesis
+- Crowding: amplifier on the way up, pain on the way out
+- Machine learning vs. AI in trend following
+- The AI bubble question
+- BlackRock and Fidelity entering the trend following space
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[COLD OPEN — Key moments from this conversation]
+
+  "Your models are only as good as your"
+  "ability to follow them. Is trend"
+  "following dead? Essentially is the usual"
+  "headlines. One thing I've noticed"
+  "actually over the years, why is it that"
+  "CTAs or trend followers tend to make"
+  "most of the money on long-sided trades?"
+  "I think the strength of trend following"
+  "is the fact that we don't predict"
+  "anything. And I think this is still the"
+  "reason why trend following works. Just"
+  "follow the price. That's kind of our"
+  "philosophy and then the rest really"
+  "takes care of itself."
+
+
+--- INTRODUCTION ---
+
+Niels, thank you so much for taking time
 out to talk to us. For those of you who
-don't know Neils, our guest today is
-Neils Castup Larsson, one of the most
+don't know Niels, our guest today is
+Niels Kaastrup-Larsen, one of the most
 respected names in the systematic trend
 following space with over 30 years of
 experience across leading global CTAs.
 He currently serves as the managing
-director for Europe at Dun Capital,
+director for Europe at Dunn Capital,
 helping guide one of the industry's most
 successful long-term trend following
-program. Neils is also the founder and
+program. Niels is also the founder and
 the host of top traders unplugged. For
 me, it is a go-to resource in the
 systematic investing space, and I love
-Neil's candid in-depth conversations
+Niels' candid in-depth conversations
 with top managers and macroinkers.
-Neils, I must say you have
+Niels, I must say you have
 singlehandedly made the world of
 systematic trading and investing
 accessible to a global audience. Your
 work especially with TTU has been
 phenomenal. Thank you so much. So we are
-right now Neils as we speak uh you know
+right now Niels as we speak uh you know
+
+--- 2025: A TRICKY YEAR FOR TREND FOLLOWING ---
+
 right at the end of 2025.
 How has this year been in terms of trend
 following systematic investing? How do
@@ -164,7 +218,11 @@ better than flat. Some people have done
 somewhat worse than that. So uh a bit of
 more dispersion maybe between the best
 and the worst this year.
-&gt;&gt; Cool. U I'll double click on that. So I
+
+--- THE APRIL 2025 TARIFF SHOCK ---
+
+
+>> Cool. U I'll double click on that. So I
 I remember listening to you sometime in
 April or May and u most of what I
 understood at that point of time from my
@@ -176,7 +234,8 @@ bad was it and what which assets were
 kind of you know causing the harm in in
 the in the larger portfolio at that
 point of time.
-&gt;&gt; Yes. So, April was a difficult month and
+
+>> Yes. So, April was a difficult month and
 this was all triggered by the news of uh
 the new administration in the US
 introducing tariffs. Um and markets
@@ -219,7 +278,7 @@ uh and and you know over a very long
 period of time trend followers has been
 a lot less uh prone to delivering uh
 deep draw downs. From memory, I think
-the sock gen trend index which has been
+the SocGen trend index which has been
 around for 25 years, its worst draw down
 is around 20% from a monthly high to a
 monthly low. And of course, we can
@@ -242,17 +301,22 @@ bad month it's not something where
 people will lose half their money um
 like we see in in some other types of
 investments.
-&gt;&gt; Got it. Thanks. Thanks for setting that
+
+--- HISTORICAL DRAWDOWNS IN CONTEXT ---
+
+
+>> Got it. Thanks. Thanks for setting that
 context. And uh so uh out of um memory
 would you remember when was this 20%
 that you talk about uh which which could
 have been the worst year or the month
 for trend follow I mean the CTA
 industry. When was that?
-&gt;&gt; Yeah. So, so we definitely at the end of
+
+>> Yeah. So, so we definitely at the end of
 April or May of this year reached uh I
 think the second largest draw down for
-the sock gen trend index and that was
+the SocGen trend index and that was
 around 20%. But the worst draw down is
 probably a a few years ago. I'm thinking
 maybe it could have happened um sometime
@@ -278,7 +342,11 @@ year in in in the black, but it won't be
 a it's not going to go down in history
 as a great year for trend following.
 That's for sure.
-&gt;&gt; I get that. I I I wish you come out and
+
+--- TREND IDENTIFICATION: BREAKOUTS VS. MOVING AVERAGES ---
+
+
+>> I get that. I I I wish you come out and
 uh you know your numbers are in black by
 the end of the year. So uh with that I I
 would kind of transition into some very
@@ -316,7 +384,7 @@ breakout system. Um, only in the 1980s
 when the turtles uh became known. Uh, I
 would say is where the price breakout
 really uh took off as a a methodology.
-Although dungeon channels could well
+Although Donchian channels could well
 have been um you know also uh known
 about beforehand uh which is essentially
 what price breakout is. Moving averages
@@ -404,7 +472,7 @@ the reason why trend following should be
 in um in in all portfolios in my opinion
 um because it's one of those truly
 non-correlated return streams. And as as
-you may have heard Ray Delio talk about,
+you may have heard Ray Dalio talk about,
 if you can identify 10 15 uncorrelated
 return streams, that's really how you
 built the the holy grail of investing.
@@ -426,7 +494,11 @@ forth and and I think this has made it
 even more important today uh for people
 to have some exposure uh to trend
 following strategies.
-&gt;&gt; Got it. So um double clicking on a
+
+--- MARKET UNIVERSE: HOW MANY ASSETS? ---
+
+
+>> Got it. So um double clicking on a
 couple of things which you said. So when
 we talk about a very generic uh managed
 futures program, how many assets are we
@@ -436,7 +508,8 @@ uncorrelated but typically in terms of
 numbers how many assets would be there
 on which trend following the strategy is
 run.
-&gt;&gt; So this is where there's been a really
+
+>> So this is where there's been a really
 big change in the last uh few years. So
 I would get I would say that um 10 15
 years ago uh and pretty much up up to
@@ -496,7 +569,7 @@ strategy and it's all done on regulated
 futures exchanges which are also very um
 efficient in terms of costs and so on
 and so forth. So for example, firms like
-Don Capital, we we don't embrace going
+Dunn Capital, we we don't embrace going
 off exchange for example for liquidity
 reasons, for counterparty reasons and so
 on and so forth. But it's not to say
@@ -535,12 +608,17 @@ industry well then you end up having to
 trade the most liquid markets and of
 those that are probably not um you know
 that many as as two or 300 I would say.
-&gt;&gt; Got it. Got it. And uh when you were
+
+--- ALTERNATIVE MARKETS ---
+
+
+>> Got it. Got it. And uh when you were
 speaking about these alternative assets
 which are not exchangeraded
 um what can you give me an example of
 what these um products or assets are?
-&gt;&gt; Some people for example trade um
+
+>> Some people for example trade um
 interest rate swaps. So that's an off
 exchange product and there can be some
 price moves that they can pick up in in
@@ -566,14 +644,20 @@ could probably classify as as being um
 more alternative than than what we
 normally uh trade in a in a CTA
 portfolio.
-&gt;&gt; Got it. Orange juice reminded me um a
+
+>> Got it. Orange juice reminded me um a
 few weeks back I was interviewing Tom
 Bezo and he trades a lot of orange juice
 off late is what he said. So
-&gt;&gt; yeah, well it has a big it it has had a
+
+>> yeah, well it has a big it it has had a
 big move um uh this year. So uh yeah
 good for him.
-&gt;&gt; So moving on to another question. So
+
+--- TIME FRAMES AND TRADING SPEED ---
+
+
+>> So moving on to another question. So
 this is about specifically about the
 time frame of trading. So let's say
 there you have uh 10 or 20 or 100 assets
@@ -598,7 +682,7 @@ in in your future returns. I do think
 that some firms probably do trade uh
 some markets slightly different in terms
 of uh look back period um and
-parameters. Uh but at least at Don we we
+parameters. Uh but at least at Dunn we we
 trade all markets the same. It doesn't
 mean we have just one single time frame.
 Of course we have many many different
@@ -620,7 +704,7 @@ uh involved in doing short-term uh trend
 following. And if you look at the um the
 various indices that you have in our
 industry, there is one for short-term uh
-traders, it's called the Sochen
+traders, it's called the SocGen
 short-term traders index, and it has
 really struggled to make any money since
 it was launched, I think um you know 15
@@ -663,7 +747,8 @@ ensure that they can get enough um
 diversification also in terms of markets
 uh so they don't end up with too much
 concentration um when when they trade.
-&gt;&gt; I got it. So I I I think I I did not
+
+>> I got it. So I I I think I I did not
 articulate my question properly. One of
 the things was so while uh when you say
 something is medium-term or short-term
@@ -697,6 +782,9 @@ is less than two weeks holding but for
 some people short-term is less than one
 day holding. So it's kind of difficult
 to uh to generalize uh about that. But
+
+--- LEVERAGE IN CTA PORTFOLIOS ---
+
 the industry is really be has been built
 on um people using daily data. Uh people
 generally holding uh positions for you
@@ -734,7 +822,8 @@ how much leverage is uh because you're
 trading futures at the end of the day.
 So how do you decide your leverage and
 how do you manage that?
-&gt;&gt; I think this is a little bit different
+
+>> I think this is a little bit different
 from firm to firm uh in terms of how
 they uh apply it. Um and um I mean at at
 our firm we use value at risk as the way
@@ -847,7 +936,8 @@ leverage is is really a two-edged sword.
 It's great when it goes in your favor um
 but it is uh dangerous in if you apply
 it um and it goes against you.
-&gt;&gt; So is there a ratio that you generally
+
+>> So is there a ratio that you generally
 follow or not you in a sense in the
 industry in terms of a multiplier
 leverage multiplier is there a number
@@ -889,7 +979,11 @@ difficult to I would say manage risk
 based on just um margin to equity but
 it's a way to express for sure uh the
 leverage in in in in your strategy.
-&gt;&gt; Got it. Thanks. So uh talking about it u
+
+--- EXITS MATTER MORE THAN ENTRIES ---
+
+
+>> Got it. Thanks. So uh talking about it u
 you know one of the recently I don't
 know if it was recent but I remember uh
 in one of your episodes I don't know I
@@ -980,7 +1074,7 @@ markets turn and because now we are into
 this fear and greed uh and human
 behavior.
 And often when markets are in a really
-uh strong bare market, uh they tend to
+uh strong bear market, uh they tend to
 turn uh more quickly than if they are in
 a very long bull market where it can
 take, you know, weeks or months for
@@ -991,7 +1085,7 @@ think this is actually something to do
 with human behavior. It also has
 something to do with central bank policy
 because if the if the equity markets is
-in a bare market, they'll come in and
+in a bear market, they'll come in and
 support it. We've seen that uh over the
 last 20 years or so. So that obviously
 makes the the V-shaped recovery as a
@@ -1002,7 +1096,11 @@ about uh market movements. Um so so
 that's another thing to be uh to be
 aware of uh in terms of speed of of your
 your uh turns and exits. Yeah.
-&gt;&gt; So since you spoke about this whole
+
+--- POSITIVE DRIFT AND ONE-SIDED TRADING ---
+
+
+>> So since you spoke about this whole
 positive drift in many assets um have
 you or are there trading systems where
 we trade only one side in the sense you
@@ -1017,7 +1115,8 @@ trade only one side and you don't trade
 the signals which are on the other side.
 Does that happen? Is that a part of
 design for some assets?
-&gt;&gt; Yeah. Well, I think it's designed for
+
+>> Yeah. Well, I think it's designed for
 some managers that you could have a long
 bias design. You could make it more hard
 to get short signals. You could
@@ -1058,14 +1157,19 @@ can uh you know forecast the future so
 so uh just follow the price that's kind
 of our philosophy um and then the rest
 really takes care of itself
-&gt;&gt; got Since we were talking about exits,
+
+--- ASYMMETRIC ENTRY AND EXIT RULES ---
+
+
+>> got Since we were talking about exits,
 are there strategies where we enter a a
 trade based on a breakout or a moving
 average crossover, but we exit it with a
 different set of criteria. So is that is
 that a design that you have observed
 somewhere?
-&gt;&gt; Yes, I I would say that that's probably
+
+>> Yes, I I would say that that's probably
 uh something that managers build in that
 there could be other uh things that
 trigger them to to exit. Um it's also
@@ -1084,9 +1188,11 @@ that would be one example where you
 would use different rules to to reduce
 risk. Um and I think that's perfectly
 valid. Uh for sure
-&gt;&gt; and and there would be a period of no
+
+>> and and there would be a period of no
 trade as well then. So so let's say yeah
-&gt;&gt; there could be. So if you at the very
+
+>> there could be. So if you at the very
 extreme only had one system and it was a
 moving average crossover system, you
 would either be long or short all the
@@ -1101,7 +1207,7 @@ think it's unusual for managers to have
 very little exposure but to be totally
 out you would probably have to have then
 a breakout model um with a neutral zone
-which you could have like a Ballinger
+which you could have like a Bollinger
 band model for example that would have a
 neutral zone. On the other hand, then
 you would only have one uh time frame,
@@ -1132,12 +1238,17 @@ following um and and I'm sure uh a lot
 of researchers are trying to uh so to
 speak separate the noise from the true
 signals um so so yes
-&gt;&gt; I'm sure we all want clean signals you
+
+>> I'm sure we all want clean signals you
 know that we go long and then a trend
 happens and then when we go short but
 life's not that easy so okay
-&gt;&gt; unfortunately
+
+>> unfortunately
 Unfortunately not. Yeah. Or so u so
+
+--- DRAWDOWNS: MARKET LEVEL VS. PORTFOLIO LEVEL ---
+
 moving on I have a question about draw
 down. So let's say you have you know as
 an example you have 20 markets that you
@@ -1147,7 +1258,8 @@ you have seen in data we hitting that
 right now as we speak. So what how do we
 take a call on that uh particular market
 on at that point of time
-&gt;&gt; when you make changes to your either to
+
+>> when you make changes to your either to
 the market universe you trade or to the
 models um you you you you have to do
 that with great care right because again
@@ -1287,7 +1399,11 @@ all come to the same conclusion. So
 object objectively speaking trend
 following is a great strategy to have in
 in your portfolio.
-&gt;&gt; Going back to one of the things what I
+
+--- EVALUATING TREND FOLLOWING STRATEGIES ---
+
+
+>> Going back to one of the things what I
 understood um from what you said was
 when it comes to draw downs we don't
 look at it at an individual market level
@@ -1296,7 +1412,8 @@ you are looking at the draw down, it
 will be the portfolio's draw down and
 not a specific assets draw down. Is that
 correct?
-&gt;&gt; Well, you know, certainly managers when
+
+>> Well, you know, certainly managers when
 we report performance, we obviously
 report performance for the whole
 portfolio and that's what you would see
@@ -1338,7 +1455,8 @@ falling in love with any position for us
 it's just a return stream um that we're
 trying to to build for uh for the
 benefit of our clients.
-&gt;&gt; H interesting. So um so I have another
+
+>> H interesting. So um so I have another
 question. So let's say you when you are
 evaluating
 a a strategy a trend following strategy
@@ -1349,9 +1467,10 @@ are holy grail for you in terms of okay
 if these things are in place I'm fine
 with including an asset or I'm fine with
 a given u you know product.
-&gt;&gt; Sure. I mean, first I should obviously
+
+>> Sure. I mean, first I should obviously
 um tell your audience that I'm not one
-of the quants at Dawn. So, it's not me
+of the quants at Dunn. So, it's not me
 actually evaluating these things. We
 have very talented much more talented
 researchers than me. But but clearly
@@ -1423,7 +1542,11 @@ extent but but but it all it's also
 complicated to calculate um and
 therefore uh it may not be something for
 that everyone would would gravitate to.
-&gt;&gt; Got it. So talking about draw downs I
+
+--- TRADING PSYCHOLOGY AND MANAGING CLIENT EXPECTATIONS ---
+
+
+>> Got it. So talking about draw downs I
 have a question about trading
 psychology. I know uh as an individual
 trader trend following is difficult.
@@ -1437,7 +1560,7 @@ is that uh equally gut-wrenching as um
 you know managing your own money? Well,
 first of all, I would say that um at
 least I can I can say that uh from from
-from our own perspective at Dawn. I
+from our own perspective at Dunn. I
 mean, we have a significant amount of
 our own uh money invested alongside our
 clients. So, so you know, always make
@@ -1496,7 +1619,11 @@ uh equity curve and I think that should
 be the bigger takeaway. way um for sure
 but never be complacent in anything that
 would be my my advice.
-&gt;&gt; Absolutely. So I have a related uh but a
+
+--- NEW ASSETS WITH LIMITED HISTORY: BITCOIN ---
+
+
+>> Absolutely. So I have a related uh but a
 slightly different question. Let's say
 if there is an asset which has a very
 limited historical uh data to itself. It
@@ -1542,10 +1669,12 @@ I'm going to trade it because now it's
 liquid uh and I and I can trade I can
 get in and out uh when I want. That that
 could be another argument.
-&gt;&gt; Okay. So, since we were talking about uh
+
+>> Okay. So, since we were talking about uh
 Bitcoin and crypto, is that now a usual
 part of the larger CDA portfolios?
-&gt;&gt; For some, not for all. Uh there are
+
+>> For some, not for all. Uh there are
 still some regulatory restrictions
 depending on what type of uh investment
 vehicles you run. Um so for example in
@@ -1561,7 +1690,11 @@ crypto assets and you know as long as
 they can get the liquidity they need um
 you know it's a perfectly fine acid to
 to trade.
-&gt;&gt; Got it. Um I have another question and
+
+--- MARKET EFFICIENCY: THE ADAPTIVE MARKET HYPOTHESIS ---
+
+
+>> Got it. Um I have another question and
 this one I since I listen to a lot of
 what you discuss every week, we we talk
 about market efficiency and how that
@@ -1584,7 +1717,8 @@ not trending as much as it used to. So
 that that's my question. Have you
 noticed something like that across uh
 assets?
-&gt;&gt; Yeah, I think a lot of people actually
+
+>> Yeah, I think a lot of people actually
 think about it. It's a great question.
 Um I think a lot of people also um that
 gotfield would say well we now have
@@ -1662,13 +1796,17 @@ trend following will continue to work.
 Um you know because it's deep down a lot
 of it is based on on human behavior and
 how we interpret news uh differently.
+
+--- CROWDING: AMPLIFIER OR RISK? ---
+
 Got it. And it's a related question that
 comes to my mind. The idea of crowding
 in a specific asset, does it negatively
 affect trend following in that asset or
 it kind of amplifies the trend? How do
 you look at that?
-&gt;&gt; I think you could argue both. I mean, it
+
+>> I think you could argue both. I mean, it
 it hurts when people uh rush for the
 exit and there's only a small narrow
 time window to get out. That's where
@@ -1687,7 +1825,11 @@ everybody else is running for the door,
 maybe that's where the uh the skill uh
 of the manager uh might might you know
 show up more more clearly.
-&gt;&gt; Got it. So I I think we're coming
+
+--- MACHINE LEARNING AND AI IN TREND FOLLOWING ---
+
+
+>> Got it. So I I think we're coming
 towards you know close of our time
 window but I have a couple of questions
 more. uh we talking about uh have you
@@ -1699,7 +1841,8 @@ trend following or at a fundamental
 level it continues to be as simple as
 you know perhaps what Don Chain started
 with
-&gt;&gt; well I think you you used the right word
+
+>> well I think you you used the right word
 you didn't use AI you used machine
 learning and I think machine learning is
 something we've all been familiar with
@@ -1750,7 +1893,11 @@ transparent rules that we understand and
 that we can uh you know essentially make
 sure are working the way they're
 intended to work.
-&gt;&gt; Got it. Since you brought up AI, I have
+
+--- THE AI BUBBLE QUESTION ---
+
+
+>> Got it. Since you brought up AI, I have
 to ask you what's your individual take
 on all that the buzz around AI and this
 is not a trend following question. This
@@ -1760,7 +1907,8 @@ a bubble or uh you know this is
 something which is really groundbreaking
 and it's going to change the world. How
 do you see it?
-&gt;&gt; I mean there's no doubt that it's
+
+>> I mean there's no doubt that it's
 groundbreaking. Uh and um the question
 is then just you know how do you value
 it? Um and and and you know and and I'm
@@ -1801,7 +1949,11 @@ before. What's a better strategy uh to
 deal with that is that of course is a
 non-predictive strategy. So yeah I'm
 excited.
-&gt;&gt; Absolutely. So I I I think that's a
+
+--- CLOSING THOUGHTS ---
+
+
+>> Absolutely. So I I I think that's a
 great note to end this conversation on
 and u Neil thank you again for your
 time. I'm sure uh and I hope tw you know
@@ -1826,7 +1978,8 @@ positive number on a calendar year, um,
 I think a lot of our clients would
 appreciate that and and that's why it
 does feel better.
-&gt;&gt; It does feel better for sure. But I wish
+
+>> It does feel better for sure. But I wish
 you all the very best and and again,
 thank you for the invitation and thank
 you for the support of Top Traders
@@ -1842,4 +1995,5 @@ uh on our side uh about something we
 truly are passionate about. Um and um so
 those thank you again for for for the
 invitation.
-&gt;&gt; Thank you Neil. Thank you. Thank you.
+
+>> Thank you Neil. Thank you. Thank you.
